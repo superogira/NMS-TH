@@ -1,6 +1,6 @@
 {No scan technology installed}
 {Scanner is critically damaged}
-{Scanner recharging}	{กำลังชาร์จเครื่องสแกน}
+{Scanner recharging}
 {Discovered system in %SYSTEM%}
 {Discovered beacon %BEACON%}
 {Discovered %RELIC%}
