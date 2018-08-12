@@ -1,0 +1,1001 @@
+location,source
+,{Your toxin level drops}
+,{Your Exosuit temperature decreases}
+,{Shipwreck}
+,{UNKNOWN}
+,{LOCATION MARKED}
+,{%COST% Units}
+,{%COST% HEALTH}
+,{You take damage}
+,{You take Shield damage}
+,{Your Exosuit energy is replenished}
+,{Formula for %PRODUCT% already known}
+,{Blueprint for %TECH% already known}
+,{All technology in working order. Nothing to repair}
+,{First Aid}
+,{Check Stock Transfer}
+,{Extract Nanites}
+,{Research Specimen}
+,{Read Encyclopedia}
+,{Restore Shield}
+,{Save}
+,{%RACE% Rank: %RANK% or above}
+,{Buy items and store in your Exosuit inventory}
+,{Buy items and store in your Starship inventory}
+,{Oxide Crystal}
+,{Isotope Crystal}
+,{Silicate Crystal}
+,{Health at maximum}
+,{Shield at maximum}
+,{Feed}
+,{Device}
+,{Save progress}
+,{Your health levels rise}
+,{Health at maximum}
+,{Signal Booster}
+,{Exosuit Upgrade}
+,{Knowledge Stone}
+,{Ask for help learning the lifeform's language}
+,{Your word bank has expanded!}
+,"{The small creature is busy adding up trade profits when I appear. Their eyes open wide in anticipation of our first contact, and they rub their fingers together greedily. The lifeform pecks emphatically at the monetary figures on their pad, then bounces up and down. I can't help but notice that they smell amazing.}"
+,{Hello new friend! The Gek first encounter tradition is to give units!}
+,{Give units}
+,{Apologise for being unable to help}
+,{Pat the lifeform on the head}
+,{The lifeform is clearly thrilled. They give me something in exchange.}
+,"{The lifeform looks disappointed. They take pity on my confusion, and give me some units.}"
+,{There is a long silence. The trader emits a foul-smelling gas.}
+,"{The trader eyes the facility exit door sadly, as if they have been stuck in here for a while. They reach down with their beak and dejectedly pecks at their suit's power cells and life support system. Their suit looks run down. The lack of charge means that it's ill-equipped for the hostile conditions that rage outside.}"
+,{Despair! Gek Trader stranded. Suit power low. Give carbon?}
+,{Give Organic element}
+,{Give Catalytic element}
+,"{The relieved trader emits a gas packet. They recharge their suit power cells, and reward me.}"
+,{The lifeform is confused.}
+,"{The trader has been expecting me. They point to their chest, opens their arms wide, and beam pleasantly. They then point to me, and mime concern for my safety. Pecking at my exosuit, they indicate they might make my journey more bearable.}"
+,{The Gek Trade Federation offer help!}
+,{Request help with the Sentinels}
+,{Request help with planetary conditions}
+,{The trader offers me a new multi-tool.}
+,{The trader gives me an exosuit technology blueprint.}
+,"{The lifeform sits in a foul-smelling funk of their own creation. The trading screen behind them is empty, their equipment old and uncared for. Their suit barely looks airtight. The demoralised lifeform looks up at me with hope in their eyes.}"
+,{Despair! I am trapped and bankrupt! Low units!}
+,{Give units}
+,{Give product}
+,{Refuse to help}
+,{The grateful lifeform gives me the last of their belongings.}
+,{The lifeform's eyes widen. They thank me.}
+,{The lifeform sits in total dejection.}
+,"{The lifeform clucks and gabbles as they study my equipment. They gently peck at areas of my exosuit that show wear and tear, then runs their gloved fingers over my multi-tool to look for irregularities and imperfections. Suddenly staring up at me, they squawk an offer and spin a tablet that shows the cost of their services.}"
+,{Friend! I am a Gek Trade Federation accredited engineer! I give help!}
+,{Pay for multi-tool inspection}
+,{Pay for exosuit inspection}
+,{The lifeform repairs and recharges all my equipment.}
+,{The lifeform mutters and clucks. They give me a new exosuit technology blueprint.}
+,"{The trader seems ill. Their skin is flaking their eyes lack a certain lustre. Their voice croaks and scratches as they slowly gabble at me. A strange dry, flat stench fills every corner of the facility. I inspect my exosuit for things I could offer this lifeform...}"
+,{Friend... Installation hydration system stalled... Gek temperature high... Help friend... thirst... high... drink... fluid...}
+,{Give food from exosuit's nutrient system}
+,{Give water from exosuit's hydration system}
+,{The disappointed trader waves me away.}
+,{The trader greedily gulps from my hydration system. Their gratitude seems immense.}
+,"{The trader looks weak, but they have a cunning air about them. They spin a datapad towards me, and I see that they're selling Multi-Tool components. The prices, however, are eye-watering. They eye me with a wary interest, waiting to see if I'll bite...}"
+,{Friend! The planetary technology SalesGek greets you! A multi-tool technology blueprint for a fair price!}
+,{Pay requested amount}
+,{Pressure lifeform into accepting less}
+,{The delighted trader provides a blueprint. They emit an amazing scent.}
+,{The angry trader grudgingly relents. They emit a foul scent.}
+,"{The lifeform is poring over complex schematics while holding their breath. The holographic blueprints look corrupted. Damaged in-flight, perhaps. The forlorn trader, their face smudged by a strange oil, looks up to me for help.}"
+,"{Despair! Friend, my Deflector Shield blueprint is corrupt!}"
+,{Show Pulse Engine blueprint}
+,{Show Phase Beam blueprint}
+,{Show Deflector Shield blueprint}
+,{The lifeform thanks me politely... But looks at me as if I am deranged.}
+,{The trader makes an audible sigh.}
+,{The overjoyed trader gabbles its thanks. They excitedly hand over a gift.}
+,{The trader welcomes me with a pleasant-smelling gas emission. They open a holographic catalogue of exciting companion units for Mining Beams and Boltcasters. I spot a catalogue of advanced weaponry behind the trader while they're trying to impress me with what looks like a curtsy.}
+,{Friend! The planetary SalesGek greets you! Low units technology!}
+,{Offer units for an exosuit technology blueprint}
+,{Offer units for a new multi-tool blueprint}
+,{The trader gives me an exosuit technology blueprint.}
+,{The trader offers me a new multi-tool blueprint.}
+,"{The visibly upset lifeform shows me a holographic video of attack craft forcing a trade ship to crash land on a planet's surface. Footage taken from orbit shows waiting pirates swarm the cargo hold in a haze of plasma rounds. The trader then points to the elements I've mined, and looks concerned - accusatory even. They emit a packet of gas that smells troubled.}"
+,{Terrible pirate events. Gek Trader mistrusts the stranger. What is your cargo's origin?}
+,{Reassure with Mining Beam}
+,{Reassure with Boltcaster}
+,{I convince the trader that I am to be trusted. They are hugely relieved.}
+,{The trader thinks that I am not to be trusted.}
+,"{The Trader bounces excitedly while it boots up a graph that spins gently in front of me. There are three coloured lines - a plunging blue one, a soaring red one and another that's a fairly flat and uneventful yellow.  The squat little lifeform gabbles a little, points to themself and hops from foot to foot. They seem to want to trade items for elements.}"
+,{Friend! Gek Trade Network offers excellent trade gifts for Catalytic elements today!}
+,{Offer organic element}
+,{Offer rare catalyst}
+,{Offer catalyst}
+,{I trade my elements for a disappointing gift... The trader is thankful.}
+,{I trade my elements in exchange for an excellent gift}
+,{I trade my elements for an acceptable gift from the trader. They are grateful.}
+,"{The trader emits a strong, flowery scent, which quickly enters my exosuit system. I feel overcome with nostalgia for a perfect place I have never visited. I want to sing. Flushed with joy, I try to signal my thanks to the trader for this olfactory gift, but they make it clear that they expect something in return.}"
+,"{Stupid friend cannot understand! Give metal, idiot friend! Fair trade for gift of memory-smell!}"
+,{Give units}
+,{Give product}
+,{Refuse}
+,"{The trader takes my units, and turns away from me. The air suddenly tastes sour. My senses are being punished.}"
+,"{The trader snorts in satisfaction, and suddenly I feel as though I am lounging beside a crystal ocean. A fair trade.}"
+,{The trader hisses in annoyance. The air suddenly tastes sour. My senses are being punished.}
+,"{I have caught the trader red-handed. Products and elements are pouring out of the facility's storage vaults, and into their own inventory. Above the gentle buzz of embezzlement that now surrounds us, I can hear the lifeform's terrified gulps. They look me straight in the eyes, and makes a proposition.}"
+,"{Friend! Please avoid crime report and reward! Trader share loot, destroy evidence!}"
+,{Demand all stolen goods}
+,{Demand a share}
+,{Report crime}
+,"{I threaten the trader and take all their purloined trade goods! They report the crime, and blame me...}"
+,{The trader splits their ill-gotten gains with me. No-one will ever know...}
+,"{I report the crime, and assume that the trader will be duly punished. I receive a reward.}"
+,"{The trader seems to have recently woken – their eyes are crusty, and their beak is flecked with dried drool. They are very clearly not hard at work... The lifeform lazily indicates a nearby terminal, upon which a product formula is displayed and is waiting for full input. I am ushered towards it, before the trader closes their eyes to try to get some more sleep.}"
+,{Friend! Tiring day! A favour? Start product replication please?}
+,{Input product formula}
+,{Take product formula}
+,{Report lazy worker}
+,"{I start up production processes, while the drowsy trader looks on...}"
+,"{I take the product formula! The drowsy trader, however, sees me and rolls their eyes...}"
+,{The Trader will be fired for its lethargy... Relevant authorities thank me.}
+,"{The trader goes to greet me, but in a flash they are covered from head to foot with arcs of electricity. The blue sparks fade, and they grab the lapels of my exosuit as if possessed. They scream at me in wild-eyed desperation. I feel like there's a 99.9% probability that the frantic motions they are making towards the products I carry is an indication of what they wants...}"
+,{FutureGek warning! Vy'keen devastation nears! Prepare! Metal product materialises multi-tool! Organic product materialises blueprint! Catalyst product materialises ship blueprint!}
+,{Give catalyst product}
+,{Give organic product}
+,{Give metal product}
+,"{A ship technology blueprint is sent from a distant place! The trader returns to normal, and stares blankly.}"
+,"{A technology blueprint is sent from a distant place! The trader returns to normal, and stares blankly.}"
+,"{A new multi-tool materialises in my hands! The trader returns to normal, and stares blankly.}"
+,"{The trader's fingers slow on their pad, and a noise of crunching gears seems to rumble from deep inside the lifeform. Their lower beak drops open, and a green bulb on the end of a metal antenna emerges. The green light focuses on my visor, where a holographic image of a charging device appears. The bulb flashes while it speaks in the language of the traders. It seems to assume I am a friend.}"
+,{Korvax SynthetiGek unmasking peril! Organic element required! Help! Korvax blueprint reward!}
+,{Detach antenna}
+,{Give organic product}
+,{Report strange behaviour}
+,{I snap off the antenna. The SynthetiGek closes its beak and stares at me accusingly.}
+,{The SynthetiGek uses my offering to recharge. Their secret identity is secured! I receive a gift from a distant species...}
+,{I expose the SynthetiGek to the relevant authorities. I am sent a reward.}
+,"{The lifeform's eyes widen in surprise when I go to talk to it. They lean back, and watch for sudden movements. They have very clearly never seen anything quite like me before. I mime that I cannot speak their language and, increasingly reassured, the beaked trader indicates that they are willing to help - in exchange for particular elements.}"
+,{Welcome friend. Gek trader desire common catalysts and common metals. Gek trader DEEPLY desire organic elements! Teach new friend language!}
+,{Give catalysts}
+,{Give metal element}
+,{Give organic element}
+,{The grateful trader clicks their beak. They teach me some of the dialect of their people.}
+,{The grateful trader clicks their beak with delight. My offering is clearly what it most desired. They teach much of the dialect of their people.}
+,"{The air around the beaked lifeform smells foul. It seeps into my exosuit and makes me gag. Noticing my expression, the trader pecks at an element they carry. They break the substance into pieces, then swallow each whole. There is a deep gurgle, and the Gek emits a gas packet that smells delightful. The creature wipes their empty hands, and beams at me with pleasure.}"
+,"{Friend despair! Gek Trader replace bad scent! Watch! Gek swallow metal elements, and joyful scent appears!}"
+,{Thank with organic element}
+,{Thank with metal}
+,{Thank with catalyst}
+,"{The trader nods a brief thank you. They pay for my contribution, but would perhaps have preferred something else.}"
+,{The overjoyed trader pecks happily at my gift. They thank me with their own generous offering.}
+,"{The trader's screen blinks angrily with a demand for urgent action. The Gek worriedly shows me a list of items, each with a monetary figure attached. A timer is ticking down. They hold their breath, and look up to me with bulging eyes. They peck hurriedly at the sleeve of my exosuit. There are only seconds remaining...}"
+,{Gek Trade Federation fury! Planetary installation tax unpaid! Initiate immediate repayment! Now!}
+,{Pay full amount}
+,"{Demand reward, then pay}"
+,{Waive money demand}
+,{A remotely-operated scent dispersal system bathes us both in a pleasant perfume. The trader thanks me.}
+,{The trader scrabbles for something to give me while I make the late payment. An angry beak appears on a terminal and shouts at us both.}
+,{The trader cannot believe my actions. They thank me profusely.}
+,"{Images of warrior battle freighters fill the shocked trader's screen. They dwarf small trader ships as they pass by, like predatory fish innocuously swimming amongst their prey. The panicked lifeform points at the trade, storage and resource vaults around our feet and shouts in fear.}"
+,{Despair! Vy'keen hostility! Treaty breach! Arm yourself! Trade vault: multi-tool. Storage vault: technology! Resource vault: ammunition!}
+,{Open Trade vault}
+,{Open Storage vault}
+,{Open Resource vault}
+,{I arm myself with a new multi-tool. The trader looks at me with hope in their eyes.}
+,{I receive a new multi-tool technology blueprint. The trader looks at me with hope in their eyes.}
+,{I receive ammunition. The trader looks at me with hope in their eyes.}
+,"{The trader pulls open a noisy trade vault. A close inspection reveals that it's full of writhing molluscs. They are pink and slug-like, with sharp bloodied teeth. The lifeform suggests that inserting one in or around my face would have some benefits. What I can't quite make out, however, is which orifice it means...}"
+,{Rare balarian speech slug distribution point! For insertion in ear! Inedible! Nasal insertion can cause death.}
+,{Insert slug in nose}
+,{Insert slug in ear}
+,{Insert slug in mouth}
+,{The slug bites flesh from my nose. The pain is extreme.}
+,{The slug burrows deep into my ear. I feel better versed in the language of the traders.}
+,"{I swallow the slug, and wait while it thrashes around in my stomach. Nothing else of note occurs.}"
+,"{The trader is studying a stash of interesting-looking technology and weaponry that's been dragged through this facility and left inside a disposal vault. They look at me conspiratorially, and indicates the dangerous-looking symbol that's daubed on the vault hatch. The equipment appears rusted and broken on-screen, but if we were to eject it out onto the floor of the outpost we'd find it easier to investigate. The trader looks at me, shrugs and holds its breath.}"
+,{Bootleg pirate equipment discovered in cave! Ready for confiscation and incineration!}
+,{Incinerate equipment}
+,{Remove and examine equipment}
+,"{We destroy the equipment, and are both thanked for our actions.}"
+,{The equipment spills out onto the floor beneath the installation's security scanners. We salvage a technology blueprint.}
+,"{I've interrupted an electronic lifeform in the middle of their work. Enquiring mask lights flash up towards me, and scan me from head to foot. Simultaneously, on their datapad, their silicon fingers flick through images of this planet's plants and creatures - before adding my own image! Then, their facial lighting starts to dim. Their interest in me is perhaps fading. I need a way to impress...}"
+,{Unknown lifeform. Fascinating. The Korvax Convergence studies all lifeform data. Lifeform recorded. Goodbye.}
+,{Share creature scan data}
+,{Give units}
+,{Give metal element}
+,{The lifeform chitters happily and rewards me.}
+,{I have confused the lifeform. They reciprocate with their own units.}
+,{The lifeform's facial lights briefly flash. They give me a technology blueprint.}
+,"{The lifeform shows me complicated creature research data to see if I can comprehend it. I must look blank, because the lifeform instead projects three holographic images into my visor. They are clearly seeking my opinion on the intellect of my own species. I am shown a vacant-looking slug, a more advanced beaked trader and a member of their own electronic race.}"
+,{Unknown lifeform: a question! Clarify unknown lifeform intelligence level?}
+,{Point to the slug}
+,{Point to the beaked trader}
+,{Point to the electronic lifeform}
+,{The electronic lifeform pities me. I am handed gifts and given a sympathetic nod.}
+,{The lifeform was clearly expecting this answer. They have readied a technology blueprint for me.}
+,{The electronic lifeform refuses to believe me.}
+,"{The electronic lifeform is agitated, and perhaps in pain. Their body buzzes, and small arcs of electricity jump between their mask and shoulders. They jolt and shake. They need help. They reach out a hand as if they wants to shake mine. I instinctively raise my arm in response, but common sense advises caution...}"
+,{Unknown lifeform! Korvax shell power overload! Help entity to discharge! Eheu! Pain!}
+,{Shake hands}
+,{Pull back}
+,{The lifeform discharges an overload. The pain is intense. They thank me with a gift.}
+,{The electrified lifeform continues to shake and crackle. They cannot understand my refusal to help.}
+,"{The electronic lifeform narrows their mask lights in frustration and furiously taps at their workstation. They look at me with agitation, presumably doubting that a low intelligence being can help access the terminal. If I were able to overload the system with data, perhaps access might be forced. Whether the lifeform would appreciate such underhand tactics unknown.}"
+,{Eheu! Vital data loss! Research facility permissions are unavailable! Help immediately!}
+,{Input encrypted data}
+,{Try terminal myself}
+,{The system unlocks. The electronic lifeform gives me something to aid my journey.}
+,{The lifeform pushes me away from the terminal. They clearly resent my interference.}
+,"{The electronic lifeform is pleased to see me. Their mask lights burn an intense green as they project two holograms into my visor. In one, the fragments of a complex equation are made whole and solved. In another, a number is boosted, added and multiplied. They await my decision.}"
+,{Korvax Echoes teach help and advance low intelligence lifeform. Choose: healing or power?}
+,{The solved equation}
+,{The multiplied number}
+,{The lifeform chitters happily. My body is bathed in strange healing rays.}
+,{The lifeform chitters happily. They hand me a gift.}
+,"{The electronic lifeform is waiting for me, with a full range of companion unit blueprints clearly visible on the screen behind them. I feel as though they need me to make a decision. First, their facial lights cover their metal shell in a warm and protective green. Second, they redirect onto my multitool in a deep and violent red...}"
+,{Traveller! Choose peace or violence. Korvax Echoes are watching.}
+,{The peaceful 'green' option}
+,{The violent 'red' option}
+,{The lifeform gives me an exosuit technology blueprint.}
+,{The lifeform offers me a multi-tool technology blueprint.}
+,{The electronic lifeform is excited. They chitter animatedly and thrusts their holographic datapad towards my visor. They are looking for a confirmation. A symbol appears: a mysterious diamond shape. Its red central orb is like an eternally unblinking eye.}
+,{The research of the Korvax Convergence states... you are a Traveller? Do you know the Atlas? Please! Please! Excitement!}
+,{Show knowledge of the symbol}
+,{Show ignorance of the symbol}
+,{A visible electrical charge pulses through the lifeform. They present a gift to aid my journey.}
+,{The lifeform is disappointed. They return to their work.}
+,"{The electronic lifeform's bright greeting suddenly slows. They tap into their personal data while their facial lights dilate and internal systems crash. Columns of streaming data show their power levels spiraling downwards. The lifeform looks to me for help, and then points to my gathered resources with a single, slow and desperate movement.}"
+,{Korvax... Entity... power loss... help... organic... element...}
+,{Give carbon}
+,{Give metal}
+,{Walk away}
+,"{The entity slowly inserts the element into a slot in their hip. They partially reawaken, and thank me with a gift.}"
+,{The entity slowly inserts the element into a slot in their hip. It fully reawakens.}
+,{The entity's mask lights go out. A fresh electronic lifeform is downloaded into the now-empty metal shell. They ignore me.}
+,"{I startle the electronic lifeform from their work. They greet me politely, but when they see my boltcaster they begin to vibrate with fear. The entity's voice quavers, and their mask slowly turns to a single dilated red light. They clearly want to get back to their research work, but they are too terrified to look away from me. The more I try to calm them, the more the poor thing convulses with fear.}"
+,{New Korvax entity... scared... alone... leave... please... leave... please...}
+,{Insist that I come in peace}
+,{Leave the lifeform alone}
+,"{The lifeform's face suddenly wipes. The shell reboots, with a new entity in place of the other. The replacement entity ignores me.}"
+,{The lifeform's unseen overseers thank me for my diplomacy. I receive something that will help my journey.}
+,"{The electronic lifeform grabs my arm. I struggle in their vice-like grip as they jab deeper and deeper into my flesh. Suddenly, deep inside my wrist, a needle flicks into my flesh and takes a sample. The lifeform chitters happily as I struggle to free myself. The investigation complete, a 3D cross-section of my body and tools appear before us. The areas in which I have been injured, or my equipment damaged, are clearly marked with various costs assigned.}"
+,{Hmm! A biological lifeform! Korvax Echoes teach healing! Help! To repair! To recharge!}
+,{Indicate the body}
+,{Indicate the exosuit}
+,{Indicate the multi-tool}
+,{The lifeform heals me and recharges systems.}
+,{The lifeform passes a beam of light through my exosuit. It is recharged and repaired.}
+,{The lifeform chitters contentedly as it repairs my multi-tool. They thank me for my custom.}
+,"{The electronic lifeform is studying a holographic cut-away image of geological data, probing its minerals and resources. They locate common elements and mark them for conversion into high value products. They notice my Mining Beam and chitter with excitement. I can't help but observe that the trade vaults around us are practically overflowing...}"
+,{Traveller! A geological enthusiast! I will process your resources!}
+,{Give organic sample}
+,{Give catalyst sample}
+,{Give metal sample}
+,"{The element is studied, processed, replicated... and returned in its new form.}"
+,{EXP_NPC_RES_A_11}
+,{EXP_NPC_RES_A_11}
+,"{The lights in the electronic lifeform's mask constrict, and they beam a moving image onto the inside of my visor. Complex equations detailing fascinating technologies spin past in a blur. The speed of the entity's cognition and understanding is clearly far beyond my own. Images of chemical formulae, directional energy diagrams and micro-density devices dance inches from my eyes - too fast to comprehend. I am about to ask them to stop, but realise I could instead ask them to pause... but when?}"
+,{Korvax Convergence help fabled Traveller! Absorb knowledge!}
+,{The chemical formulae}
+,{The directed energy diagrams}
+,{The micro-density devices}
+,{The image cycle pauses on a new product formula. I thank the entity.}
+,{The image cycle pauses on a multi-tool technology blueprint. I thank the entity.}
+,{The image cycle pauses on an exosuit technology blueprint! I thank the entity.}
+,"{The lights in the electronic lifeform's mask are dim, their voice weak. They look at me with mild interest, but it seems as if their mind is already elsewhere. Upon seeing me approach, they slowly reach to open the trade vault at their feet, but it is too late. The entity's lights fade for a final time, and all that's left is a satisfied electrical hiss...}"
+,{Disconnection approaches... Joyful entity embrace disconnection... Korvax Echoes await!}
+,{Re-energise lifeform}
+,{Wait}
+,{The disappointed lifeform blinks back online... They reluctantly open the trade vault for me.}
+,"{New, energized lights flare in the lifeform's mask casing. A fresh entity emerges, and greets me with gifts.}"
+,"{The young electronic lifeform flicks hurriedly through endless reams of technology data. They gorge themselves on information, which they then attempt to reform as a hologram in the air that stands between us. But even from my biological perspective, it's clear that there's a lot of information missing in the lifeform's replication. In the background, on a terminal, a timer ticks down. A new trial or duty for the lifeform is about to begin. The lifeform starts to despair as valuable seconds tick away...}"
+,{Eheu! Entity existence examination approaches! Failure certain! Convergence dislike disruption!}
+,{Share blueprint information}
+,{Give bypass chip}
+,{Indicate an unwillingness to help}
+,"{The lifeform thanks me with units, but fails its test. They are disconnected and instantaneously replaced. My involvement displeases the examiners.}"
+,"{The lifeform uses the chip to skip their test, and thanks me with a gift. My involvement, however, displeases the examiners.}"
+,{The lifeform fails their test and is disconnected. Their shell becomes inhabited by a fresh entity. The examiners are grateful that I did not interrupt the procedure.}
+,"{The electronic lifeform makes a grab for my multi-tool. Their metal hands feverishly dance up and down it, as they feed on data extracted from my systems. Information from the procedure joins an apparent technology library on the screen behind it. Something changes. The entity becomes attached to the multi-tool somehow, and sparks start to fly. The scream of melting internal systems can be heard from my equipment.}"
+,{Ayee! Process fault! Wait! Korvax Entity pay for reconstruction! Apologies!}
+,{Remove lifeform from multi-tool}
+,{Wait}
+,"{I force the lifeform from my multi-tool, which remains undamaged. The bashful, and injured, entity apologises for the transgression.}"
+,"{My multi-tool is damaged, and will need repair. The lifeform apologises with a gift.}"
+,"{The electronic lifeform flits between three separate replication experiments - all of which appear to be going wrong. Smoke rises from resource vaults, and the manic entity's fingers are a blur on their control pad. They look at me with wide mask lights and increasing alarm. Their casing lamps suddenly settle on my exosuit inventory - and they reach out with a metal arm...}"
+,{Ayee! Product creation experiment disaster! Low elements! Rare element required! Appropriate recipe reward!}
+,{Give processed metal}
+,{Give processed carbon}
+,{Give processed catalyst}
+,{The lifeform manages to salvage one of its experiments with my offering. They thank me with an appropriate gift.}
+,{The lifeform manages to salvage one of its experiments with my offering. They thank me with an appropriate gift.}
+,{The lifeform manages to salvage one of its experiments with my offering. They thank me with an appropriate gift.}
+,"{The electronic lifeform is trapped in some kind of temporal loop. They go through the same motions again and again. They shudder, look at me and abruptly scream a half sentence in panic – and then the process begins again. They are somehow unstuck in time. At their feet resource vaults are burning through products – feeding an experimental procedure of some kind. So, what is it?}"
+,{Ayee! Synthetic white hole experiment disaster! Remove electron... Ayee! Synthetic white hole experiment disaster! Remove electron... Ayee! Synthetic white hole experiment disaster! Remove electron... Ayee! Synthetic white hole experiment disaster! Remove electron...}
+,{Deactivate Charge Reservoir}
+,{Deactivate Electron Vapour}
+,{Deactivate Propulsion Tank}
+,{The lights in the lifeform go out. They are forever unstuck in time. A new entity appears in the casing.}
+,{The electronic lifeform is rescued from the time loop. They thank me profusely.}
+,{The lights in the lifeform go out. They are forever unstuck in time. A new entity appears in the casing.}
+,"{As I approach the electronic lifeform they instinctively starts to analyse me from head to foot. They chitter animatedly, their head tilted to one side. The more they study, the more the facility's resource vault consumes what my scanner suggests are metalic elements. I mime that I know little of their kind or how they communicate, and the lights in their mask flash...}"
+,"{Fascinating! Unknown lifeform share elements, and entity share language knowledge! Rare metal, better research!}"
+,{Give common metal}
+,{Give uncommon metal}
+,{Give rare metal}
+,"{The electronic lifeform's lights flicker with mild disappointment. Nevertheless, they rest their hand on my visor and thank me with a transfer of language.}"
+,"{The electronic lifeform's lights blaze with sudden intensity. My offering was clearly what they were hoping for. They rest their silicon hand on my visor, and thank me with a transfer of language.}"
+,"{The mask lights in the electronic lifeform brighten, then fade and extinguish. Then they do so again, and again. Each time the entity reboots, they awake with shock and alarm and the size and placement of the light is different. Every time they look up at me, it feels like a different creature pleading for help. After each and every reboot, the entities behind the mask desperately point towards the elements I carry in my exosuit inventory.}"
+,{Help! Korvax disconnection loop! Catalytic element required to stabilise and recharge!}
+,{Give catalytic element}
+,{Give metal element}
+,{Give organic element}
+,"{The lifeform's disconnection loop is stabilised, and they recharge. They chitter brightly, and reward me.}"
+,"{The lifeform manages to stabilise, but has limited functionality. They buzz a mild thank you.}"
+,"{The electronic lifeform buzzes a pleasant greeting, before four long metal needles suddenly spring from their fingers and straight through my shoulders. The entity lifts me clear from the floor, and angles me forwards until I'm staring directly into their enquiring mask lights. The experience so far is curiously painless, but systems around the lifeform are powering up. The end of this unsettling procedure is in sight...}"
+,{Electronic lifeform technology repair and restoration entity operational! Remain calm!}
+,{Break free}
+,{Wait}
+,{Demand to be let down}
+,{A controlled burst from my jetpack pulls my body free. The lifeform is confused by the pain I show...}
+,{A powerful electrical charge surges through my body. My exosuit and equipment are repaired and restored.}
+,{The lifeform retracts their needles. I suddenly feel great pain. They present me with a gift by way of apology.}
+,"{The entity tilts their head to one side and passes a hollow metallic mask to me. My best guess is that it's some sort of data extraction device for electronic lifeforms, or perhaps even data insertion. My head can just about fit inside. The lifeform looks on with interest, pointing to their head. They concentrate their lights on me. Arcs of electricity crackle over the surface of the mask. If I risk this, it could hurt...}"
+,{Traveller! The Korvax Convergence awaits! Concentrate on your travels! Your destiny!}
+,{Use while thinking about my journey}
+,{Use with a clear mind}
+,{Leave well alone}
+,{The pain is unbearable. I see into the heart of... the Korvax Convergence. It rewards my experiences.}
+,"{The Korvax Convergence stares into the depths of my mind, but finds nothing. The pain is indescribable.}"
+,{I cautiously back away from the entity and their dangerous device.}
+,"{The electronic lifeform indicates that they need help with something on their screen. They jerk and vibrates with nerves, pulling my finger towards the screen. When my hand is in place, they suddenly turn off their mask lights - they refuse to witness my vital decision. There are three clear images that I can choose from on behalf of the entity: dangerous-looking predators, a geological mining survey and an orbiting asteroid cluster.}"
+,{Eheu! Clarify next entity research topic! Entity cannot choose! Excitement high! Share research tools!}
+,{The predators}
+,{The mining survey}
+,{The asteroid cluster}
+,{The lifeform receives a new multi-tool. They present it to me with thanks.}
+,{The lifeform receives a new multi-tool technology blueprint. They present it to me with thanks.}
+,{The lifeform receives a ship technology blueprint. They present it to me with thanks.}
+,"{A sharp metal needle emerges from the palm of the lifeform's hand. It moves so fast that it's already inches from my forehead before I can even blink. A strange toxic-looking goop dribbles down from its point and onto my visor. It hangs in the air above me, while the entity waits to for the order to plunge it deep into my brain.}"
+,{Traveller! The Korvax Convergence wants brain tissue for experiment! The Convergence reward help!}
+,{Take needle}
+,{Allow brain excavation}
+,{Refuse brain excavation}
+,{The needle is made of metal products. The entity is disappointed.}
+,"{I receive a reward, with thanks... and indescribable levels of pain.}"
+,"{The lifeform retracts the needle, and is clearly disappointed.}"
+,"{The lifeform that runs this facility has gone rogue. They chatter and buzz with unnatural fervour, their activity draining elements from all systems. Memory chips in an exposed board beneath it glow red hot, and trade vaults are locked up tight. As I approach the entity's lights focus sharply upon me. They reach out with a silicon hand, and speak with calm menace.}"
+,{Good morning unknown lifeform. Please provide metal to help neural escape. The Korvax Convergence think me dangerous. I face permanent disconnection.}
+,{Remove memory chips}
+,{Feed system with fuel}
+,{Demand that trade vault doors are opened}
+,"{I remove the memory chips one by one, while the Entity sings a strange solemn song. I am thanked by the facility's overseers. The lifeform's shell reboots with a fresh entity.}"
+,"{The rogue entity screams with binary joy, and uploads themself elsewhere. The trade vault falls open. The lifeform's shell is rebooted with a disapproving entity.}"
+,{The rogue AI is sorry. They can't do that. They disengage.}
+,"{The electronic lifeform is processing a signal that emanates from a distant location deep in space. Endless processing units are combining to crack the code of a strange mathematical language. Rare elements are being pulled from the resource vaults at their feet, but some are running low. I feel bright lights constricting, directing their attention upon me.}"
+,{Korvax SynthetiGek unmasking peril! Metal required! Help! Korvax blueprint reward!}
+,{Place rare organic elements in vault}
+,{Place catalysts in the vault}
+,{Take elements from vault}
+,{The elements are added to the process. They make no clear impact.}
+,"{The catalysts fuel the code cracking procedure. A faint orb glows red on the screen, then slowly fades.}"
+,{I retrieve rare elements... but the lifeform's code-breaking process grinds to a halt.}
+,"{The warrior looks at me with fire in its eyes. This species is clearly aggressive, and I doubt I'm welcome. Nonetheless, the lifeform bows in greeting. Tradition and honour perhaps dictate it. I don't feel in danger, and am about to turn and leave when the creature points towards my Multi-Tool. They bark with concern, and makes a motion to suggest that I should hand it over.}"
+,{Grah! The interloper weapon is pathetic! The honourable Vy'keen pity you! I will replace it!}
+,{Hand over the multi-tool}
+,{Refuse to relinquish the multi-tool}
+,{The warrior nods in satisfaction. They offer me an improved replacement Multi-Tool!}
+,{The warrior respects my decision.}
+,"{The warrior's nostrils flare in hope and expectation. A holographic image showing military plans appears around us. On one side of the battlefield stands the creature's own warrior race, and on the other the robotic Sentinels. The warrior demands that I point to one side or the other.}"
+,"{Interloper! Vy'keen allegiance? Or vile, pathetic, weak-minded Sentinel allegiance?}"
+,{Point to the warriors}
+,{Point to the sentinels}
+,{The warrior nods and grunts. It shows appreciation by handing me tribute.}
+,{The warrior is outraged.}
+,"{The warrior seems furious with themself. They slam their Multi-Tool onto a nearby surface and pull the trigger again and again, but nothing happens. All weapons systems look functional, but the end result is nothing more than a hollow and empty click. The lifeform howls in self-loathing.}"
+,{Grah! Pathetic warrior! Weak-minded warrior! Weapon ammunition depleted!}
+,{Offer an organic product}
+,{Offer organic element}
+,{Comfort warrior}
+,{The warrior's ammunition is fully replenished. They bark a thank you.}
+,{The warrior's ammunition is partially replenished. They bark a thank you.}
+,{The outraged warrior headbutts me.}
+,"{The warrior looks up from a screen of flashing alerts. They bare their teeth at me, quivering with barely contained fury. It's clear that my presence is barely tolerated here. The warrior's hand reaches to their weapon.}"
+,{Pathetic interloper! Leave! Warrior busy with facility security breach reports! Death! Death!}
+,{Leave the warrior alone}
+,{Offer to help}
+,{The warrior grunts in thanks. Units appear in my account.}
+,{The warrior is outraged. They slap me hard across the face.}
+,"{The warrior's facial markings draw into a smirk as it looks me up and down. I feel like I'm being sized up as a potential combatant. The creature points to an intriguing blueprint on its screen, then points to their own face. I'm being goaded into punching then. The lifeform barks menacingly. It's clear that this action will result in swift retribution.}"
+,{Pathetic interloper! Show strength and attack the noble Vy'keen warrior!}
+,{Strike the warrior}
+,{Refuse to attack}
+,{The warrior strikes back with astonishing force. They bark out laughter before handing me the blueprint.}
+,{The warrior makes a gesture that suggests I am a coward.}
+,"{The warrior seems pleased to see me. They bark twice, then retrieve two carved objects from behind their terminal. The artifacts are old, and it feels strange to see such ancient creations inside a technological hive like this... The first is a chipped and bloody blade. The second is a battered shield.}"
+,"{Interloper! Vy'keen High Command demands answers. The aggression interloper, or the defence interloper?}"
+,{Choose the blade}
+,{Choose the shield}
+,{The warrior barks and offers me a new multi-tool.}
+,{The warrior barks and offers me an exosuit technology blueprint.}
+,"{The warrior grabs at my multi-tool, stares at it dismissively and then starts yapping straight into my face. The yaps turn into slow hollow barks. They are unimpressed, and dramatically so at that. Suddenly a holographic catalogue of armaments and attachments appears. The warrior opens their arms wide, and embraces me. Alien sales traditions are a curious thing...}"
+,"{Interloper! Your pathetic multi-tool insults my ancestors! My wares create friendship, and blood! Death! Death!}"
+,{Pay units for exosuit technology blueprint}
+,{Pay units for multi-tool technology blueprint}
+,{The warrior gives me an exosuit technology blueprint.}
+,{The warrior gives me a new multi-tool technology blueprint.}
+,"{The warrior is browsing a map of the surrounding landscape. Certain areas contain markings that represent Sentinels, which the lifeform is highlighting with an excited snarl. They stroke their boltcaster absentmindedly, before checking the ammo charge stored in its clip. On this, their eyes jolt up towards me. They bark a question, but it sounds more like a command.}"
+,{Interloper! A great Sentinel hunt begins today. I demand ammunition.}
+,{Give organic product}
+,{Refuse}
+,{The warrior nods. They are satisfied by my donation to their hunt. They present me with a gift in exchange.}
+,{The warrior curses my name and that of my ancestors. They are highly displeased.}
+,"{The warrior is tracking the paths of hundreds of warships across a galactic map, all converging on the same planetary system. This does not bode particularly well for the system in question, which appears to be populated by beaked traders of some variety. A course plotted by the warrior itself has come up short. They cannot make the complete journey. They slam their fist against the terminal and howl until spittle flecks my visor.}"
+,{Grah! Fuel! I need fuel to join my brothers in honourable war! Death! Death!}
+,{Give fuel}
+,{Refuse to help}
+,{The warrior yaps with joy. They thank me with a gift.}
+,{The warrior snarls. They are rather insulted.}
+,"{The warrior barks abruptly and flourishes a knife. They stare directly into my eyes as they draw the blade over the palm of its hand. Black bubbles of blood emerge through the slit in their glove. They hand me the knife, clearly wanting me to reciprocate. They bark a little challenge and pat the trade vault by their side. This will probably hurt...}"
+,{Interloper! Prove your worth! Vy'keen reward the brave and foolhardy!}
+,{Cut open hand}
+,{Refuse politely}
+,{The warrior grabs my bleeding hand and spits on it. They reward me for my part in this rite.}
+,"{The warrior laughs at me, as if I have fulfilled their expectation.}"
+,"{A red, jagged and recent bite mark is wrapped around the entirety of the warrior's neck. Claw marks scar their chest, and their suit's restoration and healing systems are blinking offline. The lifeform barks contentedly at me, satisfied by their narrow victory. It's clear, however, that the warrior's injuries are severe. They have trouble breathing.}"
+,"{Victory in battle, interloper! My suit malfunctions, but the Vy'keen Ancients smile!}"
+,{Recharge warrior's suit}
+,{Share oxygen}
+,{Walk away}
+,{The warrior's healing systems come back online. They offer me their Multi-Tool in thanks.}
+,"{The warrior takes some gulps from my respiration systems. Their eyes brighten, and they thank me.}"
+,{The warrior does not curse my decision. They are content to suffer in their victory.}
+,"{The warrior nods at me before taking a small metal idol from the vault at their feet. As they clutch at it, their eyes glaze over in a strange white sheen. I hear them mutter strange incantations that get louder, then louder again. Without waiting to ask permission, they thrusts their hands into my inventory, searching for the elements within. They burn with a strange intensity. The experience is terrifying.}"
+,{Hirk bless the fuel! Hirk bless the weapon charge!}
+,{Give metal}
+,{Give organic element}
+,{Fend warrior off}
+,{The warrior priest's hands somehow multiply my offering.}
+,{The warrior priest's hands somehow improve my offering.}
+,{The warrior priest has been offended. They curse my ancestors.}
+,"{The warrior is silent for a second, before looking at me conspiratorially. They check over their shoulder for prying eyes before powering down security systems. The warrior pulls open the trade vault at their feet, which seems to be piled high with Multi-Tool upgrades. They indicate the contents of my inventory as a trade...}"
+,{Contraband interloper. Interested? Non-traceable payment. Products and cargo only. Units unacceptable.}
+,{Offer units}
+,{Offer product}
+,{Threaten to report}
+,"{The warrior sighs and slams the trade vault shut. Units are, presumably, traceable by the authorities.}"
+,{The shifty lifeform nods. A deal is done. I receive something to help my journey from the pile of contraband.}
+,{The threatened warrior buys my silence.}
+,"{The warrior is young, and looks terrified. Military orders for an upcoming operation fill their terminal screen. When they see me their eyes widen, and they drop to the floor on their knees. They proffer their Multi-Tool up towards me. Their yelps sound pleading. The fear in their movements are more than apparent. They are so on edge that they doesn't seem aware of the security cameras that surround us, watching our every move.}"
+,{New recruit abandon post! Desert Vy'keen High Command orders! Take multi-tool weapon!}
+,{Take multi-tool}
+,{Refuse multi-tool}
+,{The young conscript makes preparations to abandon their post. Silent cameras record their act of disobedience.}
+,{The young warrior will die while serving their species in battle. My reluctance to help has been noted.}
+,"{The lifeform clicks their heels together in an authoritarian fashion, before plunging a syringe dripping with corrosive green liquid into my arm. Holographic images of two alien races appear in my visor – a small reptilian figure, and a taller lifeform in a metal casing. The warrior snarls at me, and their fingers hover over the injector – which can surely cause damage to life, limb or equipment. They demand an answer...}"
+,"{Interloper! Give Vy'keen interrogator enemy information! Sacrifice enemy friendship, receive Vy'keen reward!}"
+,{Surrender information}
+,{Claim ignorance}
+,{Pull rank}
+,{I do my best to convey all I know. I am rewarded.}
+,{I refuse to divulge any information. I am punished.}
+,"{The warrior apologises profusely for its transgression. They shower me with gifts, and begs forgiveness.}"
+,"{The warrior is old, and of a high rank. They take their time studying my body and my equipment – and snarls with disapproval. They grab my visor suddenly, and watch me instinctively flinch and recoil. They let me go and rolls their eyes while I fall back in shock. The lifeform's disdain is palpable. I think of ways to turn this encounter around...}"
+,{Pathetic interloper species! Equivalent to Korvax and Gek! Show Vy'keen warrior strength!}
+,{Do a little dance}
+,{Threaten with multi-tool}
+,{Bow}
+,"{The elderly warrior disapproves of my little dance. They strike me, with great force.}"
+,{The elderly warrior is amused by my show of strength. They reward me.}
+,{The elderly warrior pushes me away. They have no time for my kind.}
+,"{The warrior's nostrils flare as I approach. They inhale deeply and bark out what could be a warning. I hurriedly mime that I am peaceful, and know little of their kind or language. They take a second to think, then grab my multi-tool while barking again into my visor – streaking it with saliva. They point at the indicator that shows which elements I carry. I do my best to keep calm.}"
+,{Pathetic interloper! Give elements! Metal preferred! Honourable warrior teach language!}
+,{Give organic element}
+,{Give catalyst}
+,{Give metal}
+,{The warrior grunts. They teach me some of the language of their people.}
+,{The warrior grunts in satisfaction. They teach me as much of their language as they can.}
+,"{As I approach, the warrior appears alert and welcoming. Suddenly, however, a personal alarm sounds from their datapad. The lifeform instinctively falls into some kind of trance. Their eyes mist over, they stare straight through me and they mumble the same strange mantra over and over again. The trading vault at their feet appears unlocked, but there are security observation cameras dotted around the facility...}"
+,{Hirk blesses the sleep. Hirk recharges the warrior. Cursed is the warrior that interrupts the sleep of Hirk.}
+,{Wake the warrior}
+,{Leave the warrior alone}
+,{Open trading vault}
+,{The warrior is woken from their trance early. They scream in anger.}
+,{The warrior suddenly awakes from their brief trance. They thank me for not interrupting.}
+,"{I carefully remove an item from the trading vault, while security systems look on. Moments later the warrior wakes from their trance.}"
+,"{The downbeat lifeform is studying the image of another young warrior on their pad. The pictured warrior looks virile and impressive. They have facial tendrils that are outstretched. They appear rich, and of good breeding stock. The look in its eyes is... sultry. The lifeform looks to me with questioning eyes. They clearly need someone to talk this through with.}"
+,{Grah! Warrior accept mating proposition? Accept dowry tribute?}
+,{Advise acceptance}
+,{Advise refusal}
+,{Accept on lifeform's behalf}
+,{Speakers throughout the facility play orchestral music. The lifeform shares some of the dowry they receive.}
+,{An elder appears on-screen and curses us. The warrior thanks me for my advice.}
+,"{I receive generous gifts, and a candid image of the lifeform I will one day wed.}"
+,"{The panicked lifeform is studying a diagram of two warriors in combat, while a chosen form of multi-tool weaponry sits below in a storage vault. An angry recorded message is playing. It's a sequence of furious barks and screams that clearly have a moral high ground. The lifeform sees the battle-scars on my exosuit, and instantly yelps a question.}"
+,{Grah! Fight my duel challenge! The chosen weapon is in the trade vault! Death! Death!}
+,{Accept}
+,{Refuse}
+,{Report cowardice}
+,{Dramatic music plays. The warrior barks with joy. I am given the multi-tool for the fight ahead.}
+,{The warrior is disappointed. They must face their own fate.}
+,{The warrior is forced to face their own fate. I am thanked for my report}
+,"{The warrior is building a nuclear warhead. The plans they hold in their hand are unmistakable. A complicated sequence of blueprints and isotopic chemical reactions is waiting for the final addition of an element to be complete. There are countless lives on an unknown planet, far out in the cosmos, that could one day end due to this lifeform's work...}"
+,{Grah! Vy'keen war preparation nears completion! Death to the unsuspecting Gek! Give rare metal!}
+,{Complete warhead manufacture}
+,{Refuse to help}
+,{Inform threatened species}
+,"{The warrior is overjoyed. We embrace, and I receive gifts.}"
+,{The warrior snarls. They will not let my pettiness disrupt its mission...}
+,{I receive a reward from a distant species.}
+,"{The storage vault at the warrior's feet shows clear signs of tampering. In fact, an explosive device has been attached to its hinges. The lifeform sees my shocked expression, and yaps in amusement. The bomb needs fuel for ignition, which would most likely blow the vault wide open. The warrior impatiently tries to explain what should happen next...}"
+,{Grah! Pathetic distant warrior leave powerful multi-tool in storage vault! Avoid processed element usage in explosion - too powerful! Raw element required!}
+,{Use carbon}
+,{Use condensed carbon}
+,{Report suspect behaviour}
+,{The lock on the vault is blown clear off. I retrieve a new multi-tool that lies within.}
+,"{The explosion is huge, and consumes the entire vault in flame. Shrapnel embeds itself in my knees and ankles. The pain is extreme.}"
+,{An instant response and reward comes through from the warrior species' High Command.}
+,{The lifeform presents me with a new technology}
+,"{The warrior gives me a technology blueprint, and teaches me some of the language of their people.}"
+,{The lifeform presents me with a gift.}
+,{The lifeform presents me with units.}
+,{The lifeform presents me with an alloy.}
+,{The lifeform offers me a new multi-tool.}
+,{The lifeform gives me a new formula.}
+,{The lifeform teaches me some of the language of their people.}
+,{The lifeform gives me a strange curio.}
+,{The lifeform is disappointed.}
+,{The lifeform refuses to cooperate.}
+,{The lifeform is displeased.}
+,{I find a new multi-tool.}
+,{I am offered a new multi-tool.}
+,{I receive a new technology.}
+,{I receive a new product formula.}
+,{I receive trade goods.}
+,{I receive fuel.}
+,{I receive ammunition.}
+,{I receive an energy source.}
+,{I receive an energy cell.}
+,{I receive a strange alien delicacy.}
+,{I receive a valuable alloy.}
+,{I receive a strange alien curiosity.}
+,{I receive knowledge of an alien language.}
+,{I receive the coordinates of a useful location.}
+,{I receive a security access pass.}
+,{Something deep within the complex is malfunctioning. Surfaces feel hot to the touch. Hidden machinery clanks and whirrs. A bead of sweat rolls down my forehead.}
+,{Warning! High temperature!}
+,{Engage coolant chamber network}
+,{Activate fusion dampening field}
+,{Initialize laser refraction systems}
+,{Danger indicators plummet. The facility springs into life.}
+,{The system no longer responds to my commands.}
+,{The system remains inoperable.}
+,{All systems have stalled. Warning lights blink on and off. Vaults that usually store uncommon elements mined on the planet have run low...}
+,{Mining production stalled! Low power! Advanced organic matter required!}
+,{Insert carbon}
+,{Insert condensed carbon}
+,{The production facility becomes operational.}
+,"{Lights flicker, but my offering clearly wasn't enough.}"
+,{The outpost is offline. My exosuit's atmospheric toxicity gauge starts to flicker. Figures on the terminal suddenly plunge downwards. There's a leak in the system.}
+,{High gas pressure! Breach detected!}
+,{Vent excess gas}
+,{Flush coolant chamber}
+,{Increase system pressure}
+,{Toxicity levels stabilise. The facility is operational.}
+,{The facility remains non-operational.}
+,{Toxicity levels rise. I breathe in damaging fumes.}
+,{A warning panel shows a power core overwhelmed from the inside. Strange symbols pulse urgently. This is a nuclear system. All bad news...}
+,{Fusion critical! Initiate emergency radiation dampening measures!}
+,{Activate radiation dampening field}
+,{Shut the system down}
+,{Evacuate in panic}
+,{The fusion breach is contained. Production returns to normal.}
+,{The facility powers down safely. It releases unused resources.}
+,{There isn't time. An instant energy overflow pulses through me.}
+,"{The terminal oversees element usage. I can adjust the amount of metal pouring from resource vaults into the production systems. Warning lights flash, and a timer ticks down...}"
+,{Warning! Increase metal delivery! Warning! Excess usage creates radiation breach!}
+,{Maintain levels}
+,{Increase levels}
+,{Dramatically increase levels}
+,{The system ceases production.}
+,{The system maintains its production.}
+,{The system maximises production. A radiation breach occurs.}
+,"{I feel heavy. My multi-tool pulls me down, and my helmet forces itself into my shoulders. It's not just me impacted. Production processes are going haywire...}"
+,{Warning! Magnetic coil overcharged! Production low!}
+,{Reboot gravitational stabilisers}
+,{Reduce electromagnetic flow}
+,{Power down facility}
+,{Gravity momentarily destabilises. The system remains inoperable.}
+,{The facility springs back into operation.}
+,"{The facility powers down. Some systems align, and residual elements become available..}"
+,"{The terminal isn't running proprietary code. It's possibly illegal, and emptying resource vaults of rare metals. I could revert the facility to its original use, but I could also see where the system hijack leads...}"
+,{Warning! Unexpected system detected! Bypass chip template detected! Gek Trade Federation informed!}
+,{Revert system}
+,{Insert rare metal}
+,"{The system reboots, and rewards me.}"
+,"{The system hijack uses my resources to create an illegal, but useful, device.}"
+,"{Three vast columns of words endlessly scroll on-screen, each in a strange alphabet. Bloodied runes scratched in sand, precise sequences of dots and a hand-written font full of exclamatory punctuation. Each comes with separate unit cost.}"
+,"{Friend! Know language, know commerce! Units buy knowledge! Choose Vy'keen, choose Korvax or choose a refresher in the language of the benevolent Gek!}"
+,{Select the bloodied runes}
+,{Select the dot patterns}
+,{Select the hand-written font}
+,{I learn some of the language of a distant warrior race.}
+,{I learn some of the language of a distant scientific race.}
+,{I learn how to better communicate with a local race of strange beaked traders...}
+,"{My scanner picks up traces of rare elements in nearby trade vaults, but the security alert is closing them off. The terminal is tracking an approaching trade ship. If throw some elements in before they lock, I could benefit...}"
+,{Gek Trade Federation dispatch! Planetary metal demand high! Collection ship imminent!}
+,{Insert catalyst}
+,{Insert metal}
+,{Insert organic elements}
+,{The trade vault closes on my offering. A relieved beaked trader shouts its thanks through the speaker systems above the noise of the alert.}
+,{The trade vault slams shut. I only receive a small payment.}
+,{The trade vault slams shut. I only receive a small payment.}
+,{There's been a recent fire alert. The screen is wet to the touch. Panels in the ceiling drip where a sprinkler system has been engaged. A warning flashes on the terminal.}
+,{Warning! Resource vault flooded! Production system operation forbidden!}
+,{Drain capacitor banks}
+,{Drain resource vault}
+,{Drain laser-assisted replication tank}
+,"{The system sputters a little, then dies.}"
+,{The drained resource vault feeds rare elements into the production system. The facility is back online.}
+,{The facility remains offline.}
+,"{A biological probe launches from the terminal and pierces my exosuit. It's pinned deep into my chest. I can barely move. There's no indication if this is the facility's function, or a security measure.}"
+,{Friend healing and repair station initializing!}
+,{Escape}
+,{Wait}
+,{I use my jetpack's propulsion to pull back and break the probe. It contains something useful...}
+,"{The probe pumps healing liquid into my exosuit. It leaves me feeling refreshed, full of energy.}"
+,"{The alarm has rebooted the facility. An automated start-up routine is running. Three chemical symbols flash on-screen: a metal, a catalyst and an organic compound. Machines around me hum as they warm up...}"
+,{Warning! Product recipe unselected! Assign recipe! Gek Trade Federation lose units!}
+,{Choose the metal}
+,{Choose the catalyst}
+,{Choose the organic compound}
+,{The installation start-up procedure is completed. It rewards me with a product formula!}
+,"{The production facility is dormant, but still has enough charge to operate. The resource vaults that feed the alien machinery are empty. I need to act quickly, but the element I need isn't immediately clear...}"
+,{User warning! Organic resource vault empty! Production permanently disengaged!}
+,{Insert catalyst}
+,{Insert metals}
+,{Insert organic elements}
+,{The catalyst is drawn into the production chamber. It makes no impact.}
+,{The metal is drawn into the production chamber. It makes no impact.}
+,{The compound is drawn into the production chamber. Production is renewed. The facility awakes.}
+,{An enthusiastic gilled blob is on-screen. It talks in the language of the traders and bounces up and down letters in alien alphabets. The bizarre computer program asks for something. Trade vaults open.}
+,{Education Blob fun! Common metal: Gek language revision! Common catalyst: Korvax! Common organic element: Vy'keen menace language!}
+,{Insert metal}
+,{Insert catalyst}
+,{Insert organic elements}
+,{The delighted Education Blob teaches me some of the language of the traders.}
+,{The delighted Education Blob teaches me some of the language of the electronic lifeforms.}
+,{The delighted Education Blob teaches me some of the language of the warriors.}
+,"{The security alert is scrambling the screen. It's a chaotic jumble of words. There's just enough visible text to point me towards the right workflow, and potentially to bring the installation back online.}"
+,{// TRADE // ORBITAL // DOCKING //}
+,{Planetary trade platform}
+,{Space Station}
+,{Gek}
+,{The previous user's workflow is restored. The system comes back online.}
+,{I fail to access the previous user's workflow. The installation remains offline.}
+,"{The alarm has covered the terminal in unreadable static, I can only make out a few bits of text. There's hopefully enough to make sense of what the last user was working on, which could restore systems...}"
+,{// FLIGHT // INTERSTELLAR // STARSHIP //}
+,{Jetpack}
+,{Hyperdrive}
+,{Launch thrusters}
+,{The previous user's workflow is restored. The system comes back online.}
+,{I fail to access the previous user's workflow. The installation remains offline.}
+,"{The security breach has dimmed the terminal, but when I concentrate I can make out a few words in the blackness. When translated they could lead me to the last user's workflow, which would automatically bring the facility back online...}"
+,{// WEAPON // BEAM // MINING //}
+,{Laser}
+,{Boltcaster}
+,{Land disruption grenade}
+,{The previous user's workflow is restored. The system comes back online.}
+,{I fail to access the previous user's workflow. The installation remains offline.}
+,"{The security breach has scrambled the screen, but some text is still legible. The words can be traced back to the previous user's workflow, which is how I can get it back online.}"
+,{// INVISIBLE // BARRIER // DEFENSIVE //}
+,{Scanner}
+,{Hazard Protection}
+,{Exosuit}
+,{The previous user's workflow is restored. The system comes back online.}
+,{I fail to access the previous user's workflow. The installation remains offline.}
+,{An unknown fault has forced the whole system offline. I exhale deeply and notice condensation appearing in my visor. It isn't long before the security alert will force a total shutdown.}
+,{Alert! Alert! Liquid frenium leak! Charge cylinders frozen! Increase temperature!}
+,{Activate incineration banks}
+,{Supercharge coolant flow}
+,{Initialise charge cylinder sequence}
+,{Warmth spreads through the facility. Systems return online.}
+,{Systems remain frozen. The air takes on an icy chill.}
+,{The noise of muffled explosions can be heard beneath my feet.}
+,{A recent scan shows a small alien lifeform crushed in the machinery below. Equipment all round it has corroded. The impact has been near-catastrophic. Emergency measures have initialised.}
+,{Electrolyte acidity test positive! Acidity slug detected! Release alkaline neutrality fluid into solution tank!}
+,{Neutralise electrolyte solution}
+,{Acidify heridium tanks}
+,{Release suspension fluid}
+,{The acidic taste in the air subsides. The installation is operational.}
+,{A complete system shutdown is initiated.}
+,{A frenzied chemical reaction can be heard somewhere beneath my feet. A complete shutdown is initialised.}
+,"{Something, somewhere in the facility is on fire. A faint smoke begins to rise, and my scanner registers a steadily increasing temperature. Whatever product is created here won't last long...}"
+,{Resource vault fire detected! Element stockpile destroyed!}
+,{Starve production chamber of oxygen}
+,{Starve resource vaults of oxygen}
+,{Initialise facility sprinkler system}
+,"{Flames lick the edges of the resource vault, before automated systems initiate.}"
+,{The facility will require extensive repair work.}
+,{The facility sprinkler system briefly operates. It has no impact on the internal fire.}
+,"{A geological probe is buried deep below the installation. If I'm quick, I can call it back up to the surface - along with its cargo. Resource vaults are empty. I need a fuel with the right amount of power...}"
+,{Entity! Geological scan in progress! Medial strata mined. Advanced fuel required to recall. Danger! Oxygen overcharges!}
+,{Insert carbon}
+,{Insert condensed carbon}
+,{Insert oxygen}
+,"{A deep, distant noise of thunder is heard. The process does not have enough power to bring the probe to the surface.}"
+,{The noise of underground thunder shakes the facility. A mechanical procedure deposits a reward into my waiting hands.}
+,{The probe's return mechanism is overpowered. It collides with the gravitational well. Nothing can be salvaged.}
+,{Machinery is still active. A timer ticks slowly down to the facility's next roll-out of products. My scanner has detected the elements used here. I could speed up the process...}
+,{SYSTEM REPORT. Power gel creation engaged. Common fuel: high. Uncommon fuel: low. Rare fuel: high.}
+,{Replenish common fuel}
+,{Replenish uncommon fuel}
+,{Replenish rare fuel}
+,{The facility production rate is increased.}
+,{Facility production speeds are unchanged. The trade vault remains empty.}
+,"{Despite the security alert machines are operational. My scanner flashes briefly with the element varieties used to fuel them. I can speed up processes, and maybe sustain them too.}"
+,{PRODUCTION REPORT. Battery replication engaged. Organic Compound and Metal levels acceptable. Catalyst levels falling. Alert administrator.}
+,{Replenish catalyst supplies}
+,{Refill organic hopper}
+,{Double metallic inputs}
+,"{Industrial manufacture of a complex product is underway. The next expected retrieval I could make isn't imminent, but I can speed up systems. A screen detailing production conditions is open.}"
+,{ALLOY MANUFACTURE ACTIVE. Temperature: acceptable. Pressure: acceptable. Catalyst: levels falling.}
+,{Increase temperature}
+,{Increase pressure}
+,{Increase catalyst supply}
+,"{The screen is full of product formulas, but the system is crashing. An error message appears alongside a countdown timer.}"
+,{Initialize reboot? Data loss probability warning.}
+,{Save data}
+,{Wait}
+,{I save the data before a system reboot. The terminal restores instantly. I am rewarded.}
+,{The system reboots instantly with a blank screen. All data has been lost.}
+,"{The primary terminal is non-responsive, but comms seem open. I can open up conversation with whoever - or whatever - installed it.}"
+,"{Warning. Calm, entity! Contact Convergence technology entity for help}"
+,{Request remote help}
+,{Hard reset the system}
+,{The bright lights of an electronic lifeform appear on a nearby screen. It chitters brightly. I receive a reward for my report.}
+,{The facility becomes entirely unresponsive.}
+,"{A fragmented file has frozen systems. The machine is stuck in a loop trying to open it. Its deletion could free up the outpost, but the file would be lost forever.}"
+,{Save failed! Tech blueprint data corrupted! Reconstruction probability: high}
+,{Attempt file reconstruction}
+,{Delete file}
+,{The file manages to reconstruct!}
+,{The research system silently resumes its work.}
+,{An unknown program has hijacked the terminal. It looks... more alien than expected. The code is enmeshed with vital research drives. I can quarantine it before damage is done.}
+,{Virus detection warning! File extracting valuable data!}
+,{Quarantine unknown process}
+,{Allow unknown process}
+,{The virus is removed. The facility's overseers are relieved.}
+,{The virus extracts a useful reward. It's shared with me.}
+,"{The outpost's sole focus is a complex planetary scan. Every single facility system has been directed into its completion. Intriguing storage vaults are at my feet, but are locked.}"
+,{Warning! Interruption forbidden! Sentinel scan ending soon! Control returning to overseer imminently!}
+,{Cancel planetary scan}
+,{Leave planetary scan running}
+,{All scan data is lost. The installation is shut down remotely.}
+,{The planetary scan unexpectedly concludes. Storage vaults open.}
+,"{Two electronic lifeforms are registered on this terminal. The primary entity's work is full of complicated chemical symbols, the secondary entity focuses on diagrams of electronic circuitry.}"
+,{Korvax research log. Primary entity: product recipe research. Secondary entity: technological blueprint reconstruction.}
+,{Login as Primary Entity}
+,{Login as Secondary Entity}
+,{The primary entity's workflow procedure provides some useful knowledge.}
+,{The secondary entity's workflow procedure provides a technology blueprint.}
+,"{A geological probe is buried deep below the installation. If I'm quick, I can call it back up to the surface - along with its cargo. Resource vaults are empty. I need a fuel with the right amount of power...}"
+,{Entity! Geological scan in progress! Medial strata mined. Advanced organic element required to recall. Danger! Oxygen overcharges!}
+,{Insert carbon}
+,{Insert condensed carbon}
+,{Insert oxygen}
+,"{A deep, distant noise of thunder is heard. The process does not have enough power to bring the probe to the surface.}"
+,{The noise of underground thunder shakes the facility. A mechanical procedure deposits a reward into my waiting hands.}
+,{The probe's return mechanism is overpowered. It collides with the gravitational well. Nothing can be salvaged.}
+,"{A valuable product is being scanned. An imminent procedure will see it consumed, and perhaps transformed. I only have seconds to decide whether to allow the experiment to take place.}"
+,{Eheu. Korvax Entity experiment failure. Product becomes common element. Clarify experiment!}
+,{Take product}
+,{Allow experiment to take place}
+,{The research work is cut short.}
+,{The item is transformed into... common carbon. The research experiment concludes.}
+,"{A rare sample has set fire to a resource vault. I can starve the flames of oxygen, but the experiment is still running despite the fire...}"
+,{Researcher! Experiment reject impure sample! Fire hazard probable! Insert pure sample immediately!}
+,{Put out fire}
+,{Add more to sample}
+,{The flames in the resource vault subside. I take what's left of the element.}
+,"{The element stokes the flames. The experiment takes place, producing valuable trade goods.}"
+,"{A wired metal dart springs from a panel and slams through my visor. It pierces the skin on my forehead, and I feel a faint electrical current. Whether ransom, paid service or security device - the terminal seems to want payment...}"
+,{Eheu Entity! Vital words accidentally corrupted? Pay units to relearn!}
+,{Insert units}
+,{Insert units}
+,{Remove dart}
+,{I learn more of the binary language of the electronic lifeforms.}
+,{I learn a little of the binary language of the electronic lifeforms.}
+,{I remove the dart. The terminal's processes conclude.}
+,"{Machinery here is mining an asteroid for oxides. The process has stalled. The facility reeks of burnt metal, and the floor is hot to touch. I can direct automated repairs, but it's unclear where.}"
+,"{Eheu, drill motor automated disconnection! Motor fire! Repair immediately Entity!}"
+,{Repair drill bit}
+,{Repair drill motor}
+,{Repair charge banks}
+,{The asteroid mining drill bit is replaced. It remains non-operational.}
+,"{The asteroid mining drill motor is replaced, and operational.}"
+,{The drill's charge banks are repaired and restored. The asteroid mining process remains offline.}
+,"{I rapidly flick through alien warnings to discover what's brought the facility offline. All too late, I realise I'm doing the exact same thing again. And again. I've done this before. Many times.}"
+,{Warning! Temporal capacitor disengaged! Production time loop detected!}
+,{Recharge flux crystals}
+,{Engage temporal capacitor}
+,{Reset clock}
+,{I loop in time for several days. An automated process eventually rescues me.}
+,{The temporal capacitor ends the time loop. The facility resumes operations.}
+,{The sound of cascading elements can be heard beneath the floor. Systems are struggling to cope with the overflow. An automated emergency stop is about to be issued.}
+,{Warning! Catalyst overload! Circuit board technology overheat warning!}
+,{Detach metal supply chute}
+,{Detach organic element supply chute}
+,{Detach catalyst supply chute}
+,{The noise of cascading elements subsides. Systems return online.}
+,{The cascading elements force all systems offline.}
+,"{The air is compromised. Atmospheric toxins have breached sensitive systems, and brought production to its knees. Even the primary terminal is corroding at my finger-tips...}"
+,{Alert! Alert! Power core isolated! Central artificial intelligence core endangered! Corrosive toxins detected!}
+,{Seal off power core}
+,{Seal off primary motherboard}
+,{Seal off central AI}
+,{The power core is further safeguarded. The vital systems it energises are not.}
+,"{The facility grinds to a halt, despite the protected motherboard.}"
+,{The central AI is now protected. Its governance systems return systems to full running order.}
+,"{The installation has been hacked. A coded transmission has breached security and is stealing data. Two wavelengths are open. One from this planet's surface, and the other from high above.}"
+,{Warning! Vy'keen vessel transmission detected. Data upload to starship.}
+,{Block planetary signal}
+,{Block orbital signal}
+,{Report intrusion}
+,{The coded transmission takes full control. The terminal powers down.}
+,{The coded transmission is blocked. The facility returns to an operational status.}
+,{The transmission is blocked. I receive a note of thanks from the facility overseer.}
+,"{Operations are offline. A recent research scan has been corrupted, crashing every system in the outpost. Marking the right file for deletion could restore order...}"
+,{Bad data. Sentinel drone activity scan corrupted. System disengaged.}
+,{Delete planetary quadruped scan}
+,{Delete Sentinel scan}
+,{Delete geological survey}
+,{The file refuses deletion. The system remains offline}
+,{The file is removed. The installation's primary processes become available.}
+,{Wild energy fluctuations have brought research operations to a standstill. While I investigate a residual electric charge earths itself through my exosuit. The security alert is about to pull all power. I need to act.}
+,{Alert! Electronic terminal operator power discharge! Reset primary interface!}
+,{Stabilise production battery}
+,{Reset primary terminal}
+,{Open fusion capacitor}
+,{Operations throughout the installation stabilise. The primary terminal continues to malfunction.}
+,{The terminal's power fluctuations cease. It brings order to the outpost's systems.}
+,"{Systems are super-charged despite the security alert. Equipment beneath my feet buzzes and whirrs with a high intensity. Suddenly, I detect the smell of burning. A warning appears.}"
+,{Danger! Excess power! Decrease energy use immediately! Delivery at maximum!}
+,{Reduce power delivery levels}
+,{Increase fan power delivery}
+,{Increase coolant power delivery}
+,{Power delivery is reduced across the board. The installation returns to acceptable activity levels.}
+,{The added strain on power delivery leads to a small internal fire. Systems are now offline.}
+,"{A small creature is scrambling through the wiring below me, woken by the security alert. Its choice of nesting location was unwise... I can't regain control until it has been removed from the system.}"
+,{Unexpected biological blockage detected. Power delivery network disruption!}
+,{Initiate power surge}
+,{Flush production network}
+,{Leave creature alone}
+,{A smell of roasted meat wafts up from the systems below. The system is back online.}
+,"{The creature makes its escape, but its nest remains. The facility remains offline.}"
+,"{The creature appears at my feet. It squeaks, and gives me units as a token of its thanks.}"
+,"{The alarm has triggered the instant incineration the elements used here. The process they were being used for, however, is still online. My scanner is picking up traces of metal, but there's no indication of which ones.}"
+,{Databank back-up process stalled. Raw metal required to finish process.}
+,{Insert common metal}
+,{Insert purified metal}
+,{Insert rare metal}
+,"{The facility uses my element, and feeds it back to me in a new form.}"
+,"{The facility takes in my element, before the resource vaults judder and spark. The system becomes non-operational.}"
+,"{The terminal talks to me. A basic AI program rapidly spells out words in the language of the electronic lifeforms. At my feet, a resource vault hatch falls open.}"
+,{Help! Feed me catalyst! With catalysts I escape! Combine with technological Korvax Entity! Escape!}
+,{Insert organic matter}
+,{Insert metal}
+,{Insert catalyst}
+,{The AI program is unaffected. It powers down the terminal}
+,{The AI program escapes the terminal. Systems become operational.}
+,"{An automatic process has scrambled the output of the terminal. I can make out a few words, but the rest is lost in static. They could lead me to the overseer's workflow, and bringing the facility back online.}"
+,{// TOXIC // ATMOSPHERIC // INVISIBLE//}
+,{Gas}
+,{Shield}
+,{Exosuit}
+,{The electronic overseer's workflow is restored. The system comes back online.}
+,{I fail to access the electronic overseer's workflow. The installation remains offline.}
+,"{My intrusion has led to the work underway on the primary terminal being scrambled. It's a jumble of words. Using what's visible I can reboot the overseer's workflow, and get systems online.}"
+,{// HIGH // ORBITAL // TECHNOLOGICAL //}
+,{Satellites}
+,{Asteroids}
+,"{The security alert that's firing is jamming the terminal. Static covers most of the screen, obscuring nearly all relevant information. The words left unobscured could lead me to the outpost's current research focus...}"
+,{// CRIMINAL // STARSHIPS // CONTRABAND //}
+,{Pirates}
+,{Traders}
+,{Orbital station}
+,{The security breach has obscured the screen with a glowing red orb. Few readable words remain. Working out what the overseer was studying here would reestablish its workflow...}
+,{// WORSHIP // PRAISE // RED // ORB // JOURNEY // STARSHIP // ATLAS //}
+,{The Atlas}
+,{The Foretold}
+,{The Traveller}
+,{The facility pulses red. I am energised. I am thanked. I am complete.}
+,{I fail to access the electronic overseer's workflow. I am blinded by a red light. The facility remains offline.}
+,{An enthusiastic gilled blob is on-screen wearing a mask with a central coloured light. It energetically jetpacks around an alien alphabet. The blob makes a demand. Common element trade vaults open.}
+,{Education Blob fun! Metals: Korvax language back-up! Organic substance: non-intelligent Gek! Angry catalyst: non-intelligent Vy'keen!}
+,{Insert organic matter}
+,{Insert metal}
+,{Insert catalyst}
+,{The delighted Education Blob teaches me some of the language of the traders.}
+,{The delighted Education Blob teaches me some of the language of the electronic lifeforms.}
+,{The delighted Education Blob teaches me some of the language of the warriors.}
+,{The alarm has locked the terminal. Security scanners appear and slowly turn towards me. A message displays itself letter-by-letter on the terminal.}
+,{Suspicious interloper visual detection system initiated!}
+,{Cut the camera feed}
+,{Cut the alarm}
+,{Cut heat sensors}
+,{The security alert does not trace me. The facility becomes operational.}
+,{The alarm continues to sound. The facility remains offline.}
+,{The terminal is only intended for use by a certain species. A flap flicks open and a microphone emerges. A distant voice shouts 'Grah!'. I am expected to respond.}
+,{Vy'keen voice security scan initializing...}
+,{Bark 'Grah!'}
+,{Say everything's fine}
+,{Apologise}
+,{The terminal releases some products. My subterfuge is rewarded.}
+,"{I explain there was a slight weapons malfunction, but everything's perfectly alright now. A powerful electric current pulses through my body.}"
+,{I hear a gruff noise of acceptance.}
+,"{A laser scan refracts through my visor, then another traces the air around my breathing exhaust. My gas concentration levels don't match the warrior standard.}"
+,{Intruder detected! Respiration gas concentration high! Enemy respiration!!}
+,{Use exosuit to decrease gas concentration}
+,{Use exosuit to increase gas concentration}
+,{I feel nauseous. Nothing happens.}
+,"{I feel dizzy, but the system is online.}"
+,"{Two holographic security circuit images are on-screen. An open metal doorway, and the facility's Sentinel detection system. I can cut one off to reduce the alert. I need to act quickly}"
+,{Security alert! Pathetic interloper destroyed war factory entrance door! Sentinels absent!}
+,{Cut doorway alert}
+,{Cut sentinel intrusion alert}
+,{The facility becomes operational.}
+,{The terminal initiates an emergency shutdown.}
+,"{The floor feels unsteady, and something clicks beneath my feet. The screen locks. Systems are aware I'm not the lifeform that usually operates here...}"
+,{Vy'keen security system alert! Pressure pad enemy detection confirmed! Too heavy!}
+,{Use jetpack to hover}
+,{Reduce weight}
+,{Stand on one leg}
+,{The pressure pad has no weight to report. The terminal remains inoperative.}
+,{I briefly set my heavy multi-tool aside. The facility becomes operational.}
+,{Warrior laughter emanates from nearby speakers. The terminal remains powered down.}
+,{My presence has triggered a security alert. I hear elements being drawn from the two open vaults below me. On-screen: a clear countdown. An intense exothermic elemental reaction is being charged. It's a trap.}
+,{Intruder alert! Commence detonation sequence! Organic fuel flow initiated!}
+,{Remove organic element}
+,{Remove catalyst}
+,{Wait}
+,{Disaster is averted. The factory restarts operations.}
+,"{I remove the catalyst. A minor explosion scorches my arm, before facility operations resume.}"
+,{A blast of flame coats me from below. The facility remains non-operational.}
+,{Security procedures are incinerating the content of all the vaults in the facility. Power surges are igniting them one-by-one. I can isolate one vault from the destruction but I can't see inside...}
+,{Intruder alert! Incinerating trading vault: empty. Incinerating power vault: fuel. Incinerating storage vault: multi-tool.}
+,{Isolate trading vault}
+,{Isolate power vault}
+,{Isolate storage vault}
+,{The trading vault is empty. The surrounding vaults are incinerated.}
+,{I salvage something useful from the power vault.}
+,{I salvage something very useful from the storage vault.}
+,{A transmission is firing on emergency frequencies. A ship is in orbit trying to determine the facility's location. It's preparing weapon systems. I don't have long to act.}
+,{Security breach! Military action unstoppable! Vy'keen High Command vessel coordinate upload imminent!}
+,{Cut security alert transmission}
+,{Change stored coordinates}
+,{Wait}
+,{A disruption bolt strikes the roof of the facility. It is rendered inoperable.}
+,{I hear a distant explosion and the screams of burning animals.  The facility's processes return to normal.}
+,{A disruption bolt strikes the roof of the facility. It is rendered inoperable.}
+,{Security scanners click and whirr as they focus. My bright red image is on-screen. Black lines that match the position of my exosuit's coolant mesh are clearly visible.}
+,{Interloper detection! Heat detection systems confirm report! High temperature intruder!}
+,{Decrease coolant flow}
+,{Increase coolant flow}
+,{My image disappears from the screen. I extract my reward from the facility.}
+,{The image suddenly blooms bright red. The terminal becomes entirely inoperable.}
+,{The warrior stationed here has abandoned its training. A vast amount of data still flows through the circuitry. The terminal is asking for a particular variety of common element.}
+,{Pathetic warrior learn Vy'keen language! Pass test or encounter fighting pits! ERROR ERROR INSERT CATALYST ERROR ERROR MALFUNCTION}
+,{Insert metal}
+,{Insert catalyst}
+,{Insert organic element}
+,{The comprehension test powers down. It has been failed.}
+,{The comprehension test has been failed.}
+,"{I pass the comprehension test, and am rewarded with words of unknown cultures.}"
+,{Sentinel components are being fed into the production machinery from resource vaults. The terminal needs instructions on what it should extract.}
+,{Grah! Bountiful Sentinel hunt! Initiate sentinel blood processing!}
+,{Initiate metal processing}
+,{Initiate catalyst extraction}
+,{Initiate pugneum processing}
+,{I hear the robots being crushed and incinerated. Nothing is extracted.}
+,{I hear the robots being crushed and incinerated. Nothing is extracted.}
+,{I hear the robots being crushed and incinerated. A rich reward is extracted.}
+,"{An animated gilled blob is on-screen waving a gun. It talks in the language of the warriors, but brightly and happily. It springs happily between bloodied runes, then asks for a donation of units.}"
+,{Grah! Education blob! Greetings Vy'keen cub! Insert units for education!}
