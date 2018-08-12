@@ -1,0 +1,1001 @@
+location,source
+UI_GUIDE_TITLE,{GUIDE}
+UI_GUIDE_HEADING_SURVIVAL,{Survival Basics}
+UI_GUIDE_HEADING_EXPLORATION,{Navigation & Discovery}
+UI_GUIDE_HEADING_DISCO,{Exploration}
+UI_GUIDE_HEADING_TRADE,{Trade & Standing}
+UI_GUIDE_HEADING_COMBAT,{Combat}
+UI_GUIDE_HEADING_CATALOGUE,{CATALOGUE}
+UI_GUIDE_HEADING_PRODUCT_CATA,{Crafted Products}
+UI_GUIDE_HEADING_SUB_CATA,{Raw Materials}
+UI_GUIDE_HEADING_TECH_CATA,{Technology}
+UI_GUIDE_HEADING_BUILD_CATA,{Building Parts}
+UI_GUIDE_TOPIC_SURVIVAL_BASICS,{Getting Started}
+UI_GUIDE_TOPIC_SURVIVAL_1,{Life Support}
+UI_GUIDE_TOPIC_SURVIVAL_2,{Hazard Protection}
+UI_GUIDE_TOPIC_SURVIVAL_3,{Gathering Resources}
+UI_GUIDE_TOPIC_SURVIVAL_4,{Recharging Systems}
+UI_GUIDE_TOPIC_SURVIVAL_5,{Getting Around}
+UI_GUIDE_TOPIC_SURVIVAL_6,{Base Construction}
+UI_GUIDE_TOPIC_EXPLORATION_1,{Planetary Traversal}
+UI_GUIDE_TOPIC_EXPLORATION_2,{Finding Resources}
+UI_GUIDE_TOPIC_EXPLORATION_3,{Finding Points of Interest}
+UI_GUIDE_TOPIC_EXPLORATION_4,{Making Discoveries}
+UI_GUIDE_TOPIC_EXPLORATION_5,{Flight Navigation}
+UI_GUIDE_TOPIC_EXPLORATION_6,{Vehicles}
+UI_GUIDE_TOPIC_EXPLORATION_7,{Exocraft Races}
+UI_GUIDE_TOPIC_TRADE_1,{Making Money}
+UI_GUIDE_TOPIC_TRADE_2,{Farming}
+UI_GUIDE_TOPIC_TRADE_3,{Interstellar Trade}
+UI_GUIDE_TOPIC_TRADE_4,{Freighters}
+UI_GUIDE_TOPIC_TRADE_5,{The Mission Board}
+UI_GUIDE_TOPIC_TRADE_6,{Crafting}
+UI_GUIDE_TOPIC_TRADE_7,{Factions & Standing}
+UI_GUIDE_TOPIC_COMBAT_1,{Sentinels}
+UI_GUIDE_TOPIC_COMBAT_2,{Weapon Management}
+UI_GUIDE_TOPIC_COMBAT_3,{Defensive Systems}
+UI_GUIDE_TOPIC_COMBAT_4,{Ground Combat}
+UI_GUIDE_TOPIC_COMBAT_5,{Space Combat}
+UI_GUIDE_UNKNOWN,{???}
+UI_GUIDE_BODY_SURVIVAL_BASICS,{<VAL_ON>Hazard Protection<> is vital if you plan to spend time away from your ship. Carry <COMMODITY>Sodium<> or <COMMODITY>Ion Batteries<>. Have a plan to find <VAL_ON>shelter in caves or structures<>. Many hazards are worse at night. Use the <TECHNOLOGY>Scanner<> (<IMG>SCAN<>) to locate resources. Nearby creatures marked with a <FUEL>Red Paw<> are predators and may be dangerous. Use your <TECHNOLOGY>Analysis Visor<> (<IMG>AIM<>) to identify them from afar (zoom with <IMG>ZOOM<>). Sentinels will not intervene if you attack a predator. The <TECHNOLOGY>Analysis Visor<> will also identify points of interest from afar. Use the Visor (<IMG>AIM<>) to locate buildings and supply caches. These locations are often rich in <VAL_ON>resources<> and <VAL_ON>information<>. The <VAL_ON>backpack icon<> in the bottom right shows inventory status. Not everything is immediately useful. Prioritise the materials to maintain your exosuit. Advanced products can always be found again. Acquire vital survival upgrades from <TECHNOLOGY>Technology Merchants<> on space stations and planetary shops.}
+UI_GUIDE_BODY_SURVIVAL_1,"{Your exosuit's <VAL_ON>life support<> system must be kept powered to avoid user damage. Life support systems allow you to move around the planet. <VAL_ON>Sprinting<> (<IMG>RUN<>) and using the <VAL_ON>Jetpack<> (<IMG>JUMP<>) will drain life support power. Life support systems are recharged with <FUEL>Oxygen<>, <FUEL>Oxygen Capsules<> or <FUEL>Life Support Gel<>. <FUEL>Oxygen<> can be harvested from plants on every planet, and may be detected in other flora using the <TECHNOLOGY>Analysis Visor<>. <FUEL>Oxygen Capsules<> can be crafted from <FUEL>Carbon<> and <FUEL>Oxygen<> and offer the most efficient way to carry life support power. When Oxygen is in short supply, <FUEL>Life Support Gel<> can be made in an emergency from <TECHNOLOGY>Di-hydrogen<>. Pressing <IMG>SCAN<> will activate the <VAL_ON>Scanner<>, locating nearby planetary <FUEL>Oxygen<>. Systems can be recharged from the exosuit inventory, or via the <VAL_ON>Quick Menu<> using <IMG>QUICK_MENU<>. <VAL_ON>WARNING:<> Life support does not protect the user from hazardous environments.}"
+UI_GUIDE_BODY_SURVIVAL_2,"{Your exosuit will automatically deploy <TECHNOLOGY>Hazard Protection<> when required. Hazard protection prevents <VAL_ON>critical damage<> from radiation, planetary toxins, and extreme temperatures. Hazard protection must be kept <COMMODITY>charged<> to remain effective. Power drains while exposed to the atmosphere. Protection will <VAL_ON>recharge automatically<> when the user is in a building, starship, or cave. Basic suit protection may be extended with <TECHNOLOGY>technology upgrades<>. Away from shelter, hazard protection systems are recharged with <COMMODITY>Sodium<> or various <COMMODITY>Ion Batteries<>. <COMMODITY>Sodium<> can be harvested from planetary flora and is found on <VAL_ON>all worlds<>. Pressing <IMG>SCAN<> will activate the <VAL_ON>Scanner<>, locating nearby planetary <COMMODITY>Sodium<>. <COMMODITY>Ion Batteries<> can be crafted from <TECHNOLOGY>Cobalt<> and <EARTH>Ferrite<>. Hazard systems can be <VAL_ON>recharged<> from the exosuit inventory, or via the <VAL_ON>Quick Menu<> using <IMG>QUICK_MENU<>. Acquire vital survival upgrades from <TECHNOLOGY>Technology Merchants<> on space stations and planetary shops.}"
+UI_GUIDE_BODY_SURVIVAL_3,"{Locate nearby resources with the <TECHNOLOGY>Scanner<> (<IMG>SCAN<>). The key survival resources of <FUEL>Oxygen<>, <COMMODITY>Sodium<> and <TECHNOLOGY>Di-hydrogen<> are found on every planet. Most resources are harvested with your <VAL_ON>Mining Beam<>. Press <IMG>CYCLEWEAPON<> to cycle Multi-Tool mode, then <IMG>ATTACK<> to fire the laser. The Mining Beam requires <FUEL>organic elements<> for power. In the event of a fuel emergency, flora can be harvested for <FUEL>Carbon<> using <IMG>MELEE<>. Use the <TECHNOLOGY>Analysis Visor<> (<IMG>AIM<>) to search for <VAL_ON>large mineral deposits<>, such as <STELLAR>Copper<>. These deposits can be refined into <STELLAR>Chromatic Metal<>, vital to many technologies. Upgrade the <TECHNOLOGY>Analysis Visor<> at <TECHNOLOGY>technology merchants<> allows it to reveal additional information, yielding <COMMODITY>extra resources<> when harvesting. Some resources require an <TECHNOLOGY>Advanced Mining Laser<> or <TECHNOLOGY>Haz-Mat Gauntlets<>. Learn these technologies from technology merchants on <TECHNOLOGY>space stations<> or <TECHNOLOGY>planetary shops<>. <VAL_ON>WARNING:<> Sentinel forces will respond to all planetary harvesting. Avoid harvesting while being observed.}"
+UI_GUIDE_BODY_SURVIVAL_4,"{Multi-Tool, technology and survival systems consume power on use. Elements can be harvested directly, or found in shops and item caches in the form of <FUEL>Oxygen Capsules<> or <COMMODITY>Ion Batteries<>. <VAL_ON>Refined elements<> (eg <FUEL>Condensed Carbon<>) not only take up less space, but also provide greater charge to basic systems than common elements (eg <FUEL>Carbon<>). Advanced systems may require rarer or more refined elements to charge. Some buildings and components need to be <VAL_ON>repaired<> as well as fuelled. This may require more exotic resources. Systems can be recharged from the <VAL_ON>inventory<> (<IMG>INVENTORY<>) or via the <VAL_ON>quick menu<> (<IMG>QUICK_MENU<>).}"
+UI_GUIDE_BODY_SURVIVAL_5,"{See <VAL_ON>Guide // Navigation & Discovery<> for more specific information on navigating on foot or in vehicles. Your compass is located at the top of the HUD. It will highlight nearby <VAL_ON>points of interest<> and <TECHNOLOGY>mission objectives<>. The <TECHNOLOGY>Analysis Visor<> (<IMG>AIM<>) detects points of interest from afar. Use the Visor to pin selected objects for easy navigation. The <TECHNOLOGY>Signal Booster<> can be constructed to search for nearby points of interest, as well as deciphering any <VAL_ON>navigational data<> you discover. Search buildings for additional navigation data. Use the Quick Menu (<IMG>QUICK_MENU<>) to <VAL_ON>summon your ship<> to your location. The starship requires fuel in the <VAL_ON>Launch Thrusters<> to take off. Assemble <COMMODITY>Launch Fuel<> from <TECHNOLOGY>Di-hydrogen<>, found as blue crystals. Use your <VAL_ON>starship<> to cover large distances and fly between planets. To fly to other star systems, use the <VAL_ON>Galaxy Map<> (<IMG>QUICK_MENU<>). Users with a <VAL_ON>planetary base<> can hire an <VAL_ON>Exocraft Technician<>. This will allow the construction and deployment of advanced <TECHNOLOGY>planetary vehicles<>.}"
+UI_GUIDE_BODY_SURVIVAL_6,"{Any site can be claimed for construction using the <TECHNOLOGY>Base Computer<>. Multiple sites can be claimed across many or one world. Expand your base with the <VAL_ON>Build Menu<> (<IMG>BUILD_MENU<>). New base parts require resources to build. <VAL_ON>Dismantling structures<> (<IMG>BUILD_DELETE<>) within your base refunds the resources. Most structures can only be built in the <VAL_ON>vicinity of your base<>. Some, such as <TECHNOLOGY>Signal Boosters<>, can be built anywhere. Find <TECHNOLOGY>additional base parts<> in <TECHNOLOGY>Buried Technology Modules<>. Use the Analysis Visor (<IMG>AIM<>) and the <TECHNOLOGY>Terrain Manipulator<> to find buried parts. <VAL_ON>Specialist Terminals<> can be built in your base. <SPECIAL>Workers<> can be recruited from space stations to operate the terminal. They offer missions to research <TECHNOLOGY>advanced base parts and equipment<>. Whilst onboard space station, locate a <VAL_ON>Terminus Teleporter<> for teleportation to and from your base. The Terminus is on the left side of the space station, <VAL_ON>near the Mission Agent<>.}"
+UI_GUIDE_BODY_EXPLORATION_1,"{In <VAL_ON>hazardous conditions<>, use caves and buildings to shelter and recharge your hazard protection. Use a Multi-Tool <TECHNOLOGY>Terrain Manipulator<> to create your own shelter. Use the <TECHNOLOGY>Analysis Visor<> (<IMG>AIM<>) to detect and avoid aggressive creatures from afar. Your compass is at the top of the HUD. It shows the position of <VAL_ON>points of interest<> and <TECHNOLOGY>mission objectives<>. The Analysis Visor detects points of interest from further afield, but restricts movement. The <TECHNOLOGY>Signal Booster<> can be constructed to search for nearby buildings, as well as deciphering any <VAL_ON>navigational data<> you discover. <VAL_ON>Sprinting<> (<IMG>RUN<>) will allow you to travel faster for a short time, but will also <VAL_ON>drain your life support<> faster. The <TECHNOLOGY>Jetpack<> (<IMG>JUMP<>) can also be used to cover difficult terrain. The Jetpack recharges automatically while on the ground. The Jetpack can be used to <VAL_ON>scale cliffs<> even when uncharged. <VAL_ON>WARNING:<> Your jetpack can only be used in short bursts. Falling from great heights will cause damage. Save jetpack fuel to soften the impact.}"
+UI_GUIDE_BODY_EXPLORATION_3,"{Your <TECHNOLOGY>compass<> is located at the top of the HUD. It will highlight nearby <VAL_ON>points of interest<> and <TECHNOLOGY>mission objectives<>. Use the <TECHNOLOGY>Analysis Visor<> to identify and pinpoint planetary objects. Identified points of interest can be pinned to the Exosuit HUD with <IMG>TECHMENU<> for ease of navigation. Learn how to make <TECHNOLOGY>Beacons<> from the <VAL_ON>Base Scientist<>. Beacons can be placed anywhere using <IMG>BUILD_MENU<> and will be marked on your compass. The <TECHNOLOGY>Signal Booster<> can be constructed to search for nearby buildings, as well as deciphering any <VAL_ON>navigational data<> you discover. Search buildings for additional navigation data. Some points of interest, like your <VAL_ON>ship<> and <VAL_ON>base<>, will always be tracked. In space or atmospheric flight, follow the <COMMODITY>trails<> left by other ships to locate planetary <VAL_ON>trading posts<>.}"
+UI_GUIDE_BODY_EXPLORATION_4,"{Scan animals, plants and minerals with the <TECHNOLOGY>Analysis Visor<> (<IMG>AIM<>). <VAL_ON>Units<> are rewarded for <VAL_ON>each unique scan<>. Every discovery is logged on the <VAL_ON>Discoveries Page<> (<IMG>OPTIONS<>). Systems and planets are automatically discovered when visited. Visit the Discoveries Page to <COMMODITY>rename or upload<> your discoveries and <VAL_ON>earn additional units<>. Discovering <VAL_ON>all animal life<> on a planet rewards a <VAL_ON>large number of units<>. Scanning plants and minerals with the <TECHNOLOGY>Analysis Visor<> (<IMG>AIM<>) reveals additional information and may yield extra resources when harvesting. <SPECIAL>Rare and / or large creatures<> are worth more when discovered than common or small creatures. <VAL_ON>Upgrades<> can be installed in your <TECHNOLOGY>Multi-Tool<> to <VAL_ON>increase the reward<> from scanning creatures or plants.}"
+UI_GUIDE_BODY_EXPLORATION_5,"{Press and hold <IMG>THRUST<> to <VAL_ON>propel<> your ship. Use <IMG>BREAK<> to <VAL_ON>brake<>. Hold <IMG>BOOST<> to <RED>boost<>. Normal flight does not require fuel. You will travel much faster when outside of a planet's atmosphere. In space, use the <TECHNOLOGY>Pulse Engine<> (<IMG>ROLLLEFT<> & <IMG>ROLLRIGHT<>) to travel faster. The Pulse Engine requires <EXOTIC>Tritium<> to charge. Find Tritium by <VAL_ON>destroying asteroids<> in space. The Pulse Engine cannot be used near space stations. <SPECIAL>Pirates<> may temporarily disable the Pulse Engine during an attack. To escape, survive until it comes back online. The ship's HUD will alert you when the Pulse Engine is offline. Use the <TECHNOLOGY>Hyperdrive<> to travel to a new star system. Craft <FUEL>Warp Cells<> using <COMMODITY>Antimatter Housing<> and <FUEL>Antimatter<> to power the hyperdrive. To travel to a new system, open your <VAL_ON>Galaxy Map<> (<IMG>QUICK_MENU<>). Select a system and use <IMG>GALAXYWARP<> to engage the hyperdrive. Star systems are <VAL_ON>colour graded<>: Yellow, Red, Green and Blue. Non-yellow systems require <VAL_ON>upgraded hyperdrive technology<> to visit.}"
+UI_GUIDE_BODY_EXPLORATION_6,"{Unlock Exocraft by building an <TECHNOLOGY>Exocraft Terminal<> in your base and hiring a Vy’keen Technician. To summon an Exocraft, build an <TECHNOLOGY>Exocraft Geobay<>. Geobays can be built anywhere and are not restricted to your home planet. There are three Exocraft: the fast, lightweight <VAL_ON>Nomad<>; the all-round <VAL_ON>Roamer<>; and the slow but mighty <VAL_ON>Colossus<>. To change the active exocraft, visit the appropriate Geobay. When driving an Exocraft, press <IMG>EXOBOOST<> for a short <VAL_ON>speed boost<>. Use <IMG>EXOJUMP<> to <VAL_ON>jump<>. When driving an Exocraft, use <IMG>QUICK_MENU<> to access a portable <TECHNOLOGY>Signal Booster<> and scan for points of interest. Fire your weapon or Mining Beam using <IMG>ATTACK<>. Cycle weapon/mining attachments using <IMG>CYCLEWEAPON<>. As with your Exosuit and Starship, Exocraft can be <TECHNOLOGY>upgraded<> for improved performance. Install technology upgrades in their <VAL_ON>Inventories<> (<IMG>INVENTORY<>).}"
+UI_GUIDE_BODY_EXPLORATION_7,"{Test the performance of the Exocraft, and your skill as a pilot, by creating <TRADEABLE>Race Tracks<>. Build a <TECHNOLOGY>Race Initiator<> at your base. Interact with the Initiator to begin the process of designing your track. Drive your Exocraft along the desired route and drop checkpoint markers (<IMG>CHECKPOINT_DROP<>) to create a race circuit. Return to the <TECHNOLOGY>Race Initiator<> to complete your design. Use the initiator to test and adjust your track, or to set a fastest lap. Players visiting your base will be able to race on your track.}"
+UI_GUIDE_BODY_TRADE_1,"{Sell items for <COMMODITY>units<> (<IMG>UNITS<>) on the Galactic Trade Network. Find <COMMODITY>Trade Terminals<> in <VAL_ON>Space Stations, Outposts<> and <VAL_ON>Shops<>. Mine <STELLAR>Precious Metals<> from <VAL_ON>asteroids<> in space, or use the <TECHNOLOGY>Analysis Visor<> to locate valuable <STELLAR>resource deposits<> on planets. <STELLAR>Resource deposits<> are worth considerably more on planets with <FUEL>extreme weather<>. The <SPECIAL>Mission Board<> on Space Stations is a good source of income. Visit the Mission Board to find available jobs. See the <VAL_ON>Mission Board<> entry for more details. Install an <TECHNOLOGY>Economy Scanner<> in your starship to gain access to economic data on the Galaxy Map, then plan <COMMODITY>trade routes<> to maximise profit. Find <VAL_ON>complementary economy types<> for the perfect trade route. <TRADEABLE>Farming<> can be highly lucrative. Find a good balance of crops and use them to craft new items. <COMMODITY>Combining crafted items<> into more advanced devices will yield <COMMODITY>even greater profits<>.}"
+UI_GUIDE_BODY_TRADE_2,"{<TRADEABLE>Farming<> can be highly lucrative. Find a good balance of crops and use them to craft new items. <VAL_ON>Combining crafted items<> into more advanced devices will yield <VAL_ON>even greater profits<>. Build an <TECHNOLOGY>Agricultural Terminal<> and hire a <TRADEABLE>Farmer<> to research new plant types. Plants can be grown <VAL_ON>outside<> if the weather matches their <TRADEABLE>natural habitat<>. Otherwise, construct a <TECHNOLOGY>Hydroponics Tray<> to nurture the plant. Large-scale farms may benefit from the decreased maintenance requirements of <TECHNOLOGY>Large Hydroponics Trays<>. Plants can be harvested once fully grown. Some plants require <TECHNOLOGY>Haz-Mat Gauntlets<>, which can be acquired from a Armourer employed at a <TECHNOLOGY>Weapons Terminal<>. Each plant species has their own <VAL_ON>yields<> and <VAL_ON>growth times<>. Find a balance of crops to maximise overall profits.}"
+UI_GUIDE_BODY_TRADE_3,"{Items can be sold for <VAL_ON>units<> (<IMG>UNITS<>) on the <VAL_ON>Galactic Trade Network<>. Find Trade Terminals in Space Stations and shops. Players with bases can construct a Trade Terminal of their own with help from the <VAL_ON>Construction Overseer<>. Resources command <VAL_ON>different prices<> in <VAL_ON>different systems<>. Install an <TECHNOLOGY>Economy Scanner<> in your starship to gain access to economic data on the <VAL_ON>Galaxy Map<>. Trade with individual pilots at Space Stations or Trade Outposts, or hail them on the <TECHNOLOGY>Starship Communicator<> (<IMG>QUICK_MENU<>). Plan trade routes to maximise profit. Find <VAL_ON>complementary economy types<> for the perfect trade route. Most goods are influenced by the economy of a system (for example, minerals are cheaper in <VAL_ON>Mining<> economies and more expensive in <VAL_ON>Industrial<> economies). Study the details of <COMMODITY>Trade Goods<> to learn where to sell them for the most profit. The <COMMODITY>greatest profit<> for a trader lies in transporting specific <SPECIAL>trade goods<>. These receive the largest economy-based discounts and bonuses. The <VAL_ON>wealth<> of a system influences how many goods they have available to sell. High wealth systems are also more likely to have high quality starships.}"
+UI_GUIDE_BODY_TRADE_4,"{To buy a Freighter, board it and speak to the <VAL_ON>Captain<>. Saving a Freighter from <SPECIAL>Pirates<> will make it cheaper. When on a planet, summon your freighter to your current system with the <VAL_ON>Quick Menu<> (<IMG>QUICK_MENU<>). Players with freighters may own up to <VAL_ON>six starships<>. Purchase ships as they fly into the freighter's docking bay to store them onboard. The freighter offers advanced <TECHNOLOGY>warp capability<>. Use the <VAL_ON>map<> on the bridge to access the <VAL_ON>Galaxy Map<>. Freighters offer <VAL_ON>large inventories<>. Slots on freighters can store larger stacks than any other inventory type. <VAL_ON>Transfer items<> to your freighter from your inventory using <IMG>TRANSFER<>. To retrieve stored objects, speak to the Captain. Larger, more expensive freighters offer the largest inventories. Freighters allow <SPECIAL>onboard construction<>. Place base building parts in the designated construction area to make a portable base. Place <TECHNOLOGY>Storage Containers<> for extra inventory space.}"
+UI_GUIDE_BODY_TRADE_5,"{The <VAL_ON>Mission Board<> is found in every <COMMODITY>Space Station<>. Always check in at the mission board in each station to see what jobs are available. Jobs reward units, nanites, pieces of technology and more. The Mission Board is found near the <VAL_ON>Teleport Terminus<> on the left-hand side of the station. Once complete, missions can be handed in at any station. Multiple missions can be active at once. View them in the Log (<IMG>OPTIONS<>). Missions reward <VAL_ON>Standing<> with their faction. They are a good way to improve your relationship with the system's dominant lifeforms, or one of the three guilds: the <VAL_ON>Merchants Guild<>, the <VAL_ON>Explorers Guild<> and the <VAL_ON>Mercenaries Guild<>. Higher standing with the Guilds grants access to higher level missions with improved rewards. Visit the <SPECIAL>Guild Envoy<> aboard the space station for access to rewards.}"
+UI_GUIDE_BODY_TRADE_6,"{Crafting <VAL_ON>advanced products<> is a great way to earn money. Mine metals from resource deposits found using <TECHNOLOGY>Analysis Visor<> (<IMG>AIM<>). Mine using the <TECHNOLOGY>Terrain Manipulator<>, or use an <TECHNOLOGY>Automated Mining Unit<>, which will mine over time without exhausting the deposit. <VAL_ON>Gases<> are harvested using an <TECHNOLOGY>Atmosphere Harvester<>, which generates gases based on the biome of the planet. Combining metals generates <SPECIAL>Alloys<>. Combining gases creates <TECHNOLOGY>Compounds<>. Combining these with each other or with <TRADEABLE>Agricultural Products<> from <TRADEABLE>farming<> allows the creation of even more <VAL_ON>valuable items<>. The most valuable items require resources from <VAL_ON>multiple worlds<>. Find systems with the right combination of materials for the optimum crafting setup. Acquire new product blueprints by hiring a <TECHNOLOGY>Scientist<> at your base, or by visiting planetary <VAL_ON>Factories<> and <VAL_ON>Harvesters<>.}"
+UI_GUIDE_BODY_TRADE_7,"{<SPECIAL>Standing<> is a measure of your <VAL_ON>reputation<> with alien races and factions. Track your standing on the <VAL_ON>Journey<> page of the options menu (<IMG>OPTIONS<>). To increase your standing, <VAL_ON>find alien lifeforms<> in planetary buildings or space stations. <VAL_ON>Speaking with the aliens<> and helping them with their problems will improve your understanding of their <VAL_ON>language<> and increase your <VAL_ON>standing<>. <VAL_ON>Offering gifts<> to aliens is a great way to increase your standing. Different lifeforms prefer different gifts. The <VAL_ON>Mission Board<> is another way of raising standing. Missions reward standing with the system's dominant lifeforms or one of the three <SPECIAL>guilds<>: the <VAL_ON>Merchants Guild<>, the <VAL_ON>Explorers Guild<> and the <VAL_ON>Mercenaries Guild<>. Higher standing with the Guilds grants access to <VAL_ON>higher level missions with improved rewards<>. Higher standing with alien lifeforms is the key to <TECHNOLOGY>purchasing advanced technology<> from the blueprint vendors aboard space stations. Hunting and destroying pirate <VAL_ON>bounties<> will increase your standing with the system's dominant lifeforms.}"
+UI_GUIDE_BODY_COMBAT_1,"{Sentinels are robotic entities that guard most worlds. <VAL_ON>Harvesting resources<> in view of the Sentinels will cause them to turn <RED>hostile<>. Harvesting some resources, such as <VAL_ON>Gravitino Balls<>, will immediately alert Sentinel forces. Sentinels may approach and <VAL_ON>scan you<> or any resources you recently harvested. Avoid harvesting or attacking non-hostile creatures while being watched. Some worlds host <VAL_ON>extremely hostile Sentinels<>. These drones will attack on sight. Pay attention to the planet information in the <TECHNOLOGY>Analysis Visor<> (<IMG>AIM<>) to learn Sentinel status. The <VAL_ON>Security Level<> in the top right of the HUD shows the current Sentinel status. This will increase as you fight Sentinels. Eliminate Sentinel Drones quickly when attack to avoid <VAL_ON>more powerful Sentinels<> being summoned. Destroying Sentinel Drones is a good source of <SPECIAL>exotic materials<>.}"
+UI_GUIDE_BODY_COMBAT_2,"{Fire your <TECHNOLOGY>Multi-Tool<> with <IMG>ATTACK<>. When out of ammo or charge, use <IMG>MELEE<> to <VAL_ON>melee strike<>. Reload your current weapon with <IMG>RELOAD<>. Some weapons require <COMMODITY>charge<> instead of ammo. By default, the Multi-Tool is only equipped with a <TECHNOLOGY>Mining Beam<>. To increase combat power, install new <TECHNOLOGY>Weapon Types<>. Cycle between <VAL_ON>weapon modes<> by using <IMG>CYCLEWEAPON<>. The Multi-Tool can be upgraded with a <TECHNOLOGY>Terrain Manipulator<>, allowing the user to create and remove planetary terrain. Find new weapon blueprints and other <TECHNOLOGY>Multi-Tool Upgrades<> in buildings or at a <TECHNOLOGY>Technology Merchant<> aboard Space Stations. Some planetary buildings may host brand-new Multi-Tools to purchase. Each Multi-Tool has <VAL_ON>unique bonuses<> to boost its effectiveness.}"
+UI_GUIDE_BODY_COMBAT_3,"{Damage received while on-foot (from combat, hostile fauna or environmental damage) will first deplete your <COMMODITY>shield<>. Your shield will recharge over time. Take cover and avoid taking damage while the shield is low. Damage taken while shields are down will damage your <FUEL>health<>. Purchase plans for a <TECHNOLOGY>Personal Forcefield<> at <TECHNOLOGY>Technology Merchants<>. This is a powerful combat shield deployed from the Multi-Tool. <COMMODITY>Hazard Protection<> and <FUEL>Health<> can be recharged by visiting <TECHNOLOGY>Health Stations<> and <TECHNOLOGY>Hazard Stations<> in bases and other structures. Exosuit defensive and life support systems can be upgraded with <TECHNOLOGY>new technology<>. Find blueprints in planetary buildings or by visiting <TECHNOLOGY>technology merchants<> on space stations. <COMMODITY>Starship shields<> also recharge over time. Avoid taking damage to allow the shield to recharge. Shields prevent <RED>critical hull damage<>. Starship shields can be made stronger with <TECHNOLOGY>Deflector Shield Upgrades<> purchased at <TECHNOLOGY>Technology Merchants<> on space stations.}"
+UI_GUIDE_BODY_COMBAT_4,"{Fire your <TECHNOLOGY>Multi-Tool<> with <IMG>ATTACK<>. When out of ammo or charge, use <IMG>MELEE<> to <VAL_ON>melee strike<>. <VAL_ON>Aim<> (<IMG>AIM<>) and <VAL_ON>Zoom<> (<IMG>ZOOM<>) to target enemies with precision. Cycle between <VAL_ON>weapon modes<> by using <IMG>CYCLEWEAPON<>. <VAL_ON>Reload<> your current weapon with <IMG>RELOAD<>. Some weapons require <COMMODITY>charge<> instead of ammo. Ensure you have crafted <SPECIAL>sufficent ammunition<> before entering a combat situation. Damage received while on-foot will first deplete your <COMMODITY>shield<>. Your shield will recharge over time. <VAL_ON>Take cover<> and avoid damage while the shield is low. Purchase plans for a <TECHNOLOGY>Personal Forcefield<> at <TECHNOLOGY>Technology Merchants<>. This is a powerful combat shield deployed from the Multi-Tool. Damage taken while shields are down will damage your <FUEL>health<>. <COMMODITY>Hazard Protection<> and <FUEL>Health<> can be recharged by visiting <TECHNOLOGY>Health Stations<> and <TECHNOLOGY>Hazard Stations<> in bases and other structures. Exosuit defensive and life support systems can be upgraded with <TECHNOLOGY>new technology<>. Find blueprints in planetary buildings or by visiting a <TECHNOLOGY>Technology Merchant<> aboard a space station.}"
+UI_GUIDE_BODY_COMBAT_5,"{Fire <VAL_ON>ship weapons<> with <IMG>SHIPFIRE<>. Cycle weapon modes with <IMG>SHIPCYCLEWEAPON<>. Starship shield and weapons can be <TECHNOLOGY>upgraded<> with blueprints from a <TECHNOLOGY>Technology Merchants<> aboard a space station. If attacked by <SPECIAL>Pirates<>, answer them on the Communicator with <IMG>QUICK_MENU<>. They can be <VAL_ON>bribed<> to leave you alone. Alternatively, use a <VAL_ON>Defence Chit<> to summon the <VAL_ON>System Authorities<> to aid in combat. Purchase <VAL_ON>Defence Chits<> from merchants on Space Stations. <SPECIAL>Pirates<> may temporarily disable the Pulse Engine during an attack. To escape, survive until it comes back online. <VAL_ON>Stay behind your target<> to deal more damage and avoid enemy fire. Manage your speed with <RED>Boost<> (<IMG>BOOST<>) and <VAL_ON>Brake<> (<IMG>BREAK<>) to stay behind your target. <VAL_ON>Turning while braking<> is much faster. Change your <VAL_ON>current target<> with <IMG>PREVTARGET<> and <IMG>NEXTTARGET<>. Aim at the <VAL_ON>target leading reticle<> for increased accuracy. Look for <RED> red target indicators<> at the edge of the screen to find enemies.}"
+UI_GUIDE_START_MISSION,{Start Mission}
+UI_GUIDE_LEARN_MORE,{Learn More}
+UI_GUIDE_MISSION_IN_PROGRESS,{In Progress}
+UI_GUIDE_PREVIOUS,{Previous Page}
+WIKI_TRADE5_MISSION_TITLE,{The Mission Board}
+WIKI_TRADE5_MISSION_DESC,{Introduction to the Mission Board}
+WIKI_TRADE5_MISSION_FLAVOUR,"{Mission Boards are found in space stations all across the galaxy. Explorers should check in with the mission board in the local station to see what jobs are available. Jobs might reward units, nanites, pieces of technology or more. They also offer a quick way to improve your standing with various factions. Missions change regularly, so make sure to always check local postings when you arrive in a system.}"
+WIKI_TRADE5_MISSION_OBJ,{Visit a mission board}
+WIKI_TRADE5_MISSION_OBJ_TIP,"{Mission boards are found in all space stations, near the teleportation terminal.}"
+WIKI_TRADE5_MISSION_MSG,{Visit a mission board}
+WIKI_MISSION_TRADE5_OSD,{Mission Board Located}
+WIKI_MISSION_TRADE5_MARKER,{Visit the mission board}
+NOTIFY_ENERGY_CHARGE,{Replenish Life Support Systems <IMG>INVENTORY<> Press <IMG>PAUSE<> to learn more about managing charge levels in the Wiki}
+NOTIFY_EARN_TOBUY,{Earn %AMOUNT% Units to buy %ITEM% Press <IMG>PAUSE<> to learn more about earning money in the Wiki}
+UI_GUIDE_HEADING_SURVIVAL_U,{SURVIVAL BASICS}
+UI_GUIDE_HEADING_EXPLORATION_U,{NAVIGATION & DISCOVERY}
+UI_GUIDE_HEADING_DISCO_U,{EXPLORATION}
+UI_GUIDE_HEADING_TRADE_U,{TRADE & STANDING}
+UI_GUIDE_HEADING_COMBAT_U,{COMBAT}
+UI_GUIDE_HEADING_PRODUCT_CATA_U,{CRAFTED PRODUCTS}
+UI_GUIDE_HEADING_SUB_CATA_U,{RAW MATERIALS}
+UI_GUIDE_HEADING_TECH_CATA_U,{TECHNOLOGY}
+UI_GUIDE_HEADING_NEW_U,{NEW FEATURES}
+UI_GUIDE_HEADING_NEW,{New Features}
+UI_GUIDE_TOPIC_TERRAIN,{Terrain Manipulator}
+UI_GUIDE_BODY_TERRAIN,"{The <TECHNOLOGY>Terrain Manipulator<> is a powerful Multi-Tool upgrade. Once installed, use <IMG>CYCLEWEAPON<> to activate the Terrain Manipulator. The Terrain Manipulator can be used to <VAL_ON>create your own shelter<> as you explore, in the form of simple caves or elaborate rock structures. The Terrain Manipulator is vital for the mining of <STELLAR>large resource deposits<>. Terrain will <VAL_ON>conform to buildings<>, allowing the creation of bases embedded in the rock. Use <IMG>EDITTERRAIN<> to <VAL_ON>edit terrain<>. <IMG>TOGGLETERRAIN<> toggles between <TRADEABLE>placement<> and <FUEL>deletion<>. <IMG>SIZETERRAIN_UP<>/<IMG>SIZETERRAIN_DN<> changes the <VAL_ON>size<> of the edit. <IMG>UNDOTERRAIN<> undoes previous edits. When placing terrain, holding <IMG>EDITTERRAIN<> and dragging aligns edits to the <TECHNOLOGY>grid<>. Use <IMG>ROTTERRAINLEFT<> & <IMG>ROTTERRAINRIGHT<> to <VAL_ON>rotate<> the grid. Change the appearance of placed terrain with <IMG>TERRAINMENU<>.}"
+UI_GUIDE_TOPIC_PORTALS,{Portals}
+UI_GUIDE_BODY_PORTALS,"{Portals create <VAL_ON>connections between worlds<>. Visit a <SPECIAL>Monolith<> to learn the location of a planet's Portal. Portals require their <VAL_ON>glyphs<> to be powered before they can be used. Interact with the <VAL_ON>Portal Terminal<> to power the glyphs. Once active, a Portal can reveal the <VAL_ON>Glyph Sequence<> for their planet. Other Travellers with this glyph sequence can enter it into their own portals and visit your planet. The ability to input a <VAL_ON>Glyph<> must be <VAL_ON>earned<>. Enter caves and use the <TECHNOLOGY>Scanner<> to locate the graves of fallen Travellers. Extract knowledge of glyphs from their logs. Travellers may risk entering <VAL_ON>random Glyph Sequences<> into a Portal, but the accuracy of such unattuned transport is not guaranteed.}"
+UI_GUIDE_TOPIC_SLOTS,{Special Inventories}
+UI_GUIDE_BODY_SLOTS,"{The <TECHNOLOGY>Starship<> and <TECHNOLOGY>Exosuit<> have several inventory types. Change between inventory types by selecting the appropriate icon from the 3D representation of the starship or exosuit pack in the <VAL_ON>Inventory Menu<> (<IMG>INVENTORY<>). <TECHNOLOGY>General Inventory<> space can be used for carrying cargo or installing upgrades. <TECHNOLOGY>Technology Slots<> are reserved for installing upgrades and other technology devices. Use these slots to <VAL_ON>expand your capabilities<> without compromising on storage space. When upgrading an exosuit, these slots are <VAL_ON>cheaper<> than general slots. <TECHNOLOGY>High Capacity Slots<> are only found in the <VAL_ON>Exosuit<>. These slots are limited in number but have a significantly increased storage capacity. Objects stack in far greater numbers when placed in a high-capacity slot. These slots are <VAL_ON>expensive<> to upgrade. Specialist <SPECIAL>navigation data<> reveals the location of <VAL_ON>Drop Pods<>, which contain powerful <TECHNOLOGY>Exosuit Upgrades<>. Decode this data in a <TECHNOLOGY>Signal Booster<>.}"
+UI_GUIDE_HEADING_RUNES_CATA,{Portal Glyphs}
+UI_GUIDE_HEADING_BLD_CATA,{Building Parts}
+UI_GUIDE_HEADING_RUNES_CATA_U,{PORTAL GLYPHS}
+UI_GUIDE_HEADING_BLD_CATA_U,{BUILDING PARTS}
+UI_GUIDE_PORTAL_SUB,{Ancient Technology}
+UI_GUIDE_PORTAL_DESC,"{Once active, a Portal can reveal the <VAL_ON>Glyph Sequence<> for their planet. Other Travellers with this glyph sequence can enter it into their own portals and visit your planet. The ability to input a <VAL_ON>Glyph<> must be <VAL_ON>earned<>. Enter caves and use the <TECHNOLOGY>Scanner<> to locate the graves of fallen Travellers. Extract knowledge of glyphs from their logs.}"
+UI_GUIDE_PORTAL_01_NAME,{Glyph 1 / 16}
+UI_GUIDE_PORTAL_01_NAME_L,{Glyph 1 / 16}
+UI_GUIDE_PORTAL_02_NAME,{Glyph 2 / 16}
+UI_GUIDE_PORTAL_02_NAME_L,{Glyph 2 / 16}
+UI_GUIDE_PORTAL_03_NAME,{Glyph 3 / 16}
+UI_GUIDE_PORTAL_03_NAME_L,{Glyph 3 / 16}
+UI_GUIDE_PORTAL_04_NAME,{Glyph 4 / 16}
+UI_GUIDE_PORTAL_04_NAME_L,{Glyph 4 / 16}
+UI_GUIDE_PORTAL_05_NAME,{Glyph 5 / 16}
+UI_GUIDE_PORTAL_05_NAME_L,{Glyph 5 / 16}
+UI_GUIDE_PORTAL_06_NAME,{Glyph 6 / 16}
+UI_GUIDE_PORTAL_06_NAME_L,{Glyph 6 / 16}
+UI_GUIDE_PORTAL_07_NAME,{Glyph 7 / 16}
+UI_GUIDE_PORTAL_07_NAME_L,{Glyph 7 / 16}
+UI_GUIDE_PORTAL_08_NAME,{Glyph 8 / 16}
+UI_GUIDE_PORTAL_08_NAME_L,{Glyph 8 / 16}
+UI_GUIDE_PORTAL_09_NAME,{Glyph 9 / 16}
+UI_GUIDE_PORTAL_09_NAME_L,{Glyph 9 / 16}
+UI_GUIDE_PORTAL_10_NAME,{Glyph 10 / 16}
+UI_GUIDE_PORTAL_10_NAME_L,{Glyph 10 / 16}
+UI_GUIDE_PORTAL_11_NAME,{Glyph 11 / 16}
+UI_GUIDE_PORTAL_11_NAME_L,{Glyph 11 / 16}
+UI_GUIDE_PORTAL_12_NAME,{Glyph 12 / 16}
+UI_GUIDE_PORTAL_12_NAME_L,{Glyph 12 / 16}
+UI_GUIDE_PORTAL_13_NAME,{Glyph 13 / 16}
+UI_GUIDE_PORTAL_13_NAME_L,{Glyph 13 / 16}
+UI_GUIDE_PORTAL_14_NAME,{Glyph 14 / 16}
+UI_GUIDE_PORTAL_14_NAME_L,{Glyph 14 / 16}
+UI_GUIDE_PORTAL_15_NAME,{Glyph 15 / 16}
+UI_GUIDE_PORTAL_15_NAME_L,{Glyph 15 / 16}
+UI_GUIDE_PORTAL_16_NAME,{Glyph 16 / 16}
+UI_GUIDE_PORTAL_16_NAME_L,{Glyph 16 / 16}
+UI_GUIDE_TOPIC_SIGNALS,{Finding Signals}
+UI_GUIDE_BODY_SIGNALS,"{Larger buildings create detectable signals, either through direct transmission or via their radar signature. Build (<IMG>BUILD_MENU<>) a <TECHNOLOGY>Signal Booster<> to search for nearby structures. Encoded navigation data and other cartographic fragments may be located during exploration. Alongside its general search functions, a <TECHNOLOGY>Signal Booster<> will be able to decode this data and mark appropriate locations on your exosuit display. Search buildings for additional <VAL_ON>navigation data<>. Following these leads is a highly efficient form of exploration. Specialist <SPECIAL>navigation data<> reveals the location of <VAL_ON>Drop Pods<>, which contain powerful <TECHNOLOGY>Exosuit Upgrades<>.}"
+UI_GUIDE_TOPIC_REFINER,{Refining Substances}
+UI_GUIDE_BODY_REFINER,"{Advanced materials and construction may require the use of a <TECHNOLOGY>Refiner<>. Construct a refiner use the Build Menu (<IMG>BUILD_MENU<>). Large refiners require a <VAL_ON>habitable base<>. Refiners take harvested or raw materials and process them into more condensed or advanced materials. Processed materials typically hold a greater density of energy, allowing <COMMODITY>more efficient charging of technology<>. <TECHNOLOGY>Larger refinery units<> take multiple inputs, allowing the user to experiment with the <VAL_ON>combination of materials<>. Combining materials may generate <VAL_ON>exclusive substances<> or allow for <VAL_ON>more efficient recipes<>. Simple, portable refiners require external fuel to use. Large refiners wired into the structure of a <VAL_ON>base<> do not.}"
+UI_GUIDE_TOPIC_DISMANTLE,{Portable Technology}
+UI_GUIDE_BODY_DISMANTLE,{Technology deployed on the planet's surface from the Build Menu (<IMG>BUILD_MENU<>) may be recovered by approaching and holding <IMG>DECONSTRUCT<>. This places the technology in the user's <TECHNOLOGY>Exosuit Inventory<>. <TECHNOLOGY>Dismantling<> technology offers a convenient way for the user to transport and <TECHNOLOGY>redeploy the technology<> at a location of their choosing. Redeploying portable technology <VAL_ON>incurs no additional costs<>. The unit only needs to be constructed once. <COMMODITY>WARNING<>: Do not forget the location of your deployed technology.}
+UI_GUIDE_TOPIC_FLEETS,{Freighter Fleets}
+UI_GUIDE_BODY_FLEETS,"{Command of a large <COMMODITY>Capital Ship<> offers several benefits. High among these is the ability to plan and command expeditions. Find and purchase <SPECIAL>Frigates<> to add them to your fleet. Expeditions are highly lucrative, and offer the opportunity for rare and exotic rewards. Expeditions require a <TECHNOLOGY>Fleet Command Room<>. Construct a Command Post in the habitable area between the bridge and the hanger. Recruitable frigates in a <TECHNOLOGY>freighter group<> will be marked with an icon. Approach a <TRADEABLE>recruitable frigate<> and speak with them on the <TECHNOLOGY>Starship Communicator<>. The <TECHNOLOGY>Navigator<> plans expeditions for your fleet. Visit the Navigator on the freighter's bridge to see currently available expeditions. A new set of expeditions are plotted each day. Expeditions have varying <TECHNOLOGY>specialisations<> and <FUEL>difficulty<>. Longer or larger expeditions require more fuel. Supply ships reduce fuel requirements. Expeditions can be equipped with <COMMODITY>temporary upgrades<> to boost their capabilities. Expeditions cover long distances and may take a considerable amount of time to complete. Track the expedition's progress at the <TECHNOLOGY>Fleet Command Room<>. Expeditions continue in real time and do not require their owner to be actively present.}"
+UI_GUIDE_TOPIC_TECHNOLOGY,{Upgrading your Equipment}
+UI_GUIDE_BODY_TECHNOLOGY,"{Visit the <STELLAR>Marketplace<> aboard most Space Stations to find a wide array of merchants. Technology merchants will sell both <TECHNOLOGY>Blueprints<> and <VAL_ON>Upgrade Modules<>. <TECHNOLOGY>Blueprints<> allow you to craft new technologies. You will have to find the materials yourself, but you will always be able to install the technology in your Exosuit, or any <STELLAR>Starship<> or <TECHNOLOGY>Multi-Tool<> you own. <VAL_ON>Upgrade Modules<> are one-off purchases. They upgrade a specific <VAL_ON>Exosuit<>, <STELLAR>Starship<> or <TECHNOLOGY>Multi-Tool<> technology you have already installed. Each upgrade has slightly different properties, and users are advised to experiment with different configurations. Install an Upgrade Module by selecting it in the Inventory with <IMG>FE_ALT1<> and deploying it to an empty <VAL_ON>General<> or <TECHNOLOGY>Technology Slot<> with <IMG>SELECT<>. Upgrades installed adjacent to other upgrades of the same type will provide an additional boost, further improving device performance. You cannot have more than <FUEL>three<> upgrades active for the same technology subsystem. Doing so will cause the upgrades to become non-functional until sufficient modules are removed to restore power.}"
+UI_GUIDE_TOPIC_RECIPES,{Recipes and Blueprints}
+UI_GUIDE_BODY_RECIPES,"{Many <COMMODITY>products<> and <TECHNOLOGY>technologies<> must be learned before they can be crafted. Learn the plans for different technologies and products by visiting merchants in the <STELLAR>Space Station Marketplace<>. Other plans are more rare and must be sought out by raiding various <STELLAR>planetary installations<>. Finally, some recipes are only taught be specific individuals, who must be sought out by the determined Traveller... <VAL_ON>Upgrade Modules<> can be purchased ready crafted from technology merchants. These merchants are also a useful source of pre-built components. Seek them out in the Space Station Marketplace, or find them in smaller <STELLAR>planetary shops<>.}"
+UI_PLAYER_PROMPT,{Player}
+BUY_DECLINE_DESC_FRIGATE,{Decline Frigate}
+NEW_FRIGATE_TITLE,{New Frigate}
+UI_SAVE_SELECT_UPPER,{SELECT SAVE GAME}
+UI_GAME_SELECT_UPPER,{SELECT GAME MODE}
+UI_SAVE_SLOT,{Save Data}
+GAMEMODE_HELP_BACK,{Press <IMG>GMBACK<> to go back to the previous screen}
+GAMEMODE_HELP_DELETE,{Hold <IMG>GMDEL<> to delete save data}
+UI_RANDOM_MULTIPLAYER_TITLE,{JOINING RANDOM GAME}
+UI_LOBBY_WITH_FRIENDS,{Play With Friends}
+UI_LOBBY_FRIENDS_ONLINE,{Friends Online}
+UI_LOBBY_FRIENDS_ONLINE_U,{FRIENDS ONLINE}
+UI_LOBBY_JOIN_AS_GUEST,{Join as guest}
+UI_LOBBY_JOINING_FRIEND,{Joining: %LOBBY_NAME%}
+UI_LOBBY_EXIT,{Press <IMG>EXITMENU<> to go back}
+UI_LOBBY_JOINING,{JOINING LOBBY}
+UI_LOBBY_LEAVE,{Press <IMG>EXITMENU<> to leave lobby}
+DRESSING_TABLE_NAME,{APPEARANCE MODIFIER}
+DRESSING_TABLE_NAME_L,{Appearance Modifier}
+DRESSING_TABLE_DESC,"{A buildable module that allows the users to <TECHNOLOGY>adjust their personal appearance<> settings. The module applies advanced holographic techniques to recalibrate the light around the user, allowing them to adopt whatever appearance they desire. Visual data must be properly formated before use.}"
+DRESSING_TABLE_SUB,{Customise Personal Visuals}
+BUILD_WINDOW_COMPLEXITY,{Complexity: <HIGHLIGHT>%AMOUNT%<>}
+BUILD_WINDOW_COMPLEX_TOTAL,{Base Complexity: %AMOUNT%}
+CUSTOMISE_CHARACTER,{APPEARANCE MODIFIER}
+INTRCT_DRESSINGTABLE,{Recalibrate Personal Visuals}
+CUSTOMISE,{CUSTOMISATION}
+CUSTOMISE_RACE,{RACE}
+CUSTOMISE_HEAD,{HEAD}
+CUSTOMISE_BODY,{TORSO}
+CUSTOMISE_ARMOUR,{ARMOUR}
+CUSTOMISE_HANDS,{GLOVES}
+CUSTOMISE_LEGS,{LEGS}
+CUSTOMISE_FEET,{BOOTS}
+CUSTOMISE_BACKPACK,{BACKPACK}
+CUSTOMISATION_PRESETS,{Presets}
+CUSTOM_MARKINGS,{Decals}
+CUSTOMISE_PRIMARY,{Primary Colour}
+CUSTOMISE_SECONDARY,{Secondary Colour}
+CUSTOMISE_TERTIARY,{Tertiary Colour}
+CUSTOMISE_RACE_L,{Race}
+CUSTOMISE_EYES_L,{Eyes}
+CUSTOMISE_BEAK_L,{Beak}
+CUSTOMISE_MISC_L,{Misc}
+CUSTOMISE_HELMETTYPE_L,{Helmet Type}
+CUSTOMISE_HEADTYPE_L,{Head Type}
+CUSTOMISE_MARKINGS_L,{Markings}
+CUSTOMISE_FACESHAPE_L,{Face Shape}
+CUSTOMISE_BODY_L,{Torso Style}
+CUSTOMISE_ARMOUR_L,{Armour Style}
+CUSTOMISE_HANDS_L,{Glove Style}
+CUSTOMISE_LEGS_L,{Leg Style}
+CUSTOMISE_FEET_L,{Boot Style}
+CHEST_ARMOUR,{Armour Style}
+QUICK_MENU_TIP_THIRDPERSON,{Toggle Camera View}
+UI_CARGO_POD_NAME,{Cargo Pod}
+UI_NOTIFY_HOST_DISCONNECT,{LOST CONNECTION TO HOST}
+UI_NOTIFY_PLAYER_JOINED,{%NAME% is joining your game}
+UI_NOTIFY_PLAYER_LEFT,{%NAME% left your game}
+CUSTOMISE_VEHICLE,{EXOCRAFT MODIFICATION}
+INTRCT_CUSTOMISE_VEHICLE,{Recalibrate Exocraft Visuals}
+CUSTOMISE_SHIP,{STARSHIP MODIFICATION}
+INTRCT_CUSTOMISE_SHIP,{Recalibrate Starship Visuals}
+CUSTOMISE_WEAPON,{MULTI-TOOL MODIFICATION}
+INTRCT_CUSTOMISE_WEAPON,{Recalibrate Multi-Tool Visuals}
+UI_NETWORK_HEADER_ALT,{NETWORK}
+NETWORK_SHIP_IS_BUSY,{Pilot currently busy}
+UI_BASE_ANYWHERE_NEW,{Searching cartographic archives... Universal Archive Search reveals no prior claims on this site. Sonar test confirms site is suitable for construction. Claim site?}
+UI_BASE_ANYWHERE_REPLACE,{Sonar test confirms current site is suitable for construction. Searching cartographic archives... <FUEL>WARNING<>: Universal Archive Search reveals previous base registration. <FUEL>WARNING<>: Claiming this site will automatically disassemble previous base. Proceed?}
+UI_BASE_ANYWHERE_MOVE,{Sonar test confirms current site is suitable for construction. Searching cartographic archives... <STELLAR>User has previous base awaiting reconstruction<>. Restore base to this location?}
+UI_BASE_ANYWHERE_UNABLE,{Sonar test confirms current site is suitable for construction. Searching cartographic archives... <FUEL>WARNING<>: Universal Archive Search reveals previous base registration. Construct terminal on a new site.}
+UI_BASE_ANYWHERE_SUCCESS,{Base registered to current owner. Upload and construction permissions granted. Note: uploading will overwrite any previous uploaded bases for this planet. Use the <TECHNOLOGY>Space Station Terminus<> to teleport to the base at any time.}
+UI_BASE_ANYWHERE_OTHER,{Logged in as GUEST. Base: Operational <IMG>SLASH<> Base Controls: Limited <IMG>SLASH<> Construction Permissions: Unavailable}
+UI_BASE_ANYWHERE_FRIEND,{Base Registered to Known Contact. Logged in as <STELLAR>GUEST<>. Base: Operational <IMG>SLASH<> Base Controls: Limited <IMG>SLASH<> Construction Permissions: Unlocked}
+UI_BASE_ANYWHERE_TITLE,{SITE REGISTRATION SERVICE}
+UI_BASE_ANYWHERE_OPT_OVERWRITE,{Upload (Overwrite previous upload for this planet)}
+UI_BASE_ANYWHERE_OPT_A,{Claim Base}
+UI_BASE_ANYWHERE_OPT_B,{Decline}
+UI_BASE_ANYWHERE_NAME,{Base Computer}
+UI_BASE_ANYWHERE_NAME_L,{Base Computer}
+UI_BASE_ANYWHERE_DESC,"{Portable land registration service. When placed, contacts Universal Cartographic Archive to establish ownership of land. Successful registration allows the construction of base modules across any site of the user's choosing.}"
+UI_BASE_ANYWHERE_SUB,{Site Evaluation Device}
+UI_UNDERWATER_WARNING,{Cannot Construct Underwater}
+UI_BASELIMIT_WARNING,{Cannot Construct: Base at Maximum Complexity}
+SEND_TO_PLAYER_OUT_OF_RANGE,{Player out of teleport range}
+SEND_TO_OTHER_PLAYER,{Teleport to nearby player}
+SEND_TO_PLAYER_DIFF_GROUP,{Teleport status incompatible}
+UI_HUD_EXTERNAL_HAZARD,{External %CONDITION%: %VALUE%}
+UI_HUD_HAZARD_TEMP,{Temperature}
+UI_HUD_HAZARD_RAD,{Radiation}
+UI_HUD_HAZARD_TOX,{Toxicity}
+UI_HUD_HAZARD_DEAD,{Low Atmosphere Detected}
+UI_HUD_HAZARD_ANOMALY,{Anomaly Strength: %VALUE%0 Boundary Failing}
+QUICK_MENU_SUMMON_MENU,{Summon Vehicles}
+QUICK_MENU_UTILITY_MENU,{Utilities}
+QUICK_MENU_CHARGE_MENU,{Recharge Equipment}
+QUICK_MENU_EMOTE_MENU,{Gestures}
+QUICK_MENU_SECONDARY_WEAP_MENU,{Change Secondary Weapon}
+EMOTE_WAVE,{Wave}
+EMOTE_POINT,{Point}
+EMOTE_POSITIVE,{Thumbs Up!}
+EMOTE_NEGATIVE,{Nope!}
+EMOTE_THANKS,{Thank You!}
+EMOTE_OVER_HERE,{Over Here!}
+EMOTE_NEED_RESOURCE,{Need Resources!}
+EMOTE_HELP,{Help!}
+EMOTE_SIT,{Sit Down}
+QUICK_MENU_SUM_NO_FREIGHT,{No Freighter Owned}
+QUICK_MENU_COMMS_COMBAT,{Cannot use Communicator in Combat}
+QUICK_MENU_NO_COMMS,{No Communicator Signals}
+QUICK_MENU_NO_EXOCRAFT,{No Exocraft Owned}
+QUICK_MENU_NO_EXO_SCANNER,{No Exocraft Scanner Installed}
+QUICK_MENU_NO_TM,{No Terrain Manipulator Installed}
+QUICK_MENU_NO_TM_ACTIVE,{Terrain Manipulator Not Equipped}
+QUICK_MENU_NO_TM_HERE,{Cannot Edit Terrain Here}
+QUICK_MENU_NO_TORCH,{Cannot Use Torch Now}
+QUICK_MENU_NO_GALMAP,{Galactic Navigation Unavailable :: Planetary Interference}
+QUICK_MENU_NO_GALMAP_COMBAT,{Galactic Navigation Unavailable :: Hostile Warp Jammers}
+QUICK_MENU_NO_ECON_SCANNER,{No Economy Scanner Installed}
+QUICK_MENU_NO_SUMMON_PORTAL,{Cannot Call Ship :: Portal Interference}
+QUICK_MENU_NO_FREIGHT_PORTAL,{Cannot Call Freighter :: Portal Interference}
+QUICK_MENU_NO_GALMAP_PORTAL,{Galactic Navigation Unavailable :: Portal Interference}
+BINOC_SIGNAL_STRENGTH,{Scanning: %VALUE%%}
+UI_JETPACK_BOOST_OSD,{JETPACK POWER SURGE DETECTED}
+UI_JETPACK_BOOST_OVER_OSD,{JETPACK POWER SURGE FADING}
+UI_KELP_SAC,{Harvest Oxygen Sac}
+UI_RESTORE_O2,{Replenish Oxygen}
+UI_RESTORE_HAZARD,{Charge Hazard Protection}
+UI_JETPACK_BOOST,{Exosuit System Boost}
+UI_FLORA_HAZARD,{Hazardous Flora}
+UI_HOST_KICK,{REMOVED BY HOST}
+UI_NO_GAMES_FOUND,{NO GAMES FOUND}
+UI_MULTIPLAYER,{Multiplayer}
+UI_MULTIPLAYER_U,{MULTIPLAYER}
+UI_RANDOM_MULTIPLAYER,{สุ่มเข้าร่วมเกม}
+UI_LOBBY_CONNECTING,{CONNECTING}
+UI_STORY_CRATE,{Holo-Archive}
+NETWORK_SEND_RECEIVED,{from %PLAYER%}
+NETWORK_SEND_FAILURE,{%PLAYER% cannot store %ITEM%}
+NETWORK_SEND_SUCCESS,{Sent %ITEM%}
+REFINER_NO_ROOM_FOR_FUEL,{No inventory space: Cannot collect refiner fuel}
+REFINER_CANNOT_PICK_UP,{Cannot pick up: Refiner not empty}
+UI_UNKNOWN_BUILDING,{Unknown Building}
+UI_HUD_WARNING,{ENVIRONMENT WARNING}
+UI_BASE_PARTS_BASIC,{Basic Base Blueprints}
+UI_BUILD_GROUP_BASIC,{Small Adornments}
+UI_BUILD_GROUP_BASIC_ROOT,{Basic Components}
+UI_BUILD_GROUP_BASIC_M,{Metal Components}
+UI_BUILD_GROUP_BASIC_W,{Wooden Components}
+UI_BUILD_GROUP_BASIC_C,{Concrete Components}
+UI_BUILD_GROUP_ROOMS,{Large Rooms}
+UI_BUILD_GROUP_GLASS,{Windows}
+UI_BUILD_GROUP_CUBES,{Small Rooms}
+UI_BUILD_GROUP_FRAMES,{Frames & Foundations}
+UI_BUILD_GROUP_ACCESS,{Doors & Ladders}
+UI_BUILD_GROUP_TERMINALS,{Specialist Terminals}
+UI_BUILD_GROUP_PLANTS,{Plants}
+UI_BUILD_GROUP_FARMING,{Farming Technology}
+UI_BUILD_GROUP_INT_DECOR,{Interior Decoration}
+UI_BUILD_GROUP_EXT_DECOR,{Adornments}
+UI_BUILD_GROUP_BASE_TECH,{Permanent Technology}
+UI_BUILD_GROUP_PLANET_TECH,{Portable Technology}
+UI_BUILD_GROUP_STORAGE,{Storage}
+UI_BUILD_GROUP_LIGHTS,{Lights}
+UI_BUILD_GROUP_DECALS,{Decals}
+UI_BUILD_GROUP_VEHICLES,{Exocraft Modules}
+UI_BUILD_GROUP_FREIGHTER,{Freighter Components}
+UI_BUILD_DECOR_GRP,{Decoration}
+UI_BUILD_STRUCT_GRP,{Structures}
+UI_BUILD_FARM_GRP,{Farming}
+UI_BUILD_TECH_GRP,{Equipment}
+UI_FRIG_BOOST_COM_DESC,{A <COMMODITY>temporary frigate upgrade<> that lasts for one expedition. This pack of autonomous explosives have been programmed to launch from the fleet and pilot themselves directly towards hostile vessels. Extremely dangerous.}
+UI_FRIG_BOOST_COM_NAME,{EXPLOSIVE DRONES}
+UI_FRIG_BOOST_COM_NAME_L,{Explosive Drones}
+UI_FRIG_BOOST_EXP_DESC,"{A <COMMODITY>temporary frigate upgrade<> that lasts for one expedition. This powerful analytic computer overclocks the existing fleet systems, allowing for faster-than-light calculations. Heat is a problem, and the chips do not last long.}"
+UI_FRIG_BOOST_EXP_NAME,{HOLOGRAPHIC ANALYSER}
+UI_FRIG_BOOST_EXP_NAME_L,{Holographic Analyser}
+UI_FRIG_BOOST_MIN_DESC,"{A <COMMODITY>temporary frigate upgrade<> that lasts for one expedition. The mineral compressor allows fleet mining crews to liquidise the substances they extract, for both faster processing and easier transportation.}"
+UI_FRIG_BOOST_MIN_NAME,{MINERAL COMPRESSOR}
+UI_FRIG_BOOST_MIN_NAME_L,{Mineral Compressor}
+UI_FRIG_BOOST_SPD_DESC,"{A <COMMODITY>temporary frigate upgrade<> that lasts for one expedition. This powerful fuel upgrade overloads frigate engines, allowing for faster-than-usual travel.}"
+UI_FRIG_BOOST_SPD_NAME,{FUEL OXIDISER}
+UI_FRIG_BOOST_SPD_NAME_L,{Fuel Oxidiser}
+UI_FRIG_BOOST_TRA_DESC,"{A <COMMODITY>temporary frigate upgrade<> that lasts for one expedition. The mind control device plugs into the ship's trading and communications systems, allowing the Fleet Commander to gain the upper hand in any negotiation.}"
+UI_FRIG_BOOST_TRA_NAME,{MIND CONTROL DEVICE}
+UI_FRIG_BOOST_TRA_NAME_L,{Mind Control Device}
+FRIG_BOOST_SUB,{Consumable Frigate Upgrade}
+O2_HARVESTER_NAME,{OXYGEN HARVESTER}
+O2_HARVESTER_NAME_L,{Oxygen Harvester}
+O2_HARVESTER_DESC,"{An <TECHNOLOGY>autonomous atmosphere extractor<>, this device can be left to collect and purify oxygen from the air. User must monitor fuel levels to ensure continued operation. The resulting gas is compressed and processed, ready for use in all standard <FUEL>life support systems<>.}"
+O2_HARVESTER_SUB,{Atmosphere Processing Device}
+UI_SPACE_ROOM_SUB,{Freighter Interior Module}
+UI_SPACE_ROOM_DESC,{This expansion module allows for the rapid construction of habitable spaces inside large starships. Construction unit is fabricated complete with pressure bulkhead and all necessary attachment points.}
+UI_SPACE_CUBEROOM_NAME,{LARGE FREIGHTER ROOM}
+UI_SPACE_CORRIDOR_NAME,{FREIGHTER CORRIDOR}
+UI_SPACE_CORRIDOR_L_NAME,{CURVED FREIGHTER CORRIDOR}
+UI_SPACE_CORRIDOR_T_NAME,{FREIGHTER JUNCTION}
+UI_SPACE_STAIRS_NAME,{FREIGHTER STAIRS}
+UI_SPACE_WALL_NAME,{INTERNAL FREIGHTER WALL}
+UI_SPACE_CUBEROOM_NAME_L,{Large Freighter Room}
+UI_SPACE_CORRIDOR_NAME_L,{Freighter Corridor}
+UI_SPACE_CORRIDOR_L_NAME_L,{Curved Freighter Corridor}
+UI_SPACE_CORRIDOR_T_NAME_L,{Freighter Junction}
+UI_SPACE_CORRIDOR_X_NAME,{FREIGHTER CROSS JUNCTION}
+UI_SPACE_CORRIDOR_X_NAME_L,{Freighter Cross Junction}
+UI_SPACE_STAIRS_NAME_L,{Freighter Stairs}
+UI_SPACE_WALL_NAME_L,{Internal Freighter Wall}
+UI_FLEET_COMMAND_NAME,{FLEET COMMAND ROOM}
+UI_FLEET_COMMAND_NAME_L,{Fleet Command Room}
+UI_FLEET_COMMAND_DESC,{Core <TECHNOLOGY>Fleet Management Station<>. This advanced holographic communications station is vital for managing fleet expeditions from the comfort of your capital ship. User is advised that multiple stations are required to manage more than one expedition at a time.}
+UI_FLEET_COMMAND_SUB,{Expedition Management Terminal}
+UI_BASE_TELEPORT_NAME,{BASE TELEPORT MODULE}
+UI_BASE_TELEPORT_NAME_L,{Base Teleport Module}
+UI_BASE_TELEPORT_DESC,"{A <TECHNOLOGY>personal teleport device<>, allowing the user to move quickly between their constructed bases, as well as any Space Station Terminuses connected to their network. User is urged to verify network integrity before inserting any matter they cannot afford to become separated from.}"
+UI_BASE_TELEPORT_SUB,{Long-Distance Matter Transfer Device}
+UI_BASE_CAPSULE_NAME,{BASE SALVAGE CAPSULE}
+UI_BASE_CAPSULE_NAME_L,{Base Salvage Capsule}
+UI_BASE_CAPSULE_DESC,{A <COMMODITY>construction recovery device<>. This optional piece of base technology stores and preserves matter left over after the destruction of a previous base.}
+UI_BASE_CAPSULE_SUB,{Autonomous Storage Device}
+UI_BASE_SHOP_NAME,{HOLOGRAPHIC MERCHANT}
+UI_BASE_SHOP_NAME_L,{Holographic Merchant}
+UI_BASE_SHOP_DESC,{This state-of-the-art holographic projector allows the user to purchase the latest in <TECHNOLOGY>Construction Blueprints<> from the comfort of their own home. Transactions carried out over the network are fully verified by the Galactic Trade Authority.}
+UI_BASE_SHOP_SUB,{Commerical HoloTerminus}
+UI_BP_GROUP_ACCESS,{Blueprint Module: Base Access}
+UI_BP_GROUP_BASE_TECH,{Blueprint Module: Base Technology}
+UI_BP_GROUP_BASIC,{Blueprint Module: Basic Structure}
+UI_BP_GROUP_CUBES,{Blueprint Module: Small Room}
+UI_BP_GROUP_DECALS,{Blueprint Module: Decal}
+UI_BP_GROUP_EXT_DECOR,{Blueprint Module: Exterior Structure}
+UI_BP_GROUP_FARMING,{Blueprint Module: Agriculture}
+UI_BP_GROUP_FRAMES,{Blueprint Module: Foundation}
+UI_BP_GROUP_GLASS,{Blueprint Module: Glass Structure}
+UI_BP_GROUP_INT_DECOR,{Blueprint Module: Decoration}
+UI_BP_GROUP_LIGHTS,{Blueprint Module: Light}
+UI_BP_GROUP_PLANET_TECH,{Blueprint Module: Deployable Technology}
+UI_BP_GROUP_ROOMS,{Blueprint Module: Large Room}
+UI_BP_GROUP_STORAGE,{Blueprint Module: Storage}
+UI_TECH_REWARD,{Technology Module}
+UI_BP_GROUP_ALL,{Construction Blueprint}
+UI_BP_ANALYSER_NAME,{BLUEPRINT ANALYSER}
+UI_BP_ANALYSER_NAME_L,{Blueprint Analyser}
+UI_BP_ANALYSER_DESC,{Portable <TECHNOLOGY>blueprint decryption device<>. This field-deployable memory salvage module allows the user to recover valuable data from old or damage technology modules.}
+UI_BP_ANALYSER_SUB,{Technology Recovery Device}
+BP_SALVAGE_NAME,{SALVAGED TECHNOLOGY}
+BP_SALVAGE_NAME_L,{Salvaged Technology}
+BP_SALVAGE_DESC,"{An old data bank, the last remains of some alien technology. Useless in its current form, a <TECHNOLOGY>Blueprint Analyser<> will reveal any useful technology contained within.}"
+BP_SALVAGE_SUB,{Damaged Data Unit}
+UI_BP_ANALYSTER_TITLE,{Blueprint Analyser}
+UI_BP_ANALYSTER_LANG,{ANALYSIS UNIT ONLINE... Awaiting Input...}
+UI_BP_ANALYSTER_LANG1,{ANALYSIS UNIT ONLINE... Awaiting Input... Diagnostic Suggestion: User should recover <TECHNOLOGY>Buried Technology<> from digsites. Equip and utilise an <TECHNOLOGY>Analysis Visor<>.}
+UI_BP_ANALYSTER_OPT,{Blueprint Research}
+BLD_RACE_SHIPSTART_NAME,{STARSHIP RACE INITIATOR}
+BLD_RACE_SHIPSTART_NAME_L,{Starship Race Initiator}
+BLD_RACE_SHIPSTART_DESCRIPTION,"{This platform acts as the start and finish line for Starship field tests, allowing Travellers to practice manoeuvring and speed.}"
+BLD_RACE_SHIPSTART_SUBTITLE,{Race Part}
+UI_FREIGHTER_PARTS,{Freighter Construction Components}
+NPC_TRADE_TECH_PARTS,{Purchase Components}
+NPC_TRADE_TECH_UPGRADES,{Purchase Upgrade Modules}
+NOTIFY_HOT_ROCK,{HEAT ANOMALY DETECTED}
+NOTIFY_GAS_PLANT,{NEARBY TOXINS DETECTED}
+NOTIFY_RADLEAK_DAMAGE,{RADIATION LEAK DETECTED}
+UI_HYP_CLUE_NAME,{STRANGE MESSAGE}
+UI_HYP_CLUE_NAME_L,{Strange Message}
+UI_HYP_CLUE_DESC,"{'' The Traveller finds their feet. They walk towards us, as they must. '' '' 16 / 16 / 16 / 16 '' '' You will find us, when the time is right. ''}"
+UI_HYP_CLUE_SUB,{Signal Echo}
+SENTINEL_ESCAPE_MSG,{<HIGHLIGHT>Escape Sentinels<> Leave the area or hide before reinforcements arrive Time Remaining: %TIME%s}
+UI_CURRENT_OBJ_TITLE,{Current Objective}
+YOUR_FRIEND_OWNS_THIS,{%NAME%'S Base}
+YOUR_FRIEND_OWNS_THIS_DESC,{Logged in as GUEST of %NAME% Base: Operational <IMG>SLASH<> Base Controls: Limited <IMG>SLASH<> Construction Permissions: Partial}
+SENTINEL_ARMOUR,{Armour Plating}
+UI_BINOCS_TIME,{Current Time: %TIME% <IMG>CLOCK<>}
+UI_NOT_APPLICABLE,{N/A}
+BINOC_PLANET_DATA,{Local Data}
+UI_BINOC_RESOURCES,{Available Resources}
+UI_WIKI_UNLOCKED,{New Guide Entry Unlocked}
+UI_WIKI_UNLOCKED_ALT,{<MISSIONPRIMARY>New Guide Entry<> <IMG>SLASH<> %NAME% <IMG>MISSIONEND<>}
+UI_WIKI_NEW_ENTRY,{New Guide Entry: %NAME% Press <IMG>OPTIONS<> to read more}
+UI_WIKI_UNLOCKED_TITLE,{<MISSIONPRIMARY>NEW GUIDE ENTRY UNLOCKED<>}
+UI_WIKI_UNLOCKED_DESC,{Press <IMG>OPTIONS<> to read more}
+UI_PLANET_ENTRY,{<MISSIONPRIMARY>INITIATING PLANETARY APPROACH<>}
+UI_PLANET_DESC,{Planet <STELLAR>%NAME%<>}
+UI_PLANET_SUB,{Entering atmosphere}
+UI_STATION_ENTRY,{<MISSIONPRIMARY>INITIATING DOCKING PROCEDURE<>}
+UI_BUILDING_DISCOVERED,{<MISSIONPRIMARY>STRUCTURE ENTERED<>}
+UI_SECTOR_DISCOVERED,{<MISSIONPRIMARY>AREA DISCOVERED<>}
+BLD_HAZSTATION_NAME,{HAZARD PROTECTION UNIT}
+BLD_HAZSTATION_NAME_L,{Hazard Protection Unit}
+BLD_HAZSTATION_DESCRIPTION,{A wall mounted module that can be used to recharge the user's <COMMODITY>Hazard Protection<> systems. The Hazard Protection Unit must be kept charged with a source of <FUEL>fuel<>.}
+BLD_HAZSTATION_SUBTITLE,{Hazard Protection Charging System}
+UI_NETWORK_TIMEOUT,{NETWORK TIMEOUT}
+REMOTE_PLAYER_SHIP,{%PLAYER%’s Starship}
+REMOTE_PLAYER_EXOCRAFT,{%PLAYER%’s Exocraft}
+UI_UNDISC_CREATURE,{Undiscovered Creature}
+UI_UNDISC_PLANET,{Undiscovered Planet}
+UI_UNDISC_FLORA,{Undiscovered Plant}
+UI_UNDISC_MINERAL,{Undiscovered Mineral}
+UI_REMOTE_LABEL,{%PLAYER%'s %OBJECT%}
+UI_TIMELINE_LABEL,{Visited Systems}
+UI_REFUND_BASE,{Refund this Base}
+UI_RESEARCH_STATION_NAME,{PLANETARY RESEARCH STATION}
+UI_RESEARCH_STATION_NAME_L,{Planetary Research Station}
+UI_RESEARCH_STATION_DESC,"{An advanced data analysis station, of particular use to explorers attempting to catalogue a planet in its entirety. The station takes in environment data and offers its prediction for likely <TECHNOLOGY>locations of undiscovered creatures<>.}"
+UI_RESEARCH_STATION_SUB,{Data Prediction Module}
+UI_HARVESTED_SUB,{Harvested Substance}
+UI_TELEPORT_TITLE,{Teleport Terminus}
+UI_TELEPORT_LANG,{Teleport network... online... Matter transport... stable... Data integrity... 99.%NUM%%... Available destinations profiled. Select desired output terminus.}
+UI_TELEPORT_PRIMARY_OPT,{Set Primary Terminus}
+UI_TELEPORT_FILTER_ALL,{Filter: All}
+UI_TELEPORT_FILTER_SPACE,{Filter: Space Stations}
+UI_TELEPORT_FILTER_BASE,{Filter: Your Bases}
+UI_TELEPORT_FILTER_BASE_EXT,{Filter: Other Players' Bases}
+UI_TECHMOD_NAME,{TECHNOLOGY MODULE}
+UI_TECHMOD_NAME_L,{Technology Module}
+UI_TECHMOD_DESC,"{A prefabricated circuit board, designed for flexible use in a large range of <TECHNOLOGY>technology components<>. The module features an integrated nanite processor, allowing it to be quickly configured for a wide variety of uses.}"
+UI_TECHMOD_SUB,{Technology Wiring Platform}
+UI_MILESTONES,{MILESTONES}
+UI_REPAIR_L,{Repair}
+UI_DISMANTLE_L,{Dismantle}
+UI_CHARGE_L,{Charge}
+UI_TRANSFER_L,{Transfer}
+UI_MOVE_L,{Move}
+UI_CRAFT_L,{Craft Item}
+UI_TECH_L,{Install Upgrade}
+UI_BUILD_L,{Build}
+UI_PIN_L,{Pin}
+UI_DISCARD_L,{Discard}
+UI_CRAFT_MORE_L,{Craft More}
+UI_WIKI_BUILDINGS,{Building Parts}
+UI_WIKI_BUILDINGS_U,{BUILDING PARTS}
+UI_CAPACITY,{Capacity}
+WALKER_ARMOUR,{Armour Plating}
+DOOR_ARMOUR,{Reinforced Door}
+LADDER,{Climb Ladder}
+QUICK_MENU_SUMMON_SHIPS_MENU,{Select Other Ship}
+UI_TRADER_JOB_TITLE,{Trader}
+UI_TRADE_TITLE_FORMAT,{%RACE% %TITLE%}
+UI_MUTE_PLAYER,{Mute Player}
+UI_KICK_PLAYER,{Kick Player}
+NAMEGEN_PROC_TECH_1,{%NAME% Override Mark %NUMERAL%}
+NAMEGEN_PROC_TECH_2,{%NAME% Upgrade %SERIALNUM%}
+NAMEGEN_PROC_TECH_3,{%NAME% %WEAP2% %NUMERAL%}
+NAMEGEN_PROC_TECH_4,{%ADJECTIVE% %NAME% Upgrade}
+UI_REFINER_BTN_BEGIN,{BEGIN}
+UI_REFINER_BTN_STOP,{STOP}
+UWN_NAME,{AERATION MEMBRANE}
+UWN_NAME_L,{Aeration Membrane}
+RAD_NAME,{RADIATION DEFLECTOR}
+RAD_NAME_L,{Radiation Deflector}
+COLD_NAME,{THERMIC LAYER}
+COLD_NAME_L,{Thermic Layer}
+HOT_NAME,{COOLANT NETWORK}
+HOT_NAME_L,{Coolant Network}
+STAM_NAME,{STAMINA}
+STAM_NAME_L,{Stamina}
+TOX_NAME,{TOXIN SUPPRESSOR}
+TOX_NAME_L,{Toxin Suppressor}
+INTRCT_NOROOM_SLOT,{<IMG>SLASH<> %NUM% INVENTORY SLOTS REQUIRED <IMG>SLASH<>}
+UI_PIN_REFINE,{Refine %ITEM%}
+UI_PIN_CRAFT,{Craft %ITEM%}
+UI_TITLE_MILESTONES,{MILESTONES}
+PHOTO_MODE_CONTROLS_NEW,{<IMG>PHOTO_HIDE<> Hide Menu  <IMG>PHOTO_SUN<> Move Sun to Cursor  <IMG>PHOTO_CAM<> Save Effects  <IMG>PHOTO_EXIT<> Exit Photo Mode}
+PHOTO_CAMMODE_CONTROLS_NEW,{<IMG>PHOTO_HIDE<> Hide Menu  <IMG>PHOTO_SUN<> Move Sun  <IMG>PHOTO_CAMDOWN<>/<IMG>PHOTO_CAMUP<> Change Camera Height <IMG>PHOTO_CAM<> Camera Effects  <IMG>PHOTO_CAPTURE<> Take Screenshot  <IMG>PHOTO_EXIT<> Exit Photo Mode}
+UI _UNLOCK_INFO,{Topics will unlock as you progress through the game.}
+UI_ENABLED,{Enabled}
+UI_LEAVE,{<IMG>FE_BACK<> Go Back}
+UI_JOINGAME,{Join Game}
+UI_PLAYGAME,{Play Game}
+UI_JOINGAME_SUB,{Join a session with friends or random explorers.}
+UI_PLAYGAME_SUB,{Other explorers may join your session.}
+UI_NMS,{NO MAN'S SKY}
+UI_SAVESLOT,{Load Save}
+UI_SAVESLOTEMPTY,{New Game}
+UI_LOBBYSIZE,{Lobby Size}
+UI_JOININFO_1,"{Choose a save to bring your inventory, mission progress, and home base into this session.}"
+UI_JOININFO_2,{Only save games that match the host's game mode will be shown.}
+UI_LOBBY_JOINRAND,{Joining Random Game}
+UI_LOBBYFULL,{This lobby is currently full.}
+UI_HEALTH_CAT,{HEALTH & LIFE SUPPORT}
+UI_PROT_CAT,{HAZARD PROTECTION}
+UI_STAM_CAT,{MOVEMENT SYSTEMS}
+UI_LASER_CAT,{MINING}
+UI_WEAPON_CAT,{WEAPONS}
+UI_SECOND_CAT,{SECONDARY WEAPONS}
+UI_SCAN_CAT,{SCANNER}
+UI_FREIGHTER_BUILDING,{Construction Area}
+UI_NOTIFY_TIP_TITLE,{Exosuit Guidance Message}
+UI_NOTIFY_SHIP_TIP_TITLE,{Starship Guidance Message}
+UI_NOTIFY_EXOCRAFT_TIP_TITLE,{Exocraft Guidance Message}
+UI_NOTIFY_SHIP_COMBAT_TITLE,{Starship Combat Alert}
+FRIENDS_CAPITAL_SHIP_NAME_L,{%NAME%'s Capital Ship}
+HUD_RELOADING,{RELOADING}
+MARKER_TAG,{Hold <IMG>INTERACT<> to Tag}
+BLD_W_WALL_NAME,{WOODEN WALL}
+BLD_W_WALL_NAME_L,{Wooden Wall}
+BLD_W_WALL_DESC,{A Wooden Wall for use in base construction.}
+BLD_WOOD_SUB,{Wooden Construction Component}
+BLD_W_WALL_Q_NAME,{SMALL WOODEN WALL}
+BLD_W_WALL_Q_NAME_L,{Small Wooden Wall}
+BLD_W_WALL_Q_DESC,{A Small Wooden Wall for use in base construction.}
+BLD_W_WALL_Q_H_NAME,{SHORT WOODEN WALL}
+BLD_W_WALL_Q_H_NAME_L,{Short Wooden Wall}
+BLD_W_WALL_Q_H_DESC,{A Short Wooden Wall for use in base construction.}
+BLD_W_WALLDIAGONAL_NAME,{SLOPING WOOD PANEL}
+BLD_W_WALLDIAGONAL_NAME_L,{Sloping Wood Panel}
+BLD_W_WALLDIAGONAL_DESC,{A Sloping Wood Panel for use in base construction.}
+BLD_W_WALL_WINDOW_NAME,{WOODEN WINDOW PANEL}
+BLD_W_WALL_WINDOW_NAME_L,{Wooden Window Panel}
+BLD_W_WALL_WINDOW_DESC,{A Wooden Window Panel for use in base construction.}
+BLD_W_DOOR_NAME,{WOODEN DOOR FRAME}
+BLD_W_DOOR_NAME_L,{Wooden Door Frame}
+BLD_W_DOOR_DESC,{A Wooden Door Frame for use in base construction.}
+BLD_W_DOORWINDOW_NAME,{WOODEN FRONTAGE}
+BLD_W_DOORWINDOW_NAME_L,{Wooden Frontage}
+BLD_W_DOORWINDOW_DESC,{A Wooden Frontage for use in base construction.}
+BLD_W_FLOOR_NAME,{WOOD FLOOR PANEL}
+BLD_W_FLOOR_NAME_L,{Wood Floor Panel}
+BLD_W_FLOOR_DESC,{A Wood Floor Panel for use in base construction.}
+BLD_W_FLOOR_Q_NAME,{SMALL WOOD PANEL}
+BLD_W_FLOOR_Q_NAME_L,{Small Wood Panel}
+BLD_W_FLOOR_Q_DESC,{A Small Wood Panel for use in base construction.}
+BLD_W_RAMP_NAME,{WOODEN RAMP}
+BLD_W_RAMP_NAME_L,{Wooden Ramp}
+BLD_W_RAMP_DESC,{A Wooden Ramp for use in base construction.}
+BLD_W_RAMP_H_NAME,{WOODEN HALF RAMP}
+BLD_W_RAMP_H_NAME_L,{Wooden Half Ramp}
+BLD_W_RAMP_H_DESC,{A Wooden Half Ramp for use in base construction.}
+BLD_W_ROOF_NAME,{WOODEN ROOF}
+BLD_W_ROOF_NAME_L,{Wooden Roof}
+BLD_W_ROOF_DESC,{A basic roof platform with reinforced load struts.}
+BLD_W_ROOF_M_NAME,{WOODEN ROOF PANEL}
+BLD_W_ROOF_M_NAME_L,{Wooden Roof Panel}
+BLD_W_ROOF_M_DESC,{A piece of wooden roof panelling for use in base construction.}
+BLD_W_ROOF_C_NAME,{WOODEN ROOF CORNER}
+BLD_W_ROOF_C_NAME_L,{Wooden Roof Corner}
+BLD_W_ROOF_C_DESC,{A wooden roof corner for use in base construction.}
+BLD_W_ROOF_NAME_OLD,{WOODEN ROOF}
+BLD_W_ROOF_NAME_L_OLD,{Wooden Roof}
+BLD_W_ROOF_DESC_OLD,{A Wooden Roof for use in base construction.}
+BLD_W_ARCH_NAME,{WOODEN ARCH}
+BLD_W_ARCH_NAME_L,{Wooden Arch}
+BLD_W_ARCH_DESC,{A Wooden Arch for use in base construction.}
+BLD_W_ARCH_H_NAME,{WOODEN HALF ARCH}
+BLD_W_ARCH_H_NAME_L,{Wooden Half Arch}
+BLD_W_ARCH_H_DESC,{A Wooden Half Arch for use in base construction.}
+BLD_W_SDOOR_NAME,{SMALL WOODEN DOOR}
+BLD_W_SDOOR_NAME_L,{Small Wooden Door}
+BLD_W_SDOOR_DESC,{A small door to insert in a wooden doorframe}
+BLD_W_GFLOOR_NAME,{WOOD-FRAMED GLASS PANEL}
+BLD_W_GFLOOR_NAME_L,{Wood-Framed Glass Panel}
+BLD_W_GFLOOR_DESC,{A glass floor/ceiling panel with a wood frame.}
+BLD_W_DOOR_H_NAME,{WOODEN DOORWAY}
+BLD_W_DOOR_H_NAME_L,{Wooden Doorway}
+BLD_W_DOOR_H_DESC,{A thin wooden doorway for use in base construction.}
+BLD_W_WALL_H_NAME,{THIN WOODEN WALL}
+BLD_W_WALL_H_NAME_L,{Thin Wooden Wall}
+BLD_W_WALL_H_DESC,{A thin wooden wall module for use in base construction.}
+BLD_M_WALL_NAME,{METAL WALL}
+BLD_M_WALL_NAME_L,{Metal Wall}
+BLD_M_WALL_DESC,{A Metal Wall for use in base construction.}
+BLD_METAL_SUB,{Metal Construction Component}
+BLD_M_WALL_Q_NAME,{SMALL METAL WALL}
+BLD_M_WALL_Q_NAME_L,{Small Metal Wall}
+BLD_M_WALL_Q_DESC,{A Small Metal Wall for use in base construction.}
+BLD_M_WALL_Q_H_NAME,{SHORT METAL WALL}
+BLD_M_WALL_Q_H_NAME_L,{Short Metal Wall}
+BLD_M_WALL_Q_H_DESC,{A Small Metal Wall for use in base construction.}
+BLD_M_WALLDIAGONAL_NAME,{SLOPING METAL PANEL}
+BLD_M_WALLDIAGONAL_NAME_L,{Sloping Metal Panel}
+BLD_M_WALLDIAGONAL_DESC,{A Sloping Metal Panel for use in base construction.}
+BLD_M_WALL_WINDOW_NAME,{METAL WINDOW PANEL}
+BLD_M_WALL_WINDOW_NAME_L,{Metal Window Panel}
+BLD_M_WALL_WINDOW_DESC,{A Metal Window Panel for use in base construction.}
+BLD_M_DOOR_NAME,{METAL DOOR FRAME}
+BLD_M_DOOR_NAME_L,{Metal Door Frame}
+BLD_M_DOOR_DESC,{A Metal Door Frame for use in base construction.}
+BLD_M_DOORWINDOW_NAME,{METAL FRONTAGE}
+BLD_M_DOORWINDOW_NAME_L,{Metal Frontage}
+BLD_M_DOORWINDOW_DESC,{A Metal Frontage for use in base construction.}
+BLD_M_FLOOR_NAME,{METAL FLOOR PANEL}
+BLD_M_FLOOR_NAME_L,{Metal Floor Panel}
+BLD_M_FLOOR_DESC,{A Metal Floor Panel for use in base construction.}
+BLD_M_FLOOR_Q_NAME,{SMALL METAL PANEL}
+BLD_M_FLOOR_Q_NAME_L,{Small Metal Panel}
+BLD_M_FLOOR_Q_DESC,{A Small Metal Panel for use in base construction.}
+BLD_M_RAMP_NAME,{METAL RAMP}
+BLD_M_RAMP_NAME_L,{Metal Ramp}
+BLD_M_RAMP_DESC,{A Metal Ramp for use in base construction.}
+BLD_M_RAMP_H_NAME,{METAL HALF RAMP}
+BLD_M_RAMP_H_NAME_L,{Metal Half Ramp}
+BLD_M_RAMP_H_DESC,{A Metal Half Ramp for use in base construction.}
+BLD_M_ROOF_NAME,{METAL ROOF}
+BLD_M_ROOF_NAME_L,{Metal Roof}
+BLD_M_ROOF_DESC,{A basic roof platform with reinforced load struts.}
+BLD_M_ROOF_NAME_OLD,{METAL ROOF}
+BLD_M_ROOF_NAME_L_OLD,{Metal Roof}
+BLD_M_ROOF_DESC_OLD,{A Metal Roof for use in base construction.}
+BLD_M_ROOF_M_NAME,{METAL ROOF PANEL}
+BLD_M_ROOF_M_NAME_L,{Metal Roof Panel}
+BLD_M_ROOF_M_DESC,{A piece of metal roof panelling for use in base construction.}
+BLD_M_ROOF_C_NAME,{METAL ROOF CORNER}
+BLD_M_ROOF_C_NAME_L,{Metal Roof Corner}
+BLD_M_ROOF_C_DESC,{A metal roof corner for use in base construction.}
+BLD_M_ARCH_NAME,{METAL ARCH}
+BLD_M_ARCH_NAME_L,{Metal Arch}
+BLD_M_ARCH_DESC,{A Metal Arch for use in base construction.}
+BLD_M_ARCH_H_NAME,{METAL HALF ARCH}
+BLD_M_ARCH_H_NAME_L,{Metal Half Arch}
+BLD_M_ARCH_H_DESC,{A Metal Half Arch for use in base construction.}
+BLD_M_SDOOR_NAME,{SMALL METAL DOOR}
+BLD_M_SDOOR_NAME_L,{Small Metal Door}
+BLD_M_SDOOR_DESC,{A small door to insert in a metal doorframe}
+BLD_M_GFLOOR_NAME,{METAL-FRAMED GLASS PANEL}
+BLD_M_GFLOOR_NAME_L,{Metal-Framed Glass Panel}
+BLD_M_GFLOOR_DESC,{A glass floor/ceiling panel with a metal frame.}
+BLD_M_DOOR_H_NAME,{METAL DOORWAY}
+BLD_M_DOOR_H_NAME_L,{Metal Doorway}
+BLD_M_DOOR_H_DESC,{A thin metal doorway for use in base construction.}
+BLD_M_WALL_H_NAME,{THIN METAL WALL}
+BLD_M_WALL_H_NAME_L,{Thin Metal Wall}
+BLD_M_WALL_H_DESC,{A thin metal wall module for use in base construction.}
+BLD_C_WALL_NAME,{CONCRETE WALL}
+BLD_C_WALL_NAME_L,{Concrete Wall}
+BLD_C_WALL_DESC,{A Concrete Wall for use in base construction.}
+BLD_CONCRETE_SUB,{Concrete Construction Component}
+BLD_C_WALL_Q_NAME,{SMALL CONCRETE WALL}
+BLD_C_WALL_Q_NAME_L,{Small Concrete Wall}
+BLD_C_WALL_Q_DESC,{A Small Concrete Wall for use in base construction.}
+BLD_C_WALL_Q_H_NAME,{SHORT CONCRETE WALL}
+BLD_C_WALL_Q_H_NAME_L,{Short Concrete Wall}
+BLD_C_WALL_Q_H_DESC,{A Small Concrete Wall for use in base construction.}
+BLD_C_WALLDIAGONAL_NAME,{SLOPING CONCRETE PANEL}
+BLD_C_WALLDIAGONAL_NAME_L,{Sloping Concrete Panel}
+BLD_C_WALLDIAGONAL_DESC,{A Sloping Concrete Panel for use in base construction.}
+BLD_C_WALL_WINDOW_NAME,{CONCRETE WINDOW PANEL}
+BLD_C_WALL_WINDOW_NAME_L,{Concrete Window Panel}
+BLD_C_WALL_WINDOW_DESC,{A Concrete Window Panel for use in base construction.}
+BLD_C_DOOR_NAME,{CONCRETE DOOR FRAME}
+BLD_C_DOOR_NAME_L,{Concrete Door Frame}
+BLD_C_DOOR_DESC,{A Concrete Door Frame for use in base construction.}
+BLD_C_DOORWINDOW_NAME,{CONCRETE FRONTAGE}
+BLD_C_DOORWINDOW_NAME_L,{Concrete Frontage}
+BLD_C_DOORWINDOW_DESC,{A Concrete Frontage for use in base construction.}
+BLD_C_FLOOR_NAME,{CONCRETE FLOOR PANEL}
+BLD_C_FLOOR_NAME_L,{Concrete Floor Panel}
+BLD_C_FLOOR_DESC,{A Concrete Floor Panel for use in base construction.}
+BLD_C_FLOOR_Q_NAME,{SMALL CONCRETE PANEL}
+BLD_C_FLOOR_Q_NAME_L,{Small Concrete Panel}
+BLD_C_FLOOR_Q_DESC,{A Small Concrete Panel for use in base construction.}
+BLD_C_RAMP_NAME,{CONCRETE RAMP}
+BLD_C_RAMP_NAME_L,{Concrete Ramp}
+BLD_C_RAMP_DESC,{A Concrete Ramp for use in base construction.}
+BLD_C_RAMP_H_NAME,{CONCRETE HALF RAMP}
+BLD_C_RAMP_H_NAME_L,{Concrete Half Ramp}
+BLD_C_RAMP_H_DESC,{A Concrete Half Ramp for use in base construction.}
+BLD_C_ROOF_NAME,{CONCRETE ROOF}
+BLD_C_ROOF_NAME_L,{Concrete Roof}
+BLD_C_ROOF_DESC,{A basic roof platform with reinforced load struts.}
+BLD_C_ROOF_NAME_OLD,{CONCRETE ROOF}
+BLD_C_ROOF_NAME_L_OLD,{Concrete Roof}
+BLD_C_ROOF_DESC_OLD,{A Concrete Roof for use in base construction.}
+BLD_C_ROOF_M_NAME,{CONCRETE ROOF PANEL}
+BLD_C_ROOF_M_NAME_L,{Concrete Roof Panel}
+BLD_C_ROOF_M_DESC,{A piece of concrete roof panelling for use in base construction.}
+BLD_C_ROOF_C_NAME,{CONCRETE ROOF CORNER}
+BLD_C_ROOF_C_NAME_L,{Concrete Roof Corner}
+BLD_C_ROOF_C_DESC,{A concrete roof corner for use in base construction.}
+BLD_C_ARCH_NAME,{CONCRETE ARCH}
+BLD_C_ARCH_NAME_L,{Concrete Arch}
+BLD_C_ARCH_DESC,{A Concrete Arch for use in base construction.}
+BLD_C_ARCH_H_NAME,{CONCRETE HALF ARCH}
+BLD_C_ARCH_H_NAME_L,{Concrete Half Arch}
+BLD_C_ARCH_H_DESC,{A Concrete Half Arch for use in base construction.}
+BLD_C_SDOOR_NAME,{SMALL CONCRETE DOOR}
+BLD_C_SDOOR_NAME_L,{Small Concrete Door}
+BLD_C_SDOOR_DESC,{A small door to insert in a concrete doorframe}
+BLD_C_GFLOOR_NAME,{CONCRETE-FRAMED GLASS PANEL}
+BLD_C_GFLOOR_NAME_L,{Concrete-Framed Glass Panel}
+BLD_C_GFLOOR_DESC,{A glass floor/ceiling panel with a concrete frame.}
+BLD_C_DOOR_H_NAME,{CONCRETE DOORWAY}
+BLD_C_DOOR_H_NAME_L,{Concrete Doorway}
+BLD_C_DOOR_H_DESC,{A thin concrete doorway for use in base construction.}
+BLD_C_WALL_H_NAME,{THIN CONCRETE WALL}
+BLD_C_WALL_H_NAME_L,{Thin Concrete Wall}
+BLD_C_WALL_H_DESC,{A thin concrete wall module for use in base construction.}
+BLD_ROBOTICARM_NAME,{ROBOTIC ARM}
+BLD_ROBOTICARM_NAME_L,{Robotic Arm}
+BLD_OCTACABINET_NAME,{OCTA-CABINET}
+BLD_OCTACABINET_NAME_L,{Octa-Cabinet}
+BLD_BUILDLCRATE_NAME,{LOCKED CRATE}
+BLD_BUILDLCRATE_NAME_L,{Locked Crate}
+BLD_BUILDAMCRATE_NAME,{SMALL CRATE}
+BLD_BUILDAMCRATE_NAME_L,{Small Crate}
+BLD_BOXEDSCREEN_NAME,{OSCILLOSCOPE}
+BLD_BOXEDSCREEN_NAME_L,{Oscilloscope}
+BLD_WALLSCREENB_NAME,{GREEN WALL SCREEN}
+BLD_WALLSCREENB_NAME_L,{Green Wall Screen}
+BLD_WALLSCREENB2_NAME,{ORANGE WALL SCREEN}
+BLD_WALLSCREENB2_NAME_L,{Orange Wall Screen}
+BLD_BUILDWORKTOP_NAME,{WORKTOP}
+BLD_BUILDWORKTOP_NAME_L,{Worktop}
+BLD_BUILDSIMPLEDESK_NAME,{SIMPLE DESK}
+BLD_BUILDSIMPLEDESK_NAME_L,{Simple Desk}
+BLD_BUILDSOFA_NAME,{SOFA}
+BLD_BUILDSOFA_NAME_L,{Sofa}
+BLD_BUILDSOFA2L_NAME,{CORNER SOFA}
+BLD_BUILDSOFA2L_NAME_L,{Corner Sofa}
+BLD_BUILDSOFA2_NAME,{SWEPT SOFA}
+BLD_BUILDSOFA2_NAME_L,{Swept Sofa}
+BLD_STORAGEPANEL_NAME,{STORAGE PANEL}
+BLD_STORAGEPANEL_NAME_L,{Storage Panel}
+BLD_SHELFPANEL_NAME,{SHELF PANEL}
+BLD_SHELFPANEL_NAME_L,{Shelf Panel}
+BLD_BUILDLOCKER_NAME,{LOCKER}
+BLD_BUILDLOCKER_NAME_L,{Locker}
+BLD_BUILDLIGHTTABLE_NAME,{LIGHT TABLE}
+BLD_BUILDLIGHTTABLE_NAME_L,{Light Table}
+BLD_BUILDHCABINET_NAME,{TALL CABINET}
+BLD_BUILDHCABINET_NAME_L,{Tall Cabinet}
+BLD_BUILDSIDEPANEL_NAME,{SIDE PANEL}
+BLD_BUILDSIDEPANEL_NAME_L,{Side Panel}
+BLD_BUILDCANRACK_NAME,{CANISTER RACK}
+BLD_BUILDCANRACK_NAME_L,{Canister Rack}
+BLD_BUILDLABLAMP_NAME,{LAB LAMP}
+BLD_BUILDLABLAMP_NAME_L,{Lab Lamp}
+BLD_BUILDFLATPANEL_NAME,{FLAT PANEL}
+BLD_BUILDFLATPANEL_NAME_L,{Flat Panel}
+UI_NETWORK_INVITE,{Invite Friends}
+UI_PSN_PLAYER_PROFILE,{Show Profile}
+UI_RACE_RESULTS,{Results}
+UI_RACE_LINEUP,{Race Line-up}
+UI_RACE_START,{Start}
+RACE_NOT_FINISHED_TEXT,{In Progress}
+UI_HAZARD_STATION,{Hazard Protection Unit}
+UI_NOTIFY_LOST_NETWORK,{NETWORK CONNECTION LOST}
+UI_SETTINGS_TERRAIN_QUALITY,{Terrain Quality}
+UI_SETTINGS_TERRAIN_LOW,{Terrain Quality: Low}
+UI_SETTINGS_TERRAIN_MED,{Terrain Quality: Medium}
+UI_SETTINGS_TERRAIN_HIGH,{Terrain Quality: High}
+UI_SETTINGS_TERRAIN_ULT,{Terrain Quality: Ultra}
+UI_COPRITE_LABEL,{Coprite Crystal}
+BASE_INFO_NAME,{Editing %BASE%}
+BASE_INFO_OWNER,{Editing %BASE% (%OWNER%)}
+BASE_INFO_OFFLINE,{Cannot edit %BASE%: %OWNER% offline}
+UI_NOTIFY_FULL_LOBBY,{LOBBY IS FULL}
+UI_NOTIFY_JOIN_FAILED,{FAILED TO JOIN LOBBY}
+UI_NO_MP_SESSION,"{Sorry, you are not allowed to join any sessions.}"
+UI_GEK_NAME_U,{GEK}
+UI_KORVAX_NAME_U,{KORVAX}
+UI_VYKEEN_NAME_U,{VY'KEEN}
+UI_TRAVELLER_NAME_U,{TRAVELLER}
+UI_PLAYER_NAME_U,{ANOMALY}
+UI_SENTINEL_ARRIVE_OSD,{REINFORCEMENTS ARRIVING IN %TIME%}
+UI_SENTINEL_HUNT_OSD,{SENTINELS SEARCHING: %TIME%}
+UI_SENTINEL_SPOTTED_OSD,{DETECTED!}
+MP_MISSION_STATION_TITLE,{Galactic Commission Station}
+UI_CUSTOMISER_CONTROLS,{Hold <IMG>CC_CAM<> Change Camera View   <IMG>CC_CAMROT<> Rotate Camera   <IMG>CC_EXIT<> Exit}
+UI_SWITCHALTWEAPON_HUD,{Switch Alt <IMG>CYCLEALTWEAPON<>}
+UI_TERRAINMODE_SUBTITLE,{Manipulator Mode}
+UI_TERRAINMODE_DELETE,{MINE}
+UI_TERRAINMODE_CREATE,{CREATE}
+UI_OTHER_PLAYER_ERROR,{Object In Use}
+UI_SENTINELS_DEPLOYED_TITLE,{Sentinels Deployed! Evade!}
+UI_TERRAIN_TIP_TITLE,{Terrain Manipulator Advanced Mode}
+UI_TERRAIN_SHAPE_0,{Sphere}
+UI_TERRAIN_SHAPE_1,{Cube}
+UI_TERRAIN_EDIT_MATERIAL,{Change Material}
+UI_TERRAIN_EDIT_SHAPE,{Change Shape}
+UI_TERRAIN_EDIT_TIP,{<IMG>QUICK_LEFT<>/<IMG>QUICK_RIGHT<> Change Selection   <IMG>BUILD_SET_UP<>/<IMG>BUILD_SET_DOWN<> Navigate}
+UI_CUSTOM_MARKER_TIP,{Press <IMG>CUSTOMMARK<> to place Custom Marker}
+UI_TERRAIN_EDIT_SIZE_TIP,{<IMG>SIZETERRAIN_DN<>/<IMG>SIZETERRAIN_UP<> CHANGE SIZE}
+UI_TERRAIN_EDIT_SIZE_TIP_PC,{<IMG>SIZETERRAIN_UP<> CHANGE SIZE}
+UI_TERRAIN_EDIT_ROTATE_TIP,{<IMG>ROTTERRAINLEFT<>/<IMG>ROTTERRAINRIGHT<> ROTATE PLANE}
+UI_TERRAIN_EDIT_ROTATE_TIP_PC,{<IMG>ROTTERRAINLEFT<> ROTATE PLANE}
+UI_CHANGE_RACE_CONFIRM,{Changing race will overwrite your current customisation settings. Are you sure?}
+UI_SAVE_CUSTOMISATION,{You are leaving the Appearance Modifier. Would you like to apply changes?}
+UI_CHANGE_RACE_CONFIRM_TITLE,{CHANGE RACE?}
+UI_SAVE_CUSTOMISATION_TITLE,{SAVE CHANGES?}
+UI_CHANGE_PRESET_CONFIRM,{Changing the preset will overwrite your current customisation settings. Are you sure?}
+UI_CHANGE_PRESET_CONFIRM_TITLE,{CHANGE PRESET?}
+UI_MAINT_FRIGATE_SUB_FIXED,{Frigate Component}
+UI_MAINT_FRIGATE_SUB,{Repair damage: %DAMAGE%}
+UI_MAINT_FRIGATE_POD_TITLE,{Damaged Cargo Pod}
+UI_MAINT_FRIGATE_DOOR_TITLE,{Airlock Control Unit}
+UI_MAINT_FRIGATE_TURRET_TITLE,{Defense Grid Panel}
+UI_MAINT_FRIGATE_ENGINE_TITLE,{Engine Core}
+UI_MAINT_FRIGATE_GENERAL_TITLE,{Systems Access Panel}
+UI_PREV,{Previous}
+UI_NEXT,{Next}
+UI_QUAD_PROD_NAME,{QUAD SERVO}
+UI_QUAD_PROD_NAME_L,{Quad Servo}
+UI_QUAD_PROD_DESC,"{A highly sprung motor arm salvaged from inside of a Sentinel patrol unit. It occasionally twitches, as if experiencing the echo of combat.}"
+UI_WALKER_PROD_NAME,{WALKER BRAIN}
+UI_WALKER_PROD_NAME_L,{Walker Brain}
+UI_WALKER_PROD_DESC,"{Shifting nanite clusters sewn together with a pugneum filament, this circuit is painfully hot to the touch. A sinister purple light leaks from deep within its wiring, changing in intensity as it watches its holder.}"
+UI_CATA_CRAFT_NAME,{SODIUM DIODE}
+UI_CATA_CRAFT_NAME_L,{Sodium Diode}
+UI_CATA_CRAFT_DESC,{An advanced circuit component. The refined sodium electrode within its vacuum tube gives this diode specialist surge-protection capabilities.}
+UI_CAVE_CRAFT_NAME,{COBALT MIRROR}
+UI_CAVE_CRAFT_NAME_L,{Cobalt Mirror}
+UI_CAVE_CRAFT_DESC,"{A specialist optical component. Employing a polished cobalt surface, this mirror is able to selectively filter different wavelengths of light, changing its reflective pattern based on nearby magnetic fields.}"
+UI_WATER_CRAFT_NAME,{SALT REFRACTOR}
+UI_WATER_CRAFT_NAME_L,{Salt Refractor}
+UI_WATER_CRAFT_DESC,"{A specialist technology component, vital to the complex internals of modern laser systems. This light-scattering device takes advantage of the unique optical properties of stabilised and polished salt, to both slow and refract passing photons.}"
+UI_OXY_CRAFT_NAME,{OXYGEN FILTER}
+UI_OXY_CRAFT_NAME_L,{Oxygen Filter}
+UI_OXY_CRAFT_DESC,"{A specialist technology component. This small device can rapidly change the gaseous environment within a device, handling conditions from total vacuum to pure oxygen atmospheres.}"
+UI_NEEDS_SCAN,{??? Analyse ???}
+UI_UNMUTE_PLAYER,{Unmute Player}
+UPDATE4_TITLE,{No Man's Sky NEXT Update}
+UPDATE4_NOTES,"{No Man's Sky NEXT brings a vast array of new features. For full details please see www.nomanssky.com. * Multiplayer: Team up a small team of friends and explore the universe together. * Visual Overhaul: The game is fully playable in third or first person, both on-foot and in ship. * Command Freighters: Assemble and upgrade a fleet of frigates and command them from the bridge of your freighter. * Unlimited Base Building: Bases can now be built anywhere on any planet. The universe has been regenerated to make room for the various changes and features being added. As a result, planetary biomes, terrain and lifeforms have been changed, and your location may also be slightly adjusted. Bases have been temporarily archived but can be restored at any base computer. Hello Games has been hard at work to improve and expand No Man’s Sky. We hope you enjoy :) Thank you so much, Hello Games}"
+UI_NO_MM_CONNECTION,{NO CONNECTION TO MATCHMAKING SERVICES}
+UI_NO_MM_CONNECTION_DESC,{No connection to matchmaking services}
+UI_JOIN_MP_FAILED,{FAILED TO JOIN LOBBY}
+UI_FRIGATE_LIST,{Frigate List}
+UI_NO_MP_UGC_DISABLED,{MULTIPLAYER DISABLED}
+UGC RESTRICTED MULTIPLAYER DISA,{Multiplayer permissions disabled}
+NET_MP_UNAVAILABLE,{You have lost connection to online services}
+BASE_UPLOADING,{Base Uploading to Servers}
+BASE_UPLOADABLE,{Base Uploadable}
+BASE_NOT_UPLOADABLE,{Base Not Uploadable (%AMOUNT%)}
+UI_BASE_MOVE_HERE,{Restore Base Here}
+BASE_BUILDING_NO_UPLOAD_TEXT,{Upload Unavailable (Base Limit Exceeded)}
+BASE_BUILDING_UPLOAD_COOLDOWN,{Upload Unavailable for %TIME%}
+SWITCH_BASE,{<IMG>SWITCH_BASE<> Switch Base}
+PIN_MATERIAL_BASE,{<IMG>PIN_BUILD<> Pin Construction Recipe}
+UI_INV_SWITCH_TIP_SUIT,{<IMG>UI_LEFT<>/<IMG>UI_RIGHT<> Switch Inventory   <IMG>QUICK_LEFT<>/<IMG>QUICK_RIGHT<> Cycle Exosuit Sub-Inventory   <IMG>UI_SPLITUP<>/<IMG>UI_SPLITDOWN<> Change Stack Size}
+UI_INV_SWITCH_TIP_SHIP,{<IMG>UI_LEFT<>/<IMG>UI_RIGHT<> Switch Inventory   <IMG>QUICK_LEFT<>/<IMG>QUICK_RIGHT<> Cycle Starship Sub-Inventory   <IMG>UI_SPLITUP<>/<IMG>UI_SPLITDOWN<> Change Stack Size}
+UI_INV_SWITCH_TIP_EXO,{<IMG>UI_LEFT<>/<IMG>UI_RIGHT<> Switch Inventory   <IMG>UI_SPLITUP<>/<IMG>UI_SPLITDOWN<> Change Stack Size}
+UI_INV_SWITCH_TIP_FREIGHTER,{<IMG>UI_LEFT<>/<IMG>UI_RIGHT<> Switch Inventory   <IMG>QUICK_LEFT<>/<IMG>QUICK_RIGHT<> Cycle Freighter Sub-Inventory   <IMG>UI_SPLITUP<>/<IMG>UI_SPLITDOWN<> Change Stack Size}
+UI_INV_SWITCH_TIP_WEAPON,{<IMG>UI_LEFT<>/<IMG>UI_RIGHT<> Switch Inventory}
+UI_UNLIMITED,{Unlimited}
+UI_TECH_SLOT_ERROR,{Cannot place item in Technology Slot}
+INTRCT_NANITES,{%AMOUNT% Nanite Clusters have been credited to your account}
+INTRCT_SPECIALS,{%AMOUNT% Quicksilver has been credited to your account}
+NANITES_COST_STRING,{%COST% Nanites}
+SPECIALS_COST_STRING,{%COST% Quicksilver}
+AMOUNT_NANITES,{%AMOUNT% Nanites}
+AMOUNT_SPECIALS,{%AMOUNT% Quicksilver}
+PLAYER_SPECIALS_TITLE,{Quicksilver:}
+TRADE_BUY_SPECIAL_SHOP,{Buy exotic collectibles from the Quicksilver Trade Network}
+TRADE_SPECIAL_TITLE,{Exotic Collectibles}
+TRADE_SPECIAL_SUB,"{Exchange Quicksilver for unique, one-off items.}"
+TRADE_BUY_L,{Buy}
+TRADE_SELL_L,{Sell}
+TRADE_SUIT_INVENTORY_L,{<IMG>INVBACKPACK<> Exosuit Inventory}
+TRADE_SHIP_INVENTORY_L,{<IMG>INVSHIP<> Starship Inventory}
+TRADE_FREIGHT_INVENTORY_L,{<IMG>INVFREIGHT<> Freighter Inventory}
+TRADE_TOGGLE_BUYSELL,{Switch <IMG>TOGGLEBUYSELL<>}
+TRADE_TOGGLE_INV,{Switch <IMG>TOGGLEINV<>}
+TRADE_AMOUNT_AVAILABLE,{%AMOUNT% Available}
+TRADE_BUY_NANITES,{<IMG>SELECT<> Buy for <IMG>NANITE<> %PRICE%}
+TRADE_BUY_UNITS,{<IMG>SELECT<> Buy for <IMG>UNITS<> %PRICE%}
+TRADE_BUY_SPECIALS,{<IMG>SELECT<> <TRADE_SPECIALS>Buy for <IMG>QUICKSILVER<> %PRICE%<>}
+TRADE_SELL_UNITS,{<IMG>SELECT<> Sell for <IMG>UNITS<> %PRICE%}
+TRADE_SELL_NANITES,{Sell for %PRICE% Nanite Clusters}
+TRADE_BUY_BUILDING_PRICE,{<IMG>SELECT<> Learn for %PRICE% x Salvage Module}
+TRADE_RANK_REQUIRED,{%RACE% Rank %NUM% required}
+INSUFFICIENT_SPECIALS,{INSUFFICIENT QUICKSILVER}
+SPECIALS_COST,{Buy for %PRICE% Quicksilver}
+TRADE_IN_DEMAND,{In Demand!}
+TRADE_FILTER_ALL,{All Items}
+TRADE_FILTER_SUB,{Raw Materials}
+TRADE_FILTER_PROD,{Crafted Products}
+TRADE_FILTER_COMM,{Trade Commodities}
+TRADE_FILTER_SHIP,{Starship Technology}
+TRADE_FILTER_SUIT,{Exosuit Technology}
+TRADE_FILTER_WEAPON,{Multi-Tool Technology}
+TRADE_FILTER_EMOTE,{Gestures}
+TRADE_FILTER_BASE,{Base Building Parts}
+TRADE_FILTER_CUSTOM,{Appearances}
+TRADE_BUY_PRODUCT,{Buy plans for %AMOUNT% x %ITEM%}
+TRADE_BUY_BUILDING_PROD,{Research plans (%AMOUNT% x %ITEM%)}
+TRADE_BUY_BUILDING_PROD_SUB,{Learn construction blueprint}
+TRADE_BUY_BUILDING_TITLE,{Research Construction Blueprints}
+TRADE_BUY_BUILDING_NO_ITEMS,{Insufficient Salvage Modules}
+BUILD_PROD_DEPLOY,{INSTALL}
+BUILD_PROD_DEPLOY_SUB,{Choose slot and install technology}
+UI_DEPLOY_PROD_TIP_SUIT,{<IMG>SELECT<> Choose slot to install the new technology   <IMG>UI_LEFT<>/<IMG>UI_RIGHT<> Switch Inventory   <IMG>QUICK_LEFT<>/<IMG>QUICK_RIGHT<> Cycle Exosuit Sub-Inventory}
+UI_DEPLOY_PROD_TIP_SHIP,{<IMG>SELECT<> Choose slot to install the new technology   <IMG>UI_LEFT<>/<IMG>UI_RIGHT<> Switch Inventory   <IMG>QUICK_LEFT<>/<IMG>QUICK_RIGHT<> Cycle Starship Sub-Inventory}
+UI_DEPLOY_PROD_TIP_EXO,{<IMG>SELECT<> Choose slot to install the new technology   <IMG>UI_LEFT<>/<IMG>UI_RIGHT<> Switch Inventory}
+UI_DEPLOY_PROD_TIP_FREIGHTER,{<IMG>SELECT<> Choose slot to install the new technology   <IMG>UI_LEFT<>/<IMG>UI_RIGHT<> Switch Inventory   <IMG>QUICK_LEFT<>/<IMG>QUICK_RIGHT<> Cycle Freighter Sub-Inventory}
+UI_DEPLOY_PROD_TIP_WEAPON,{<IMG>SELECT<> Choose slot to install the new technology   <IMG>UI_LEFT<>/<IMG>UI_RIGHT<> Switch Inventory}
+UI_TECH_DEPLOY_ERROR,{Cannot install in this Inventory Type}
+UI_YOU,{You}
+UI_PARTICIPANTS,{Signed up:}
+UI_NOT_PARTICIPANTS,{Not signed up:}
+UI_FIENDCORE_NAME,{LARVAL CORE}
+UI_FIENDCORE_NAME_L,{Larval Core}
+UI_FIENDCORE_DESC,"{A pulsating jellied orb, this gooey sphere is warm to the touch. Its stench triggers a primal fear in mortal beings, a deep-seated gnawing that begs you to drop it and flee.}"
+UI_FIENDCORE_SUB,{Monstrosity}
+UI_FIEND_NAME,{Burrowing Monstrosity}
+UI_LOCAL_TELEPORT_DISABLED,{Teleport Offline // Temporary Atlas Network Glitch Detected}
+UI_LOCAL_TELEPORT_DISABLED_DESC,{Terminus detection wavelength... offline. Local transmission station callsign... unavailable. Remote terminus signal... not found. Teleporters allow instantaneous travel between previously visited <STELLAR>Space Stations<> and owned <TECHNOLOGY>Bases<>. Visit the terminus aboard the Space Station to add points to your teleport network. Teleport network temporarily unavailable. Signal maintenance requir...///e16d. TRAVELLER: Follow the Crimson Eye.}
+UI_PLAYGAME_SUB_NOMP,{Play a single player session.}
+UI_NETWORK_SWITCH_NOMP,{Ambient Multiplayer}
+SCOPE_NAME,{COMBAT SCOPE}
+SCOPE_NAME_L,{Combat Scope}
+SCOPE_DESC,{A recoil-stabilising weapon scope for precise combat.}
+SCOPE_SUB,{Weapon Precision Enhancement}
+T_GRENADE_NAME,{GEOLOGY CANNON}
+T_GRENADE_NAME_L,{Geology Cannon}
+T_GRENADE_DESC,{Large-bore projectile launcher. Propels plasma shells designed for <STELLAR>rapid ground excavation<>. Charged with <FUEL>Unstable Plasma<>. Warning: Explosive hole creation may also damage nearby organic matter. Press <IMG>ALTATTACK<> to activate.}
+T_GRENADE_SUB,{Terrain Destruction Device}
+AMMO_PROD_NAME,{PROJECTILE AMMUNITION}
+AMMO_PROD_NAME_L,{Projectile Ammunition}
+AMMO_PROD_SUB,{Universal Ammo Module}
+AMMO_PROD_DESC,"{Advanced munition fragments, constructed to fit Universal Multi-Tool Standard 07/FF1. Easily inserted into the <TECHNOLOGY>Boltcaster<>, <TECHNOLOGY>Pulse Spitter<> and <TECHNOLOGY>Scatter Blaster<> via the Multi-Tool clip reloading system.}"
+UI_AMMO_NOTIFY_TITLE,{Projectile Ammunition}
+UI_AMMO_NOTIFY,{Projectile weapons like the <TECHNOLOGY>Boltcaster<> require ammunition Craft <STELLAR>ammunition<> in your Inventory and reload with <IMG>RELOAD<> Craft in empty slots with <IMG>PRODMENU<> or increase an existing stack <IMG>TECHMENU<>}
+WARN_TECH_GROUP,{Technology overloaded!}
+WARN_TECH_GROUP_TEXT,{Too many upgrades installed in %TYPE%. Remove surplus upgrades to restore device functionality.}
+UI_JOIN_MP_MISSION,{JOIN MISSION}
+UI_JOIN_MP_MISSION_SUB,{Join mission and wait for %NAME% to begin}
+UI_JOIN_MP_MISSION_WAIT,{Waiting for %NAME% to start the mission}
+UI_CHAT_FIND_MP_MISSION,{%NAME% is beginning a mission aboard their freighter}
+UI_CHAT_START_MP_MISSION,{%NAME% has started a mission}
+UI_LEAVE_MP_MISSION,{LEAVE MISSION}
+UI_LEAVE_MP_MISSION_SUB,{Leave Crew & Abandon Mission}
+UI_MISSION_ABANDON,{Mission Abandoned: %MISSION%}
+UI_MISSION_COMPLETE,{Mission Complete: %MISSION%}
+UI_CREW_SPACECOMBAT,{Squadron:}
+UI_CREW_GROUNDCOMBAT,{Away Team:}
+UI_CREW_RESEARCH,{Research Crew:}
+UI_CREW_MISSINGPERSON,{Search Team:}
+UI_CREW_REPAIR,{Ground Crew:}
+UI_CREW_CARGO,{Delivery Agents:}
+UI_CREW_PIRACY,{Squadron:}
+UI_CREW_PHOTO,{Research Crew:}
+UI_CREW_FEEDING,{Ground Crew:}
+UI_MP_MISSION_CONFIRM_HEADER,{START MISSION?}
+UI_MP_MISSION_CONFIRM_TEXT,{Mission coordinates... <STELLAR>locked in<>. Objectives... <STELLAR>registered<>. Galactic Commission monitoring system... <STELLAR>online<>. Crew preparedness... <TECHNOLOGY>unknown<> Confirm mission start?}
+UI_ABANDON_MISSION,{Abandon Mission}
+UI_FIEND_START_OSD,{BIOLOGICAL HORROR DETECTED}
+UI_FIEND_END_OSD,{SWARM SUBSIDING}
+UI_FIEND_TIMER,{MONSTROSITIES SWARMING: %TIME%}
+UI_FIEND_NOTIFY_TITLE,{Biological Horror detected}
+UI_FIEND_NOTIFY,{Monstrosities swarm to protect their eggs Swarm time remaining: %TIME%}
+DEATH_LOSTINSPACE,{Death by cosmic ray bombardment}
+DEATH_FIEND,{Death by stalking monstrosity}
+UI_EMOTE_CHAT_DIED,{%NAME% died (%HOW%)}
+UI_EMOTE_CHAT_HELP,{Help!}
+UI_EMOTE_CHAT_HELP_HEALTH,{Help! Health low!}
+UI_EMOTE_CHAT_HELP_ENERGY,{Help! Life support low!}
+UI_EMOTE_CHAT_HELP_HAZARD,{Help! Hazard protection low!}
+UI_EMOTE_CHAT_OVER_HERE,{Over here!}
+UI_EMOTE_CHAT_OK,{Yes!}
+UI_EMOTE_CHAT_NOT_NOW,{Not right now.}
+UI_EMOTE_CHAT_LOOK,{Look at this!}
+UI_EMOTE_CHAT_THANKS,{Thank you!}
+UI_EMOTE_CHAT_NEED,{I need %RESOURCE%!}
+UI_EMOTE_CHAT_CHILL,{%NAME% sits down}
+UI_EMOTE_CHAT_CHILL_ALT1,{%NAME% sits down to look at the stars}
+UI_EMOTE_CHAT_CHILL_ALT2,{%NAME% sits down to contemplate life}
+UI_EMOTE_CHAT_CHILL_ALT3,{%NAME% sits down to contemplate the universe}
+UI_EMOTE_CHAT_RELAX,{%NAME% amuses themself}
+UI_EMOTE_CHAT_RELAX_ALT,{%NAME% relaxes}
+UI_EMOTE_CHAT_MIND_BLOWN,{%NAME%'s mind is blown}
+UI_EMOTE_CHAT_MIND_BLOWN_ALT,{Unbelievable!}
