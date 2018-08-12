@@ -1,0 +1,1001 @@
+location,source
+ITEMGEN_PLANT_PART1_85,{Pip}
+ITEMGEN_PLANT_PART1_86,{Tin}
+ITEMGEN_PLANT_PART1_87,{Rust}
+ITEMGEN_PLANT_PART1_88,{Trust}
+ITEMGEN_PLANT_PART1_89,{Musk}
+ITEMGEN_PLANT_PART1_90,{False}
+ITEMGEN_PLANT_PART1_91,{Fake}
+ITEMGEN_PLANT_PART1_92,{Fall}
+ITEMGEN_PLANT_PART1_93,{Sky}
+ITEMGEN_PLANT_PART1_94,{Lost}
+ITEMGEN_PLANT_PART1_95,{Boast}
+ITEMGEN_PLANT_PART1_96,{Host}
+ITEMGEN_PLANT_PART1_97,{Skin}
+ITEMGEN_PLANT_PART1_98,{Thief}
+ITEMGEN_PLANT_PART1_99,{Gran}
+ITEMGEN_PLANT_PART1_100,{Bran}
+ITEMGEN_PLANT_PART1_101,{Wheat}
+ITEMGEN_PLANT_PART1_102,{Bay}
+ITEMGEN_PLANT_PART1_103,{Ship}
+ITEMGEN_PLANT_PART1_104,{Corn}
+ITEMGEN_PLANT_PART1_105,{Scorn}
+ITEMGEN_PLANT_PART1_106,{Cap}
+ITEMGEN_PLANT_PART1_107,{Tap}
+ITEMGEN_PLANT_PART1_108,{Wrap}
+ITEMGEN_PLANT_PART1_109,{Sack}
+ITEMGEN_PLANT_PART1_110,{Sand}
+ITEMGEN_PLANT_PART1_111,{Buck}
+ITEMGEN_PLANT_PART1_112,{Iron}
+ITEMGEN_PLANT_PART1_113,{Pulp}
+ITEMGEN_PLANT_PART1_114,{Cone}
+ITEMGEN_PLANT_PART1_115,{Crow}
+ITEMGEN_PLANT_PART1_116,{Dew}
+ITEMGEN_PLANT_PART1_117,{Fever}
+ITEMGEN_PLANT_PART1_118,{Fume}
+ITEMGEN_PLANT_PART1_119,{Flux}
+ITEMGEN_PLANT_PART1_120,{Gut}
+ITEMGEN_PLANT_PART1_121,{Holly}
+ITEMGEN_PLANT_PART1_122,{Itch}
+ITEMGEN_PLANT_PART1_123,{Paint}
+ITEMGEN_PLANT_PART1_124,{Jug}
+ITEMGEN_PLANT_PART1_125,{Flea}
+ITEMGEN_PLANT_PART1_126,{Love}
+ITEMGEN_PLANT_PART1_127,{Lone}
+ITEMGEN_PLANT_PART1_128,{Louse}
+ITEMGEN_PLANT_PART1_129,{Dream}
+ITEMGEN_PLANT_PART1_130,{Sow}
+ITEMGEN_PLANT_PART1_131,{Tooth}
+ITEMGEN_PLANT_PART1_132,{Frog}
+ITEMGEN_PLANT_PART1_133,{Toad}
+ITEMGEN_PLANT_PART1_134,{Drip}
+ITEMGEN_PLANT_PART1_135,{Honey}
+ITEMGEN_PLANT_PART2_1,{weed}
+ITEMGEN_PLANT_PART2_2,{wort}
+ITEMGEN_PLANT_PART2_3,{leaf}
+ITEMGEN_PLANT_PART2_4,{thistle}
+ITEMGEN_PLANT_PART2_5,{grass}
+ITEMGEN_PLANT_PART2_6,{parsley}
+ITEMGEN_PLANT_PART2_7,{brush}
+ITEMGEN_PLANT_PART2_8,{flower}
+ITEMGEN_PLANT_PART2_9,{moss}
+ITEMGEN_PLANT_PART2_10,{root}
+ITEMGEN_PLANT_PART2_11,{rose}
+ITEMGEN_PLANT_PART2_12,{berry}
+ITEMGEN_PLANT_PART2_13,{tree}
+ITEMGEN_PLANT_PART2_14,{paper}
+ITEMGEN_PLANT_PART2_15,{cress}
+ITEMGEN_PLANT_PART2_16,{thorn}
+ITEMGEN_PLANT_PART2_17,{briar}
+ITEMGEN_PLANT_PART2_18,{wood}
+ITEMGEN_PLANT_PART2_19,{dalis}
+ITEMGEN_PLANT_PART2_20,{foot}
+ITEMGEN_PLANT_PART2_21,{gall}
+ITEMGEN_PLANT_PART2_22,{fern}
+ITEMGEN_PLANT_PART2_23,{flax}
+ITEMGEN_PLANT_PART2_24,{fruit}
+ITEMGEN_PLANT_PART2_25,{bore}
+ITEMGEN_PLANT_PART2_26,{herb}
+ITEMGEN_PLANT_PART2_27,{rush}
+ITEMGEN_PLANT_PART2_28,{palm}
+ITEMGEN_PLANT_PART2_29,{vine}
+ITEMGEN_PLANT_PART2_30,{foil}
+ITEMGEN_PLANT_PART2_31,{shade}
+ITEMGEN_PLANT_PART2_32,{oak}
+ITEMGEN_PLANT_PART2_33,{birch}
+ITEMGEN_PLANT_PART2_34,{beech}
+ITEMGEN_PLANT_PART2_35,{-elder}
+ITEMGEN_PLANT_PART2_36,{bush}
+ITEMGEN_PLANT_PART2_37,{barb}
+ITEMGEN_PLANT_PART2_38,{rye}
+ITEMGEN_PLANT_PART2_39,{drop}
+ITEMGEN_PLANT_PART2_40,{plum}
+ITEMGEN_PLANT_PART2_41,{well}
+ITEMGEN_PLANT_PART2_42,{beam}
+ITEMGEN_PLANT_PART2_43,{lily}
+ITEMGEN_PLANT_PART2_44,{hop}
+ITEMGEN_PLANT_PART2_45,{bine}
+ITEMGEN_PLANT_PART2_46,{bane}
+ITEMGEN_PLANT_PART2_47,{dew}
+ITEMGEN_PLANT_NOUN_1,{Seeds}
+ITEMGEN_PLANT_NOUN_2,{Cuttings}
+ITEMGEN_PLANT_NOUN_3,{Fruit}
+ITEMGEN_PLANT_NOUN_4,{Berries}
+ITEMGEN_PLANT_NOUN_5,{Sprouts}
+ITEMGEN_PLANT_NOUN_6,{Petals}
+ITEMGEN_PLANT_NOUN_7,{Samples}
+ITEMGEN_PLANT_NOUN_8,{Nuts}
+ITEMGEN_PLANT_NOUN_9,{Clippings}
+ITEMGEN_PLANT_NOUN_10,{Tubers}
+ITEMGEN_PLANT_NOUN_11,{Bulbs}
+ITEMGEN_PLANT_NOUN_12,{Pollen}
+ITEMGEN_PLANT_NOUN_13,{Clippings}
+ITEMGEN_PLANT_NOUN_14,{Tubers}
+ITEMGEN_PLANT_NOUN_15,{Bulbs}
+ITEMGEN_PLANT_NOUN_16,{Pollen}
+ITEMGEN_PLANT_NOUN_17,{Seeds}
+ITEMGEN_PLANT_NOUN_18,{Cuttings}
+ITEMGEN_PLANT_NOUN_19,{Cultivar}
+ITEMGEN_TOOL_ADJ_1,{Beautiful}
+ITEMGEN_TOOL_ADJ_2,{Potential}
+ITEMGEN_TOOL_ADJ_3,{Whittled}
+ITEMGEN_TOOL_ADJ_4,{Primitive}
+ITEMGEN_TOOL_ADJ_5,{Fancy}
+ITEMGEN_TOOL_ADJ_6,{Ornate}
+ITEMGEN_TOOL_ADJ_7,{Delicate}
+ITEMGEN_TOOL_ADJ_8,{Prehistoric}
+ITEMGEN_TOOL_ADJ_9,{Eccentric}
+ITEMGEN_TOOL_ADJ_10,{Prismatic}
+ITEMGEN_TOOL_ADJ_11,{Dusty}
+ITEMGEN_TOOL_ADJ_12,{Damaged}
+ITEMGEN_TOOL_ADJ_13,{Hewn}
+ITEMGEN_TOOL_ADJ_14,{Engraved}
+ITEMGEN_TOOL_ADJ_15,{Clumsy}
+ITEMGEN_TOOL_ADJ_16,{Sculpted}
+ITEMGEN_TOOL_ADJ_17,{Chipped}
+ITEMGEN_TOOL_ADJ_18,{Painted}
+ITEMGEN_TOOL_ADJ_19,{Decorated}
+ITEMGEN_TOOL_ADJ_20,{Rotten}
+ITEMGEN_TOOL_ADJ_21,{Stained}
+ITEMGEN_TOOL_ADJ_22,{Rusty}
+ITEMGEN_TOOL_ADJ_23,{Corroded}
+ITEMGEN_TOOL_ADJ_24,{Crude}
+ITEMGEN_TOOL_USE_1,{Tuning}
+ITEMGEN_TOOL_USE_2,{Hunting}
+ITEMGEN_TOOL_USE_3,{Carving}
+ITEMGEN_TOOL_USE_4,{Fishing}
+ITEMGEN_TOOL_USE_5,{Musical}
+ITEMGEN_TOOL_USE_6,{Flint}
+ITEMGEN_TOOL_USE_7,{Stone}
+ITEMGEN_TOOL_USE_8,{Basalt}
+ITEMGEN_TOOL_USE_9,{Industrial}
+ITEMGEN_TOOL_USE_10,{Binding}
+ITEMGEN_TOOL_USE_11,{Woodworking}
+ITEMGEN_TOOL_USE_12,{Metalworking}
+ITEMGEN_TOOL_USE_13,{Butcher's}
+ITEMGEN_TOOL_USE_14,{Punching}
+ITEMGEN_TOOL_USE_15,{Paint}
+ITEMGEN_TOOL_USE_16,{Mixing}
+ITEMGEN_TOOL_USE_17,{Metal}
+ITEMGEN_TOOL_USE_18,{Bronze}
+ITEMGEN_TOOL_USE_19,{Farming}
+ITEMGEN_TOOL_USE_20,{Agricultural}
+ITEMGEN_TOOL_USE_21,{Horticultural}
+ITEMGEN_TOOL_USE_22,{Artist's}
+ITEMGEN_TOOL_USE_23,{Sacrificial}
+ITEMGEN_TOOL_USE_24,{Sewing}
+ITEMGEN_TOOL_USE_25,{Firemaking}
+ITEMGEN_TOOL_USE_26,{Bonfire}
+ITEMGEN_TOOL_USE_27,{Clockwork}
+ITEMGEN_TOOL_USE_28,{Cleaning}
+ITEMGEN_TOOL_USE_29,{Trapper's}
+ITEMGEN_TOOL_USE_30,{Spinning}
+ITEMGEN_TOOL_USE_31,{Brewer's}
+ITEMGEN_TOOL_USE_32,{Fermenting}
+ITEMGEN_TOOL_USE_33,{Medical}
+ITEMGEN_TOOL_USE_34,{Gardener's}
+ITEMGEN_TOOL_USE_35,{Crab}
+ITEMGEN_TOOL_USE_36,{Cooking}
+ITEMGEN_TOOL_USE_37,{Welder's}
+ITEMGEN_TOOL_USE_38,{Shipwright's}
+ITEMGEN_TOOL_NOUN_1,{Stick}
+ITEMGEN_TOOL_NOUN_2,{Spoon}
+ITEMGEN_TOOL_NOUN_3,{Fork}
+ITEMGEN_TOOL_NOUN_4,{Spear}
+ITEMGEN_TOOL_NOUN_5,{Magnet}
+ITEMGEN_TOOL_NOUN_6,{Tool}
+ITEMGEN_TOOL_NOUN_7,{Hook}
+ITEMGEN_TOOL_NOUN_8,{Knife}
+ITEMGEN_TOOL_NOUN_9,{Chisel}
+ITEMGEN_TOOL_NOUN_10,{Instrument}
+ITEMGEN_TOOL_NOUN_11,{Spade}
+ITEMGEN_TOOL_NOUN_12,{Trowel}
+ITEMGEN_TOOL_NOUN_13,{Shears}
+ITEMGEN_TOOL_NOUN_14,{Blade}
+ITEMGEN_TOOL_NOUN_15,{Shovel}
+ITEMGEN_TOOL_NOUN_16,{Harpoon}
+ITEMGEN_TOOL_NOUN_17,{Peg}
+ITEMGEN_TOOL_NOUN_18,{Axe}
+ITEMGEN_TOOL_NOUN_19,{Hammer}
+ITEMGEN_TOOL_NOUN_20,{Wheel}
+ITEMGEN_TOOL_NOUN_21,{Anvil}
+ITEMGEN_TOOL_NOUN_22,{Tongs}
+ITEMGEN_TOOL_NOUN_23,{Drill}
+ITEMGEN_TOOL_NOUN_24,{Dauber}
+ITEMGEN_TOOL_NOUN_25,{Pitchfork}
+ITEMGEN_TOOL_NOUN_26,{Utensil}
+ITEMGEN_TOOL_NOUN_27,{Weapon}
+ITEMGEN_TOOL_NOUN_28,{Gadget}
+ITEMGEN_TOOL_NOUN_29,{Machine}
+ITEMGEN_TOOL_NOUN_30,{Device}
+ITEMGEN_TOOL_NOUN_31,{Abacus}
+ITEMGEN_TOOL_NOUN_32,{Contraption}
+ITEMGEN_TOOL_NOUN_33,{Spike}
+ITEMGEN_TOOL_NOUN_34,{Cleaver}
+ITEMGEN_TOOL_NOUN_35,{Dish}
+ITEMGEN_TOOL_NOUN_36,{Mirror}
+ITEMGEN_TOOL_NOUN_37,{Supplies}
+ITEMGEN_TOOL_NOUN_38,{Telescope}
+ITEMGEN_TOOL_NOUN_39,{Canister}
+ITEMGEN_TOOL_NOUN_40,{Brush}
+ITEMGEN_TOOL_NOUN_41,{Sponge}
+ITEMGEN_TOOL_NOUN_42,{Mask}
+ITEMGEN_TOOL_NOUN_43,{Tube}
+TREASURE_SUB,{Unearthed Treasure}
+HIST_SUB,{Historical Document}
+BIO_SUB,{Biological Sample}
+FOSSIL_SUB,{Fossil Sample}
+PLANT_SUB,{Delicate Flora}
+TOOL_SUB,{Lost Artifact}
+ITEMGEN_TREASURE_COMMON_1,"{Approximately <VAL_ON>%AGE%<> years old. Dusty and mudstained, this treasure is nonetheless an important historical artifact.}"
+ITEMGEN_TREASURE_COMMON_2,{Approximately <VAL_ON>%AGE%<> years old. This treasure clearly meant a lot to the people who buried it. Its value in the present day is perhaps more questionable.}
+ITEMGEN_TREASURE_COMMON_3,"{Approximately <VAL_ON>%AGE%<> years old. Damaged by the damp and difficult conditions it was kept in for so long, this treasures shows few signs of its former splendor.}"
+ITEMGEN_TREASURE_COMMON_4,"{Approximately <VAL_ON>%AGE%<> years old. This artifact appears to have suffered little from its years underground. Unfortunately, it does not appear to have been in very good condition before it was entombed.}"
+ITEMGEN_TREASURE_COMMON_5,{Approximately <VAL_ON>%AGE%<> years old. Was this artifact part of a horde buried with its owner? The remains of a secret cache? Or just forgotten rubbish? Time has rendered it impossible to tell.}
+ITEMGEN_TREASURE_UNCOMMON_1,"{Approximately <VAL_ON>%AGE%<> years old. Valuable in and of itself, this artifact is made by priceless the glimpse it gives into the society that once ruled this planet.}"
+ITEMGEN_TREASURE_UNCOMMON_2,{Approximately <VAL_ON>%AGE%<> years old. What caused this artifact's owner to bury it underground? Did they hope to return to claim it one day? Such questions may now never be answered.}
+ITEMGEN_TREASURE_UNCOMMON_3,"{Approximately <VAL_ON>%AGE%<> years old. Crawling with insects and haunted by a musty aroma, this treasure is nonetheless an artifact of great worth.}"
+ITEMGEN_TREASURE_RARE_1,"{Approximately <VAL_ON>%AGE%<> years old. This rare treasure is covered in strange markings, as if the contents were used in some sort of rite or ritual.}"
+ITEMGEN_TREASURE_RARE_2,"{Approximately <VAL_ON>%AGE%<> years old. There is an otherworldliness about this treasure, something strange in the way it catches the light. Almost as if it were haunted by its previous owner...}"
+ITEMGEN_TREASURE_RARE_3,"{Approximately <VAL_ON>%AGE%<> years old. This treasure bears the faint outline of a family crest. Perhaps its owner's descendants are out there somewhere, looking for this last trace of their ancestor...}"
+ITEMGEN_HIST_COMMON_1,"{Approximately <VAL_ON>%AGE%<> years old. The paper is crumbling, the ink is fading. This may be the final opportunity anyone has to read this manuscript before time claims it for good.}"
+ITEMGEN_HIST_COMMON_2,"{Approximately <VAL_ON>%AGE%<> years old. Written in an otherworldly script, this manuscript is covered with strange marginalia. Generations have added notes and diagrams to the original text, some of which are highly disturbing.}"
+ITEMGEN_HIST_COMMON_3,"{Approximately <VAL_ON>%AGE%<> years old. The lettering is harsh and deeply carved. Whoever wrote this document left their emotions clearly engraved into the surface, regardless of the story the words are trying to tell.}"
+ITEMGEN_HIST_COMMON_4,"{Approximately <VAL_ON>%AGE%<> years old. This document is handwritten, its lettering shaky and weak. Whoever wrote this spent a great deal of energy - perhaps their last - to commit their words to history.}"
+ITEMGEN_HIST_COMMON_5,"{Approximately <VAL_ON>%AGE%<> years old. Though the cover has been competently printed, the internal lettering is crude and juvenile. Perhaps this was merely a practise sheet, an exercise to improve their writing?}"
+ITEMGEN_HIST_UNCOMMON_1,"{Approximately <VAL_ON>%AGE%<> years old. Several of these pages appear stained, though there have been some clumsy attempts to clean them, and the second half has clearly been written in a different hand to the first...}"
+ITEMGEN_HIST_UNCOMMON_2,"{Approximately <VAL_ON>%AGE%<> years old. The original text of this document has been greatly altered. Entries have been crossed through, written over and even torn out, apparently by several different writers. Whatever was written here was hotly contested.}"
+ITEMGEN_HIST_UNCOMMON_3,"{Approximately <VAL_ON>%AGE%<> years old. This document was carefully packed in its container, wrapped in paper to keep it free of stains. There is a small bundle of hair clipped to the inside cover.}"
+ITEMGEN_HIST_RARE_1,"{Approximately <VAL_ON>%AGE%<> years old. This manuscript is beautifully illustrated, with flowing calligraphy and dramatic, gilded illuminations. It is a work of exceptional artistry.}"
+ITEMGEN_HIST_RARE_2,"{Approximately <VAL_ON>%AGE%<> years old. The text in this document does not seem to concern anything out of the ordinary. However, the letters themselves do appear to be written in blood.}"
+ITEMGEN_HIST_RARE_3,"{Approximately <VAL_ON>%AGE%<> years old. This manuscript is full of small, delicate blemishes. Tiny crinkled circles litter every page, as if the paper has been stained by tears.}"
+ITEMGEN_BIO_COMMON_1,"{Approximately <VAL_ON>%AGE%<> years old. There is a curious, sour aroma emanating from this sample. It is almost as if it has been slowly fermenting.}"
+ITEMGEN_BIO_COMMON_2,"{Approximately <VAL_ON>%AGE%<> years old. From the obvious care taken in delicately packing away this sample, one is forced to presume that the huge number of insect corpses that surrounded it were not present at the moment of burial.}"
+ITEMGEN_BIO_COMMON_3,"{Approximately <VAL_ON>%AGE%<> years old. The sample, apparently dormant during its long confinement, has begun to slowly but definitely bubble, as if stirring into life...}"
+ITEMGEN_BIO_COMMON_4,"{Approximately <VAL_ON>%AGE%<> years old. The sample is glowing faintly, a pale blue light flickering at its edge, barely visible in the daylight. What other secrets might a detailed analysis reveal?}"
+ITEMGEN_BIO_COMMON_5,"{Approximately <VAL_ON>%AGE%<> years old. This sample was found buried alongside with a hastily scrawled note. The language is long dead, but the panic in the writing is clear...}"
+ITEMGEN_BIO_UNCOMMON_1,"{Approximately <VAL_ON>%AGE%<> years old. This sample looks unnaturally clean, as if all other life that came into contact with it has been burned away.}"
+ITEMGEN_BIO_UNCOMMON_2,"{Approximately <VAL_ON>%AGE%<> years old. The sample has sprouted several additional 'samples', seedlings that have rapidly germinated and begun growing since their host was once again exposed to light and air.}"
+ITEMGEN_BIO_UNCOMMON_3,"{Approximately <VAL_ON>%AGE%<> years old. There are tatty labels all over this sample, stark pictograms as well as warnings in several languages. The labels, however, appear to be describing a predatory creature...}"
+ITEMGEN_BIO_RARE_1,{Approximately <VAL_ON>%AGE%<> years old. This sample is still biologically active. It is releasing small puffs of gas on a remarkably regular cycle. The odour appears to change with each emission.}
+ITEMGEN_BIO_RARE_2,"{Approximately <VAL_ON>%AGE%<> years old. The container used here is humdrum, hardly the sort of thing used to preserve a valuable specimen. And yet, this species hasn't been seen on this planet for centuries. What used to be widespread is now but a distant memory...}"
+ITEMGEN_BIO_RARE_3,"{Approximately <VAL_ON>%AGE%<> years old. There is a layer of fine, medicinal-looking mould growing on the top of this sample. Nothing could go possibly wrong from 'testing' it...}"
+ITEMGEN_FOSSIL_COMMON_1,"{Approximately <VAL_ON>%AGE%<> years old. A well-preserved find, this fossil gives a glimpse of the strange creatures that used to roam this world.}"
+ITEMGEN_FOSSIL_COMMON_2,"{Approximately <VAL_ON>%AGE%<> years old. It is difficult to be sure exactly what this fossil represents. Paleobiology is often a matter of guesswork and intuition, and certainties from our own era cannot be projected backwards in time.}"
+ITEMGEN_FOSSIL_COMMON_3,{Approximately <VAL_ON>%AGE%<> years old. It is impossible to look at this fossil without wondering what sort of life this creature lived and how it fitted it in the local ecosystem.}
+ITEMGEN_FOSSIL_COMMON_4,"{Approximately <VAL_ON>%AGE%<> years old. The remains of an apex predator, or the last fragments of some hunted prey? Sadly, time has rendered this sample difficult to draw conclusions from.}"
+ITEMGEN_FOSSIL_COMMON_5,{Approximately <VAL_ON>%AGE%<> years old. What caused an ancient people to bury this box of bones? Were they part of a ritual? Were they currency? Toys? Or part of a museum gallery?}
+ITEMGEN_FOSSIL_UNCOMMON_1,"{Approximately <VAL_ON>%AGE%<> years old. Time has polished this fossil, giving it a pearlescent sheen, its surfacing shimmering in the light.}"
+ITEMGEN_FOSSIL_UNCOMMON_2,"{Approximately <VAL_ON>%AGE%<> years old. A pristine find which, when analysed, will undoubtedly reveal much about the life and habits of the creature that left it behind.}"
+ITEMGEN_FOSSIL_UNCOMMON_3,{Approximately <VAL_ON>%AGE%<> years old. This fossil was already ancient before it was placed into storage by some long-lost civilisation. Its true age is unfathomable.}
+ITEMGEN_FOSSIL_RARE_1,"{Approximately <VAL_ON>%AGE%<> years old. The remains of a truly strange being. This fragment, dead and decayed, offers only the merest glimpse of what must have been a magnificent sight in life.}"
+ITEMGEN_FOSSIL_RARE_2,{Approximately <VAL_ON>%AGE%<> years old. Whoever originally found and preserved this sample did so with enormous skill. There is enough viable DNA here to represent a potentially cloneable source.}
+ITEMGEN_FOSSIL_RARE_3,"{Approximately <VAL_ON>%AGE%<> years old. Though apparently the remains of some wild creature, there are indications that the animal had several close interactions with an agricultural society. Potentially, this sample is early evidence of domestication.}"
+ITEMGEN_PLANT_COMMON_1,"{Approximately <VAL_ON>%AGE%<> years old. A relatively common plant, suffering from a relatively uncommon mutation. Spores of this size are not normal.}"
+ITEMGEN_PLANT_COMMON_2,"{Approximately <VAL_ON>%AGE%<> years old. The delicate scent and soft, fine hairs cannot disguise the fact this is a widespread weed. This was probably not what the original planet intended to grow.}"
+ITEMGEN_PLANT_COMMON_3,"{Approximately <VAL_ON>%AGE%<> years old. A culinary delight, this plant was historically used to add flavour to meat past its prime. Despite being a fine seasoning, this sample is probably too historically significant to be eaten.}"
+ITEMGEN_PLANT_COMMON_4,"{Approximately <VAL_ON>%AGE%<> years old. Great care should be taken to keep this sample from contaminating other habitats, particularly given the speed at which this plant appears to be spreading across its container.}"
+ITEMGEN_PLANT_COMMON_5,"{Approximately <VAL_ON>%AGE%<> years old. Beautiful in bloom, this ancient plant was traditionally used to convey a message of love and admiration.}"
+ITEMGEN_PLANT_UNCOMMON_1,"{Approximately <VAL_ON>%AGE%<> years old. This plant has remarkably poisonous leaves, highly toxic petals, and release a scent that causes mild intoxication. Handle with care.}"
+ITEMGEN_PLANT_UNCOMMON_2,"{Approximately <VAL_ON>%AGE%<> years old. Adorned with ripe, juicy berries, this plant looks highly nutritious. Even the stems, firm and fleshy, look like they'd be a delight to eat.}"
+ITEMGEN_PLANT_UNCOMMON_3,"{Approximately <VAL_ON>%AGE%<> years old. A powerful medicinal herb, this plant could hold the key to developing the cure for the common cold. It should be deposited at a responsible cloning unit immediately.}"
+ITEMGEN_PLANT_RARE_1,"{Approximately <VAL_ON>%AGE%<> years old. A spectacular plant, once thought entirely extinct. It blooms rarely, and its precious flowers have inspired poetry, music and occasional murders.}"
+ITEMGEN_PLANT_RARE_2,"{Approximately <VAL_ON>%AGE%<> years old. When you stop to consider it, this plant's fragrance is subtle and hard to pin down. And yet, when your mind moves on to other things, the perfume grows in your mind, consuming your every thought, demanding your attention...}"
+ITEMGEN_PLANT_RARE_3,"{Approximately <VAL_ON>%AGE%<> years old. This sample is either suffering from, or the root of, a strange and severe mutation. It appears to be absorbing genetic material from anything it touches, twisting its tendrils to match the form of the donor.}"
+ITEMGEN_TOOL_COMMON_1,"{Approximately <VAL_ON>%AGE%<> years old. Past its prime long before it was entombed, this tool was well-loved during its useful life. A family memento, perhaps, or a novice's training instrument?}"
+ITEMGEN_TOOL_COMMON_2,{Approximately <VAL_ON>%AGE%<> years old. A remarkable find. All the moreso for the fact the handle appears to be stained with a great quantity of organic matter...}
+ITEMGEN_TOOL_COMMON_3,"{Approximately <VAL_ON>%AGE%<> years old. A pair of short words have been crudely engraved onto the surface of this tool. The owner's name, perhaps, or even the name of the object itself?}"
+ITEMGEN_TOOL_COMMON_4,"{Approximately <VAL_ON>%AGE%<> years old. This tool bears all the hallmarks of having been repaired several times over. Scorched in places from melting and reforging, its split materials bear witness to its long and hard life.}"
+ITEMGEN_TOOL_COMMON_5,"{Approximately <VAL_ON>%AGE%<> years old. While this piece is clearly ancient, it is remarkable just how little it differs from the style used every day in the present age.}"
+ITEMGEN_TOOL_UNCOMMON_1,"{Approximately <VAL_ON>%AGE%<> years old. Buried alongside its schematic, this remarkable tool was perhaps an original prototype. More than just an object, this find represents the inventive drive in a raw and early form.}"
+ITEMGEN_TOOL_UNCOMMON_2,"{Approximately <VAL_ON>%AGE%<> years old. Covered in burn marks, this tool must have seen a very strange life. But buried beneath the earth, it has drifted so far from its original story that we may never know its true purpose.}"
+ITEMGEN_TOOL_UNCOMMON_3,"{Approximately <VAL_ON>%AGE%<> years old. Delicately made, the passing of time cannot hide the delicacy with which this tool was made. Possibly one of the finest examples of its type ever seen.}"
+ITEMGEN_TOOL_RARE_1,"{Approximately <VAL_ON>%AGE%<> years old. Buried with great care, this tool shows little sign of use. Perhaps it was an offering, made especially to be locked away from the physical world, its pristine nature emphasising how much this gesture meant to the burier.}"
+ITEMGEN_TOOL_RARE_2,"{Approximately <VAL_ON>%AGE%<> years old. This tool bears the marks of constant use, a well-loved piece before its burial. Was it consigned to the ground by accident? An afterthought? Or placed there carefully alongside a now departed owner?}"
+ITEMGEN_TOOL_RARE_3,"{Approximately <VAL_ON>%AGE%<> years old. Bejewelled and dazzling, this tool has been decorated with countless precious stones. Augmented and audacious, this is a one-of-a-kind piece.}"
+SCAN_EVENT_GLXY,{Mission Signal Detected}
+UI_SYSTEM_INFO_PLANETS,{Celestial Bodies:}
+UI_SYSTEM_INFO_RACE,{Dominant Lifeform:}
+UI_SYSTEM_INFO_ECON,{Economy:}
+UI_SYSTEM_INFO_CONFLICT,{Conflict level:}
+UI_SYSTEM_INFO_DISTANCE,{Distance: %DIST% LY}
+UI_GALAXYMAP_PATH_SELECT,{Destination}
+UI_GALAXYMAP_ATLAS_PATH,{Atlas Station (%DISTSTRING%)}
+UI_GALAXYMAP_CORE_PATH,{Galactic Core (%DISTSTRING%)}
+UI_GALAXYMAP_BHOLE_PATH,{Black Hole (%DISTSTRING%)}
+UI_GALAXYMAP_MISSION_PATH,{Current Mission (%DISTSTRING%)}
+UI_GALAXYMAP_CUSTOM_PATH,{Custom Waypoint (%DISTSTRING%)}
+UI_GALAXYMAP_NONE_PATH,{Free Explore}
+UI_GALAXYMAP_PATH_DISTANCE,{%DIST% LY}
+UI_GALAXYMAP_PATH_NOT_FOUND,{N/A}
+UI_GALAXYMAP_PATH_NOT_FOUND_MSG,{No Destination Available}
+HELP_WHEN_SYSTEM_SELECTED,{<IMG>GALAXYWARP<> Warp <IMG>SLASH<> <IMG>LOOK<> Select next system <IMG>SLASH<> <IMG>GALAXYWAYPT<> Set Waypoint <IMG>SLASH<> <IMG>GALAXYHOME<> Deselect}
+HELP_WHEN_SYSTEM_SELECTED_PC,{<IMG>GALAXYWARP<> Warp <IMG>SLASH<> <IMG>GALAXYHOME<> Deselect <IMG>SLASH<> <IMG>GALAXYWAYPT<> Set Waypoint <IMG>SLASH<> Change path <IMG>GALAXY_NAV_L<><IMG>GALAXY_NAV_R<>}
+HELP_NO_WARP_CURR_SYS,{<IMG>LOOK<> Select next system <IMG>SLASH<> <IMG>GALAXY_NAV_L<><IMG>GALAXY_NAV_R<> Select new path}
+HELP_NO_WARP_CURR_SYS_PC,{<IMG>GALAXYHOME<> Deselect current system <IMG>SLASH<> <IMG>GALAXY_NAV_L<><IMG>GALAXY_NAV_R<> Select new path}
+HELP_WHEN_SELECTED_NO_WARP,{<FUEL><IMG>GALAXYWARP<> Cannot Warp<> <IMG>SLASH<> <IMG>LOOK<> Select next system <IMG>SLASH<> <IMG>GALAXYWAYPT<> Set Waypoint <IMG>SLASH<> <IMG>GALAXYHOME<> Deselect}
+HELP_WHEN_SELECTED_NO_WARP_PC,{<FUEL><IMG>GALAXYWARP<> Cannot Warp<> <IMG>SLASH<> <IMG>GALAXYHOME<> Deselect <IMG>SLASH<> <IMG>GALAXYWAYPT<> Set Waypoint <IMG>SLASH<> <IMG>GALAXY_NAV_L<><IMG>GALAXY_NAV_R<> Change path }
+HELP_WHEN_SYSTEM_UNSELECTED,{<IMG>GALAXYWARP<> Select targeted system <IMG>SLASH<> <IMG>GALAXYHOME<> Select my location}
+DISTANCE_FROM_CENTRE_TITLE,{Galactic Core}
+DISTANCE_FROM_CENTRE_LY,{%DIST% LY}
+UI_GALAXYMAP_PLANETNAME,{%PLANET% (%DIST% LY)}
+UI_GALAXYMAP_SYSNAME,{%SYSTEM% System}
+UI_GALAXYMAP_FILTER_SELECT,{Filter}
+UI_GALAXYMAP_FILTER_NONE,{No Filter}
+UI_GALAXYMAP_FILTER_ECONOMY,{Economy}
+UI_GALAXYMAP_FILTER_CONFLICT,{Conflict}
+UI_GALAXYMAP_FILTER_RACE,{Lifeform}
+UI_GALAXYMAP_FILTER_DISCOVERY,{Discoveries}
+UI_GALAXYMAP_MARKER_HOME,{Journey Start}
+UI_GALAXYMAP_MARKER_BASE,{Home Base}
+UI_GALAXYMAP_MARKER_HERE,{You Are Here}
+UI_GALAXYMAP_MARKER_CUSTOM,{Destination}
+UI_GALAXYMAP_MARKER_ATLAS,{Atlas Station}
+UI_GALAXYMAP_MARKER_BHOLE,{Black Hole}
+UI_GALAXYMAP_MARKER_CONTACT,{Contact}
+UI_GALAXYMAP_NO_ECON_INFO,{- Data Unavailable -}
+UI_GALAXYMAP_NO_CONFLICT_INFO,{- Data Unavailable -}
+UI_GALAXYMAP_NO_ECON_MSG,{No Economy Scanner Installed}
+UI_GALAXYMAP_NO_CONFLICT_MSG,{No Conflict Scanner Installed}
+STANDING_UI_PROGRESS,{Progress to next rank: %PROGRESS%%}
+QUICK_MENU_TIP_SUM_SHIP,{Summon %SHIP_NAME%}
+QUICK_MENU_SUM_SHIP_NO_FUEL,{Launch Thrusters Not Charged}
+QUICK_MENU_SUM_SHIP_NO_SPACE,{Cannot Land Here}
+QUICK_MENU_SUM_FREIGHT_NO_SPACE,{Cannot Warp Freighter Here}
+QUICK_MENU_SUM_GEAR_DAMAGE,{Cannot Launch - Starship Damaged}
+INTRCT_PORTAL,{Portal}
+INTRCT_PORTALRUNES,{Portal}
+INTRCT_PORTALACTIVATE,{Portal}
+SHIPSCAN_ECON_NAME,{ECONOMY SCANNER}
+SHIPSCAN_ECON_NAME_L,{Economy Scanner}
+SHIPSCAN_ECON_DESC,{An upgrade to the starship's galactic-scale sensors. This device allows the user to access detailed economic data about a system without having to visit.}
+SHIPSCAN_ECON_SUB,{Long-range Sensor Technology}
+SHIPSCAN_COMBAT_NAME,{CONFLICT SCANNER}
+SHIPSCAN_COMBAT_NAME_L,{Conflict Scanner}
+SHIPSCAN_COMBAT_DESC,"{An upgrade to the starship's galactic-scale sensors. This device allows the user to access conflict data in the galaxy map, without having to put themselves in harm's way.}"
+SHIPSCAN_COMBAT_SUB,{Long-range Sensor Technology}
+BLD_PLANTERMEGA_NAME,{LARGE HYDROPONIC TRAY}
+BLD_PLANTERMEGA_NAME_L,{Large Hydroponic Tray}
+BLD_PLANTERMEGA_DESC,{A self contained growth system for the indoor cultivation of agricultural crops. Can support up to four plants. Build requirement: Must be placed indoors.}
+BLD_PLANTERMEGA_SUBTITLE,{Farming tech}
+SUIT_TECH_INVENTORY,{EXOSUIT TECHNOLOGY}
+SUIT_CARGO_INVENTORY,{EXOSUIT HIGH CAPACITY INVENTORY}
+SUIT_GENERAL_INVENTORY,{EXOSUIT GENERAL INVENTORY}
+SUIT_TECH_INVENTORY_LABEL,{TECHNOLOGY}
+SUIT_CARGO_INVENTORY_LABEL,{CARGO}
+SUIT_INVENTORY_LABEL,{GENERAL}
+QUICK_MENU_TIP_COMMUNICATOR,{Starship Communicator}
+SHIP_TECH_INVENTORY,{STARSHIP TECHNOLOGY}
+SHIP_CARGO_INVENTORY,{STARSHIP HIGH CAPACITY INVENTORY}
+SHIP_GENERAL_INVENTORY,{STARSHIP GENERAL INVENTORY}
+SHIP_TECH_INVENTORY_LABEL,{TECHNOLOGY}
+SHIP_CARGO_INVENTORY_LABEL,{CARGO}
+SHIP_INVENTORY_LABEL,{GENERAL}
+TRANSFER_DESC_MAINTENANCE,{Collect element}
+BLD_FLAG_NAME,{FLAG}
+BLD_FLAG_NAME_L,{Flag}
+BLD_WALLFLAG_NAME,{WALL FLAG}
+BLD_WALLFLAG_NAME_L,{Wall Flag}
+BLD_DRAWERS_NAME,{DRAWERS}
+BLD_DRAWERS_NAME_L,{Drawers}
+BLD_SERVER_NAME,{SERVER}
+BLD_SERVER_NAME_L,{Server}
+BLD_FLOORMAT_NAME,{FLOOR MAT}
+BLD_FLOORMAT_NAME_L,{Floor Mat}
+BLD_ROOFMONITOR_NAME,{CEILING PANEL}
+BLD_ROOFMONITOR_NAME_L,{Ceiling Panel}
+BLD_CEILLIGHT_NAME,{CEILING LIGHT}
+BLD_CEILLIGHT_NAME_L,{Ceiling Light}
+BLD_DESKMONITOR_NAME,{MONITOR STATION}
+BLD_DESKMONITOR_NAME_L,{Monitor Station}
+BLD_LARGEDESK_NAME,{LARGE MONITOR STATION}
+BLD_LARGEDESK_NAME_L,{Large Monitor Station}
+BLD_PLANTPOT2_NAME,{FLORA CONTAINMENT}
+BLD_PLANTPOT2_NAME_L,{Flora Containment}
+BLD_WEAPONRACK_NAME,{WEAPON RACK}
+BLD_WEAPONRACK_NAME_L,{Weapon Rack}
+BLD_CURVEDESK_NAME,{CURVED DESK}
+BLD_CURVEDESK_NAME_L,{Curved Desk}
+BLD_FLOORCRATE_NAME,{CRATE FABRICATOR}
+BLD_FLOORCRATE_NAME_L,{Crate Fabricator}
+BLD_CRATECYLINDER_NAME,{BARREL FABRICATOR}
+BLD_CRATECYLINDER_NAME_L,{Barrel Fabricator}
+BLD_GASHARVESTER_NAME,{ATMOSPHERE HARVESTER}
+BLD_GASHARVESTER_NAME_L,{Atmosphere Harvester}
+BLD_GASHARVESTER_DESC,"{An automated siphon unit for the collection of valuable gases. Once activated, the harvester condenses and compresses substances from the air over time. Compressed gas is then stored safely until collected.}"
+BLD_GASHARVESTER_SUBTITLE,{Autonomous Gas Compressor}
+UI_MAINTAIN_SUBTITLE,{Component Maintenance}
+UI_TERRAIN_EDIT_NAME,{TERRAIN MANIPULATOR}
+UI_TERRAIN_EDIT_NAME_L,{Terrain Manipulator}
+UI_TERRAIN_EDIT_SUBTITLE,{Landscape Shaping Tool}
+UI_MAINTAIN_TECH_SUB,{Damaged Component}
+UI_MAINTAIN_FUEL_SUB,{Chargeable Power Unit}
+UI_MAINTAIN_FARM_SUB,{Autonomous Agriculture Unit}
+UI_PHOTO_SAVED_TO,{Screenshot saved to %PATH%}
+MISSION_GIVER,{Mission Listings Agent}
+NOTIFY_PRO_ACTIVE,{%HAZARD% PROTECTION ACTIVE}
+HUD_ATMOS_CONTROL_ACTIVE,{Atmos. Ctrl}
+UI_CONFLICT_LEVEL_LOW_1,{Peaceful}
+UI_CONFLICT_LEVEL_LOW_2,{Low}
+UI_CONFLICT_LEVEL_LOW_3,{Tranquil}
+UI_CONFLICT_LEVEL_LOW_4,{Relaxed}
+UI_CONFLICT_LEVEL_LOW_5,{Gentle}
+UI_CONFLICT_LEVEL_LOW_6,{Stable}
+UI_CONFLICT_LEVEL_LOW_7,{Untroubled}
+UI_CONFLICT_LEVEL_LOW_8,{Trivial}
+UI_CONFLICT_LEVEL_LOW_9,{Unthreatening}
+UI_CONFLICT_LEVEL_LOW_10,{Mild}
+UI_CONFLICT_LEVEL_MED_1,{Intermittent}
+UI_CONFLICT_LEVEL_MED_2,{Medium}
+UI_CONFLICT_LEVEL_MED_3,{Sporadic}
+UI_CONFLICT_LEVEL_MED_4,{Unstable}
+UI_CONFLICT_LEVEL_MED_5,{Fractious}
+UI_CONFLICT_LEVEL_MED_6,{Unruly}
+UI_CONFLICT_LEVEL_MED_7,{Boisterous}
+UI_CONFLICT_LEVEL_MED_8,{Testy}
+UI_CONFLICT_LEVEL_MED_9,{Belligerent}
+UI_CONFLICT_LEVEL_MED_10,{Rowdy}
+UI_CONFLICT_LEVEL_HIGH_1,{High}
+UI_CONFLICT_LEVEL_HIGH_2,{Dangerous}
+UI_CONFLICT_LEVEL_HIGH_3,{At War}
+UI_CONFLICT_LEVEL_HIGH_4,{Lawless}
+UI_CONFLICT_LEVEL_HIGH_5,{Perilous}
+UI_CONFLICT_LEVEL_HIGH_6,{Alarming}
+UI_CONFLICT_LEVEL_HIGH_7,{Critical}
+UI_CONFLICT_LEVEL_HIGH_8,{Formidable}
+UI_CONFLICT_LEVEL_HIGH_9,{Destructive}
+UI_CONFLICT_LEVEL_HIGH_10,{Aggressive}
+UI_ECON_LEVEL_LOW_1,{Struggling}
+UI_ECON_LEVEL_LOW_2,{Fledgling}
+UI_ECON_LEVEL_LOW_3,{Unpromising}
+UI_ECON_LEVEL_LOW_4,{Declining}
+UI_ECON_LEVEL_LOW_5,{Failing}
+UI_ECON_LEVEL_LOW_6,{Destitute}
+UI_ECON_LEVEL_LOW_7,{Low Supply}
+UI_ECON_LEVEL_LOW_8,{Unsuccessful}
+UI_ECON_LEVEL_MED_1,{Comfortable}
+UI_ECON_LEVEL_MED_2,{Balanced}
+UI_ECON_LEVEL_MED_3,{Promising}
+UI_ECON_LEVEL_MED_4,{Developing}
+UI_ECON_LEVEL_MED_5,{Medium Supply}
+UI_ECON_LEVEL_MED_6,{Satisfactory}
+UI_ECON_LEVEL_MED_7,{Sustainable}
+UI_ECON_LEVEL_MED_8,{Adequate}
+UI_ECON_LEVEL_HIGH_1,{Wealthy}
+UI_ECON_LEVEL_HIGH_2,{Prosperous}
+UI_ECON_LEVEL_HIGH_3,{Advanced}
+UI_ECON_LEVEL_HIGH_4,{Affluent}
+UI_ECON_LEVEL_HIGH_5,{Booming}
+UI_ECON_LEVEL_HIGH_6,{Flourishing}
+UI_ECON_LEVEL_HIGH_7,{High Supply}
+UI_ECON_LEVEL_HIGH_8,{Opulent}
+UI_ECON_CLASS_TECH_1,{High Tech}
+UI_ECON_CLASS_TECH_2,{Technology}
+UI_ECON_CLASS_TECH_3,{Nano-construction}
+UI_ECON_CLASS_TECH_4,{Engineering}
+UI_ECON_CLASS_MINING_1,{Mining}
+UI_ECON_CLASS_MINING_2,{Minerals}
+UI_ECON_CLASS_MINING_3,{Ore Extraction}
+UI_ECON_CLASS_MINING_4,{Prospecting}
+UI_ECON_CLASS_TRADE_1,{Mercantile}
+UI_ECON_CLASS_TRADE_2,{Trading}
+UI_ECON_CLASS_TRADE_3,{Shipping}
+UI_ECON_CLASS_TRADE_4,{Commercial}
+UI_ECON_CLASS_MANUFACT_1,{Manufacturing}
+UI_ECON_CLASS_MANUFACT_2,{Industrial}
+UI_ECON_CLASS_MANUFACT_3,{Construction}
+UI_ECON_CLASS_MANUFACT_4,{Mass Production}
+UI_ECON_CLASS_ALLOY_1,{Material Fusion}
+UI_ECON_CLASS_ALLOY_2,{Alchemical}
+UI_ECON_CLASS_ALLOY_3,{Metal Processing}
+UI_ECON_CLASS_ALLOY_4,{Ore Processing}
+UI_ECON_CLASS_SCIENCE_1,{Research}
+UI_ECON_CLASS_SCIENCE_2,{Scientific}
+UI_ECON_CLASS_SCIENCE_3,{Experimental}
+UI_ECON_CLASS_SCIENCE_4,{Mathematical}
+UI_ECON_CLASS_POWER_1,{Power Generation}
+UI_ECON_CLASS_POWER_2,{Energy Supply}
+UI_ECON_CLASS_POWER_3,{Fuel Generation}
+UI_ECON_CLASS_POWER_4,{High Voltage}
+UI_PLANET_APPROACH,{Initiating Planetary Approach: %PLANET%}
+UI_PLANET_DISCOVERY,{%SYSTEM% System | %DISCOVERER%}
+UI_SAVE_AND_CLAIM,{Save & Chart}
+UI_UNKNOWN_SECTOR,{Unknown Sector}
+UI_NEARBY_WAYPOINT,{WAYPOINT DETECTED}
+UI_UNKNOWN_PLANET,{Unknown %PLANETCLASS%}
+UI_LAST_VISIT,{Last contact: %TIME% ago}
+UI_NEW_DISC_WITH_UNITS,{Newly discovered %CREATURE% (%AMOUNT% units received)}
+UI_TRADE_ITEM_ALLOY_1_DESC,{A packed crate of carbon nanotubes. These tiny but incredibly strong tubes are required in the construction of tiny but incredibly strong <SPECIAL>scientific components<>.}
+UI_TRADE_ITEM_ALLOY_1_NAME,{CARBON NANOTUBES}
+UI_TRADE_ITEM_ALLOY_1_NAME_L,{Carbon Nanotubes}
+UI_TRADE_ITEM_ALLOY_2_DESC,"{A hopper of self-repairing Heridium. It looks fresh. Used in the creation of <SPECIAL>scientific components<>. Self-repairing heridium is particularly useful for deployment in remote facilities, where maintenance opportunities may be limited or deadly.}"
+UI_TRADE_ITEM_ALLOY_2_NAME,{SELF-REPAIRING HERIDIUM}
+UI_TRADE_ITEM_ALLOY_2_NAME_L,{Self-Repairing Heridium}
+UI_TRADE_ITEM_ALLOY_3_DESC,{Several bottles of optical solvent. The liquid in these bottles is used to wash away surplus light that may otherwise cause decay in <SPECIAL>scientific components<>.}
+UI_TRADE_ITEM_ALLOY_3_NAME,{OPTICAL SOLVENT}
+UI_TRADE_ITEM_ALLOY_3_NAME_L,{Optical Solvent}
+UI_TRADE_ITEM_ALLOY_4_DESC,{A specially manufactured container of 5D tori. Highly specific materials are required to construct shapes in extra dimensions. These tori are used to contain the strong fields generated in the manufacture of <SPECIAL>scientific components<>.}
+UI_TRADE_ITEM_ALLOY_4_NAME,{FIVE DIMENSIONAL TORUS}
+UI_TRADE_ITEM_ALLOY_4_NAME_L,{Five Dimensional Torus}
+UI_TRADE_ITEM_ALLOY_5_DESC,"{A densely layered package of superconducting fibres. Powerful, flexible, and water-resistant; the controlled magnetic weave of these fibres is vital in the creation of many <SPECIAL>scientific components<>.}"
+UI_TRADE_ITEM_ALLOY_5_NAME,{SUPERCONDUCTING FIBRE}
+UI_TRADE_ITEM_ALLOY_5_NAME_L,{Superconducting Fibre}
+UI_TRADE_ITEM_COMMODITY_1_DESC,"{A crate packed with hard drives, each of which contain vast amounts of decrypted user data. Individually of low value, taken together these repositories can be processed and scanned for valuable data. This processing occurs in systems with <SPECIAL>advanced material<> economies.}"
+UI_TRADE_ITEM_COMMODITY_1_NAME,{DECRYPTED USER DATA}
+UI_TRADE_ITEM_COMMODITY_1_NAME_,{Decrypted User Data}
+UI_TRADE_ITEM_COMMODITY_2_DESC,"{Several spools of star silk. Star silk is woven on enormous solar looms in orbit around trading planets. Cosmic ray impact triggers the pattern of the weave, which can then be used in <SPECIAL>advanced material<> processing.}"
+UI_TRADE_ITEM_COMMODITY_2_NAME,{STAR SILK}
+UI_TRADE_ITEM_COMMODITY_2_NAME_,{Star Silk}
+UI_TRADE_ITEM_COMMODITY_3_DESC,"{Several canisters of comet droplets. An elaborate trading name for chunks of meteorite, these rocks are nonetheless extremely valuable to the <SPECIAL>advanced material<> economies that can process them.}"
+UI_TRADE_ITEM_COMMODITY_3_NAME,{COMET DROPLETS}
+UI_TRADE_ITEM_COMMODITY_3_NAME_,{Comet Droplets}
+UI_TRADE_ITEM_COMMODITY_4_DESC,"{A packed crate of ion spheres. These delicate glass spheres house a small-scale replica of the upper atmosphere. Sparkly and hypnotic to look at, these baubles are also of importance in the manufacture of <SPECIAL>advanced material<> alloys.}"
+UI_TRADE_ITEM_COMMODITY_4_NAME,{ION SPHERE}
+UI_TRADE_ITEM_COMMODITY_4_NAME_,{Ion Sphere}
+UI_TRADE_ITEM_COMMODITY_5_DESC,{A bundle of precisely calibrated teleport coordinators. These pin-prick sized circuits are vital to the delicate process of inserting reinforcing material into <SPECIAL>advanced alloys<>. They can also aid long-distance sales efforts.}
+UI_TRADE_ITEM_COMMODITY_5_NAME,{TELEPORT COORDINATORS}
+UI_TRADE_ITEM_COMMODITY_5_NAME_,{Teleport Coordinators}
+UI_TRADE_ITEM_COMPONENT_1_DESC,"{Several huge cogs. Sturdy, well-made metal gears. While not advanced technology themselves, they're a vital component in countless pieces of <SPECIAL>high-tech<> machinery all over the galaxy.}"
+UI_TRADE_ITEM_COMPONENT_1_NAME,{ENORMOUS METAL COG}
+UI_TRADE_ITEM_COMPONENT_1_NAME_,{Enormous Metal Cog}
+UI_TRADE_ITEM_COMPONENT_2_DESC,"{Wrapped and greased pistons, ready for shipping. <SPECIAL>High-tech<> components frequently require rapidly moving parts, or high-endurance motors. Without specially coated pistons, the failure rate of such parts would be significantly higher.}"
+UI_TRADE_ITEM_COMPONENT_2_NAME,{NON-STICK PISTON}
+UI_TRADE_ITEM_COMPONENT_2_NAME_,{Non-Stick Piston}
+UI_TRADE_ITEM_COMPONENT_3_DESC,"{A crate of mesh decouplers. The creation of <SPECIAL>high-tech<> components often involves accidental mesh-coupling. These decouplers are particularly powerful, being able to deploy six prongs simultaneously.}"
+UI_TRADE_ITEM_COMPONENT_3_NAME,{SIX-PRONGED MESH DECOUPLER}
+UI_TRADE_ITEM_COMPONENT_3_NAME_,{Six-Pronged Mesh Decoupler}
+UI_TRADE_ITEM_COMPONENT_4_DESC,"{Packed and separated data containers for holographic crankshafts. Real crankshafts are frequently too large, noisy or hard-to-maintain for use in delicate machines. When faced with such a situation, <SPECIAL>high-tech<> manufacturers turn to these holographic substitutes.}"
+UI_TRADE_ITEM_COMPONENT_4_NAME,{HOLOGRAPHIC CRANKSHAFT}
+UI_TRADE_ITEM_COMPONENT_4_NAME_,{Holographic Crankshaft}
+UI_TRADE_ITEM_COMPONENT_5_DESC,{A large crate of vector compressors. The creation of interstellar drives often requires dimensions to be condensed and then re-rendered. Such <SPECIAL>high-tech<> component manufacture would not be possible without industrial-grade compressors such as these.}
+UI_TRADE_ITEM_COMPONENT_5_NAME,{HIGH CAPACITY VECTOR COMPRESSOR}
+UI_TRADE_ITEM_COMPONENT_5_NAME_,{High Capacity Vector Compressor}
+UI_TRADE_ITEM_ENERGY_1_DESC,"{A crate packed with spark canisters. Many industrial and <SPECIAL>mining<> processes have considerable power demands. A counterpart to the slow release of a battery, spark canisters are able to meet these demands instantaneously.}"
+UI_TRADE_ITEM_ENERGY_1_NAME,{SPARK CANISTER}
+UI_TRADE_ITEM_ENERGY_1_NAME_L,{Spark Canister}
+UI_TRADE_ITEM_ENERGY_2_DESC,"{A packet of well-isolated industrial batteries. Heavy-duty batteries are required to power deep level <SPECIAL>mining<>operations. These highly durable sources can last for weeks, even in the extremes of heat and pressure found kilometres underground.}"
+UI_TRADE_ITEM_ENERGY_2_NAME,{INDUSTRIAL-GRADE BATTERY}
+UI_TRADE_ITEM_ENERGY_2_NAME_L,{Industrial-Grade Battery}
+UI_TRADE_ITEM_ENERGY_3_DESC,{Several packets of ohmic gel. Power-hungry <SPECIAL>mining<> operations are fraught with danger. Ohmic gel helps keep rapidly moving parts both insulated and lubricated.}
+UI_TRADE_ITEM_ENERGY_3_NAME,{OHMIC GEL}
+UI_TRADE_ITEM_ENERGY_3_NAME_L,{Ohmic Gel}
+UI_TRADE_ITEM_ENERGY_4_DESC,{Corrosion-resistant barrels of an experimental power fluid. One barrel of this highly volatile concoction is enough to power a space station for weeks on end. Particularly valued by <SPECIAL>mining<> economies.}
+UI_TRADE_ITEM_ENERGY_4_NAME,{EXPERIMENTAL POWER FLUID}
+UI_TRADE_ITEM_ENERGY_4_NAME_L,{Experimental Power Fluid}
+UI_TRADE_ITEM_ENERGY_5_DESC,"{A slightly glowing bundle of fusion cores. Power source, engine, high-capacity heater. A fusion core is the ultimate in deep-space power generation. Highly valued by <SPECIAL>mining<> economies looking to make their asteroid colonies more self-sufficient.}"
+UI_TRADE_ITEM_ENERGY_5_NAME,{FUSION CORE}
+UI_TRADE_ITEM_ENERGY_5_NAME_L,{Fusion Core}
+UI_TRADE_ITEM_EXOTICS_1_DESC,{A loose collection of recycled pheromone bottles. Vast quantities of pheromones are produced and distributed every day. This has spawned a lucrative <SPECIAL>trading<> opportunity for those willing to deal with the waste products. These glass jars have been thoroughly scrubbed and should pose no threat to the carrier.}
+UI_TRADE_ITEM_EXOTICS_1_NAME,{DE-SCENTED PHEROMONE BOTTLE}
+UI_TRADE_ITEM_EXOTICS_1_NAME_L,{De-Scented Pheromone Bottle}
+UI_TRADE_ITEM_EXOTICS_2_DESC,"{A parcel of neutron microscopes. Scientific economies produce and consume large numbers of microscopes. However, some have slight defects that render them unsuitable for precision work. These are still a <SPECIAL>trading<> opportunity, in that they can be sold to those unable to tell the difference.}"
+UI_TRADE_ITEM_EXOTICS_2_NAME,{NEUTRON MICROSCOPE}
+UI_TRADE_ITEM_EXOTICS_2_NAME_L,{Neutron Microscope}
+UI_TRADE_ITEM_EXOTICS_3_DESC,{A jumbled box of instability injectors. Grand experiments often require a large number of variables to be changed in a very short period of time. An instability injector provides such a service. They can also be used to create chaos in market systems; such unethical behaviour represents an excellent <SPECIAL>trading<> opportunity.}
+UI_TRADE_ITEM_EXOTICS_3_NAME,{INSTABILITY INJECTOR}
+UI_TRADE_ITEM_EXOTICS_3_NAME_L,{Instability Injector}
+UI_TRADE_ITEM_EXOTICS_4_DESC,"{A vat of preserved organic piping. Still warm. To avoid difficult ethical problems, many labs grow their test subjects on a component level. The leftovers can be profitable in <SPECIAL>trading<> economies with relaxed medical regulations.}"
+UI_TRADE_ITEM_EXOTICS_4_NAME,{ORGANIC PIPING}
+UI_TRADE_ITEM_EXOTICS_4_NAME_L,{Organic Piping}
+UI_TRADE_ITEM_EXOTICS_5_DESC,"{A box of fresh neural ducts. Neural ducts are temporary inserts designed for a brief boost of concentration and productivity. Useful everywhere, these are highly valued in <SPECIAL>trading<> economies where competition between workers is fierce.}"
+UI_TRADE_ITEM_EXOTICS_5_NAME,{NEURAL DUCT}
+UI_TRADE_ITEM_EXOTICS_5_NAME_L,{Neural Duct}
+UI_TRADE_ITEM_MINERALS_1_DESC,{Several tonnes of dirt. Leftover dirt from mining operations. Residual metals can be extracted by specialists in <SPECIAL>manufacturing<> economies with the time and equipment to sift through it.}
+UI_TRADE_ITEM_MINERALS_1_NAME,{DIRT}
+UI_TRADE_ITEM_MINERALS_1_NAME_L,{Dirt}
+UI_TRADE_ITEM_MINERALS_2_DESC,"{Large jars full of pyrite grease. A fat solution with a high mineral content. This grease is highly valued by <SPECIAL>manufacturing<> economies, where it's used to keep large machinery oiled and glistening.}"
+UI_TRADE_ITEM_MINERALS_2_NAME,{UNREFINED PYRITE GREASE}
+UI_TRADE_ITEM_MINERALS_2_NAME_L,{Unrefined Pyrite Grease}
+UI_TRADE_ITEM_MINERALS_3_DESC,"{A crate of bromide salt. The result of an extensive distillation and evaporation process, the bromide salt vats feed hungry factories in <SPECIAL>manufacturing<> systems.}"
+UI_TRADE_ITEM_MINERALS_3_NAME,{BROMIDE SALT}
+UI_TRADE_ITEM_MINERALS_3_NAME_L,{Bromide Salt}
+UI_TRADE_ITEM_MINERALS_4_DESC,{A sack full of polychromatic zirconium crystals. These crystals produce lenses of dazzling colour and near-indestructible hardness. Highly valuable in <SPECIAL>manufacturing<> economies.}
+UI_TRADE_ITEM_MINERALS_4_NAME,{POLYCHROMATIC ZIRCONIUM}
+UI_TRADE_ITEM_MINERALS_4_NAME_L,{Polychromatic Zirconium}
+UI_TRADE_ITEM_MINERALS_5_DESC,"{A neatly wrapped parcel of re-latticed arc crystals. Extremely rare mineral formations, arc crystals are in high demand in <SPECIAL>manufacturing<> economies, where their hardness and conductivity is vital to several industrial processes. They also make alluring (if dangerous) jewellery.}"
+UI_TRADE_ITEM_MINERALS_5_NAME,{RE-LATTICED ARC CRYSTAL}
+UI_TRADE_ITEM_MINERALS_5_NAME_L,{Re-latticed Arc Crystal}
+UI_TRADE_ITEM_TECH_1_DESC,"{A collection of salvaged circuitry. <SPECIAL>Power generation<> economies go through vast numbers of high-tech components. As such, the demand is present even for highly damaged circuits, to be scavenged for parts or just plugged wholesale into low-quality power cores.}"
+UI_TRADE_ITEM_TECH_1_NAME,{DECOMMISSIONED CIRCUIT BOARD}
+UI_TRADE_ITEM_TECH_1_NAME_L,{Decommissioned Circuit Board}
+UI_TRADE_ITEM_TECH_2_DESC,{Several large bars of welding soap. Used in <SPECIAL>power generation<> systems to heat-clean metal diodes before they're fused into batteries.}
+UI_TRADE_ITEM_TECH_2_NAME,{WELDING SOAP}
+UI_TRADE_ITEM_TECH_2_NAME_L,{Welding Soap}
+UI_TRADE_ITEM_TECH_3_DESC,{A reinforced crate of ion capacitors. These supercapacitors have an incredibly high energy density. In great demand in <SPECIAL>power generation<> economies.}
+UI_TRADE_ITEM_TECH_3_NAME,{ION CAPACITOR}
+UI_TRADE_ITEM_TECH_3_NAME_L,{Ion Capacitor}
+UI_TRADE_ITEM_TECH_4_DESC,"{A container of positioning units and associated wiring. These APS units can be used to turn virtually any technology into a self-navigating system. Highly valuable in <SPECIAL>power generation<> economies, where they're used to remove conductive organic hands from the manufacturing process.}"
+UI_TRADE_ITEM_TECH_4_NAME,{AUTONOMOUS POSITIONING UNIT}
+UI_TRADE_ITEM_TECH_4_NAME_L,{Autonomous Positioning Unit}
+UI_TRADE_ITEM_TECH_5_DESC,"{Several large quantum accelerator units. Capable of propelling matter at unmeasurable speeds, these units are particularly important in <SPECIAL>power generation<> economies, where they're used to compress the energy stored in high-grade batteries.}"
+UI_TRADE_ITEM_TECH_5_NAME,{QUANTUM ACCELERATOR}
+UI_TRADE_ITEM_TECH_5_NAME_L,{Quantum Accelerator}
+UI_TRADE_ITEM_ALLOY_SUB,{Advanced Construction Materials}
+UI_TRADE_ITEM_COMMODITY_SUB,{Trade Commodity}
+UI_TRADE_ITEM_TECH_SUB,{Technology Parts}
+UI_TRADE_ITEM_EXOTICS_SUB,{Scientific Components}
+UI_TRADE_ITEM_COMPONENT_SUB,{Industrial Components}
+UI_TRADE_ITEM_ENERGY_SUB,{Tradable Energy Source}
+UI_TRADE_ITEM_MINERALS_SUB,{Tradable Minerals}
+UI_PLANT_1_NAME,{MORDITE ROOT}
+UI_PLANT_1_NAME_L,{Mordite Root}
+UI_PLANT_2_NAME,{COPRITE FLOWER}
+UI_PLANT_2_NAME_L,{Coprite Flower}
+UI_PLANT_3_NAME,{CANDLE KELP}
+UI_PLANT_3_NAME_L,{Candle Kelp}
+UI_PLANT_4_NAME,{CAVE MARROW}
+UI_PLANT_4_NAME_L,{Cave Marrow}
+UI_PLANT_5_NAME,{FUNGAL CLUSTER}
+UI_PLANT_5_NAME_L,{Fungal Cluster}
+UI_PLANT_6_NAME,{GAMMA WEED}
+UI_PLANT_6_NAME_L,{Gamma Weed}
+UI_PLANT_7_NAME,{FROSTWORT}
+UI_PLANT_7_NAME_L,{Frostwort}
+UI_PLANT_8_NAME,{SOLAR VINE}
+UI_PLANT_8_NAME_L,{Solar Vine}
+UI_PLANT_9_NAME,{ECHINOCACTUS}
+UI_PLANT_9_NAME_L,{Echinocactus}
+UI_PLANT_10_NAME,{STAR BRAMBLE}
+UI_PLANT_10_NAME_L,{Star Bramble}
+UI_PLANT_11_NAME,{NIPNIP}
+UI_PLANT_11_NAME_L,{NipNip}
+UI_PLANT_11_DESC,"{This medicinal herb is known for its pungent buds, which are harvested to produce Gek Nip. NipNip thrives in dank environments, and often grows as a weed. Suitable for hydroponic planting indoors. Needs a tropical or humid climate before planting outdoors.}"
+UI_PLANT_12_NAME,{VENOM URCHIN}
+UI_PLANT_12_NAME_L,{Venom Urchin}
+UI_PLANT_13_NAME,{GRAVITINO HOST}
+UI_PLANT_13_NAME_L,{Gravitino Host}
+UI_PLANT_SUBTITLE,{Plantable Seed}
+UI_PLANTSUB_DEADCREATURE_NAME,{MORDITE}
+UI_PLANTSUB_DEADCREATURE_NAME_L,{Mordite}
+UI_PLANTSUB_DEADCREATURE_SYM,{Mo}
+UI_PLANTSUB_CREATUREPOOP_NAME,{COPRITE}
+UI_PLANTSUB_CREATUREPOOP_NAME_L,{Coprite}
+UI_PLANTSUB_CREATUREPOOP_SYM,{Cr}
+UI_PLANTSUB_WATER_NAME,{KELP SAC}
+UI_PLANTSUB_WATER_NAME_L,{Kelp Sac}
+UI_PLANTSUB_WATER_SYM,{Ke}
+UI_PLANTSUB_CAVE_NAME,{MARROW BULB}
+UI_PLANTSUB_CAVE_NAME_L,{Marrow Bulb}
+UI_PLANTSUB_CAVE_SYM,{Bu}
+UI_PLANTSUB_TOXIC_NAME,{FUNGAL MOULD}
+UI_PLANTSUB_TOXIC_NAME_L,{Fungal Mould}
+UI_PLANTSUB_TOXIC_SYM,{Ml}
+UI_PLANTSUB_RADIO_NAME,{GAMMA ROOT}
+UI_PLANTSUB_RADIO_NAME_L,{Gamma Root}
+UI_PLANTSUB_RADIO_SYM,{Gr}
+UI_PLANTSUB_SNOW_NAME,{FROST CRYSTAL}
+UI_PLANTSUB_SNOW_NAME_L,{Frost Crystal}
+UI_PLANTSUB_SNOW_SYM,{Fc}
+UI_PLANTSUB_SCORCHED_NAME,{SOLANIUM}
+UI_PLANTSUB_SCORCHED_NAME_L,{Solanium}
+UI_PLANTSUB_SCORCHED_SYM,{So}
+UI_PLANTSUB_BARREN_NAME,{CACTUS FLESH}
+UI_PLANTSUB_BARREN_NAME_L,{Cactus Flesh}
+UI_PLANTSUB_BARREN_SYM,{Cc}
+UI_PLANTSUB_LUSH_NAME,{STAR BULB}
+UI_PLANTSUB_LUSH_NAME_L,{Star Bulb}
+UI_PLANTSUB_LUSH_SYM,{Sb}
+UI_PLANTSUB_SUBTITLE,{Harvested Agricultural Substance}
+UI_PLANTPROD_NIP_NAME,{NIPNIP BUDS}
+UI_PLANTPROD_NIP_NAME_L,{NipNip Buds}
+UI_PLANTPROD_NIP_DESC,"{This medicinal herb is known for its pungent buds, which are harvested to produce Gek Nip. NipNip thrives in dank environments, and often grows as a weed. Suitable for hydroponic planting indoors. Needs a tropical or humid climate before planting outdoors. Approximate growing time: <TECHNOLOGY>60 mins<>}"
+UI_PLANTPROD_SAC_NAME,{SAC VENOM}
+UI_PLANTPROD_SAC_NAME_L,{Sac Venom}
+UI_FARMPROD_1_NAME,{ACID}
+UI_FARMPROD_1_NAME_L,{Acid}
+UI_FARMPROD_2_NAME,{LUBRICANT}
+UI_FARMPROD_2_NAME_L,{Lubricant}
+UI_FARMPROD_3_NAME,{GLASS}
+UI_FARMPROD_3_NAME_L,{Glass}
+UI_FARMPROD_4_NAME,{HEAT CAPACITOR}
+UI_FARMPROD_4_NAME_L,{Heat Capacitor}
+UI_FARMPROD_5_NAME,{POLY FIBRE}
+UI_FARMPROD_5_NAME_L,{Poly Fibre}
+UI_FARMPROD_6_NAME,{UNSTABLE GEL}
+UI_FARMPROD_6_NAME_L,{Unstable Gel}
+UI_FARMPROD_7_NAME,{LIQUID EXPLOSIVE}
+UI_FARMPROD_7_NAME_L,{Liquid Explosive}
+UI_FARMPROD_8_NAME,{LIVING GLASS}
+UI_FARMPROD_8_NAME_L,{Living Glass}
+UI_FARMPROD_9_NAME,{CIRCUIT BOARD}
+UI_FARMPROD_9_NAME_L,{Circuit Board}
+UI_FARMPROD_BASIC_1_NAME,{WEATHERPROOF RUBBER}
+UI_FARMPROD_BASIC_1_NAME_L,{Weatherproof Rubber}
+UI_FARMPROD_BASIC_2_NAME,{VOLTAIC CELL}
+UI_FARMPROD_BASIC_2_NAME_L,{Voltaic Cell}
+UI_ALLOY_SIMPLE_1_NAME,{ARONIUM}
+UI_ALLOY_SIMPLE_1_NAME_L,{Aronium}
+UI_ALLOY_SIMPLE_2_NAME,{DIRTY BRONZE}
+UI_ALLOY_SIMPLE_2_NAME_L,{Dirty Bronze}
+UI_ALLOY_SIMPLE_3_NAME,{HEROX}
+UI_ALLOY_SIMPLE_3_NAME_L,{Herox}
+UI_ALLOY_SIMPLE_4_NAME,{LEMMIUM}
+UI_ALLOY_SIMPLE_4_NAME_L,{Lemmium}
+UI_ALLOY_SIMPLE_5_NAME,{MAGNO-GOLD}
+UI_ALLOY_SIMPLE_5_NAME_L,{Magno-Gold}
+UI_ALLOY_SIMPLE_6_NAME,{GRANTINE}
+UI_ALLOY_SIMPLE_6_NAME_L,{Grantine}
+UI_ALLOY_SIMPLE_SUBTITLE,{Alloy Metal}
+UI_ALLOY_COMPLEX_1_NAME,{GEODESITE}
+UI_ALLOY_COMPLEX_1_NAME_L,{Geodesite}
+UI_ALLOY_COMPLEX_2_NAME,{IRIDESITE}
+UI_ALLOY_COMPLEX_2_NAME_L,{Iridesite}
+UI_ALLOY_COMPLEX_SUBTITLE,{Enriched Alloy Metal}
+UI_MEGAPROD_1_NAME,{PORTABLE REACTOR}
+UI_MEGAPROD_1_NAME_L,{Portable Reactor}
+UI_MEGAPROD_2_NAME,{QUANTUM PROCESSOR}
+UI_MEGAPROD_2_NAME_L,{Quantum Processor}
+UI_MEGAPROD_3_NAME,{CRYOGENIC CHAMBER}
+UI_MEGAPROD_3_NAME_L,{Cryogenic Chamber}
+UI_MEGAPROD_SUBTITLE,{Advanced Crafted Product}
+UI_ULTRAPROD_1_NAME,{FUSION IGNITOR}
+UI_ULTRAPROD_1_NAME_L,{Fusion Ignitor}
+UI_ULTRAPROD_2_NAME,{STASIS DEVICE}
+UI_ULTRAPROD_2_NAME_L,{Stasis Device}
+UI_MEGAPROD_1_DESC,"{A miniature self-controlled nuclear reactor. Generates sub-stellar levels of energy in a hassle-free, widely compatible fuel module. Crafted from <TECHNOLOGY>Liquid Explosives<> and <FUEL>Fusion Accelerant<>.}"
+UI_MEGAPROD_2_DESC,"{A highly advanced computational device, essential for the complex calculations involved in warp travel. Crafted from <TECHNOLOGY>Circuit Boards<> and <TECHNOLOGY>Superconductors<>.}"
+UI_MEGAPROD_3_DESC,"{A low temperature chamber, designed to prevent the natural decay of organic matter. Crafted from <TECHNOLOGY>Living Glass<> and a <TECHNOLOGY>Cryo-Pump<>.}"
+UI_ULTRAPROD_1_DESC,"{A highly advanced piece of technology for use in the next generation of power plants. Producing a fusion core requires both intricate scientific skills and complex industrial processes. Crafted from <FUEL>Portable Reactor<>, <TECHNOLOGY>Quantum Processors<> and <SPECIAL>Geodesite<>.}"
+UI_ULTRAPROD_2_DESC,"{A device specifically crafted to keep lifeforms alive for thousands of years longer than their natural lifespan. Such a device requires great skill to manufacture, as not only is it technically complex, but the consequences for a user in the event of malfunction would be disastrous. Crafted from <TECHNOLOGY>Quantum Processors<>, <TECHNOLOGY>Cryogenic Chambers<>, and <SPECIAL>Iridesite<>.}"
+UI_GAS_1_NAME,{SULPHURINE}
+UI_GAS_1_NAME_L,{Sulphurine}
+UI_GAS_1_SYM,{Su}
+UI_GAS_2_NAME,{RADON}
+UI_GAS_2_NAME_L,{Radon}
+UI_GAS_2_SYM,{Rn}
+UI_GAS_3_NAME,{NITROGEN}
+UI_GAS_3_NAME_L,{Nitrogen}
+UI_GAS_3_SYM,{N}
+UI_GAS_SUBTITLE,{Compressed Atmospheric Gas}
+UI_REACTION_1_NAME,{THERMIC CONDENSATE}
+UI_REACTION_1_NAME_L,{Thermic Condensate}
+UI_REACTION_2_NAME,{ENRICHED CARBON}
+UI_REACTION_2_NAME_L,{Enriched Carbon}
+UI_REACTION_3_NAME,{NITROGEN SALT}
+UI_REACTION_3_NAME_L,{Nitrogen Salt}
+UI_COMPOUND_1_NAME,{ORGANIC CATALYST}
+UI_COMPOUND_1_NAME_L,{Organic Catalyst}
+UI_COMPOUND_2_NAME,{SEMICONDUCTOR}
+UI_COMPOUND_2_NAME_L,{Semiconductor}
+UI_COMPOUND_3_NAME,{HOT ICE}
+UI_COMPOUND_3_NAME_L,{Hot Ice}
+UI_COMPOUND_4_NAME,{FUSION ACCELERANT}
+UI_COMPOUND_4_NAME_L,{Fusion Accelerant}
+UI_COMPOUND_5_NAME,{SUPERCONDUCTOR}
+UI_COMPOUND_5_NAME_L,{Superconductor}
+UI_COMPOUND_6_NAME,{CRYO-PUMP}
+UI_COMPOUND_6_NAME_L,{Cryo-Pump}
+UI_COMPOUND_SUBTITLE,{Manufactured Gas Product}
+UI_LOG_PRIMARY_MISSIONS,{ภารกิจหลัก}
+UI_LOG_SECONDARY_MISSIONS,{ภารกิจรอง}
+UI_LOG_SELECT_MISSION,{ภารกิจที่รับเลือก}
+UI_MAINTAIN_FARM1_NAME,{SOIL DE-WORMER}
+UI_MAINTAIN_FARM1_NAME_L,{Soil De-Wormer}
+UI_MAINTAIN_FARM1_DESC,{A control unit for a brigade of tiny robots. These are directed to burrow through the soil and eliminate yield-depleting pests. Control unit maintenance is crucial to prevent accidental robot swarms.}
+UI_MAINTAIN_FARM2_NAME,{AUTO SPRINKLER}
+UI_MAINTAIN_FARM2_NAME_L,{Auto Sprinkler}
+UI_MAINTAIN_FARM2_DESC,"{An automatic sprinkler system that tunes itself to the needs of the plants, deploying water as a fine mist, a heavy downpour, or anything in-between.}"
+UI_MAINTAIN_FARM3_NAME,{LIGHT BALANCER}
+UI_MAINTAIN_FARM3_NAME_L,{Light Balancer}
+UI_MAINTAIN_FARM3_DESC,"{A bank of LEDs controlled by a photosensitive processing unit, designed to carefully deliver exactly the mix of red, green or blue light that the plant requires.}"
+UI_MAINTAIN_FARM4_NAME,{AUTO-PROPAGATOR}
+UI_MAINTAIN_FARM4_NAME_L,{Auto-Propagator}
+UI_MAINTAIN_FARM4_DESC,"{This advanced bank of lasers prunes and propagates plants as required, the cauterising light offering unequaled precision.}"
+UI_MAINTAIN_FARM5_NAME,{NUTRIENT DISTRIBUTOR}
+UI_MAINTAIN_FARM5_NAME_L,{Nutrient Distributor}
+UI_MAINTAIN_FARM5_DESC,"{A hybrid fabricator/distributor that tests the soil for missing nutrients, so that it can create and spray the perfect fertiliser.}"
+UI_MAINTAIN_FUEL1_NAME,{FUEL INVERTER}
+UI_MAINTAIN_FUEL1_NAME_L,{Fuel Inverter}
+UI_MAINTAIN_FUEL1_DESC,{A piece of rechargeable power technology. The fuel inverter ensures an even flow of power to autonomous machines.}
+UI_MAINTAIN_FUEL2_NAME,{MEMBRANE BATTERY}
+UI_MAINTAIN_FUEL2_NAME_L,{Membrane Battery}
+UI_MAINTAIN_FUEL2_DESC,"{The membrane battery is an almost maintenance-free piece of rechargeable power technology. Nestled among in the machine's circuits, it supplies power safely and directly.}"
+UI_MAINTAIN_FUEL3_NAME,{POWER CONDENSER}
+UI_MAINTAIN_FUEL3_NAME_L,{Power Condenser}
+UI_MAINTAIN_FUEL3_DESC,"{A piece of rechargeable power technology. The power condenser harvests any heat energy wasted during the machine's operation, and uses it to generate extra power.}"
+UI_MAINTAIN_FUEL4_NAME,{GENERATOR COUPLING}
+UI_MAINTAIN_FUEL4_NAME_L,{Generator Coupling}
+UI_MAINTAIN_FUEL4_DESC,"{The generator coupling is an important piece of the machine's rechargeable power systems. Without it, the generator would fruitlessly spin, pumping power out into the void.}"
+UI_MAINTAIN_FUEL5_NAME,{KINETIC DYNAMO}
+UI_MAINTAIN_FUEL5_NAME_L,{Kinetic Dynamo}
+UI_MAINTAIN_FUEL5_DESC,"{The kinetic dynamo takes a small initial charge and uses it to run power-harvesting systems that tap into the orbit of the planet. This frees autonomous machinery from frequent fuel inspections, allowing them to endure extremely long maintenance cycles.}"
+UI_MAINTAIN_TECH1_NAME,{LOCKING MECHANISM}
+UI_MAINTAIN_TECH1_NAME_L,{Locking mechanism}
+UI_MAINTAIN_TECH1_DESC,"{A simple locking device, designed to keep out unauthorised pilferers. Damage has locked it permanently.}"
+UI_MAINTAIN_TECH2_NAME,{MAGNETIC LOCK}
+UI_MAINTAIN_TECH2_NAME_L,{Magnetic Lock}
+UI_MAINTAIN_TECH2_DESC,{An advanced locking device. A polarity incident has caused it to seal shut permanently.}
+UI_MAINTAIN_TECH3_NAME,{SUPERCONDUCTIVE LOCK}
+UI_MAINTAIN_TECH3_NAME_L,{Superconductive Lock}
+UI_MAINTAIN_TECH3_DESC,{A highly advanced locking device. Damage to the circuits supplying the magnet has caused it to lock permanently.}
+UI_MAINTAIN_TECH4_NAME,{INPUT TERMINAL}
+UI_MAINTAIN_TECH4_NAME_L,{Input terminal}
+UI_MAINTAIN_TECH4_DESC,{A terminal designed to allow manual control of the device. Damage prevents it actually receiving any input.}
+UI_MAINTAIN_TECH5_NAME,{BIO-INPUT SENSOR}
+UI_MAINTAIN_TECH5_NAME_L,{Bio-input sensor}
+UI_MAINTAIN_TECH5_DESC,"{An advanced control unit, designed to allow device/flesh interaction. Damage prevents it functioning correctly. Interfacing while it is in this state is not advised.}"
+UI_MAINTAIN_TECH6_NAME,{BOILER UNIT}
+UI_MAINTAIN_TECH6_NAME_L,{Boiler Unit}
+UI_MAINTAIN_TECH6_DESC,"{A small boiler, generating heat to allow the device to function in difficult climates. A malfunction has resulted in a damaging boiler overflow.}"
+UI_MAINTAIN_TECH7_NAME,{TINY MOTOR}
+UI_MAINTAIN_TECH7_NAME_L,{Tiny motor}
+UI_MAINTAIN_TECH7_DESC,"{A very small motor, designed to power very small parts. It has corroded, and is full of very small rust.}"
+UI_MAINTAIN_TECH8_NAME,{COOLING SYSTEM}
+UI_MAINTAIN_TECH8_NAME_L,{Cooling system}
+UI_MAINTAIN_TECH8_DESC,"{A pump and heat exchange system designed to keep the device from overheating. It has itself overheated, and is no longer functional.}"
+UI_MAINTAIN_TECH9_NAME,{OUTPUT SCREEN}
+UI_MAINTAIN_TECH9_NAME_L,{Output screen}
+UI_MAINTAIN_TECH9_DESC,"{A display terminal designed to communicate the device's status to the user. As the terminal is broken, the user cannot be made aware that the terminal is broken.}"
+UI_MAINTAIN_TECH10_NAME,{TAMPER PREVENTION DEVICE}
+UI_MAINTAIN_TECH10_NAME_L,{Tamper Prevention Device}
+UI_MAINTAIN_TECH10_DESC,"{A unit designed to destroy vital systems in the event that the device is tampered with by an unauthorised party. Unfortunately, it has itself malfunctioned and will continue to damage other systems until repaired.}"
+UI_MAINTAIN_TECH11_NAME,{SECURITY ALARM}
+UI_MAINTAIN_TECH11_NAME_L,{Security Alarm}
+UI_MAINTAIN_TECH11_DESC,"{A small light/klaxon hybrid, designed to warn of unauthorised access to the device. Damage to the alarm has caused it to overload and short other nearby circuits.}"
+UI_MAINTAIN_TECH12_NAME,{SPRING CASING}
+UI_MAINTAIN_TECH12_NAME_L,{Spring Casing}
+UI_MAINTAIN_TECH12_DESC,"{The casing for a high-compression spring. The casing has ruptured, causing the spring to shoot out and damage the rest of the device.}"
+UI_MAINTAIN_TECH13_NAME,{THERMOREGULATOR}
+UI_MAINTAIN_TECH13_NAME_L,{Thermoregulator}
+UI_MAINTAIN_TECH13_DESC,"{A control unit designed to keep temperatures even across the device. The sensor unit is damaged, causing it to vent or generate heat at inappropriate times.}"
+UI_MAINTAIN_TECH14_NAME,{FUEL PUMP}
+UI_MAINTAIN_TECH14_NAME_L,{Fuel Pump}
+UI_MAINTAIN_TECH14_DESC,"{A high-capacity pump, ensuring that fuel reaches every part of the device in all gravitational conditions. The filter is clogged with a strange substance, causing it to lose power.}"
+UI_MAINTAIN_TECH15_NAME,{SERVO ARM}
+UI_MAINTAIN_TECH15_NAME_L,{Servo Arm}
+UI_MAINTAIN_TECH15_DESC,"{A small mechanical joint, used to correct small mechanical errors across the device. A malfunction is causing it to take functional components and push them into the wrong place, creating even more damage.}"
+UI_MAINTAIN_TECH16_NAME,{SOLENOID}
+UI_MAINTAIN_TECH16_NAME_L,{Solenoid}
+UI_MAINTAIN_TECH16_DESC,"{A relay switch, intended to aid the powering up of the device. The connectors have become corroded, and the solenoid is no longer functioning.}"
+UI_MAINTAIN_TECH17_NAME,{PRESSURE CHAMBER}
+UI_MAINTAIN_TECH17_NAME_L,{Pressure Chamber}
+UI_MAINTAIN_TECH17_DESC,"{A small pressurised chamber, designed to create the compressed gas necessary for the device to function. Cracks have appeared in the chamber, causing it to leak.}"
+UI_MAINTAIN_TECH18_NAME,{MASTER CIRCUIT}
+UI_MAINTAIN_TECH18_NAME_L,{Master Circuit}
+UI_MAINTAIN_TECH18_DESC,{The control circuit for all the other components in the device. Damage to this circuitry is fatal.}
+UI_MAINTAIN_TECH19_NAME,{POWER DISTRIBUTOR}
+UI_MAINTAIN_TECH19_NAME_L,{Power Distributor}
+UI_MAINTAIN_TECH19_DESC,"{The central power unit for the device. Damage to the unit means it is currently distributing all the power to one particular circuit, causing a dangerous short.}"
+UI_MAINTAIN_TECH20_NAME,{LOAD BALANCER}
+UI_MAINTAIN_TECH20_NAME_L,{Load Balancer}
+UI_MAINTAIN_TECH20_DESC,"{A small unit designed to regulate the flow of power across the device. A malfunction is causing it to short, damaging other components.}"
+UI_MAINTAIN_TECH21_NAME,{NETWORK INTERFACE}
+UI_MAINTAIN_TECH21_NAME_L,{Network Interface}
+UI_MAINTAIN_TECH21_DESC,"{A universal network interface, allowing the device to connect to a remote control centre. Damage to this interface is causing it to interpret background radiation as network signals, corrupting data in other circuits.}"
+UI_MAINTAIN_TECH22_NAME,{SAFETY PANEL}
+UI_MAINTAIN_TECH22_NAME_L,{Safety Panel}
+UI_MAINTAIN_TECH22_DESC,"{The safety panel seals off potentially dangerous components in the event of a malfunction. An over sensitive trigger has caused it to activate, preventing the device from operating.}"
+UI_MAINTAIN_TECH23_NAME,{ALTERNATOR}
+UI_MAINTAIN_TECH23_NAME_L,{Alternator}
+UI_MAINTAIN_TECH23_DESC,"{The alternator generates and regulates power for the device. A strange corrosion seeps through it, preventing it from working.}"
+UI_MAINTAIN_TECH24_NAME,{PHOTOVOLTAIC PANEL}
+UI_MAINTAIN_TECH24_NAME_L,{Photovoltaic Panel}
+UI_MAINTAIN_TECH24_DESC,"{A small but efficient panel, designed to harvest light and convert it to power. However, the panel is now cracked and dusty, and can no longer be relied on.}"
+UI_MAINTAIN_TECH25_NAME,{TRANSMISSION BOX}
+UI_MAINTAIN_TECH25_NAME_L,{Transmission Box}
+UI_MAINTAIN_TECH25_DESC,"{The gearing mechanism for the device. The lubricant that keeps it operational appears to have been replaced with an otherworldly green goo, and the gears are now stuck.}"
+UI_PLANT_1_DESC,{An inedible tuber that produces a small yield of Mordite crystals. A peaceful alternative to the process of harvesting Mordite from the <TECHNOLOGY>corpses of creatures<>. Mordite Root must be grown in a <TECHNOLOGY>Hydroponics Tray<>. Approximate growing time: <TECHNOLOGY>60 mins<>}
+UI_PLANT_2_DESC,"{A foul-smelling, farmable flower that replicates the chemical structure of faecal matter. When planted inside, yields a harvest of Coprite. A good alternative to collecting Coprite by hand, which requires <TECHNOLOGY>feeding creatures<> and then <TECHNOLOGY>harvesting their droppings<>. Coprite Flowers must be grown in a <TECHNOLOGY>Hydroponics Tray<>. Approximate growing time: <TECHNOLOGY>30 mins<>}"
+UI_PLANT_3_DESC,"{A luminous plant found deep underwater, the Candle Kelp yields chemicals useful for both waterproofing and generating light.}"
+UI_PLANT_4_DESC,"{A hardy tuber found deep underground. The Cave Marrow is a vigorous grower, despite a lack of light. Excess sunlight can severely harm yields.}"
+UI_PLANT_5_DESC,"{A spherical fungus with internal gills, found only in toxic biomes. Fungal Clusters can be transplanted for cultivation, yielding a bountiful harvest. Suitable for hydroponic indoor planting. Ensure Toxic climate before planting outdoors. Approximate growing time: <TECHNOLOGY>30 mins<>}"
+UI_PLANT_6_DESC,"{A luminous, leafy flowering plant that thrives in radioactive biomes and can be cultivated to yield a bountiful harvest. Suitable for hydroponic indoor planting. Ensure Radioactive climate before planting outdoors. Approximate growing time: <TECHNOLOGY>30 mins<>}"
+UI_PLANT_7_DESC,"{A large crystal flower with radiant blue blooms, found only in snowy biomes. Frostwort can be farmed and makes a reliable crop, and its adaptation to harsh conditions results in highly frequent harvests. Suitable for hydroponic indoor planting. Ensure Frozen climate before planting outdoors. Approximate growing time: <TECHNOLOGY>15 mins<>}"
+UI_PLANT_8_DESC,"{This 'living rock' is adapted to live in the extreme heat of scorched biomes. However, it can be farmed in most environments and, once established, yields a moderate harvest. Suitable for hydroponic indoor planting. Ensure Hot climate before planting outdoors. Approximate growing time: <TECHNOLOGY>120 mins<>}"
+UI_PLANT_9_DESC,"{Native to barren biomes and capable of withstanding long periods of drought, Echinocactus is an edible succulent that responds well to cultivation, yielding a large but occasional harvest. Suitable for hydroponic indoor planting. Ensure Barren climate before planting outdoors. Approximate growing time: <TECHNOLOGY>120 mins<>}"
+UI_PLANT_10_DESC,"{A medium-sized, farmable plant that yields an occasional harvest of valuable Star Bulbs. Suitable for hydroponic indoor planting. Ensure Lush climate before planting outdoors. Approximate growing time: <TECHNOLOGY>30 mins<>}"
+UI_PLANT_12_DESC,"{A small, innocuous looking plant whose leaves periodically secrete a small amount of potent Sac Venom, a valuable trading commodity. Suitable for hydroponic indoor planting. Cannot be planted outdoors. Approximate growing time: <TECHNOLOGY>40 mins<>}"
+UI_PLANT_13_DESC,"{A strange, potentially parasitic plant that yields an occasional harvest of the highly tradable commodity, Gravitino Balls. Suitable for hydroponic indoor planting. Cannot be planted outdoors. Approximate growing time: <TECHNOLOGY>60 mins<>}"
+UI_PLANTSUB_DEADCREATURE_DESC,"{Despite much study, little is known about this haunting, crystalline compound. It is released from the cadavers of dying creatures, but can also be specifically <TRADEABLE>cultivated<> and harvested from the <SPECIAL>Mordite Root<> plant.}"
+UI_PLANTSUB_CREATUREPOOP_DESC,"{A foul-smelling compound that can be harvested from the <TRADEABLE>Coprite Flower<>, or less desirably from the faecal matter of some species. Creatures can be fed to encourage the formation and deposition of coprite crystals.}"
+UI_PLANTSUB_WATER_DESC,"{A rubbery, luminescent sac harvested from <TECHNOLOGY>underwater<> <TRADEABLE>Candle Kelp<> plants. Agricultural science has not yet tamed the Candle Kelp. As such, these sacs cannot be farmed.}"
+UI_PLANTSUB_CAVE_DESC,"{A glowing organic bulb, harvested from the <TRADEABLE>Cave Marrow plant<> found growing <TECHNOLOGY>underground<>. The Cave Marrow has proved resistant to domestication, and no farmable cultivars are known to exist. As such, marrow bulbs must be harvested by hand in the wild.}"
+UI_PLANTSUB_TOXIC_DESC,"{An oddly-glowing substance, harvested from the gills of <TRADEABLE>Fungal Clusters<>. The host plant requires a <TRADEABLE>toxic climate<> to thrive in the wild, but can be farmed in all environments with the aid of a <TECHNOLOGY>Hydroponics Tray<>.}"
+UI_PLANTSUB_RADIO_DESC,"{A strange substance that seems to slowly shift the air around it. It is found in the roots of the <TRADEABLE>Gamma Weed plant<>. Gamma Weed requires <COMMODITY>high background radiation<> to thrive in the wild, but can be farmed in all environments with the aid of a <TECHNOLOGY>Hydroponics Tray<>.}"
+UI_PLANTSUB_SNOW_DESC,"{A beautiful blue crystal, this organic compound possesses both great hardiness and a shimmering translucence. It is harvested from the leaves of <TRADEABLE>Frostwort<>. Frostwort requires <TECHNOLOGY>frozen conditions<> to thrive in the wild, but can be farmed in all environments with the aid of a <TECHNOLOGY>Hydroponics Tray<>.}"
+UI_PLANTSUB_SCORCHED_DESC,"{A powerful chemical that has resisted attempts at synthesis. It can be harvested from the bark of the <TRADEABLE>Solar Vine<>. The vine requires a <FUEL>hot climate<> to thrive in the wild, but can be farmed in all environments with the aid of a <TECHNOLOGY>Hydroponics Tray<>.}"
+UI_PLANTSUB_BARREN_DESC,"{Succulent, edible cactus flesh from the <TRADEABLE>Echinocactus plant<>. As well as being juicy on the tongue, the flesh has many industrial uses. The Echinocactus thrives only on <FUEL>desert planets<>, but can be farmed in all environments with the aid of a <TECHNOLOGY>Hydroponics Tray<>..}"
+UI_PLANTSUB_LUSH_DESC,"{A beautiful gemstone, this prized product is the engorged, luminescent berry of the <TRADEABLE>Star Bramble<>. The host plant requires <TRADEABLE>lush conditions<> to thrive in the wild, but can be farmed in all environments with the aid of a <TECHNOLOGY>Hydroponics Tray<>.}"
+UI_PLANTPROD_SAC_12_DESC,"{Stabilised poison sample, produced by aquatic urchin creatures. A rare and expensive item on the Galactic Trade Network.}"
+UI_FARMPROD_1_DESC,{Dilute acid for high current generation in diverse power cells. Crafted from <SPECIAL>Mordite<> and <TRADEABLE>Fungal Mould<>.}
+UI_FARMPROD_2_DESC,{A synthetic lubricant that reduces wear and prolongs the lifespan of technologies with moving parts. Crafted from <FUEL>Coprite<> and <TRADEABLE>Gamma Root<>.}
+UI_FARMPROD_3_DESC,"{Shatter-proof, scratch-resistant glass with a self-cleaning, UV-cured coating, for general construction use. Crafted from <TECHNOLOGY>Frost Crystals<>.}"
+UI_FARMPROD_4_DESC,"{A thermal regulator produced from refined organic material. It is unique it its ability to produce, dissipate and distribute heat as required. Crafted from <SPECIAL>Solanium<> and <TECHNOLOGY>Frost Crystals<>.}"
+UI_FARMPROD_5_DESC,"{A connective fibre for electronics, made from an advanced synthetic polymer and capable of serving as a conduit for power and data. Crafted from <TRADEABLE>Cactus Flesh<> and <TRADEABLE>Star Bulbs<>.}"
+UI_FARMPROD_6_DESC,"{A highly reactive gel, this substance is both energy-rich and dangerous to touch. Crafted from <TRADEABLE>Cactus Flesh<>.}"
+UI_FARMPROD_7_DESC,"{A general purpose high explosive, offered in liquid form for convenience of transport and deployment. Do not drink. Crafted from <TECHNOLOGY>Acid<> and <TECHNOLOGY>Unstable Gel<>.}"
+UI_FARMPROD_8_DESC,"{An advanced building material, this glass has been imbued with organic compounds that allow it to react to the environment. Microbes within the glass filter harmful light of all wavelengths and balance the atmosphere as required. Crafted from <TECHNOLOGY>Lubricant<> and <TECHNOLOGY>Glass<>.}"
+UI_FARMPROD_9_DESC,"{Stackable, semi-flexible circuit board made from a highly durable synthetic polymer. Crafted from <COMMODITY>Heat Capacitors<> and <TECHNOLOGY>Poly Fibre<>.}"
+UI_FARMPROD_BASIC_1_DESC,"{An advanced organic material, this rubber takes advantage of the natural properties of its parent plant. It is highly water resistant, is not distorted by extremes of temperature, and smells only slightly of salt. Crafted from <TRADEABLE>Kelp Sacs<>.}"
+UI_FARMPROD_BASIC_2_DESC,{A compact but powerful organic battery. A vital component for the construction of technologies that require an internal power source. Crafted from <TRADEABLE>Marrow Bulbs<>.}
+UI_FARMPROD_SUBTITLE,{Advanced Agricultural Product}
+UI_ALLOY_SIMPLE_1_DESC,{A lightweight and highly malleable alloy. Crafted from <EARTH>Paraffinium<> and <EARTH>Chlorine<>. In high demand on the Galactic Trade Network due to its utility in the construction of planetside outposts and facilities.}
+UI_ALLOY_SIMPLE_2_DESC,{A popular metal alloy with a wide variety of uses. 'Dirty Bronze' has shed its scientific name in favour of the popular term for its colour. Crafted from <EARTH>Pure Ferrite<> and <EARTH>Pyrite<>.}
+UI_ALLOY_SIMPLE_3_DESC,{Combined neutral alloy with uses that range from pharmacology all the way to heavy industry. Crafted from <EARTH>Chlorine<> and <EARTH>Ammonia<>. Forms the backbone of galactic alloy trading.}
+UI_ALLOY_SIMPLE_4_DESC,{Pure Ferrite alloy. Crafted from <EARTH>Pure Ferrite<> and <EARTH>Uranium<>. Used extensively in starship freighter construction due to its sheer strength. A hardcore material popular on the Galactic Trade Network.}
+UI_ALLOY_SIMPLE_5_DESC,{Highly prized and lustrous alloy. Popular with traders of all known primary galactic races. Crafted from <EARTH>Ionised Cobalt<> and <EARTH>Phosphorus<>. Easily recognisable by its bright red glow and strong magnetic field.}
+UI_ALLOY_SIMPLE_6_DESC,"{Soft workable alloy favoured by artisans throughout the known galaxy. Crafted from <EARTH>Ionised Cobalt<> and <EARTH>Dioxite<>. A popular trading good, with many galactic shipping paths devoted to its sale and transport.}"
+UI_ALLOY_COMPLEX_1_DESC,"{Advanced and durable alloy primarily used in starship hull construction and deep-space exploration drone technology. Crafted from <SPECIAL>Herox<>, <SPECIAL>Dirty Bronze<> and <SPECIAL>Lemmium<>.}"
+UI_ALLOY_COMPLEX_2_DESC,"{Advanced light metal alloy traded throughout the galactic Outer Edge. Often used in the interiors of trading shuttles to reduce weight as they ascend from planets with high gravitational fields. Crafted from <SPECIAL>Aronium<>, <SPECIAL>Magno-Gold<> and <SPECIAL>Grantine<>.}"
+UI_ULTRAPROD_SUBTITLE,{Highly Refined Technology}
+UI_GAS_1_DESC,"{A pungent atmospheric <TRADEABLE>gas<>. High concentrations are extremely hazardous to organic life. With the aid of <TECHNOLOGY>specialised machinery<>, can be extracted from the atmospheres of <FUEL>Scorched<> and <SPECIAL>Desert<> planets.}"
+UI_GAS_2_DESC,"{A colourless, odourless <TRADEABLE>gas<> with a relatively short half-life.  Found in both <COMMODITY>Radioactive<> and <TECHNOLOGY>Frozen<> atmospheres, this gas is produced by the decay of other high-energy elements.}"
+UI_GAS_3_DESC,{A reactive atmospheric <TRADEABLE>gas<> found wherever there is organic life. Nitrogen is readily harvested from the atmospheres of <TRADEABLE>Lush<> and <TRADEABLE>Toxic<> planets.}
+UI_REACTION_1_DESC,"{A refined product, holding the energy potential of heated atmospheric gas in a stable state until required. Crafted from <TRADEABLE>Sulphurine<> and <FUEL>Condensed Carbon<>.}"
+UI_REACTION_2_DESC,"{A refined product, taking ordinary carbon and boosting it with radioactive energy. Crafted from <TRADEABLE>Radon<> and <FUEL>Condensed Carbon<>.}"
+UI_REACTION_3_DESC,"{A refined product, this is a powerful organic fertiliser in an easily distributed form. Crafted from <TRADEABLE>Nitrogen<> and <FUEL>Condensed Carbon<>.}"
+UI_REACTION_SUBTITLE,{Enhanced Gas Product}
+UI_COMPOUND_1_DESC,{A catalytic material used in the creation of many organic fertilisers. Crafted from <FUEL>Thermic Condensate<> and <FUEL>Enriched Carbon<>.}
+UI_COMPOUND_2_DESC,"{An advanced material useful in many electronic devices, with its own in-built temperature regulator. Crafted from <FUEL>Thermic Condensate<> and <TECHNOLOGY>Nitrogen Salt<>.}"
+UI_COMPOUND_3_DESC,"{A paradoxical material, made less mysterious by its relative ease of manufacture. Crafted from <FUEL>Enriched Carbon<> and <TECHNOLOGY>Nitrogen Salt<>.}"
+UI_COMPOUND_4_DESC,"{An advanced fuel source, made from a perfect blend of high potential energy organic materials. Crafted from <FUEL>Organic Catalyst<> and <TECHNOLOGY>Nitrogen Salt<>.}"
+UI_COMPOUND_5_DESC,"{An advanced conductive material, the superconductor further enriches the field-warping power of the Semiconductor. Crafted from <FUEL>Enriched Carbon<> and <TECHNOLOGY>Semiconductors<>.}"
+UI_COMPOUND_6_DESC,"{An advanced, self-regulating hybrid material, the Cryo-Pump distributes heat across itself with near perfect efficiency, making it vital in the creation of thermal regulators. Crafted from <TECHNOLOGY>Hot Ice<> and <FUEL>Thermic Condensate<>}"
+UI_LOG_SELECT_MISSION_SUB,{Select the mission to see notifications and hints}
+BUILDING_MISSIONTOWER,{HoloTerminus}
+BUILDING_MISSIONTOWER_L,{HoloTerminus}
+HOLOHUB_TITLE,{HOLOGRAPHIC COMMS TOWER}
+HOLOHUB_TITLE_L,{Holographic Comms Tower}
+TGUILD_PLAYER_RANK_BAD,{Hated}
+TGUILD_PLAYER_RANK_LOW,{Hostile}
+TGUILD_PLAYER_RANK_NORMAL,{Unknown}
+TGUILD_PLAYER_RANK_IMPROVED,{Initiate}
+TGUILD_PLAYER_RANK_MEDIUM,{Apprentice}
+TGUILD_PLAYER_RANK_GOOD,{Journeyman}
+TGUILD_PLAYER_RANK_HIGH,{Associate}
+TGUILD_PLAYER_RANK_HIGHEST,{Senior}
+TGUILD_PLAYER_RANK_HIGHEST1,{Master}
+TGUILD_PLAYER_RANK_HIGHEST2,{Elder}
+TGUILD_PLAYER_RANK_HIGHEST3,{Exalted}
+TGUILD_PLAYER_RANK_HIGHEST4,{Advisor}
+TGUILD_PLAYER_RANK_HIGHEST5,{Veteran}
+TGUILD_PLAYER_RANK_HIGHEST6,{Revered}
+TGUILD_PLAYER_RANK_HIGHEST7,{Esteemed}
+WGUILD_PLAYER_RANK_BAD,{Hated}
+WGUILD_PLAYER_RANK_LOW,{Hostile}
+WGUILD_PLAYER_RANK_NORMAL,{Unknown}
+WGUILD_PLAYER_RANK_IMPROVED,{Initiate}
+WGUILD_PLAYER_RANK_MEDIUM,{Apprentice}
+WGUILD_PLAYER_RANK_GOOD,{Journeyman}
+WGUILD_PLAYER_RANK_HIGH,{Associate}
+WGUILD_PLAYER_RANK_HIGHEST,{Senior}
+WGUILD_PLAYER_RANK_HIGHEST1,{Master}
+WGUILD_PLAYER_RANK_HIGHEST2,{Elder}
+WGUILD_PLAYER_RANK_HIGHEST3,{Exalted}
+WGUILD_PLAYER_RANK_HIGHEST4,{Advisor}
+WGUILD_PLAYER_RANK_HIGHEST5,{Veteran}
+WGUILD_PLAYER_RANK_HIGHEST6,{Revered}
+WGUILD_PLAYER_RANK_HIGHEST7,{Esteemed}
+EGUILD_PLAYER_RANK_BAD,{Hated}
+EGUILD_PLAYER_RANK_LOW,{Hostile}
+EGUILD_PLAYER_RANK_NORMAL,{Unknown}
+EGUILD_PLAYER_RANK_IMPROVED,{Initiate}
+EGUILD_PLAYER_RANK_MEDIUM,{Apprentice}
+EGUILD_PLAYER_RANK_GOOD,{Journeyman}
+EGUILD_PLAYER_RANK_HIGH,{Associate}
+EGUILD_PLAYER_RANK_HIGHEST,{Senior}
+EGUILD_PLAYER_RANK_HIGHEST1,{Master}
+EGUILD_PLAYER_RANK_HIGHEST2,{Elder}
+EGUILD_PLAYER_RANK_HIGHEST3,{Exalted}
+EGUILD_PLAYER_RANK_HIGHEST4,{Advisor}
+EGUILD_PLAYER_RANK_HIGHEST5,{Veteran}
+EGUILD_PLAYER_RANK_HIGHEST6,{Revered}
+EGUILD_PLAYER_RANK_HIGHEST7,{Esteemed}
+OSD_TGUILD_PLAYER_RANK_BAD,{New Merchants Guild Rank: Hated}
+OSD_TGUILD_PLAYER_RANK_LOW,{New Merchants Guild Rank: Hostile}
+OSD_TGUILD_PLAYER_RANK_NORMAL,{New Merchants Guild Rank: Unknown}
+OSD_TGUILD_PLAYER_RANK_IMPROVED,{New Merchants Guild Rank: Initiate}
+OSD_TGUILD_PLAYER_RANK_MEDIUM,{New Merchants Guild Rank: Apprentice}
+OSD_TGUILD_PLAYER_RANK_GOOD,{New Merchants Guild Rank: Journeyman}
+OSD_TGUILD_PLAYER_RANK_HIGH,{New Merchants Guild Rank: Associate}
+OSD_TGUILD_PLAYER_RANK_HIGHEST,{New Merchants Guild Rank: Senior}
+OSD_TGUILD_PLAYER_RANK_HIGHEST1,{New Merchants Guild Rank: Master}
+OSD_TGUILD_PLAYER_RANK_HIGHEST2,{New Merchants Guild Rank: Elder}
+OSD_TGUILD_PLAYER_RANK_HIGHEST3,{New Merchants Guild Rank: Exalted}
+OSD_WGUILD_PLAYER_RANK_BAD,{New Mercenaries Guild Rank: Hated}
+OSD_WGUILD_PLAYER_RANK_LOW,{New Mercenaries Guild Rank: Hostile}
+OSD_WGUILD_PLAYER_RANK_NORMAL,{New Mercenaries Guild Rank: Unknown}
+OSD_WGUILD_PLAYER_RANK_IMPROVED,{New Mercenaries Guild Rank: Initiate}
+OSD_WGUILD_PLAYER_RANK_MEDIUM,{New Mercenaries Guild Rank: Apprentice}
+OSD_WGUILD_PLAYER_RANK_GOOD,{New Mercenaries Guild Rank: Journeyman}
+OSD_WGUILD_PLAYER_RANK_HIGH,{New Mercenaries Guild Rank: Associate}
