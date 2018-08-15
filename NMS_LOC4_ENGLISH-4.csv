@@ -1,0 +1,1001 @@
+location,source
+UP_SHIPLAS_EPIC_ADJ_4,{Electromagnetic}
+UP_SHIPLAS_EPIC_ADJ_5,{Resonant}
+UP_SHIPLAS_SCLASS_ADJ_1,{Superconducting}
+UP_SHIPLAS_SCLASS_ADJ_2,{Brilliant}
+UP_SHIPLAS_SCLASS_ADJ_3,{Dazzling}
+UP_SHIPLAS_SCLASS_ADJ_4,{Supreme}
+UP_SHIPLAS_SCLASS_ADJ_5,{Incomparable}
+UP_SHIPSHIELD_COMP_1,{Lattice}
+UP_SHIPSHIELD_COMP_2,{Shield}
+UP_SHIPSHIELD_COMP_3,{Armour}
+UP_SHIPSHIELD_COMP_4,{Bulwark}
+UP_SHIPSHIELD_COMP_5,{Grafts}
+UP_SHIPSHIELD_COMP_6,{Padding}
+UP_SHIPSHIELD_COMP_7,{Buffer}
+UP_SHIPSHIELD_COMP_8,{Polariser}
+UP_SHIPSHIELD_COMP_9,{Battery}
+UP_SHIPSHIELD_COMP_10,{Resonator}
+UP_SHIPSHIELD_COMMON_ADJ_1,{Secondary}
+UP_SHIPSHIELD_COMMON_ADJ_2,{High-Frequency}
+UP_SHIPSHIELD_COMMON_ADJ_3,{Supercharged}
+UP_SHIPSHIELD_COMMON_ADJ_4,{Sodium}
+UP_SHIPSHIELD_COMMON_ADJ_5,{Dioxite}
+UP_SHIPSHIELD_RARE_ADJ_1,{Uranium}
+UP_SHIPSHIELD_RARE_ADJ_2,{Lightning}
+UP_SHIPSHIELD_RARE_ADJ_3,{Vector}
+UP_SHIPSHIELD_RARE_ADJ_4,{Bionic}
+UP_SHIPSHIELD_RARE_ADJ_5,{Sonic}
+UP_SHIPSHIELD_EPIC_ADJ_1,{Nuclear}
+UP_SHIPSHIELD_EPIC_ADJ_2,{M-Field}
+UP_SHIPSHIELD_EPIC_ADJ_3,{Induction}
+UP_SHIPSHIELD_EPIC_ADJ_4,{Neutron}
+UP_SHIPSHIELD_EPIC_ADJ_5,{Deionised}
+UP_SHIPSHIELD_SCLASS_ADJ_1,{Lorentz}
+UP_SHIPSHIELD_SCLASS_ADJ_2,{Nanite}
+UP_SHIPSHIELD_SCLASS_ADJ_3,{Harmonic}
+UP_SHIPSHIELD_SCLASS_ADJ_4,{Lumen}
+UP_SHIPSHIELD_SCLASS_ADJ_5,{Q-Field}
+UP_PULSEDRIVE_COMMON_ADJ_1,{Efficient}
+UP_PULSEDRIVE_COMMON_ADJ_2,{Alternate}
+UP_PULSEDRIVE_COMMON_ADJ_3,{Backup}
+UP_PULSEDRIVE_COMMON_ADJ_4,{Secondary}
+UP_PULSEDRIVE_COMMON_ADJ_5,{Tuned}
+UP_PULSEDRIVE_RARE_ADJ_1,{Polished}
+UP_PULSEDRIVE_RARE_ADJ_2,{Heated}
+UP_PULSEDRIVE_RARE_ADJ_3,{Upgraded}
+UP_PULSEDRIVE_RARE_ADJ_4,{Rewired}
+UP_PULSEDRIVE_RARE_ADJ_5,{Stabilised}
+UP_PULSEDRIVE_EPIC_ADJ_1,{Extreme}
+UP_PULSEDRIVE_EPIC_ADJ_2,{Augmented}
+UP_PULSEDRIVE_EPIC_ADJ_3,{Solid State}
+UP_PULSEDRIVE_EPIC_ADJ_4,{Gyroscopic}
+UP_PULSEDRIVE_EPIC_ADJ_5,{Specialist}
+UP_PULSEDRIVE_SCLASS_ADJ_1,{Flawless}
+UP_PULSEDRIVE_SCLASS_ADJ_2,{Hypersonic}
+UP_PULSEDRIVE_SCLASS_ADJ_3,{Harmonic}
+UP_PULSEDRIVE_SCLASS_ADJ_4,{Glorious}
+UP_PULSEDRIVE_SCLASS_ADJ_5,{Supercharged}
+UPGRADE_SUB_1,{C-Class %NAME% Upgrade}
+UPGRADE_SUB_2,{B-Class %NAME% Upgrade}
+UPGRADE_SUB_3,{A-Class %NAME% Upgrade}
+UPGRADE_SUB_4,{S-Class %NAME% Upgrade}
+UPGRADE_PROC_DESC,{%SENT1% %SENT2%}
+UPGRADE_PROC_NAME,{%ADJ% %NOUN% %APPEND%}
+UPGRADE_DESC_LVL1,{A <TRADEABLE>moderate<> upgrade for the <TECHNOLOGY>%NAME%<>.}
+UPGRADE_DESC_LVL2,{A <TECHNOLOGY>significant<> upgrade for the <TECHNOLOGY>%NAME%<>.}
+UPGRADE_DESC_LVL3,{An <SPECIAL>extremely powerful<> upgrade for the <TECHNOLOGY>%NAME%<>.}
+UPGRADE_DESC_LVL4,{A <COMMODITY>supreme<> upgrade for the <TECHNOLOGY>%NAME%<>.}
+UPGRADE_1_STAT_COMMON_DESC,"{Upgrades the %NAME%, improving <STELLAR>%STAT1%<>.}"
+UPGRADE_1_STAT_RARE_DESC,"{A substantial upgrade to the %NAME%, offering significant improvements to <STELLAR>%STAT1%<>.}"
+UPGRADE_1_STAT_EPIC_DESC,"{A powerful upgrade module for the %NAME%, drastically improving <STELLAR>%STAT1%<>.}"
+UPGRADE_1_STAT_LEGEND_DESC,"{An almost total rework of the %NAME%, this upgrade module brings unparalled improvements to <STELLAR>%STAT1%<>.}"
+UPGRADE_2_STAT_COMMON_DESC,"{Upgrades the %NAME%, improving <STELLAR>%STAT1%<> and <STELLAR>%STAT2%<>.}"
+UPGRADE_2_STAT_RARE_DESC,"{A substantial upgrade to the %NAME%, offering significant improvements to <STELLAR>%STAT1%<> and <STELLAR>%STAT2%<>.}"
+UPGRADE_2_STAT_EPIC_DESC,"{A powerful upgrade module for the %NAME%, with the potential to drastically improve <STELLAR>%STAT1%<> and <STELLAR>%STAT2%<>.}"
+UPGRADE_2_STAT_LEGEND_DESC,"{An almost total rework of the %NAME%, this upgrade module brings unparalled improvements to <STELLAR>%STAT1%<> and <STELLAR>%STAT2%<>.}"
+UPGRADE_3_STAT_COMMON_DESC,"{Upgrades the %NAME%, improving <STELLAR>%STAT1%<>, <STELLAR>%STAT2%<> and <STELLAR>%STAT3%<>.}"
+UPGRADE_3_STAT_RARE_DESC,"{A substantial upgrade to the %NAME%, offering significant improvements to <STELLAR>%STAT1%<>, <STELLAR>%STAT2%<> and <STELLAR>%STAT3%<>.}"
+UPGRADE_3_STAT_EPIC_DESC,"{A powerful upgrade module for the %NAME%, with the potential to drastically improve <STELLAR>%STAT1%<>, <STELLAR>%STAT2%<> and <STELLAR>%STAT3%<>.}"
+UPGRADE_3_STAT_LEGEND_DESC,"{An almost total rework of the %NAME%, this upgrade module brings unparalled improvements to <STELLAR>%STAT1%<>, <STELLAR>%STAT2%<> and <STELLAR>%STAT3%<>.}"
+UPGRADE_4_STAT_COMMON_DESC,"{Upgrades the %NAME%, improving <STELLAR>%STAT1%<>, <STELLAR>%STAT2%<>, <STELLAR>%STAT3%<> and <STELLAR>%STAT4%<>.}"
+UPGRADE_4_STAT_RARE_DESC,"{A substantial upgrade to the %NAME%, offering significant improvements to <STELLAR>%STAT1%<>, <STELLAR>%STAT2%<>, <STELLAR>%STAT3%<> and <STELLAR>%STAT4%<>.}"
+UPGRADE_4_STAT_EPIC_DESC,"{A powerful upgrade module for the %NAME%, with the potential to drastically improve <STELLAR>%STAT1%<>, <STELLAR>%STAT2%<>, <STELLAR>%STAT3%<> and <STELLAR>%STAT4%<>.}"
+UPGRADE_4_STAT_LEGEND_DESC,"{An almost total rework of the %NAME%, this upgrade module brings unparalled improvements to <STELLAR>%STAT1%<>, <STELLAR>%STAT2%<>, <STELLAR>%STAT3%<> and <STELLAR>%STAT4%<>.}"
+UP_PROD_1_STAT_COMMON_DESC,"{Upgrades the %NAME%, creating improvements to <STELLAR>%STAT1%<>.}"
+UP_PROD_1_STAT_RARE_DESC,"{A substantial upgrade to the %NAME%, offering significant improvements to <STELLAR>%STAT1%<>.}"
+UP_PROD_1_STAT_EPIC_DESC,"{A powerful upgrade module for the %NAME%, with the potential to drastically improve <STELLAR>%STAT1%<>.}"
+UP_PROD_1_STAT_LEGEND_DESC,"{An almost total rework of the %NAME%, this upgrade module brings unparalled improvements to <STELLAR>%STAT1%<>.}"
+UP_PROD_2_STAT_COMMON_DESC,"{Upgrades the %NAME%, potentially improving <STELLAR>%STAT1%<> and <STELLAR>%STAT2%<>.}"
+UP_PROD_2_STAT_RARE_DESC,"{A substantial upgrade to the %NAME%, offering significant potential improvements to <STELLAR>%STAT1%<> and <STELLAR>%STAT2%<>.}"
+UP_PROD_2_STAT_EPIC_DESC,"{A powerful upgrade module for the %NAME%, with the potential to drastically improve <STELLAR>%STAT1%<> and <STELLAR>%STAT2%<>.}"
+UP_PROD_2_STAT_LEGEND_DESC,"{An almost total rework of the %NAME%, this upgrade module brings unparalled improvements to <STELLAR>%STAT1%<> and <STELLAR>%STAT2%<>.}"
+UP_PROD_3_STAT_COMMON_DESC,"{Upgrades the %NAME%, potentially improving <STELLAR>%STAT1%<>, <STELLAR>%STAT2%<> and <STELLAR>%STAT3%<>.}"
+UP_PROD_3_STAT_RARE_DESC,"{A substantial upgrade to the %NAME%, offering significant potential improvements to <STELLAR>%STAT1%<>, <STELLAR>%STAT2%<> and <STELLAR>%STAT3%<>.}"
+UP_PROD_3_STAT_EPIC_DESC,"{A powerful upgrade module for the %NAME%, with the potential to drastically improve <STELLAR>%STAT1%<>, <STELLAR>%STAT2%<> and <STELLAR>%STAT3%<>.}"
+UP_PROD_3_STAT_LEGEND_DESC,"{An almost total rework of the %NAME%, this upgrade module brings unparalled improvements to <STELLAR>%STAT1%<>, <STELLAR>%STAT2%<> and <STELLAR>%STAT3%<>.}"
+UP_PROD_4_STAT_COMMON_DESC,"{Upgrades the %NAME%, potentially improving <STELLAR>%STAT1%<>, <STELLAR>%STAT2%<>, <STELLAR>%STAT3%<> and <STELLAR>%STAT4%<>.}"
+UP_PROD_4_STAT_RARE_DESC,"{A substantial upgrade to the %NAME%, offering significant potential improvements to <STELLAR>%STAT1%<>, <STELLAR>%STAT2%<>, <STELLAR>%STAT3%<> and <STELLAR>%STAT4%<>.}"
+UP_PROD_4_STAT_EPIC_DESC,"{A powerful upgrade module for the %NAME%, with the potential to drastically improve <STELLAR>%STAT1%<>, <STELLAR>%STAT2%<>, <STELLAR>%STAT3%<> and <STELLAR>%STAT4%<>.}"
+UP_PROD_4_STAT_LEGEND_DESC,"{An almost total rework of the %NAME%, this upgrade module brings unparalled improvements to <STELLAR>%STAT1%<>, <STELLAR>%STAT2%<>, <STELLAR>%STAT3%<> and <STELLAR>%STAT4%<>.}"
+UI_ENERGY_NAME_CORE_L,{Life Support}
+UI_JETPACK_NAME_CORE_L,{Movement System}
+UI_SHIELD_NAME_CORE_L,{Defence Systems}
+UI_UNW_NAME_CORE_L,{Aeration Membrane}
+UI_TOX_NAME_CORE_L,{Toxic Protection}
+UI_RAD_NAME_CORE_L,{Radiation Protection}
+UI_COLD_NAME_CORE_L,{Thermal Protection}
+UI_HOT_NAME_CORE_L,{Thermal Protection}
+UP_NAME_FORMAT,{%ADJECTIVE% %COMPONENT%}
+UP_LASER_COMP_1,{Beam Amplifier}
+UP_LASER_COMP_2,{Beam Capacitor}
+UP_LASER_COMP_3,{Lens Optics}
+UP_LASER_COMP_4,{Emission Chamber}
+UP_LASER_COMP_5,{Photon Mirror}
+UP_LASER_COMP_6,{Cooling System}
+UP_LASER_COMP_7,{Diode Battery}
+UP_LASER_COMP_8,{Light Filter}
+UP_LASER_COMP_9,{Reflector Glass}
+UP_LASER_COMP_10,{Output Coupler}
+UP_LASER_COMMON_ADJ_1,{Retuned}
+UP_LASER_COMMON_ADJ_2,{Enhanced}
+UP_LASER_COMMON_ADJ_3,{Boosted}
+UP_LASER_COMMON_ADJ_4,{Efficient}
+UP_LASER_COMMON_ADJ_5,{Additional}
+UP_LASER_RARE_ADJ_1,{Advanced}
+UP_LASER_RARE_ADJ_2,{Fine-Tuned}
+UP_LASER_RARE_ADJ_3,{Overloaded}
+UP_LASER_RARE_ADJ_4,{Liquid}
+UP_LASER_RARE_ADJ_5,{Oscillating}
+UP_LASER_EPIC_ADJ_1,{Supercharged}
+UP_LASER_EPIC_ADJ_2,{Powerful}
+UP_LASER_EPIC_ADJ_3,{High-Energy}
+UP_LASER_EPIC_ADJ_4,{Electromagnetic}
+UP_LASER_EPIC_ADJ_5,{Resonant}
+UP_LASER_SCLASS_ADJ_1,{Superconducting}
+UP_LASER_SCLASS_ADJ_2,{Brilliant}
+UP_LASER_SCLASS_ADJ_3,{Dazzling}
+UP_LASER_SCLASS_ADJ_4,{Supreme}
+UP_LASER_SCLASS_ADJ_5,{Incomparable}
+UP_RAIL_COMP_1,{Accelerator}
+UP_RAIL_COMP_2,{Mass Chamber}
+UP_RAIL_COMP_3,{Injectors}
+UP_RAIL_COMP_4,{Plating}
+UP_RAIL_COMP_5,{Recycler}
+UP_RAIL_COMP_6,{Core}
+UP_RAIL_COMP_7,{Magnets}
+UP_RAIL_COMP_8,{Generator Unit}
+UP_RAIL_COMP_9,{Capacitors}
+UP_RAIL_COMP_10,{Stabiliser}
+UP_RAIL_COMMON_ADJ_1,{Copper}
+UP_RAIL_COMMON_ADJ_2,{Reinforced}
+UP_RAIL_COMMON_ADJ_3,{Additional}
+UP_RAIL_COMMON_ADJ_4,{Backup}
+UP_RAIL_COMMON_ADJ_5,{Well-Made}
+UP_RAIL_RARE_ADJ_1,{Cadmium}
+UP_RAIL_RARE_ADJ_2,{Living Glass}
+UP_RAIL_RARE_ADJ_3,{Illegal}
+UP_RAIL_RARE_ADJ_4,{Supercharged}
+UP_RAIL_RARE_ADJ_5,{Vy'keen}
+UP_RAIL_EPIC_ADJ_1,{Emeril}
+UP_RAIL_EPIC_ADJ_2,{Plasma}
+UP_RAIL_EPIC_ADJ_3,{Parallel}
+UP_RAIL_EPIC_ADJ_4,{Superconductive}
+UP_RAIL_EPIC_ADJ_5,{Superb}
+UP_RAIL_SCLASS_ADJ_1,{Indium}
+UP_RAIL_SCLASS_ADJ_2,{Antimatter}
+UP_RAIL_SCLASS_ADJ_3,{Vectorised}
+UP_RAIL_SCLASS_ADJ_4,{Faultless}
+UP_RAIL_SCLASS_ADJ_5,{Quantum}
+UP_SMG_COMP_1,{Excitor}
+UP_SMG_COMP_2,{Amplifier}
+UP_SMG_COMP_3,{Accelerator}
+UP_SMG_COMP_4,{Injector}
+UP_SMG_COMP_5,{Solidifier}
+UP_SMG_COMP_6,{Resonator}
+UP_SMG_COMP_7,{Battery}
+UP_SMG_COMP_8,{Energiser}
+UP_SMG_COMP_9,{Capture Cell}
+UP_SMG_COMP_10,{Projector}
+UP_SMG_COMMON_ADJ_1,{Plasma}
+UP_SMG_COMMON_ADJ_2,{Infrared}
+UP_SMG_COMMON_ADJ_3,{Ion}
+UP_SMG_COMMON_ADJ_4,{Beam}
+UP_SMG_COMMON_ADJ_5,{Sunlight}
+UP_SMG_RARE_ADJ_1,{Surge}
+UP_SMG_RARE_ADJ_2,{Overloaded}
+UP_SMG_RARE_ADJ_3,{Flow}
+UP_SMG_RARE_ADJ_4,{Waveform}
+UP_SMG_RARE_ADJ_5,{Atomic}
+UP_SMG_EPIC_ADJ_1,{Heavy Metal}
+UP_SMG_EPIC_ADJ_2,{Mass}
+UP_SMG_EPIC_ADJ_3,{Superheated}
+UP_SMG_EPIC_ADJ_4,{Ultraviolet}
+UP_SMG_EPIC_ADJ_5,{Neutron}
+UP_SMG_SCLASS_ADJ_1,{Gamma Ray}
+UP_SMG_SCLASS_ADJ_2,{X-Ray}
+UP_SMG_SCLASS_ADJ_3,{Cosmic Beam}
+UP_SMG_SCLASS_ADJ_4,{Positron}
+UP_SMG_SCLASS_ADJ_5,{Tritium}
+UP_SHOT_COMP_1,{Barrel}
+UP_SHOT_COMP_2,{Shells}
+UP_SHOT_COMP_3,{Trigger}
+UP_SHOT_COMP_4,{Muzzle}
+UP_SHOT_COMP_5,{Wiring}
+UP_SHOT_COMP_6,{Dynamo}
+UP_SHOT_COMP_7,{Internals}
+UP_SHOT_COMP_8,{Heat Pump}
+UP_SHOT_COMP_9,{Launch System}
+UP_SHOT_COMP_10,{Compression Unit}
+UP_SHOT_COMMON_ADJ_1,{Gold-Plated}
+UP_SHOT_COMMON_ADJ_2,{Copper}
+UP_SHOT_COMMON_ADJ_3,{Reinforced}
+UP_SHOT_COMMON_ADJ_4,{Pressurised}
+UP_SHOT_COMMON_ADJ_5,{Enhanced}
+UP_SHOT_RARE_ADJ_1,{Cadmium}
+UP_SHOT_RARE_ADJ_2,{Electrified}
+UP_SHOT_RARE_ADJ_3,{Rebuilt}
+UP_SHOT_RARE_ADJ_4,{High Capacity}
+UP_SHOT_RARE_ADJ_5,{Specialist}
+UP_SHOT_EPIC_ADJ_1,{Emeril}
+UP_SHOT_EPIC_ADJ_2,{Korvax-Made}
+UP_SHOT_EPIC_ADJ_3,{High-Energy}
+UP_SHOT_EPIC_ADJ_4,{Beautiful}
+UP_SHOT_EPIC_ADJ_5,{Augmented}
+UP_SHOT_SCLASS_ADJ_1,{Indium}
+UP_SHOT_SCLASS_ADJ_2,{Solid Gold}
+UP_SHOT_SCLASS_ADJ_3,{Perfect}
+UP_SHOT_SCLASS_ADJ_4,{Flawless}
+UP_SHOT_SCLASS_ADJ_5,{Supercharged}
+UP_BOLT_COMP_1,{Ioniser}
+UP_BOLT_COMP_2,{Supercharger}
+UP_BOLT_COMP_3,{Beam Accelerator}
+UP_BOLT_COMP_4,{Ion Cycler}
+UP_BOLT_COMP_5,{Energy Lattice}
+UP_BOLT_COMP_6,{Projectile Web}
+UP_BOLT_COMP_7,{Compressor}
+UP_BOLT_COMP_8,{Heat Sink}
+UP_BOLT_COMP_9,{Dielectrics}
+UP_BOLT_COMP_10,{Supercapacitor}
+UP_BOLT_COMMON_ADJ_1,{Well-Crafted}
+UP_BOLT_COMMON_ADJ_2,{Bypass}
+UP_BOLT_COMMON_ADJ_3,{Double}
+UP_BOLT_COMMON_ADJ_4,{Hybrid}
+UP_BOLT_COMMON_ADJ_5,{Efficient}
+UP_BOLT_RARE_ADJ_1,{Vacuum}
+UP_BOLT_RARE_ADJ_2,{Optical}
+UP_BOLT_RARE_ADJ_3,{Luminous}
+UP_BOLT_RARE_ADJ_4,{Isotropic}
+UP_BOLT_RARE_ADJ_5,{Sonic}
+UP_BOLT_EPIC_ADJ_1,{Radiant}
+UP_BOLT_EPIC_ADJ_2,{Incandescent}
+UP_BOLT_EPIC_ADJ_3,{Platinum}
+UP_BOLT_EPIC_ADJ_4,{Deuterium}
+UP_BOLT_EPIC_ADJ_5,{Electron}
+UP_BOLT_SCLASS_ADJ_1,{Ancient}
+UP_BOLT_SCLASS_ADJ_2,{Pugneum}
+UP_BOLT_SCLASS_ADJ_3,{Neutrino}
+UP_BOLT_SCLASS_ADJ_4,{Starlight}
+UP_BOLT_SCLASS_ADJ_5,{Elemental}
+UP_GREN_COMP_1,{Compressor}
+UP_GREN_COMP_2,{Launch System}
+UP_GREN_COMP_3,{Injector Plugs}
+UP_GREN_COMP_4,{Release Mechanism}
+UP_GREN_COMP_5,{Gas Expander}
+UP_GREN_COMP_6,{Core}
+UP_GREN_COMP_7,{Coils}
+UP_GREN_COMP_8,{Shell Loader}
+UP_GREN_COMP_9,{Heat Pump}
+UP_GREN_COMP_10,{Timing Loom}
+UP_GREN_COMMON_ADJ_1,{Boosted}
+UP_GREN_COMMON_ADJ_2,{Secondary}
+UP_GREN_COMMON_ADJ_3,{Tertiary}
+UP_GREN_COMMON_ADJ_4,{Efficient}
+UP_GREN_COMMON_ADJ_5,{Lubricated}
+UP_GREN_RARE_ADJ_1,{Pugneum}
+UP_GREN_RARE_ADJ_2,{Unstable}
+UP_GREN_RARE_ADJ_3,{Linear}
+UP_GREN_RARE_ADJ_4,{Kinetic}
+UP_GREN_RARE_ADJ_5,{Polarised}
+UP_GREN_EPIC_ADJ_1,{Supercritical}
+UP_GREN_EPIC_ADJ_2,{Geometric}
+UP_GREN_EPIC_ADJ_3,{Gyroscopic}
+UP_GREN_EPIC_ADJ_4,{Nanite}
+UP_GREN_EPIC_ADJ_5,{Nonlinear}
+UP_GREN_SCLASS_ADJ_1,{M-Field}
+UP_GREN_SCLASS_ADJ_2,{Antimatter}
+UP_GREN_SCLASS_ADJ_3,{Gravitational}
+UP_GREN_SCLASS_ADJ_4,{Nano-Boosted}
+UP_GREN_SCLASS_ADJ_5,{Induction}
+UP_SCANNER_COMP_1,{Siphon}
+UP_SCANNER_COMP_2,{Analysis Unit}
+UP_SCANNER_COMP_3,{Computer}
+UP_SCANNER_COMP_4,{Processor}
+UP_SCANNER_COMP_5,{Detector}
+UP_SCANNER_COMP_6,{Scope}
+UP_SCANNER_COMP_7,{Visualiser}
+UP_SCANNER_COMP_8,{Prediction Unit}
+UP_SCANNER_COMP_9,{Probe}
+UP_SCANNER_COMP_10,{Sweep Ray}
+UP_SCANNER_COMMON_ADJ_1,{Low-Heat}
+UP_SCANNER_COMMON_ADJ_2,{Waveform}
+UP_SCANNER_COMMON_ADJ_3,{Analog}
+UP_SCANNER_COMMON_ADJ_4,{Overclocked}
+UP_SCANNER_COMMON_ADJ_5,{Precision}
+UP_SCANNER_RARE_ADJ_1,{Calibrated}
+UP_SCANNER_RARE_ADJ_2,{Nanite-Powered}
+UP_SCANNER_RARE_ADJ_3,{Parallel}
+UP_SCANNER_RARE_ADJ_4,{Frequency}
+UP_SCANNER_RARE_ADJ_5,{Rewired}
+UP_SCANNER_EPIC_ADJ_1,{Genome}
+UP_SCANNER_EPIC_ADJ_2,{Flux}
+UP_SCANNER_EPIC_ADJ_3,{Organic}
+UP_SCANNER_EPIC_ADJ_4,{Deep Waveform}
+UP_SCANNER_EPIC_ADJ_5,{Consciousness}
+UP_SCANNER_SCLASS_ADJ_1,{Vacuum}
+UP_SCANNER_SCLASS_ADJ_2,{Holographic}
+UP_SCANNER_SCLASS_ADJ_3,{Quantum}
+UP_SCANNER_SCLASS_ADJ_4,{Non-causal}
+UP_SCANNER_SCLASS_ADJ_5,{Memory}
+UP_LIFEBOOST_COMP_1,{Filter}
+UP_LIFEBOOST_COMP_2,{Generator Unit}
+UP_LIFEBOOST_COMP_3,{Recycler}
+UP_LIFEBOOST_COMP_4,{Stabiliser}
+UP_LIFEBOOST_COMP_5,{Purifier}
+UP_LIFEBOOST_COMP_6,{Drain}
+UP_LIFEBOOST_COMP_7,{Sieve}
+UP_LIFEBOOST_COMP_8,{Pump}
+UP_LIFEBOOST_COMP_9,{Tanks}
+UP_LIFEBOOST_COMP_10,{Harvester}
+UP_LIFEBOOST_RARE_ADJ_1,{Oxygen}
+UP_LIFEBOOST_RARE_ADJ_2,{Gas}
+UP_LIFEBOOST_RARE_ADJ_3,{Carbon}
+UP_LIFEBOOST_RARE_ADJ_4,{Nitrogen}
+UP_LIFEBOOST_RARE_ADJ_5,{Ammonium}
+UP_LIFEBOOST_EPIC_ADJ_1,{Organic}
+UP_LIFEBOOST_EPIC_ADJ_2,{High-Volume}
+UP_LIFEBOOST_EPIC_ADJ_3,{Microbe}
+UP_LIFEBOOST_EPIC_ADJ_4,{Alkaloid}
+UP_LIFEBOOST_EPIC_ADJ_5,{Biofuel}
+UP_LIFEBOOST_SCLASS_ADJ_1,{Kinetic}
+UP_LIFEBOOST_SCLASS_ADJ_2,{T-Gel}
+UP_LIFEBOOST_SCLASS_ADJ_3,{Vacuum}
+UP_LIFEBOOST_SCLASS_ADJ_4,{Liquid Gas}
+UP_LIFEBOOST_SCLASS_ADJ_5,{Solar}
+UP_JETBOOST_COMP_1,{Tanks}
+UP_JETBOOST_COMP_2,{Pump}
+UP_JETBOOST_COMP_3,{Exhaust}
+UP_JETBOOST_COMP_4,{Igniter}
+UP_JETBOOST_COMP_5,{Jets}
+UP_JETBOOST_COMP_6,{Dynamo}
+UP_JETBOOST_COMP_7,{Turbine}
+UP_JETBOOST_COMP_8,{Combustion Unit}
+UP_JETBOOST_COMP_9,{Diffuser}
+UP_JETBOOST_COMP_10,{Nozzles}
+UP_JETBOOST_COMMON_ADJ_1,{Unstable}
+UP_JETBOOST_COMMON_ADJ_2,{Augmented}
+UP_JETBOOST_COMMON_ADJ_3,{Upgraded}
+UP_JETBOOST_COMMON_ADJ_4,{Specialist}
+UP_JETBOOST_COMMON_ADJ_5,{Synchronised}
+UP_JETBOOST_RARE_ADJ_1,{Plasma}
+UP_JETBOOST_RARE_ADJ_2,{Uranium}
+UP_JETBOOST_RARE_ADJ_3,{Catalyst}
+UP_JETBOOST_RARE_ADJ_4,{Bypass}
+UP_JETBOOST_RARE_ADJ_5,{Uranium}
+UP_JETBOOST_EPIC_ADJ_1,{Hybrid}
+UP_JETBOOST_EPIC_ADJ_2,{Liquid Fuel}
+UP_JETBOOST_EPIC_ADJ_3,{Multi-Tube}
+UP_JETBOOST_EPIC_ADJ_4,{Frictionless}
+UP_JETBOOST_EPIC_ADJ_5,{Tritium}
+UP_JETBOOST_SCLASS_ADJ_1,{Gravity}
+UP_JETBOOST_SCLASS_ADJ_2,{Antimatter}
+UP_JETBOOST_SCLASS_ADJ_3,{Plutonium}
+UP_JETBOOST_SCLASS_ADJ_4,{Perfect}
+UP_JETBOOST_SCLASS_ADJ_5,{Supersonic}
+UP_SHIELDBOOST_COMP_1,{Lattice}
+UP_SHIELDBOOST_COMP_2,{Shield}
+UP_SHIELDBOOST_COMP_3,{Armour}
+UP_SHIELDBOOST_COMP_4,{Bulwark}
+UP_SHIELDBOOST_COMP_5,{Grafts}
+UP_SHIELDBOOST_COMP_6,{Padding}
+UP_SHIELDBOOST_COMP_7,{Buffer}
+UP_SHIELDBOOST_COMP_8,{Polariser}
+UP_SHIELDBOOST_COMP_9,{Battery}
+UP_SHIELDBOOST_COMP_10,{Resonator}
+UP_SHIELDBOOST_COMMON_ADJ_1,{Secondary}
+UP_SHIELDBOOST_COMMON_ADJ_2,{High-Frequency}
+UP_SHIELDBOOST_COMMON_ADJ_3,{Supercharged}
+UP_SHIELDBOOST_COMMON_ADJ_4,{Sodium}
+UP_SHIELDBOOST_COMMON_ADJ_5,{Dioxite}
+UP_SHIELDBOOST_RARE_ADJ_1,{Uranium}
+UP_SHIELDBOOST_RARE_ADJ_2,{Lightning}
+UP_SHIELDBOOST_RARE_ADJ_3,{Vector}
+UP_SHIELDBOOST_RARE_ADJ_4,{Bionic}
+UP_SHIELDBOOST_RARE_ADJ_5,{Sonic}
+UP_SHIELDBOOST_EPIC_ADJ_1,{Nuclear}
+UP_SHIELDBOOST_EPIC_ADJ_2,{M-Field}
+UP_SHIELDBOOST_EPIC_ADJ_3,{Induction}
+UP_SHIELDBOOST_EPIC_ADJ_4,{Neutron}
+UP_SHIELDBOOST_EPIC_ADJ_5,{Deionised}
+UP_SHIELDBOOST_SCLASS_ADJ_1,{Lorentz}
+UP_SHIELDBOOST_SCLASS_ADJ_2,{Nanite}
+UP_SHIELDBOOST_SCLASS_ADJ_3,{Harmonic}
+UP_SHIELDBOOST_SCLASS_ADJ_4,{Lumen}
+UP_SHIELDBOOST_SCLASS_ADJ_5,{Q-Field}
+UP_SHIPGUN_COMP_1,{Amplifier}
+UP_SHIPGUN_COMP_2,{Splitter}
+UP_SHIPGUN_COMP_3,{Oscillator}
+UP_SHIPGUN_COMP_4,{Resonator}
+UP_SHIPGUN_COMP_5,{Accelerator}
+UP_SHIPGUN_COMP_6,{Polariser}
+UP_SHIPGUN_COMP_7,{Filament}
+UP_SHIPGUN_COMP_8,{Refractor}
+UP_SHIPGUN_COMP_9,{Mirror}
+UP_SHIPGUN_COMP_10,{De-limiter}
+UP_SHIPGUN_COMMON_ADJ_1,{Retuned}
+UP_SHIPGUN_COMMON_ADJ_2,{Laser}
+UP_SHIPGUN_COMMON_ADJ_3,{Fibre Optic}
+UP_SHIPGUN_COMMON_ADJ_4,{Polished}
+UP_SHIPGUN_COMMON_ADJ_5,{Ionised}
+UP_SHIPGUN_RARE_ADJ_1,{Cadmium}
+UP_SHIPGUN_RARE_ADJ_2,{Evaporative}
+UP_SHIPGUN_RARE_ADJ_3,{Photonic}
+UP_SHIPGUN_RARE_ADJ_4,{Infrared}
+UP_SHIPGUN_RARE_ADJ_5,{Ultraviolet}
+UP_SHIPGUN_EPIC_ADJ_1,{Emeril}
+UP_SHIPGUN_EPIC_ADJ_2,{Indium}
+UP_SHIPGUN_EPIC_ADJ_3,{Positron}
+UP_SHIPGUN_EPIC_ADJ_4,{Chrono}
+UP_SHIPGUN_EPIC_ADJ_5,{UHF}
+UP_SHIPGUN_SCLASS_ADJ_1,{Chromatic}
+UP_SHIPGUN_SCLASS_ADJ_2,{Free Electron}
+UP_SHIPGUN_SCLASS_ADJ_3,{Continuous Wave}
+UP_SHIPGUN_SCLASS_ADJ_4,{Gamma Ray}
+UP_SHIPGUN_SCLASS_ADJ_5,{Asymmetric}
+UP_HYPERDRIVE_COMP_1,{Warp Core}
+UP_HYPERDRIVE_COMP_2,{Antimatter Injector}
+UP_HYPERDRIVE_COMP_3,{Reality Destabiliser}
+UP_HYPERDRIVE_COMP_4,{Frame Drag Limiter}
+UP_HYPERDRIVE_COMP_5,{Pressure Inverter}
+UP_HYPERDRIVE_COMP_6,{Vacuum Drive}
+UP_HYPERDRIVE_COMP_7,{Distance Polariser}
+UP_HYPERDRIVE_COMP_8,{Causality Isolator}
+UP_HYPERDRIVE_COMP_9,{Relativity Shield}
+UP_HYPERDRIVE_COMP_10,{Superluminal Drive}
+UP_HYPERDRIVE_COMMON_ADJ_1,{Efficient}
+UP_HYPERDRIVE_COMMON_ADJ_2,{Alternate}
+UP_HYPERDRIVE_COMMON_ADJ_3,{Backup}
+UP_HYPERDRIVE_COMMON_ADJ_4,{Secondary}
+UP_HYPERDRIVE_COMMON_ADJ_5,{Tuned}
+UP_HYPERDRIVE_RARE_ADJ_1,{Polished}
+UP_HYPERDRIVE_RARE_ADJ_2,{Heated}
+UP_HYPERDRIVE_RARE_ADJ_3,{Upgraded}
+UP_HYPERDRIVE_RARE_ADJ_4,{Rewired}
+UP_HYPERDRIVE_RARE_ADJ_5,{Stabilised}
+UP_HYPERDRIVE_EPIC_ADJ_1,{Extreme}
+UP_HYPERDRIVE_EPIC_ADJ_2,{Augmented}
+UP_HYPERDRIVE_EPIC_ADJ_3,{Solid State}
+UP_HYPERDRIVE_EPIC_ADJ_4,{Gyroscopic}
+UP_HYPERDRIVE_EPIC_ADJ_5,{Specialist}
+UP_HYPERDRIVE_SCLASS_ADJ_1,{Flawless}
+UP_HYPERDRIVE_SCLASS_ADJ_2,{Hypersonic}
+UP_HYPERDRIVE_SCLASS_ADJ_3,{Harmonic}
+UP_HYPERDRIVE_SCLASS_ADJ_4,{Glorious}
+UP_HYPERDRIVE_SCLASS_ADJ_5,{Supercharged}
+UP_PULSEDRIVE_COMP_1,{Propulsion Unit}
+UP_PULSEDRIVE_COMP_2,{Thrust Controller}
+UP_PULSEDRIVE_COMP_3,{Impulse Nozzle}
+UP_PULSEDRIVE_COMP_4,{Shockwave Shield}
+UP_PULSEDRIVE_COMP_5,{Magnetic Fan}
+UP_PULSEDRIVE_COMP_6,{Hydrogen Dynamo}
+UP_PULSEDRIVE_COMP_7,{Plasma Exhaust}
+UP_PULSEDRIVE_COMP_8,{Fuel Pipes}
+UP_PULSEDRIVE_COMP_9,{Neutrino Injector}
+UP_PULSEDRIVE_COMP_10,{Electron Loom}
+UP_LASER1_DESC,"{A <TRADEABLE>moderate<> upgrade for the <TECHNOLOGY>Mining Beam<>. Use <IMG>FE_ALT1<> to begin upgrade installation process. Upgrades Mining Laser core optics, <STELLAR>increasing device effectiveness<>.}"
+UP_LASER1_NAME,{MINING BEAM MODULE (C)}
+UP_LASER1_NAME_L,{Mining Beam Module (C)}
+UP_LASER1_SUB,{Mining Beam Upgrade}
+UP_LASER2_DESC,"{A <TECHNOLOGY>significant<> upgrade for the <TECHNOLOGY>Mining Beam<>. Use <IMG>FE_ALT1<> to begin upgrade installation process. Upgrades the Mining Laser's primary crystal chamber, boosting core <STELLAR>beam energy<> while decreasing unwanted <STELLAR>heat spill<>.}"
+UP_LASER2_NAME,{MINING BEAM MODULE (B)}
+UP_LASER2_NAME_L,{Mining Beam Module (B)}
+UP_LASER2_SUB,{Significant Mining Beam Upgrade}
+UP_LASER3_DESC,{An <SPECIAL>extremely powerful<> upgrade for the <TECHNOLOGY>Mining Beam<>. Use <IMG>FE_ALT1<> to begin upgrade installation process. Upgrades the Mining Laser's core components. <STELLAR>Power output<> and <STELLAR>heat tolerance<> are significantly increased.}
+UP_LASER3_NAME,{MINING BEAM MODULE (A)}
+UP_LASER3_NAME_L,{Mining Beam Module (A)}
+UP_LASER3_SUB,{Powerful Mining Beam Upgrade}
+UP_LASER4_DESC,{An <COMMODITY>supremely powerful<> upgrade for the <TECHNOLOGY>Mining Beam<>. Use <IMG>FE_ALT1<> to begin upgrade installation process. Upgrades the Mining Laser's core components. <STELLAR>Power output<> and <STELLAR>heat tolerance<> are significantly increased.}
+UP_LASER4_NAME,{MINING BEAM MODULE (S)}
+UP_LASER4_NAME_L,{Mining Beam Module (S)}
+UP_LASER4_SUB,{Supreme Mining Beam Upgrade}
+UP_SCANNER1_DESC,"{A <TRADEABLE>moderate<> upgrade for the <TECHNOLOGY>Multi-Tool Scanning Systems<>. Use <IMG>FE_ALT1<> to begin upgrade installation process. Internal chip upgrades improve <STELLAR>scan radius<>, as well as significantly increasing the <STELLAR>value<> of <TECHNOLOGY>discovery data<>.}"
+UP_SCANNER1_NAME,{SCANNER MODULE (C)}
+UP_SCANNER1_NAME_L,{Scanner Module (C)}
+UP_SCANNER1_SUB,{Scanning System Upgrade}
+UP_SCANNER2_DESC,"{A <TECHNOLOGY>significant<> upgrade for the <TECHNOLOGY>Multi-Tool Scanning Systems<>. Use <IMG>FE_ALT1<> to begin upgrade installation process. Internal chip upgrades improve <STELLAR>scan radius<>, as well as dramatically increasing the <STELLAR>value<> of <TECHNOLOGY>discovery data<>.}"
+UP_SCANNER2_NAME,{SCANNER MODULE (B)}
+UP_SCANNER2_NAME_L,{Scanner Module (B)}
+UP_SCANNER2_SUB,{Significant Scanning System Upgrade}
+UP_SCANNER3_DESC,"{An <SPECIAL>extremely powerful<> upgrade for the <TECHNOLOGY>Multi-Tool Scanning Systems<>. Use <IMG>FE_ALT1<> to begin upgrade installation process. Internal chip upgrades improve <STELLAR>scan radius<>, as well as massively increasing the <STELLAR>value<> of <TECHNOLOGY>discovery data<>.}"
+UP_SCANNER3_NAME,{SCANNER MODULE (A)}
+UP_SCANNER3_NAME_L,{Scanner Module (A)}
+UP_SCANNER3_SUB,{Powerful Scanning System Upgrade}
+UP_SCANNER4_DESC,"{An <COMMODITY>supremely powerful<> upgrade for the <TECHNOLOGY>Multi-Tool Scanning Systems<>. Use <IMG>FE_ALT1<> to begin upgrade installation process. Internal chip upgrades improve <STELLAR>scan radius<>, as well as massively increasing the <STELLAR>value<> of <TECHNOLOGY>discovery data<>.}"
+UP_SCANNER4_NAME,{SCANNER MODULE (S)}
+UP_SCANNER4_NAME_L,{Scanner Module (S)}
+UP_SCANNER4_SUB,{Supreme Scanning System Upgrade}
+UP_BOLT1_DESC,"{A <TRADEABLE>moderate<> upgrade for the <TECHNOLOGY>Boltcaster<>. Use <IMG>FE_ALT1<> to begin upgrade installation process. Upgrades the Boltcaster, <STELLAR>decreasing reload times<> and <STELLAR>increasing damage<>.}"
+UP_BOLT1_NAME,{BOLTCASTER MODULE (C)}
+UP_BOLT1_NAME_L,{Boltcaster Module (C)}
+UP_BOLT1_SUB,{Boltcaster Upgrade}
+UP_BOLT2_DESC,{A <TECHNOLOGY>significant<> upgrade for the <TECHNOLOGY>Boltcaster<>. Use <IMG>FE_ALT1<> to begin upgrade installation process. Increases projectile <STELLAR>damage<> and decreases <STELLAR>reload times<>.}
+UP_BOLT2_NAME,{BOLTCASTER MODULE (B)}
+UP_BOLT2_NAME_L,{Boltcaster Module (B)}
+UP_BOLT2_SUB,{Significant Boltcaster Upgrade}
+UP_BOLT3_DESC,"{An <SPECIAL>extremely powerful<> upgrade for the <TECHNOLOGY>Boltcaster<>. Use <IMG>FE_ALT1<> to begin upgrade installation process. Increases projectile <STELLAR>damage<>, <STELLAR>fire rate<> and <STELLAR>clip size<>. Decreases <STELLAR>reload times<>.}"
+UP_BOLT3_NAME,{BOLTCASTER MODULE (A)}
+UP_BOLT3_NAME_L,{Boltcaster Module (A)}
+UP_BOLT3_SUB,{Powerful Boltcaster Upgrade}
+UP_BOLT4_DESC,"{An <COMMODITY>supremely powerful<> upgrade for the <TECHNOLOGY>Boltcaster<>. Use <IMG>FE_ALT1<> to begin upgrade installation process. Increases projectile <STELLAR>damage<>, <STELLAR>fire rate<> and <STELLAR>clip size<>. Decreases <STELLAR>reload times<>.}"
+UP_BOLT4_NAME,{BOLTCASTER MODULE (S)}
+UP_BOLT4_NAME_L,{Boltcaster Module (S)}
+UP_BOLT4_SUB,{Supreme Boltcaster Upgrade}
+UP_GRENADE1_DESC,"{A <TRADEABLE>moderate<> upgrade for the <TECHNOLOGY>Plasma Launcher<>. Use <IMG>FE_ALT1<> to begin upgrade installation process. Offers improvements to explosion <STELLAR>damage<> and <STELLAR>radius<>, as well as increasing the maximum number of pre-explosion <STELLAR>bounces<>.}"
+UP_GRENADE1_NAME,{PLASMA LAUNCHER MODULE (C)}
+UP_GRENADE1_NAME_L,{Plasma Launcher Module (C)}
+UP_GRENADE1_SUB,{Plasma Launcher Upgrade}
+UP_GRENADE2_DESC,"{A <TECHNOLOGY>significant<> upgrade for the <TECHNOLOGY>Plasma Launcher<>. Use <IMG>FE_ALT1<> to begin upgrade installation process. Offers improvements to explosion <STELLAR>damage<> and <STELLAR>radius<>, as well as increasing the maximum number of pre-explosion <STELLAR>bounces<>.}"
+UP_GRENADE2_NAME,{PLASMA LAUNCHER MODULE (B)}
+UP_GRENADE2_NAME_L,{Plasma Launcher Module (B)}
+UP_GRENADE2_SUB,{Significant Plasma Launcher Upgrade}
+UP_GRENADE3_DESC,"{An <SPECIAL>extremely powerful<> upgrade for the <TECHNOLOGY>Plasma Launcher<>. Use <IMG>FE_ALT1<> to begin upgrade installation process. Offers improvements to explosion <STELLAR>damage<> and <STELLAR>radius<>, as well as increasing the maximum number of pre-explosion <STELLAR>bounces<>.}"
+UP_GRENADE3_NAME,{PLASMA LAUNCHER MODULE (A)}
+UP_GRENADE3_NAME_L,{Plasma Launcher Module (A)}
+UP_GRENADE3_SUB,{Powerful Plasma Launcher Upgrade}
+UP_GRENADE4_DESC,"{An <COMMODITY>supremely powerful<> upgrade for the <TECHNOLOGY>Plasma Launcher<>. Use <IMG>FE_ALT1<> to begin upgrade installation process. Offers improvements to explosion <STELLAR>damage<> and <STELLAR>radius<>, as well as increasing the maximum number of pre-explosion <STELLAR>bounces<>.}"
+UP_GRENADE4_NAME,{PLASMA LAUNCHER MODULE (S)}
+UP_GRENADE4_NAME_L,{Plasma Launcher Module (S)}
+UP_GRENADE4_SUB,{Supreme Plasma Launcher Upgrade}
+UP_TGRENADE1_DESC,{A <TRADEABLE>moderate<> upgrade for the <TECHNOLOGY>Geology Cannon<>. Use <IMG>FE_ALT1<> to begin upgrade installation process. Increases both <STELLAR>explosion damage<> and <STELLAR>crater radius<>.}
+UP_TGRENADE1_NAME,{GEOLOGY CANNON MODULE (C)}
+UP_TGRENADE1_NAME_L,{Geology Cannon Module (C)}
+UP_TGRENADE1_SUB,{Geology Cannon Upgrade}
+UP_TGRENADE2_DESC,{A <TECHNOLOGY>significant<> upgrade for the <TECHNOLOGY>Geology Cannon<>. Use <IMG>FE_ALT1<> to begin upgrade installation process. Increases both <STELLAR>explosion damage<> and <STELLAR>crater radius<>.}
+UP_TGRENADE2_NAME,{GEOLOGY CANNON MODULE (B)}
+UP_TGRENADE2_NAME_L,{Geology Cannon Module (B)}
+UP_TGRENADE2_SUB,{Significant Geology Cannon Upgrade}
+UP_TGRENADE3_DESC,{An <SPECIAL>extremely powerful<> upgrade for the <TECHNOLOGY>Geology Cannon<>. Use <IMG>FE_ALT1<> to begin upgrade installation process. Increases both <STELLAR>explosion damage<> and <STELLAR>crater radius<>.}
+UP_TGRENADE3_NAME,{GEOLOGY CANNON MODULE (A)}
+UP_TGRENADE3_NAME_L,{Geology Cannon Module (A)}
+UP_TGRENADE3_SUB,{Powerful Geology Cannon Upgrade}
+UP_TGRENADE4_DESC,{An <COMMODITY>supremely powerful<> upgrade for the <TECHNOLOGY>Geology Cannon<>. Use <IMG>FE_ALT1<> to begin upgrade installation process. Increases both <STELLAR>explosion damage<> and <STELLAR>crater radius<>.}
+UP_TGRENADE4_NAME,{GEOLOGY CANNON MODULE (S)}
+UP_TGRENADE4_NAME_L,{Geology Cannon Module (S)}
+UP_TGRENADE4_SUB,{Supreme Geology Cannon Upgrade}
+UP_RAIL1_DESC,{A <TRADEABLE>moderate<> upgrade for the <TECHNOLOGY>Blaze Javelin<>. Use <IMG>FE_ALT1<> to begin upgrade installation process. Increases <STELLAR>laser damage<> and decreases <STELLAR>recharge times<>.}
+UP_RAIL1_NAME,{BLAZE JAVELIN MODULE (C)}
+UP_RAIL1_NAME_L,{Blaze Javelin Module (C)}
+UP_RAIL1_SUB,{Blaze Javelin Upgrade}
+UP_RAIL2_DESC,{A <TECHNOLOGY>significant<> upgrade for the <TECHNOLOGY>Blaze Javelin<>. Use <IMG>FE_ALT1<> to begin upgrade installation process. Significantly increases <STELLAR>laser damage<> and decreases <STELLAR>recharge times<>.}
+UP_RAIL2_NAME,{BLAZE JAVELIN MODULE (B)}
+UP_RAIL2_NAME_L,{Blaze Javelin Module (B)}
+UP_RAIL2_SUB,{Significant Blaze Javelin Upgrade}
+UP_RAIL3_DESC,{An <SPECIAL>extremely powerful<> upgrade for the <TECHNOLOGY>Blaze Javelin<>. Use <IMG>FE_ALT1<> to begin upgrade installation process. Dramatically increases <STELLAR>laser damage<> and decreases <STELLAR>recharge times<>.}
+UP_RAIL3_NAME,{BLAZE JAVELIN MODULE (A)}
+UP_RAIL3_NAME_L,{Blaze Javelin Module (A)}
+UP_RAIL3_SUB,{Powerful Blaze Javelin Upgrade}
+UP_RAIL4_DESC,{An <COMMODITY>supremely powerful<> upgrade for the <TECHNOLOGY>Blaze Javelin<>. Use <IMG>FE_ALT1<> to begin upgrade installation process. Dramatically increases <STELLAR>laser damage<> and decreases <STELLAR>recharge times<>.}
+UP_RAIL4_NAME,{BLAZE JAVELIN MODULE (S)}
+UP_RAIL4_NAME_L,{Blaze Javelin Module (S)}
+UP_RAIL4_SUB,{Supreme Blaze Javelin Upgrade}
+UP_SHOTGUN1_DESC,{A <TRADEABLE>moderate<> upgrade for the <TECHNOLOGY>Scatter Blaster<>. Use <IMG>FE_ALT1<> to begin upgrade installation process. Increases weapon <STELLAR>damage<> and decreases <STELLAR>reload times<>.}
+UP_SHOTGUN1_NAME,{SCATTER BLASTER MODULE (C)}
+UP_SHOTGUN1_NAME_L,{Scatter Blaster Module (C)}
+UP_SHOTGUN1_SUB,{Scatter Blaster Upgrade}
+UP_SHOTGUN2_DESC,"{A <TECHNOLOGY>significant<> upgrade for the <TECHNOLOGY>Scatter Blaster<>. Use <IMG>FE_ALT1<> to begin upgrade installation process. Overhauls internal mechanisms to increase <STELLAR>clip size<> and <STELLAR>bullets per shot<>. In addition, increases weapon <STELLAR>damage<> and decreases <STELLAR>reload times<>.}"
+UP_SHOTGUN2_NAME,{SCATTER BLASTER MODULE (B)}
+UP_SHOTGUN2_NAME_L,{Scatter Blaster Module (B)}
+UP_SHOTGUN2_SUB,{Significant Scatter Blaster Upgrade}
+UP_SHOTGUN3_DESC,{An <SPECIAL>extremely powerful<> upgrade for the <TECHNOLOGY>Scatter Blaster<>. Use <IMG>FE_ALT1<> to begin upgrade installation process. Offers significant improvements to weapon <STELLAR>damage<> and <STELLAR>reload times<>. Increases total <STELLAR>clip size<> and offers substantial improvements to <STELLAR>rate of fire<>.}
+UP_SHOTGUN3_NAME,{SCATTER BLASTER MODULE (A)}
+UP_SHOTGUN3_NAME_L,{Scatter Blaster Module (A)}
+UP_SHOTGUN3_SUB,{Powerful Scatter Blaster Upgrade}
+UP_SHOTGUN4_DESC,{An <COMMODITY>supremely powerful<> upgrade for the <TECHNOLOGY>Scatter Blaster<>. Use <IMG>FE_ALT1<> to begin upgrade installation process. Offers significant improvements to weapon <STELLAR>damage<> and <STELLAR>reload times<>. Increases total <STELLAR>clip size<> and offers substantial improvements to <STELLAR>rate of fire<>.}
+UP_SHOTGUN4_NAME,{SCATTER BLASTER MODULE (S)}
+UP_SHOTGUN4_NAME_L,{Scatter Blaster Module (S)}
+UP_SHOTGUN4_SUB,{Supreme Scatter Blaster Upgrade}
+UP_SMG1_DESC,{A <TRADEABLE>moderate<> upgrade for the <TECHNOLOGY>Pulse Spitter<>. Use <IMG>FE_ALT1<> to begin upgrade installation process. Overloads internal charge systems to increase <STELLAR>fire rate<> and decrease <STELLAR>reload times<>.}
+UP_SMG1_NAME,{PULSE SPITTER MODULE (C)}
+UP_SMG1_NAME_L,{Pulse Spitter Module (C)}
+UP_SMG1_SUB,{Pulse Spitter Upgrade}
+UP_SMG2_DESC,"{A <TECHNOLOGY>significant<> upgrade for the <TECHNOLOGY>Pulse Spitter<>. Use <IMG>FE_ALT1<> to begin upgrade installation process. Amplifies core optics to increase <STELLAR>clip size<> and <STELLAR>fire rate<>, as well as decreasing <STELLAR>reload times<>.}"
+UP_SMG2_NAME,{PULSE SPITTER MODULE (B)}
+UP_SMG2_NAME_L,{Pulse Spitter Module (B)}
+UP_SMG2_SUB,{Significant Pulse Spitter Upgrade}
+UP_SMG3_DESC,"{An <SPECIAL>extremely powerful<> upgrade for the <TECHNOLOGY>Pulse Spitter<>. Use <IMG>FE_ALT1<> to begin upgrade installation process. Localised spacetime distortion significantly increases <STELLAR>clip size<> and <STELLAR>fire rate<>, as well as decreasing <STELLAR>reload times<>.}"
+UP_SMG3_NAME,{PULSE SPITTER MODULE (A)}
+UP_SMG3_NAME_L,{Pulse Spitter Module (A)}
+UP_SMG3_SUB,{Powerful Pulse Spitter Upgrade}
+UP_SMG4_DESC,"{An <COMMODITY>supremely powerful<> upgrade for the <TECHNOLOGY>Pulse Spitter<>. Use <IMG>FE_ALT1<> to begin upgrade installation process. Localised spacetime distortion significantly increases <STELLAR>clip size<> and <STELLAR>fire rate<>, as well as decreasing <STELLAR>reload times<>.}"
+UP_SMG4_NAME,{PULSE SPITTER MODULE (S)}
+UP_SMG4_NAME_L,{Pulse Spitter Module (S)}
+UP_SMG4_SUB,{Supreme Pulse Spitter Upgrade}
+UP_ENERGY1_DESC,{A <TECHNOLOGY>significant<> upgrade for the <TECHNOLOGY>Life Support System<>. Use <IMG>FE_ALT1<> to begin upgrade installation process. Increases <STELLAR>life support power<>.}
+UP_ENERGY1_NAME,{LIFE SUPPORT MODULE (B)}
+UP_ENERGY1_NAME_L,{Life Support Module (B)}
+UP_ENERGY1_SUB,{Significant Life Support Upgrade}
+UP_ENERGY2_DESC,"{An <SPECIAL>extremely powerful<> upgrade for the <TECHNOLOGY>Life Support System<>. Use <IMG>FE_ALT1<> to begin upgrade installation process. Increases <STELLAR>life support power<> and offers limited <STELLAR>solar-energy power-offsetting<>, decreasing power use during daylight.}"
+UP_ENERGY2_NAME,{LIFE SUPPORT MODULE (A)}
+UP_ENERGY2_NAME_L,{Life Support Module (A)}
+UP_ENERGY2_SUB,{Powerful Life Support Upgrade}
+UP_ENERGY3_DESC,"{An <COMMODITY>supremely powerful<> upgrade for the <TECHNOLOGY>Life Support System<>. Use <IMG>FE_ALT1<> to begin upgrade installation process. Increases <STELLAR>life support power<> and offers limited <STELLAR>solar-energy power-offsetting<>, decreasing power use during daylight.}"
+UP_ENERGY3_NAME,{LIFE SUPPORT MODULE (S)}
+UP_ENERGY3_NAME_L,{Life Support Module (S)}
+UP_ENERGY3_SUB,{Supreme Life Support Upgrade}
+UP_JETBOOST1_DESC,"{A <TRADEABLE>moderate<> upgrade for the <TECHNOLOGY>Exosuit Movement Systems<>. Use <IMG>FE_ALT1<> to begin upgrade installation process. Offers improvements to jetpack <STELLAR>tank capacity<> and <STELLAR>life support drain rates<>, as well as increasing Exosuit <STELLAR>speed boost duration<>.}"
+UP_JETBOOST1_NAME,{MOVEMENT MODULE (C)}
+UP_JETBOOST1_NAME_L,{Movement Module (C)}
+UP_JETBOOST1_SUB,{Movement System Upgrade}
+UP_JETBOOST2_DESC,"{A <TECHNOLOGY>significant<> upgrade for the <TECHNOLOGY>Exosuit Movement Systems<>. Use <IMG>FE_ALT1<> to begin upgrade installation process. Delivers powerful improvements to jetpack <STELLAR>tank capacity<> and <STELLAR>life support drain rates<>, as well as increasing Exosuit <STELLAR>speed boost duration<>.}"
+UP_JETBOOST2_NAME,{MOVEMENT MODULE (B)}
+UP_JETBOOST2_NAME_L,{Movement Module (B)}
+UP_JETBOOST2_SUB,{Significant Movement System Upgrade}
+UP_JETBOOST3_DESC,"{An <SPECIAL>extremely powerful<> upgrade for the <TECHNOLOGY>Exosuit Movement Systems<>. Use <IMG>FE_ALT1<> to begin upgrade installation process. Offers dramatic improvements to jetpack <STELLAR>tank capacity<> and <STELLAR>life support drain rates<>, as well as increasing Exosuit <STELLAR>speed boost duration<>.}"
+UP_JETBOOST3_NAME,{MOVEMENT MODULE (A)}
+UP_JETBOOST3_NAME_L,{Movement Module (A)}
+UP_JETBOOST3_SUB,{Powerful Movement System Upgrade}
+UP_JETBOOST4_DESC,"{An <COMMODITY>supremely powerful<> upgrade for the <TECHNOLOGY>Exosuit Movement Systems<>. Use <IMG>FE_ALT1<> to begin upgrade installation process. Offers dramatic improvements to jetpack <STELLAR>tank capacity<> and <STELLAR>life support drain rates<>, as well as increasing Exosuit <STELLAR>speed boost duration<>.}"
+UP_JETBOOST4_NAME,{MOVEMENT MODULE (S)}
+UP_JETBOOST4_NAME_L,{Movement Module (S)}
+UP_JETBOOST4_SUB,{Supreme Movement System Upgrade}
+UP_SHIELDBOOST1_DESC,{A <TRADEABLE>moderate<> upgrade for the <TECHNOLOGY>Exosuit Defensive Systems<>. Use <IMG>FE_ALT1<> to begin upgrade installation process. Increases <STELLAR>Exosuit shield strength<>.}
+UP_SHIELDBOOST1_NAME,{SHIELD MODULE (C)}
+UP_SHIELDBOOST1_NAME_L,{Shield Module (C)}
+UP_SHIELDBOOST1_SUB,{Defensive Systems Upgrade}
+UP_SHIELDBOOST2_DESC,"{A <TECHNOLOGY>significant<> upgrade for the <TECHNOLOGY>Exosuit Defensive Systems<>. Use <IMG>FE_ALT1<> to begin upgrade installation process. Significantly increases <STELLAR>Exosuit shield strength<>, as well as increasing <STELLAR>core health<>.}"
+UP_SHIELDBOOST2_NAME,{SHIELD MODULE (B)}
+UP_SHIELDBOOST2_NAME_L,{Shield Module (B)}
+UP_SHIELDBOOST2_SUB,{Significant Defensive Systems Upgrade}
+UP_SHIELDBOOST3_DESC,"{An <SPECIAL>extremely powerful<> upgrade for the <TECHNOLOGY>Exosuit Defensive Systems<>. Use <IMG>FE_ALT1<> to begin upgrade installation process. Drastically increases <STELLAR>Exosuit shield strength<>, as well as increasing <STELLAR>core health<>.}"
+UP_SHIELDBOOST3_NAME,{SHIELD MODULE (A)}
+UP_SHIELDBOOST3_NAME_L,{Shield Module (A)}
+UP_SHIELDBOOST3_SUB,{Powerful Defensive Systems Upgrade}
+UP_SHIELDBOOST4_DESC,"{An <COMMODITY>supremely powerful<> upgrade for the <TECHNOLOGY>Exosuit Defensive Systems<>. Use <IMG>FE_ALT1<> to begin upgrade installation process. Drastically increases <STELLAR>Exosuit shield strength<>, as well as increasing <STELLAR>core health<>.}"
+UP_SHIELDBOOST4_NAME,{SHIELD MODULE (S)}
+UP_SHIELDBOOST4_NAME_L,{Shield Module (S)}
+UP_SHIELDBOOST4_SUB,{Supreme Defensive Systems Upgrade}
+HAZ_U1_SUB,{Hazard Protection Upgrade}
+HAZ_U2_SUB,{Significant Hazard Protection Upgrade}
+HAZ_U3_SUB,{Powerful Hazard Protection Upgrade}
+HAZ_U4_SUB,{Supreme Hazard Protection Upgrade}
+UP_UNW1_SUB,{Underwater Oxygen Upgrade}
+UP_UNW2_SUB,{Significant Underwater Oxygen Upgrade}
+UP_UNW3_SUB,{Powerful Underwater Oxygen Upgrade}
+UP_UNW1_DESC,{A <TECHNOLOGY>significant<> upgrade for the <TECHNOLOGY>Exosuit Aeration Membrane<>. Use <IMG>FE_ALT1<> to begin upgrade installation process. Significantly improves survival times <TECHNOLOGY>underwater<>.}
+UP_UNW1_NAME,{UNDERWATER PROTECTION MODULE (B)}
+UP_UNW1_NAME_L,{Underwater Protection Module (B)}
+UP_UNW2_DESC,{An <SPECIAL>extremely powerful<> upgrade for the <TECHNOLOGY>Exosuit Aeration Membrane<>. Use <IMG>FE_ALT1<> to begin upgrade installation process. Drastically improves survival times <TECHNOLOGY>underwater<>.}
+UP_UNW2_NAME,{UNDERWATER PROTECTION MODULE (A)}
+UP_UNW2_NAME_L,{Underwater Protection Module (A)}
+UP_UNW3_DESC,{An <COMMODITY>supremely powerful<> upgrade for the <TECHNOLOGY>Exosuit Aeration Membrane<>. Use <IMG>FE_ALT1<> to begin upgrade installation process. Drastically improves survival times <TECHNOLOGY>underwater<>.}
+UP_UNW3_NAME,{UNDERWATER PROTECTION MODULE (S)}
+UP_UNW3_NAME_L,{Underwater Protection Module (S)}
+UP_RAD1_DESC,{A <TECHNOLOGY>significant<> upgrade for the <TECHNOLOGY>Exosuit Radiation Protection System<>. Use <IMG>FE_ALT1<> to begin upgrade installation process. Significantly improves survival times in <COMMODITY>radioactive environments<>.}
+UP_RAD1_NAME,{RADIATION PROTECTION MODULE (B)}
+UP_RAD1_NAME_L,{Radiation Protection Module (B)}
+UP_RAD2_DESC,{An <SPECIAL>extremely powerful<> upgrade for the <TECHNOLOGY>Exosuit Radiation Protection System<>. Use <IMG>FE_ALT1<> to begin upgrade installation process. Drastically improves survival times in <COMMODITY>radioactive environments<>.}
+UP_RAD2_NAME,{RADIATION PROTECTION MODULE (A)}
+UP_RAD2_NAME_L,{Radiation Protection Module (A)}
+UP_RAD3_DESC,{An <COMMODITY>supremely powerful<> upgrade for the <TECHNOLOGY>Exosuit Radiation Protection System<>. Use <IMG>FE_ALT1<> to begin upgrade installation process. Drastically improves survival times in <COMMODITY>radioactive environments<>.}
+UP_RAD3_NAME,{RADIATION PROTECTION MODULE (S)}
+UP_RAD3_NAME_L,{Radiation Protection Module (S)}
+UP_TOX1_DESC,{A <TECHNOLOGY>significant<> upgrade for the <TECHNOLOGY>Exosuit Toxin Filtering System<>. Use <IMG>FE_ALT1<> to begin upgrade installation process. Significantly improves survival times in <TRADEABLE>toxic environments<>.}
+UP_TOX1_NAME,{TOXIC PROTECTION MODULE (B)}
+UP_TOX1_NAME_L,{Toxic Protection Module (B)}
+UP_TOX2_DESC,{An <SPECIAL>extremely powerful<> upgrade for the <TECHNOLOGY>Exosuit Toxin Filtering System<>. Use <IMG>FE_ALT1<> to begin upgrade installation process. Drastically improves survival times in <TRADEABLE>toxic environments<>.}
+UP_TOX2_NAME,{TOXIC PROTECTION MODULE (A)}
+UP_TOX2_NAME_L,{Toxic Protection Module (A)}
+UP_TOX3_DESC,{An <COMMODITY>supremely powerful<> upgrade for the <TECHNOLOGY>Exosuit Toxin Filtering System<>. Use <IMG>FE_ALT1<> to begin upgrade installation process. Drastically improves survival times in <TRADEABLE>toxic environments<>.}
+UP_TOX3_NAME,{TOXIC PROTECTION MODULE (S)}
+UP_TOX3_NAME_L,{Toxic Protection Module (S)}
+UP_COLDPROT1_DESC,{A <TECHNOLOGY>significant<> upgrade for the <TECHNOLOGY>Exosuit Thermal Protection System<>. Use <IMG>FE_ALT1<> to begin upgrade installation process. Significantly improves survival times in <TECHNOLOGY>sub-zero environments<>.}
+UP_COLDPROT1_NAME,{THERMAL PROTECTION MODULE (B)}
+UP_COLDPROT1_NAME_L,{Thermal Protection Module (B)}
+UP_COLDPROT2_DESC,{An <SPECIAL>extremely powerful<> upgrade for the <TECHNOLOGY>Exosuit Thermal Protection System<>. Use <IMG>FE_ALT1<> to begin upgrade installation process. Drastically improves survival times in <TECHNOLOGY>sub-zero environments<>.}
+UP_COLDPROT2_NAME,{THERMAL PROTECTION MODULE (A)}
+UP_COLDPROT2_NAME_L,{Thermal Protection Module (A)}
+UP_COLDPROT3_DESC,{An <COMMODITY>supremely powerful<> upgrade for the <TECHNOLOGY>Exosuit Thermal Protection System<>. Use <IMG>FE_ALT1<> to begin upgrade installation process. Drastically improves survival times in <TECHNOLOGY>sub-zero environments<>.}
+UP_COLDPROT3_NAME,{THERMAL PROTECTION MODULE (S)}
+UP_COLDPROT3_NAME_L,{Thermal Protection Module (S)}
+UP_HOTPROT1_DESC,{A <TECHNOLOGY>significant<> upgrade for the <TECHNOLOGY>Exosuit Thermal Protection System<>. Use <IMG>FE_ALT1<> to begin upgrade installation process. Significantly improves survival times in <FUEL>high-temperature environments<>.}
+UP_HOTPROT1_NAME,{THERMAL PROTECTION MODULE (B)}
+UP_HOTPROT1_NAME_L,{Thermal Protection Module (B)}
+UP_HOTPROT2_DESC,{An <SPECIAL>extremely powerful<> upgrade upgrade for the <TECHNOLOGY>Exosuit Thermal Protection System<>. Use <IMG>FE_ALT1<> to begin upgrade installation process. Drastically improves survival times in <FUEL>high-temperature environments<>.}
+UP_HOTPROT2_NAME,{THERMAL PROTECTION MODULE (A)}
+UP_HOTPROT2_NAME_L,{Thermal Protection Module (A)}
+UP_HOTPROT3_DESC,{An <COMMODITY>supremely powerful<> upgrade upgrade for the <TECHNOLOGY>Exosuit Thermal Protection System<>. Use <IMG>FE_ALT1<> to begin upgrade installation process. Drastically improves survival times in <FUEL>high-temperature environments<>.}
+UP_HOTPROT3_NAME,{THERMAL PROTECTION MODULE (S)}
+UP_HOTPROT3_NAME_L,{Thermal Protection Module (S)}
+UP_PULSE1_DESC,{A <TRADEABLE>moderate<> upgrade for the <TECHNOLOGY>Starship Pulse Engine<>. Use <IMG>FE_ALT1<> to begin upgrade installation process. Offers improvements to <STELLAR>starship maneuverability<> and <STELLAR>speed<>.}
+UP_PULSE1_NAME,{PULSE ENGINE MODULE (C)}
+UP_PULSE1_NAME_L,{Pulse Engine Module (C)}
+UP_PULSE1_SUB,{Pulse Engine Upgrade}
+UP_PULSE2_DESC,{A <TECHNOLOGY>significant<> upgrade for the <TECHNOLOGY>Starship Pulse Engine<>. Use <IMG>FE_ALT1<> to begin upgrade installation process. Offers improvements to <STELLAR>starship maneuverability<> and <STELLAR>speed<>.}
+UP_PULSE2_NAME,{PULSE ENGINE MODULE (B)}
+UP_PULSE2_NAME_L,{Pulse Engine Module (B)}
+UP_PULSE2_SUB,{Significant Pulse Engine Upgrade}
+UP_PULSE3_DESC,{An <SPECIAL>extremely powerful<> upgrade for the <TECHNOLOGY>Starship Pulse Engine<>. Use <IMG>FE_ALT1<> to begin upgrade installation process. Offers improvements to <STELLAR>starship maneuverability<> and <STELLAR>speed<>.}
+UP_PULSE3_NAME,{PULSE ENGINE MODULE (A)}
+UP_PULSE3_NAME_L,{Pulse Engine Module (A)}
+UP_PULSE3_SUB,{Powerful Pulse Engine Upgrade}
+UP_PULSE4_DESC,{An <COMMODITY>supremely powerful<> upgrade for the <TECHNOLOGY>Starship Pulse Engine<>. Use <IMG>FE_ALT1<> to begin upgrade installation process. Offers improvements to <STELLAR>starship maneuverability<> and <STELLAR>speed<>.}
+UP_PULSE4_NAME,{PULSE ENGINE MODULE (S)}
+UP_PULSE4_NAME_L,{Pulse Engine Module (S)}
+UP_PULSE4_SUB,{Supreme Pulse Engine Upgrade}
+UP_HYPER1_DESC,{A <TRADEABLE>moderate<> upgrade for the <TECHNOLOGY>Hyperdrive<>. Use <IMG>FE_ALT1<> to begin upgrade installation process. Offers improvements to <STELLAR>warp-drive efficiency<> and <STELLAR>jump distance<>.}
+UP_HYPER1_NAME,{HYPERDRIVE MODULE (C)}
+UP_HYPER1_NAME_L,{Hyperdrive Module (C)}
+UP_HYPER1_SUB,{Hyperdrive Upgrade}
+UP_HYPER2_DESC,{A <TECHNOLOGY>significant<> upgrade for the <TECHNOLOGY>Hyperdrive<>. Use <IMG>FE_ALT1<> to begin upgrade installation process. Offers improvements to <STELLAR>warp-drive efficiency<> and <STELLAR>jump distance<>.}
+UP_HYPER2_NAME,{HYPERDRIVE MODULE (B)}
+UP_HYPER2_NAME_L,{Hyperdrive Module (B)}
+UP_HYPER2_SUB,{Significant Hyperdrive Upgrade}
+UP_HYPER3_DESC,{An <SPECIAL>extremely powerful<> upgrade for the <TECHNOLOGY>Hyperdrive<>. Use <IMG>FE_ALT1<> to begin upgrade installation process. Offers improvements to <STELLAR>warp-drive efficiency<> and <STELLAR>jump distance<>.}
+UP_HYPER3_NAME,{HYPERDRIVE MODULE (A)}
+UP_HYPER3_NAME_L,{Hyperdrive Module (A)}
+UP_HYPER3_SUB,{Powerful Hyperdrive Upgrade}
+UP_HYPER4_DESC,{An <COMMODITY>supremely powerful<> upgrade for the <TECHNOLOGY>Hyperdrive<>. Use <IMG>FE_ALT1<> to begin upgrade installation process. Offers improvements to <STELLAR>warp-drive efficiency<> and <STELLAR>jump distance<>.}
+UP_HYPER4_NAME,{HYPERDRIVE MODULE (S)}
+UP_HYPER4_NAME_L,{Hyperdrive Module (S)}
+UP_HYPER4_SUB,{Supreme Hyperdrive Upgrade}
+UP_SHIPSHIELD1_DESC,{A <TRADEABLE>moderate<> upgrade for the <TECHNOLOGY>Starship Defensive Shielding<>. Use <IMG>FE_ALT1<> to begin upgrade installation process. Improves <STELLAR>ship strength<> for increased combat endurance.}
+UP_SHIPSHIELD1_NAME,{STARSHIP SHIELD MODULE (C)}
+UP_SHIPSHIELD1_NAME_L,{Starship Shield Module (C)}
+UP_SHIPSHIELD1_SUB,{Starship Shield Upgrade}
+UP_SHIPSHIELD2_DESC,{A <TECHNOLOGY>significant<> upgrade for the <TECHNOLOGY>Starship Defensive Shielding<>. Use <IMG>FE_ALT1<> to begin upgrade installation process. Significantly improves <STELLAR>ship strength<> for increased combat endurance.}
+UP_SHIPSHIELD2_NAME,{STARSHIP SHIELD MODULE (B)}
+UP_SHIPSHIELD2_NAME_L,{Starship Shield Module (B)}
+UP_SHIPSHIELD2_SUB,{Significant Starship Shield Upgrade}
+UP_SHIPSHIELD3_DESC,{An <SPECIAL>extremely powerful<> upgrade for the <TECHNOLOGY>Starship Defensive Shielding<>. Use <IMG>FE_ALT1<> to begin upgrade installation process. Dramatically improves <STELLAR>ship strength<> for increased combat endurance.}
+UP_SHIPSHIELD3_NAME,{STARSHIP SHIELD MODULE (A)}
+UP_SHIPSHIELD3_NAME_L,{Starship Shield Module (A)}
+UP_SHIPSHIELD3_SUB,{Powerful Starship Shield Upgrade}
+UP_SHIPSHIELD4_DESC,{An <COMMODITY>supremely powerful<> upgrade for the <TECHNOLOGY>Starship Defensive Shielding<>. Use <IMG>FE_ALT1<> to begin upgrade installation process. Dramatically improves <STELLAR>ship strength<> for increased combat endurance.}
+UP_SHIPSHIELD4_NAME,{STARSHIP SHIELD MODULE (S)}
+UP_SHIPSHIELD4_NAME_L,{Starship Shield Module (S)}
+UP_SHIPSHIELD4_SUB,{Supreme Starship Shield Upgrade}
+UP_SHIPGUN1_DESC,"{A <TRADEABLE>moderate<> upgrade for the <TECHNOLOGY>Starship Photon Cannon<>. Use <IMG>FE_ALT1<> to begin upgrade installation process. Improves <STELLAR>damage<>, <STELLAR>fire rate<> and <STELLAR>overheat times<>.}"
+UP_SHIPGUN1_NAME,{PHOTON CANNON MODULE (C)}
+UP_SHIPGUN1_NAME_L,{Photon Cannon Module (C)}
+UP_SHIPGUN1_SUB,{Starship Weapon Upgrade}
+UP_SHIPGUN2_DESC,"{A <TECHNOLOGY>significant<> upgrade for the <TECHNOLOGY>Starship Photon Cannon<>. Use <IMG>FE_ALT1<> to begin upgrade installation process. Significantly improves <STELLAR>damage<>, <STELLAR>fire rate<> and <STELLAR>overheat times<>.}"
+UP_SHIPGUN2_NAME,{PHOTON CANNON MODULE (B)}
+UP_SHIPGUN2_NAME_L,{Photon Cannon Module (B)}
+UP_SHIPGUN2_SUB,{Significant Starship Weapon Upgrade}
+UP_SHIPGUN3_DESC,"{An <SPECIAL>extremely powerful<> upgrade for the <TECHNOLOGY>Starship Photon Cannon<>. Use <IMG>FE_ALT1<> to begin upgrade installation process. Dramatically improves <STELLAR>damage<>, <STELLAR>fire rate<> and <STELLAR>overheat times<>.}"
+UP_SHIPGUN3_NAME,{PHOTON CANNON MODULE (A)}
+UP_SHIPGUN3_NAME_L,{Photon Cannon Module (A)}
+UP_SHIPGUN3_SUB,{Powerful Starship Weapon Upgrade}
+UP_SHIPGUN4_DESC,"{An <COMMODITY>supremely powerful<> upgrade for the <TECHNOLOGY>Starship Photon Cannon<>. Use <IMG>FE_ALT1<> to begin upgrade installation process. Dramatically improves <STELLAR>damage<>, <STELLAR>fire rate<> and <STELLAR>overheat times<>.}"
+UP_SHIPGUN4_NAME,{PHOTON CANNON MODULE (S)}
+UP_SHIPGUN4_NAME_L,{Photon Cannon Module (S)}
+UP_SHIPGUN4_SUB,{Supreme Starship Weapon Upgrade}
+UP_SHIPLAS1_DESC,{A <TRADEABLE>moderate<> upgrade for the <TECHNOLOGY>Starship Phase Beam<>. Use <IMG>FE_ALT1<> to begin upgrade installation process. Increases combat effectiveness via improvements to both <STELLAR>damage<> and <STELLAR>overheat tolerance<>.}
+UP_SHIPLAS1_NAME,{PHASE BEAM MODULE (C)}
+UP_SHIPLAS1_NAME_L,{Phase Beam Module (C)}
+UP_SHIPLAS1_SUB,{Starship Weapon Upgrade}
+UP_SHIPLAS2_DESC,{A <TECHNOLOGY>significant<> upgrade for the <TECHNOLOGY>Starship Phase Beam<>. Use <IMG>FE_ALT1<> to begin upgrade installation process. Increases combat effectiveness via significant improvements to both <STELLAR>damage<> and <STELLAR>overheat tolerance<>.}
+UP_SHIPLAS2_NAME,{PHASE BEAM MODULE (B)}
+UP_SHIPLAS2_NAME_L,{Phase Beam Module (B)}
+UP_SHIPLAS2_SUB,{Significant Starship Weapon Upgrade}
+UP_SHIPLAS3_DESC,{An <SPECIAL>extremely powerful<> upgrade for the <TECHNOLOGY>Starship Phase Beam<>. Use <IMG>FE_ALT1<> to begin upgrade installation process. Dramatically increases combat effectiveness via large improvements to both <STELLAR>damage<> and <STELLAR>overheat tolerance<>.}
+UP_SHIPLAS3_NAME,{PHASE BEAM MODULE (A)}
+UP_SHIPLAS3_NAME_L,{Phase Beam Module (A)}
+UP_SHIPLAS3_SUB,{Powerful Starship Weapon Upgrade}
+UP_SHIPLAS4_DESC,{An <COMMODITY>supremely powerful<> upgrade for the <TECHNOLOGY>Starship Phase Beam<>. Use <IMG>FE_ALT1<> to begin upgrade installation process. Dramatically increases combat effectiveness via large improvements to both <STELLAR>damage<> and <STELLAR>overheat tolerance<>.}
+UP_SHIPLAS4_NAME,{PHASE BEAM MODULE (S)}
+UP_SHIPLAS4_NAME_L,{Phase Beam Module (S)}
+UP_SHIPLAS4_SUB,{Supreme Starship Weapon Upgrade}
+UP_SHIPSHOT1_DESC,"{A <TRADEABLE>moderate<> upgrade for the <TECHNOLOGY>Positron Ejector<>. Use <IMG>FE_ALT1<> to begin upgrade installation process. Improves <STELLAR>damage<>, <STELLAR>fire rate<> and <STELLAR>overheat times<>.}"
+UP_SHIPSHOT1_NAME,{POSITRON MODULE (C)}
+UP_SHIPSHOT1_NAME_L,{Positron Module (C)}
+UP_SHIPSHOT1_SUB,{Starship Weapon Upgrade}
+UP_SHIPSHOT2_DESC,"{A <TECHNOLOGY>significant<> upgrade for the <TECHNOLOGY>Positron Ejector<>. Use <IMG>FE_ALT1<> to begin upgrade installation process. Significantly improves <STELLAR>damage<>, <STELLAR>fire rate<> and <STELLAR>overheat times<>.}"
+UP_SHIPSHOT2_NAME,{POSITRON MODULE (B)}
+UP_SHIPSHOT2_NAME_L,{Positron Module (B)}
+UP_SHIPSHOT2_SUB,{Significant Starship Weapon Upgrade}
+UP_SHIPSHOT3_DESC,"{An <SPECIAL>extremely powerful<> upgrade for the <TECHNOLOGY>Positron Ejector<>. Use <IMG>FE_ALT1<> to begin upgrade installation process. Dramatically improves <STELLAR>damage<>, <STELLAR>fire rate<> and <STELLAR>overheat times<>.}"
+UP_SHIPSHOT3_NAME,{POSITRON MODULE (A)}
+UP_SHIPSHOT3_NAME_L,{Positron Module (A)}
+UP_SHIPSHOT3_SUB,{Powerful Starship Weapon Upgrade}
+UP_SHIPSHOT4_DESC,"{An <COMMODITY>supremely powerful<> upgrade for the <TECHNOLOGY>Positron Ejector<>. Use <IMG>FE_ALT1<> to begin upgrade installation process. Dramatically improves <STELLAR>damage<>, <STELLAR>fire rate<> and <STELLAR>overheat times<>.}"
+UP_SHIPSHOT4_NAME,{POSITRON MODULE (S)}
+UP_SHIPSHOT4_NAME_L,{Positron Module (S)}
+UP_SHIPSHOT4_SUB,{Supreme Starship Weapon Upgrade}
+UP_SHIPMINI1_DESC,"{A <TRADEABLE>moderate<> upgrade for the <TECHNOLOGY>Infra-Knife Accelerator<>. Use <IMG>FE_ALT1<> to begin upgrade installation process. Improves <STELLAR>damage<>, <STELLAR>fire rate<> and <STELLAR>overheat times<>.}"
+UP_SHIPMINI1_NAME,{INFRA-KNIFE MODULE (C)}
+UP_SHIPMINI1_NAME_L,{Infra-Knife Module (C)}
+UP_SHIPMINI1_SUB,{Starship Weapon Upgrade}
+UP_SHIPMINI2_DESC,"{A <TECHNOLOGY>significant<> upgrade for the <TECHNOLOGY>Infra-Knife Accelerator<>. Use <IMG>FE_ALT1<> to begin upgrade installation process. Significantly improves <STELLAR>damage<>, <STELLAR>fire rate<> and <STELLAR>overheat times<>.}"
+UP_SHIPMINI2_NAME,{INFRA-KNIFE MODULE (B)}
+UP_SHIPMINI2_NAME_L,{Infra-Knife Module (B)}
+UP_SHIPMINI2_SUB,{Significant Starship Weapon Upgrade}
+UP_SHIPMINI3_DESC,"{An <SPECIAL>extremely powerful<> upgrade for the <TECHNOLOGY>Infra-Knife Accelerator<>. Use <IMG>FE_ALT1<> to begin upgrade installation process. Dramatically improves <STELLAR>damage<>, <STELLAR>fire rate<> and <STELLAR>overheat times<>.}"
+UP_SHIPMINI3_NAME,{INFRA-KNIFE MODULE (A)}
+UP_SHIPMINI3_NAME_L,{Infra-Knife Module (A)}
+UP_SHIPMINI3_SUB,{Powerful Starship Weapon Upgrade}
+UP_SHIPMINI4_DESC,"{An <COMMODITY>supremely powerful<> upgrade for the <TECHNOLOGY>Infra-Knife Accelerator<>. Use <IMG>FE_ALT1<> to begin upgrade installation process. Dramatically improves <STELLAR>damage<>, <STELLAR>fire rate<> and <STELLAR>overheat times<>.}"
+UP_SHIPMINI4_NAME,{INFRA-KNIFE MODULE (S)}
+UP_SHIPMINI4_NAME_L,{Infra-Knife Module (S)}
+UP_SHIPMINI4_SUB,{Supreme Starship Weapon Upgrade}
+UP_SHIPBLOB1_DESC,"{A <TRADEABLE>moderate<> upgrade for the <TECHNOLOGY>Cyclotron Ballista<>. Use <IMG>FE_ALT1<> to begin upgrade installation process. Improves <STELLAR>damage<>, <STELLAR>fire rate<> and <STELLAR>overheat times<>.}"
+UP_SHIPBLOB1_NAME,{CYCLOTRON MODULE (C)}
+UP_SHIPBLOB1_NAME_L,{Cyclotron Module (C)}
+UP_SHIPBLOB1_SUB,{Starship Weapon Upgrade}
+UP_SHIPBLOB2_DESC,"{A <TECHNOLOGY>significant<> upgrade for the <TECHNOLOGY>Cyclotron Ballista<>. Use <IMG>FE_ALT1<> to begin upgrade installation process. Significantly improves <STELLAR>damage<>, <STELLAR>fire rate<> and <STELLAR>overheat times<>.}"
+UP_SHIPBLOB2_NAME,{CYCLOTRON MODULE (B)}
+UP_SHIPBLOB2_NAME_L,{Cyclotron Module (B)}
+UP_SHIPBLOB2_SUB,{Significant Starship Weapon Upgrade}
+UP_SHIPBLOB3_DESC,"{An <SPECIAL>extremely powerful<> upgrade for the <TECHNOLOGY>Cyclotron Ballista<>. Use <IMG>FE_ALT1<> to begin upgrade installation process. Dramatically improves <STELLAR>damage<>, <STELLAR>fire rate<> and <STELLAR>overheat times<>.}"
+UP_SHIPBLOB3_NAME,{CYCLOTRON MODULE (A)}
+UP_SHIPBLOB3_NAME_L,{Cyclotron Module (A)}
+UP_SHIPBLOB3_SUB,{Powerful Starship Weapon Upgrade}
+UP_SHIPBLOB4_DESC,"{An <COMMODITY>supremely powerful<> upgrade for the <TECHNOLOGY>Cyclotron Ballista<>. Use <IMG>FE_ALT1<> to begin upgrade installation process. Dramatically improves <STELLAR>damage<>, <STELLAR>fire rate<> and <STELLAR>overheat times<>.}"
+UP_SHIPBLOB4_NAME,{CYCLOTRON MODULE (S)}
+UP_SHIPBLOB4_NAME_L,{Cyclotron Module (S)}
+UP_SHIPBLOB4_SUB,{Supreme Starship Weapon Upgrade}
+UT_PROTECT_NAME,{SHIELD LATTICE}
+UT_PROTECT_NAME_L,{Shield Lattice}
+UT_PROTECT_SUB,{Hazard Protection Upgrade}
+UT_PROTECT_DESC,"{Increases the base capacity of the <COMMODITY>Hazard Protection<> system, allowing the user to spend longer in hazardous environments without recharging their Exosuit.}"
+UT_ENERGY_NAME,{OXYGEN RECYCLER}
+UT_ENERGY_NAME_L,{Oxygen Recycler}
+UT_ENERGY_SUB,{Life Support Upgrade}
+UT_ENERGY_DESC,"{Increases the base capacity of the <FUEL>Life Support<> system, allowing the user to go longer between charges.}"
+UT_JET_NAME,{NEURAL STIMULATOR}
+UT_JET_NAME_L,{Neural Stimulator}
+UT_JET_SUB,{Exosuit Movement Upgrade}
+UT_JET_DESC,"{Increases the capacity of the Exosuit's <STELLAR>Jetpack Tanks<> and <STELLAR>Adrenal Pump Reserves<>, allowing the user to both fly and sprint longer.}"
+UT_JUMP_NAME,{ROCKET BOOTS}
+UT_JUMP_NAME_L,{Rocket Boots}
+UT_JUMP_SUB,{Exosuit Upgrade}
+UT_JUMP_DESC,"{Equips the Exosuit jetpack with <STELLAR>advanced jump capabilities<>, allowing the user to take huge leaps with ease. Activate jump systems by rapidly pressing <IMG>JUMP<>.}"
+UT_LAUNCHER_NAME,{EFFICIENT THRUSTERS}
+UT_LAUNCHER_NAME_L,{Efficient Thrusters}
+UT_LAUNCHER_SUB,{Starship Launch System Upgrade}
+UT_LAUNCHER_DESC,"{Upgrades the starship launch systems, decreasing the <STELLAR>fuel cost<> of takeoff.}"
+HYP_ACCESS1_NAME,{CADMIUM DRIVE}
+HYP_ACCESS1_NAME_L,{Cadmium Drive}
+HYP_ACCESS1_SUB,{Hyperdrive Upgrade: Red Systems}
+HYP_ACCESS2_NAME,{EMERIL DRIVE}
+HYP_ACCESS2_NAME_L,{Emeril Drive}
+HYP_ACCESS2_SUB,{Hyperdrive Upgrade: Green Systems}
+HYP_ACCESS3_NAME,{INDIUM DRIVE}
+HYP_ACCESS3_NAME_L,{Indium Drive}
+HYP_ACCESS3_SUB,{Hyperdrive Upgrade: Blue Systems}
+UT_SHIPSHIELD_NAME,{ABLATIVE ARMOUR}
+UT_SHIPSHIELD_NAME_L,{Ablative Armour}
+UT_SHIPSHIELD_SUB,{Starship Shield Upgrade}
+UT_SHIPSHIELD_DESC,"{Adds a layer of superheated shielding to the starship's defense array, vaporising incoming fire. Significantly increases <STELLAR>starship shield performance<>.}"
+UT_ROCKETS_NAME,{LARGE ROCKET TUBES}
+UT_ROCKETS_NAME_L,{Large Rocket Tubes}
+UT_ROCKETS_SUB,{Starship Rockets Upgrade}
+UT_ROCKETS_DESC,"{Expands the loading chamber of the starship <TECHNOLOGY>Rocket Launcher<>, improving exhaust performance and allowing for significantly faster <STELLAR>heat recovery<>.}"
+UT_SHIPLAS_NAME,{FOURIER DE-LIMITER}
+UT_SHIPLAS_NAME_L,{Fourier De-Limiter}
+UT_SHIPLAS_SUB,{Phase Beam Upgrade}
+UT_SHIPLAS_DESC,"{Rewires the <TECHNOLOGY>Phase Beam<> with nanite-based circuitry, bypassing conventional reality limits on laser power. Significantly improves <STELLAR>heat performance<>.}"
+UT_SHIPGUN_NAME,{NONLINEAR OPTICS}
+UT_SHIPGUN_NAME_L,{Nonlinear Optics}
+UT_SHIPGUN_SUB,{Photon Cannon Upgrade}
+UT_SHIPGUN_DESC,"{Replaces the conventional <TECHNOLOGY>Photon Cannon<> optics with an experimental glass array, boosting combat performance. Significantly improves <STELLAR>heat sink capacity<>.}"
+UT_SHIPSHOT_NAME,{FRAGMENT SUPERCHARGER}
+UT_SHIPSHOT_NAME_L,{Fragment Supercharger}
+UT_SHIPSHOT_SUB,{Starship Positron Ejector Upgrade}
+UT_SHIPSHOT_DESC,"{Overhauls the firing mechanism of the <TECHNOLOGY>Positron Ejector<>, resulting in faster, more accurate particles. Improves <STELLAR>range<> and <STELLAR>accuracy<>.}"
+UT_SHIPMINI_NAME,{Q-RESONATOR}
+UT_SHIPMINI_NAME_L,{Q-Resonator}
+UT_SHIPMINI_SUB,{Starship Infra-Knife Upgrade}
+UT_SHIPMINI_DESC,"{Upgrades the <TECHNOLOGY>Infra-Knife Accelerator<>, compressing internal waveforms to allow an extra shot to be weaved in to the conventional fire patterns.}"
+UT_SHIPBLOB_NAME,{DYSON PUMP}
+UT_SHIPBLOB_NAME_L,{Dyson Pump}
+UT_SHIPBLOB_SUB,{Starship Cyclotron Upgrade}
+UT_SHIPBLOB_DESC,{Replaces the hint sink of the <TECHNOLOGY>Cyclotron Ballista<> by encompassing the entire unit with a heat-absorbing megastructure. Heat output is recycled to boost combat efficiency. Significantly improves <STELLAR>heat performance<>.}
+UT_SCAN_NAME,{WAVEFORM RECYCLER}
+UT_SCAN_NAME_L,{Waveform Recycler}
+UT_SCAN_SUB,{MultiTool Upgrade}
+UT_SCAN_DESC,{A powerful lateral processor inserted into the Multi-Tool <TECHNOLOGY>Scanning System<> allows the device to recharge at a significantly improved rate. Increases <STELLAR>potential scan frequency<>.}
+UT_BOLT_NAME,{BARREL IONISER}
+UT_BOLT_NAME_L,{Barrel Ioniser}
+UT_BOLT_SUB,{Boltcaster Upgrade}
+UT_BOLT_DESC,"{Inserts a powerful field ionisation device into the barrel of the <TECHNOLOGY>Boltcaster<>, increasing projectile stability through the air. Improves <STELLAR>device accuracy<> and allows the user to fire for longer periods without degrading combat performance.}"
+UT_RAIL_NAME,{MASS ACCELERATOR}
+UT_RAIL_NAME_L,{Mass Accelerator}
+UT_RAIL_SUB,{Blaze Javelin Upgrade}
+UT_RAIL_DESC,"{Extends the firing chamber of the <TECHNOLOGY>Blaze Javelin<>, allowing the internal particle accelerators to reach both greater mass and speed. Significantly improves <STELLAR>weapon damage<>.}"
+UT_SHOT_NAME,{SHELL GREASER}
+UT_SHOT_NAME_L,{Shell Greaser}
+UT_SHOT_SUB,{Scatter Blaster Upgrade}
+UT_SHOT_DESC,"{Advanced self-lubricating components decrease friction within the <TECHNOLOGY>Scatter Blaster<>, offering significant improves to <STELLAR>reload times<>.}"
+UT_SMG_NAME,{AMPLIFIED CARTRIDGES}
+UT_SMG_NAME_L,{Amplified Cartridges}
+UT_SMG_SUB,{Pulse Spitter Upgrade}
+UT_SMG_DESC,"{Specialist harmonic resonators allow the <TECHNOLOGY>Pulse Spitter<> to split inserted ammunition, effective manufacturing more shots from fewer materials. Increases <STELLAR>weapon clip size<>.}"
+FLEET_COMBAT_SCAN_OSD_MESSAGE,{Assist the Fleet!}
+FLEET_COMBAT_THANKS_1,"{My thanks, %CAP_RACE%! We would never have made it without you. We shall repay your assistance with a long and fruitful voyage!}"
+FLEET_COMBAT_THANKS_2,"{An excellent display, %CAP_RACE%! It was an honour to have you fight alongside us. When we next meet again, we shall have completed our expedition - and brought you much glory in return!}"
+FLEET_COMBAT_THANKS_3,"{Truly inspiring, %CAP_RACE%! The crew will have been inspired by your performance. We look forward to seeing you again, when our voyage is complete.}"
+FLEET_COMBAT_THANKS_OPT_A,{Wish them luck}
+FLEET_COMBAT_THANKS_OPT_B,{End Communication}
+FLEET_COMBAT_THANKS_RES_A,"{%NAME% says nothing, but salutes as they end their message.}"
+FLEET_COMBAT_SPECIAL_1,"{%CAP_RACE%! We require immediate assistance! The fleet is being stalked by enemy starships. All attempts to escape have failed. But if you were able to distract them, we might be able to turn the situation to our advantage...}"
+FLEET_COMBAT_SPECIAL_OPT_A_1,{Agree to help}
+FLEET_COMBAT_SPECIAL_OPT_B_1,{Direct fleet to warp away}
+FLEET_COMBAT_SPECIAL_RES_A_1,{I reassure the fleet commander. I will head to their location as quickly as possible.}
+FLEET_COMBAT_SPECIAL_RES_B_1,{I tell the fleet commander to trust their ships and their crew. Deploy their ships and charge the warp drive - the pirates will not be able to follow them to the next system.}
+FLEET_COMBAT_SPECIAL_LOG_A_1,"{Under fire in the %SYSTEM% System. %CAP_RACE% directly intervened, ambushing our attackers. All targets destroyed, substantial bounty claimed.}"
+FLEET_COMBAT_SPECIAL_LOG_B_1,"{Under fire in the %SYSTEM% System. %CAP_RACE% directly intervened, but was unable to divert pirate attack.}"
+FLEET_COMBAT_SPECIAL_LOG_C_1,"{Stalked by pirate vessels in %SYSTEM% System. Deployed emergency shields on advice of the %CAP_RACE%, warped out to safety.}"
+FLEET_COMBAT_SPECIAL_2,"{Unfortunate news, %CAP_RACE%. The fleet is cornered. Our main weapons have been disabled. We face imminent destruction! You must help us!}"
+FLEET_COMBAT_SPECIAL_OPT_A_2,{Agree to help}
+FLEET_COMBAT_SPECIAL_OPT_B_2,{Decline to help}
+FLEET_COMBAT_SPECIAL_RES_A_2,"{Thank you, %CAP_RACE%. Hurry!}"
+FLEET_COMBAT_SPECIAL_RES_B_2,{Very well. I shall not mention this conversation to the crew.}
+FLEET_COMBAT_SPECIAL_LOG_A_2,{Fleet faced imminent destruction at the hands of %RACE% pirates in the %SYSTEM% System. %CAP_RACE% intervened directly and rescued us from certain death. Bounties claimed.}
+FLEET_COMBAT_SPECIAL_LOG_B_2,{Sabotaged by %RACE% spies in the %SYSTEM% System. %CAP_RACE% unable to assist. Catastrophic damage to the fleet.}
+FLEET_COMBAT_SPECIAL_LOG_C_2,{Sabotaged by %RACE% spies in the %SYSTEM% System. %CAP_RACE% unable to assist. Main guns disabled. Split the fleet to distract hostiles. Miracle warp navigation allowed unlikely escape.}
+FLEET_COMBAT_SPECIAL_3,{%CAP_RACE%! ... comms... explosion... lost... pirates... surrounded... help!}
+FLEET_COMBAT_SPECIAL_OPT_A_3,{Say you'll help}
+FLEET_COMBAT_SPECIAL_OPT_B_3,{End Communication}
+FLEET_COMBAT_SPECIAL_RES_A_3,"{I tell the fleet commander that I will come to their aid. I do not know if they can hear me, but I try to sound reassuring. The ruptured nature of their message does not fill me with hope.}"
+FLEET_COMBAT_SPECIAL_RES_B_3,{The hiss and garble of the communicator falls silent. I cannot help the fleet now. Their fate is in their own hands.}
+FLEET_COMBAT_SPECIAL_LOG_A_3,{Entered %SYSTEM% Sector. Surprise attack by %RACE% pirates disabled bridge electronics. %CAP_RACE% assisted fleet in destroying all hostiles. Bounties claimed.}
+FLEET_COMBAT_SPECIAL_LOG_B_3,{Systems... pirates... %PLANET%... %CAP_RACE%... damage! Repair...}
+FLEET_COMBAT_SPECIAL_LOG_C_3,{Transmitter... %PLANET%... avoided serious... attempting... restart... %SYSTEM% sector...}
+FLEET_COMBAT_SPECIAL_4,"{%CAP_RACE%, we have been tracking a pirate fleet across several sectors. We have them cornered! Honour us with your presence as we begin the engagement!}"
+FLEET_COMBAT_SPECIAL_OPT_A_4,{ยอมรับ}
+FLEET_COMBAT_SPECIAL_OPT_B_4,{Decline}
+FLEET_COMBAT_SPECIAL_RES_A_4,"{We shall keep them surrounded until you arrive, %CAP_RACE%!}"
+FLEET_COMBAT_SPECIAL_RES_B_4,{I let the fleet commander know I trust them to complete the operation without me. They have earned this bounty themselves.}
+FLEET_COMBAT_SPECIAL_LOG_A_4,{Tracked %RACE% pirates across the %SYSTEM% Sector. Joined by %CAP_RACE% for the final confrontation. All hostiles destroyed. Substantial bounty claimed.}
+FLEET_COMBAT_SPECIAL_LOG_B_4,"{Tracked %RACE% pirates across the %SYSTEM% Sector. Cornered, the pirates fought tooth and nail. %CAP_RACE% unable to assist, and the fleet took heavy damage during the battle.}"
+FLEET_COMBAT_SPECIAL_LOG_C_4,{Tracked %RACE% pirates across the %SYSTEM% Sector. %CAP_RACE% gave us the honour of dealing the final blow. All hostiles destroyed. Substantial bounty claimed.}
+FLEET_COMBAT_SPECIAL_5,"{Good news, %CAP_RACE%. Our battle against piracy is proving highly successful!"
+"We have destroyed several hostile capital ships, but the remaining fighters are proving awkward. Are you able to assist?}",
+FLEET_COMBAT_SPECIAL_OPT_A_5,{Say you will}
+FLEET_COMBAT_SPECIAL_OPT_B_5,{Decline}
+FLEET_COMBAT_SPECIAL_RES_A_5,"{Excellent, %CAP_RACE%! I will have the fighter crews on standby, ready for your arrival!}"
+FLEET_COMBAT_SPECIAL_RES_B_5,"{Very well, %CAP_RACE%. I understand. I will direct the fighter crews as best as I am able.}"
+FLEET_COMBAT_SPECIAL_LOG_A_5,"{Hunted %RACE% pirates across the %SYSTEM% System, assisted by the %CAP_RACE%. All hostiles destroyed. Large bounty claimed.}"
+FLEET_COMBAT_SPECIAL_LOG_B_5,"{Hunted %RACE% pirates in the %SYSTEM% System. Pirates proved formidable foes, and the fleet was severely tested. %CAP_RACE% was unable to assist, and we took heavy damage.}"
+FLEET_COMBAT_SPECIAL_LOG_C_5,"{Hunted %RACE% pirates in the %SYSTEM% System. The %CAP_RACE% was unable to assist, but the fleet triumphed regardless. All hostiles destroyed. Large bounty claimed.}"
+FLEET_COMBAT_SPECIAL_6,"{%CAP_NAME%! Good news from the fleet! Our scanners have located a squadron of wanted %RACE% criminals. Their ships are small but well-armed, and our own pilots would perform much better knowing you were flying alongside them...}"
+FLEET_COMBAT_SPECIAL_OPT_A_6,{Say you'll be there}
+FLEET_COMBAT_SPECIAL_OPT_B_6,{Say you cannot help}
+FLEET_COMBAT_SPECIAL_RES_A_6,"{Excellent, %CAP_RACE%! The crew will be thrilled to have you fly alongside them!}"
+FLEET_COMBAT_SPECIAL_RES_B_6,"{Very well, %CAP_RACE%. I am certain the fighter crews will do their best regardless.}"
+FLEET_COMBAT_SPECIAL_LOG_A_6,"{Pursued %RACE% pirates across the %SYSTEM% Sector. The %CAP_RACE% joined the fight, and inspired our fighter crews to victory. All hostiles destroyed. Substantial bounty claimed.}"
+FLEET_COMBAT_SPECIAL_LOG_B_6,"{Pursued %RACE% pirates across the %SYSTEM% Sector. The fighter crews were nervous, and the pirates flew with great skill. Fleet lost several starships before deciding to withdraw.}"
+FLEET_COMBAT_SPECIAL_LOG_C_6,"{Pursued %RACE% pirates across the %SYSTEM% Sector. %CAP_RACE% was unable to join the hunt, but the fighter crews performed excellently. All hostiles destroyed, claimed large reward from system authorities.}"
+FLEET_COMBAT_SPECIAL_7,"{%CAP_RACE%, our scouts have located a notorious pirate chief. The prize on their head is substantial, of course, but the true prize is the glory that goes to the victor! It is only right to offer you the chance to claim it.}"
+FLEET_COMBAT_SPECIAL_OPT_A_7,{Accept the honour}
+FLEET_COMBAT_SPECIAL_OPT_B_7,{Offer the glory to the fleet}
+FLEET_COMBAT_SPECIAL_RES_A_7,{I tell the fleet commander that I am honoured by their request. I shall try not to let them down.}
+FLEET_COMBAT_SPECIAL_RES_B_7,"{I tell the fleet commander that they have earned the bounty, not me. They should be the ones to finish this.}"
+FLEET_COMBAT_SPECIAL_LOG_A_7,"{Aided by the %CAP_RACE%, the fleet hunted and destroyed a notorious %RACE% pirate. Received substantial quantities of both bounty and glory.}"
+FLEET_COMBAT_SPECIAL_LOG_B_7,"{Fleet located a %RACE% pirate, a terror of the interstellar shipping lanes. The %CAP_RACE% was unable to assist. Fugitive escaped.}"
+FLEET_COMBAT_SPECIAL_LOG_C_7,"{The fleet hunted and destroyed a notorious %RACE% pirate, a terror of the interstellar shipping lanes. The %CAP_RACE% allowed the fleet to claim the kill, and we received substantial quantities of both bounty and glory.}"
+FLEET_COMBAT_SPECIAL_8,"{I report a great triumph, %CAP_RACE%! We have cornered one of this sector's most wanted fugitives. All that remains is to best them in single combat! Naturally, the crew wish to defer this honour to you. Do you accept?}"
+FLEET_COMBAT_SPECIAL_OPT_A_8,{ยอมรับ}
+FLEET_COMBAT_SPECIAL_OPT_B_8,{Decline}
+FLEET_COMBAT_SPECIAL_RES_A_8,"{It will be a privilege to watch you in action, %CAP_RACE%!}"
+FLEET_COMBAT_SPECIAL_RES_B_8,"{I understand, %CAP_RACE%. You cannot be everywhere. We will complete the mission regardless.}"
+FLEET_COMBAT_SPECIAL_LOG_A_8,{Joined by the %CAP_RACE% for a bounty hunt. The fleet hunted and destroyed a famous %RACE% pirate. Crew inspired by the %CAP_RACE%'s victory.}
+FLEET_COMBAT_SPECIAL_LOG_B_8,"{Fleet engaged a %RACE% pirate, notorious for their cunning in combat. The %CAP_RACE% was unable to assist, and the pirate destroyed several of our fighters before escaping.}"
+FLEET_COMBAT_SPECIAL_LOG_C_8,"{Engaged in a bounty hunt. The fleet hunted and destroyed a famous %RACE% pirate, notorious for their cunning in combat. %CAP_RACE% unable to assist, but our fighter crews performed admirably.}"
+FLEET_COMBAT_SPECIAL_9,"{Good news, %CAP_RACE%! Our patrol is proving highly lucrative! We have claimed many bounties, and are closing in on yet another. This shall be our biggest prize yet. Come join us, %CAP_RACE%! It would thrill the crew to have you complete our patrol.}"
+FLEET_COMBAT_SPECIAL_OPT_A_9,{ยอมรับ}
+FLEET_COMBAT_SPECIAL_OPT_B_9,{Decline}
+FLEET_COMBAT_SPECIAL_RES_A_9,{I tell the fleet commander I would be honoured to join them in their mission. They salute as I end the communication.}
+FLEET_COMBAT_SPECIAL_RES_B_9,"{I decline the offer. I tell the fleet commander that the crew has my confidence, and they do not need me. They salute as they end the communication.}"
+FLEET_COMBAT_SPECIAL_LOG_A_9,"{Hunted bounties in the %SYSTEM% Sector. Minor prizes claimed, until the %CAP_RACE% joined the fleet. With their assistance, hunted and destroyed a particularly fearsome %RACE% pirate.}"
+FLEET_COMBAT_SPECIAL_LOG_B_9,"{Hunted bounties in the %SYSTEM% Sector. Few prizes claimed before the fleet encountered a particularly fearsome %RACE% pirate. The %CAP_RACE% was unable to assist, and the fugitive escaped with ease.}"
+FLEET_COMBAT_SPECIAL_LOG_C_9,"{Hunted bounties in the %SYSTEM% Sector. Minor prizes claimed, until the fleet encountered a particularly fearsome %RACE% pirate. The %CAP_RACE% deferred the glory to the fleet, and our fighter crews did not disappoint.}"
+FLEET_COMBAT_SPECIAL_10,"{%CAP_RACE%, our spies have discovered a plot to take over a space station! We could strike now, landing boarding shuttles and arresting the conspirators before they can act. But the risk to civilians would be high. What should we do?}"
+FLEET_COMBAT_SPECIAL_OPT_A_10,{Give the order to attack}
+FLEET_COMBAT_SPECIAL_OPT_B_10,{Give the order to hold fire}
+FLEET_COMBAT_SPECIAL_RES_A_10,{I tell the fleet commander to attack. The risk to civilians would be even higher should the pirates take control of the space station.}
+FLEET_COMBAT_SPECIAL_RES_B_10,"{I tell the fleet commander to avoid an assault. Alert the authorities, by all means, but they should not risk innocent lives by with an all-out attack.}"
+FLEET_COMBAT_SPECIAL_LOG_A_10,"{Discovered a pirate plot in the %SYSTEM% System. On advice of the %CAP_RACE%, deployed assault shuttles and destroyed hostile forces attempting to take over the space station. Operation successful.}"
+FLEET_COMBAT_SPECIAL_LOG_B_10,"{Discovered a pirate plot in the %SYSTEM% System. On advice of the %CAP_RACE%, deployed assault shuttles and destroyed hostile forces attempting to take over the space station. Plot foiled, but space station was destroyed in the process.}"
+FLEET_COMBAT_SPECIAL_LOG_C_10,"{Discovered a pirate plot in the %SYSTEM% System. On advice of the %CAP_RACE%, did not deploy assault team. Local %RACE% authorities successfully foiled plot.}"
+FLEET_COMBAT_SPECIAL_11,"{Good news from the fleet, commander. We are in low orbit, holding station above a filthy pirate hub. Bombardment can begin on your word. To attack, however, is to risk the ire of the Sentinels. %CAP_RACE%, we await your authorisation.}"
+FLEET_COMBAT_SPECIAL_OPT_A_11,{Give the order to attack}
+FLEET_COMBAT_SPECIAL_OPT_B_11,{Give the order to withdraw}
+FLEET_COMBAT_SPECIAL_RES_A_11,{I give the fleet commander instructions to attack. They are more than capable of dealing with any Sentinel retaliation.}
+FLEET_COMBAT_SPECIAL_RES_B_11,{I tell the fleet commander to withdraw. Stellar Sentinel forces are relentless in their pursuit. The fleet should look for easier bounties.}
+FLEET_COMBAT_SPECIAL_LOG_A_11,"{Encountered a pirate base on planet %PLANET%. Took advice from the %CAP_RACE% and began bombardment. Sentinel forces retaliated, but the fleet escaped without harm. Operation successful.}"
+FLEET_COMBAT_SPECIAL_LOG_B_11,{Encountered a pirate base on planet %PLANET%. Took advice from the %CAP_RACE% and began bombardment. Sentinel forces retaliated. Fleet took heavy fire and was forced to retreat.}
+FLEET_COMBAT_SPECIAL_LOG_C_11,"{Encountered a pirate base on planet %PLANET%. Took advice from the %CAP_RACE% and avoided conflict, hoping to remain hidden from the Sentinels.}"
+FLEET_COMBAT_SPECIAL_12,"{%CAP_RACE%, the fleet salutes you! We have stalked a mighty pirate all across the sector, never breaking stealth. But our stores are low, and the crew are getting hungry. We are close to our goal. But on empty stomachs, I do not know how the crew will react. Do we continue?}"
+FLEET_COMBAT_SPECIAL_OPT_A_12,{Tell them to continue}
