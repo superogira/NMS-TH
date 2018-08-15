@@ -1,0 +1,1001 @@
+location,source
+UI_MIN_FACT_6,{Most bouyant:}
+UI_MIN_FACT_7,{Heaviest:}
+UI_MIN_FACT_8,{Worst to eat:}
+UI_MIN_FACT_9,{Highest metal content:}
+UI_MIN_FACT_10,{Rarest:}
+UI_MIN_FACT_11,{Industrially useful:}
+UI_MIN_FACT_12,{Most fossils:}
+UI_MIN_FACT_13,{Most valuable:}
+UI_MIN_FACT_14,{Oldest:}
+UI_MIN_FACT_15,{Most dense:}
+UI_MIN_FACT_16,{Formed at highest pressure:}
+UI_MIN_FACT_17,{Formed at highest temperature:}
+UI_MIN_FACT_18,{Most bouyant:}
+UI_MIN_FACT_19,{Heaviest:}
+UI_MIN_FACT_20,{Worst to eat:}
+UI_MIN_FACT_21,{Highest metal content:}
+UI_MIN_FACT_22,{Rarest:}
+UI_MIN_FACT_23,{Industrially useful:}
+UI_MIN_FACT_24,{Most fossils:}
+UI_MIN_FACT_25,{Industrially useful:}
+UI_CREATURE_NOTE_1,{Many hidden toes}
+UI_CREATURE_NOTE_2,{Builds metal nest}
+UI_CREATURE_NOTE_3,{Dislikes bright colours}
+UI_CREATURE_NOTE_4,{Moon Baby}
+UI_CREATURE_NOTE_5,{Lays beautiful eggs}
+UI_CREATURE_NOTE_6,{Waxy all-over}
+UI_CREATURE_NOTE_7,{Secretes venom}
+UI_CREATURE_NOTE_8,{Compound eyes}
+UI_CREATURE_NOTE_9,{Inverted organ sacs}
+UI_CREATURE_NOTE_10,{Good pollinator}
+UI_CREATURE_NOTE_11,{Ultrasonic roar}
+UI_CREATURE_NOTE_12,{Retractable appendages}
+UI_CREATURE_NOTE_13,{Has no bones}
+UI_CREATURE_NOTE_14,{Not carbon based}
+UI_CREATURE_NOTE_15,{Evil}
+UI_CREATURE_NOTE_16,{Nutritious faeces}
+UI_CREATURE_NOTE_17,{Asexual reproduction}
+UI_CREATURE_NOTE_18,{Changes gender when cold}
+UI_CREATURE_NOTE_19,{Can dislocate jawbones}
+UI_CREATURE_NOTE_20,{Powerful mandibles}
+UI_CREATURE_NOTE_21,{Autonomous regeneration}
+UI_CREATURE_NOTE_22,{Technically immortal}
+UI_CREATURE_NOTE_23,{Blue blood}
+UI_CREATURE_NOTE_24,{Green blood}
+UI_CREATURE_NOTE_25,{Yellow blood}
+UI_CREATURE_NOTE_26,{Excess of bile}
+UI_CREATURE_NOTE_27,{Creates beautiful webs}
+UI_CREATURE_NOTE_28,{Strong burrower}
+UI_CREATURE_NOTE_29,{Hibernates}
+UI_CREATURE_NOTE_30,{Mates for life}
+UI_CREATURE_NOTE_31,{Carries symbiotic fungus}
+UI_CREATURE_NOTE_32,{Stomach inside skull}
+UI_CREATURE_NOTE_33,{Nine additional senses}
+UI_CREATURE_NOTE_34,{Sense organs in feet}
+UI_CREATURE_NOTE_35,{Excellent sense of smell}
+UI_CREATURE_NOTE_36,{Poor hearing}
+UI_CREATURE_NOTE_37,{Ticklish}
+UI_CREATURE_NOTE_38,{Highly intelligent}
+UI_CREATURE_NOTE_39,{Cannot see colour}
+UI_CREATURE_NOTE_40,{Sprays ink when scared}
+UI_CREATURE_NOTE_41,{Produces vile stench}
+UI_CREATURE_NOTE_42,{Unpleasant to eat}
+UI_CREATURE_NOTE_43,{Gelatinous bones}
+UI_CREATURE_NOTE_44,{Can change colour}
+UI_CREATURE_NOTE_45,{Chromatophore}
+UI_CREATURE_NOTE_46,{Rapid self-healing}
+UI_CREATURE_NOTE_47,{Valuable blood}
+UI_CREATURE_NOTE_48,{Absorbs moisture from air}
+UI_CREATURE_NOTE_49,{Mildly radioactive}
+UI_CREATURE_NOTE_50,{Strongly radioactive}
+UI_CREATURE_NOTE_51,{Hybrid species}
+UI_CREATURE_NOTE_52,{Genetically unstable}
+UI_CREATURE_NOTE_53,{Partially domesticated}
+UI_CREATURE_NOTE_54,{Gentle soul}
+UI_CREATURE_NOTE_55,{Hidden extra skull}
+UI_CREATURE_NOTE_56,{Secondary skin}
+UI_CREATURE_NOTE_57,{Hidden extra tongue}
+UI_CREATURE_NOTE_58,{Redundant internal organs}
+UI_CREATURE_NOTE_59,{Rigid bones}
+UI_CREATURE_NOTE_60,{Hidden extra claws}
+UI_CREATURE_NOTE_61,{Six stomachs}
+UI_CREATURE_NOTE_62,{Powerful digestive enzymes}
+UI_CREATURE_NOTE_63,{Saliva pH 14}
+UI_CREATURE_NOTE_64,{Flexible joints}
+UI_CREATURE_NOTE_65,{Hidden stinger}
+UI_CREATURE_NOTE_66,{Covered in tiny hairs}
+UI_CREATURE_NOTE_67,{Untameable}
+UI_CREATURE_NOTE_68,{Fragile skull}
+UI_CREATURE_NOTE_69,{Fragile skin}
+UI_CREATURE_NOTE_70,{Detachable tongue}
+UI_CREATURE_NOTE_71,{Bruisable organs}
+UI_CREATURE_NOTE_72,{Brittle bones}
+UI_CREATURE_NOTE_73,{Calcified claws}
+UI_CREATURE_NOTE_74,{Translucent teeth}
+UI_CREATURE_NOTE_75,{Caustic skin}
+UI_CREATURE_NOTE_76,{Toxic tongue}
+UI_CREATURE_NOTE_77,{Covered in toxic bristles}
+UI_CREATURE_NOTE_78,{Venom-laden claws}
+UI_CREATURE_NOTE_79,{Armoured skull}
+UI_CREATURE_NOTE_80,{Regularly sheds skin}
+UI_CREATURE_NOTE_81,{Monstrous tongue}
+UI_CREATURE_NOTE_82,{Tiny organs}
+UI_CREATURE_NOTE_83,{Metal bones}
+UI_CREATURE_NOTE_84,{Bioluminescent teeth}
+UI_CREATURE_NOTE_85,{Thick skull}
+UI_CREATURE_NOTE_86,{Toughened skin}
+UI_CREATURE_NOTE_87,{Massive tongue}
+UI_CREATURE_NOTE_88,{Stores water in hidden sacs}
+UI_CREATURE_NOTE_89,{Sheds and regrows bones}
+UI_CREATURE_NOTE_90,{Sharp claws}
+UI_CREATURE_NOTE_91,{Rubber skull}
+UI_CREATURE_NOTE_92,{Porous skin}
+UI_CREATURE_NOTE_93,{Regrows teeth each day}
+UI_CREATURE_NOTE_94,{Grows lungs after birth}
+UI_CREATURE_NOTE_95,{Carbon-based skeleton}
+UI_CREATURE_NOTE_96,{Decentralised nervous system}
+UI_CREATURE_NOTE_97,{Skull full of holes}
+UI_CREATURE_NOTE_98,{Skin parasites}
+UI_CREATURE_NOTE_99,{Tongue parasites}
+UI_CREATURE_NOTE_100,{Extensive gut bacteria}
+UI_CREATURE_NOTE_101,{Digests via symbionts}
+UI_CREATURE_NOTE_102,{Claws harbour disease}
+UI_CREATURE_NOTE_103,{Spawns in water}
+UI_CREATURE_NOTE_104,{Goes underground to die}
+UI_CREATURE_NOTE_105,{Tapeworm host}
+UI_CREATURE_NOTE_106,{Delicious}
+UI_CREATURE_NOTE_107,{Easily trained}
+UI_CREATURE_NOTE_108,{Inflates when stressed}
+UI_CREATURE_NOTE_109,{Poor sense of direction}
+UI_CREATURE_NOTE_110,{Excellent navigator}
+UI_CREATURE_NOTE_111,{Can sense magnetic fields}
+UI_CREATURE_NOTE_112,{Easily confused}
+UI_CREATURE_NOTE_113,{Frequently lost}
+UI_CREATURE_NOTE_114,{Hears ground vibrations}
+UI_CREATURE_NOTE_115,{Scared of fire}
+UI_CREATURE_NOTE_116,{Hydrophobic}
+UI_CREATURE_NOTE_117,{Vestigial udders}
+UI_CREATURE_NOTE_118,{Makes art with sticks}
+UI_CREATURE_NOTE_119,{Recognises other species}
+UI_CREATURE_NOTE_120,{Beloved by the Gek}
+UI_CREATURE_NOTE_121,{Bonds with Vy'keen}
+UI_CREATURE_NOTE_122,{Hunts Sentinels}
+UI_CREATURE_NOTE_123,{Matriarchal society}
+UI_CREATURE_NOTE_124,{Digs underground nests}
+UI_CREATURE_NOTE_125,{One extendible finger}
+UI_CREATURE_NOTE_126,{Grows wings before death}
+UI_CREATURE_NOTE_127,{Alluring pheromones}
+UI_CREATURE_NOTE_128,{Sings beautifully}
+UI_CREATURE_NOTE_129,{Deceptively fast}
+UI_CREATURE_NOTE_130,{Lacks gallbladder}
+UI_CREATURE_NOTE_131,{Both gills and lungs}
+UI_CREATURE_NOTE_132,{Respires inorganically}
+UI_CREATURE_NOTE_133,{Has chlorophyll glands}
+UI_CREATURE_NOTE_134,{Sleeps standing up}
+UI_CREATURE_NOTE_135,{Never blinks}
+UI_CREATURE_NOTE_136,{Frequently regurgitates}
+UI_CREATURE_NOTE_137,{Irritable}
+UI_CREATURE_NOTE_138,{Highly social}
+UI_CREATURE_NOTE_139,{Dislikes being scanned}
+UI_CREATURE_NOTE_140,{Telepathic}
+UI_CREATURE_NOTE_141,{Burns in the sun}
+UI_CREATURE_NOTE_142,{Well insulated}
+UI_CREATURE_NOTE_143,{Photosensitive}
+UI_CREATURE_NOTE_144,{Secretes phytotoxins}
+UI_CREATURE_NOTE_145,{Lovely eyes}
+UI_CREATURE_NOTE_146,{Good parent}
+UI_CREATURE_NOTE_147,{Can feel love}
+UI_CREATURE_NOTE_148,{Screams when upset}
+UI_CREATURE_NOTE_149,{Forms colonies}
+UI_CREATURE_NOTE_150,{Hatched from cocoons}
+UI_CREATURE_NOTE_151,{Fragrant}
+UI_CREATURE_NOTE_152,{Particularly oily}
+UI_CREATURE_NOTE_153,{Gets cold easily}
+UI_CREATURE_NOTE_154,{Drinks blood}
+UI_CREATURE_NOTE_155,{Does not age}
+UI_CREATURE_NOTE_156,{Always waiting}
+UI_CREATURE_NOTE_157,{Always watching}
+UI_CREATURE_NOTE_158,{Aware of its fate}
+UI_CREATURE_NOTE_159,{Senses ATLAS}
+UI_CREATURE_NOTE_160,{Limited sentience}
+UI_CREATURE_NOTE_161,{Born on meteors}
+UI_CREATURE_NOTE_162,{Laden with nectar}
+UI_CREATURE_NOTE_163,{Occasionally eats rocks}
+UI_CREATURE_NOTE_164,{Scared of mirrors}
+UI_CREATURE_NOTE_165,{Self-aware}
+UI_CREATURE_NOTE_166,{Eyes regrow after damage}
+UI_CREATURE_NOTE_167,{Superheated stomach}
+UI_CREATURE_NOTE_168,{Three hearts}
+UI_CREATURE_NOTE_169,{Two livers}
+UI_CREATURE_NOTE_170,{Acidic blood}
+UI_CREATURE_NOTE_171,{Respires anaerobically}
+UI_CREATURE_NOTE_172,{Carries symbiotic worms}
+UI_CREATURE_NOTE_173,{Riddled with pests}
+UI_CREATURE_NOTE_174,{Carries babies in pouch}
+UI_CREATURE_NOTE_175,{Promiscuous}
+UI_CREATURE_NOTE_176,{Symmetrical insides}
+UI_CREATURE_NOTE_177,{Occasionally invisible}
+UI_CREATURE_NOTE_178,{Limited mind control}
+UI_CREATURE_NOTE_179,{Buries food supplies}
+UI_CREATURE_NOTE_180,{Cannot sweat}
+UI_CREATURE_NOTE_181,{Weak lungs}
+UI_CREATURE_NOTE_182,{Strong swimmer}
+UI_CREATURE_NOTE_183,{Made of stardust}
+UI_CREATURE_NOTE_184,{Requires dietary iron}
+UI_CREATURE_NOTE_185,{Magnetic teeth}
+UI_CREATURE_NOTE_186,{Retractable eyestalks}
+UI_CREATURE_NOTE_187,{Breathes through mouth}
+UI_CREATURE_NOTE_188,{Smells with tongue}
+UI_CREATURE_NOTE_189,{Cannot drown}
+UI_CREATURE_NOTE_190,{Highly fertile}
+UI_CREATURE_NOTE_191,{Nitrogen-rich blood}
+UI_CREATURE_NOTE_192,{Bioluminescent blood}
+UI_CREATURE_NOTE_193,{Fears the rain}
+UI_CREATURE_NOTE_194,{Echolocation glands}
+UI_CREATURE_NOTE_195,{Possesses language}
+UI_CREATURE_NOTE_196,{Varied phenotype}
+UI_CREATURE_NOTE_197,{Tiny brain}
+UI_CREATURE_NOTE_198,{Cannot digest starch}
+UI_CREATURE_NOTE_199,{Seeks red flowers}
+UI_CREATURE_NOTE_200,{Nests in blue foliage}
+UI_CREATURE_NOTE_201,{Elaborate mating displays}
+UI_CREATURE_NOTE_202,{Brain hemispheres not linked}
+UI_CREATURE_NOTE_203,{Sweats milk for infants}
+UI_CREATURE_NOTE_204,{No stomach}
+UI_CREATURE_NOTE_205,{Double-coned eyes}
+UI_CREATURE_NOTE_206,{Cutaneous respiration}
+UI_CREATURE_NOTE_207,{Barbed feet}
+UI_CREATURE_NOTE_208,{Extremely homozygous}
+UI_CREATURE_NOTE_209,{Extremely heterozygous}
+UI_CREATURE_NOTE_210,{Parasites in brain}
+UI_CREATURE_NOTE_211,{Night vision}
+UI_BEHAVIOUR_LABEL,{Behaviour}
+TEMPERAMENT_PREDATOR1,{Careful hunter}
+TEMPERAMENT_PREDATOR2,{Patient hunter}
+TEMPERAMENT_PREDATOR3,{Cautious}
+TEMPERAMENT_PREDATOR4,{Impulsive}
+TEMPERAMENT_PREDATOR5,{Reckless}
+TEMPERAMENT_PREDATOR6,{Aggressive}
+TEMPERAMENT_PREDATOR7,{Unafraid}
+TEMPERAMENT_PREDATOR8,{Cold-blooded}
+TEMPERAMENT_PREDATOR9,{Does not fear death}
+TEMPERAMENT_PREDATOR10,{Intelligent}
+TEMPERAMENT_PREDATOR11,{Calm}
+TEMPERAMENT_PREDATOR12,{Enjoys the hunt}
+TEMPERAMENT_PREDATOR13,{Bold}
+TEMPERAMENT_PREDATOR14,{Stalks prey for days}
+TEMPERAMENT_PREDATOR15,{Unpredictable}
+TEMPERAMENT_PLAYERPREDATOR1,{Dangerous}
+TEMPERAMENT_PLAYERPREDATOR2,{Wildly aggressive}
+TEMPERAMENT_PLAYERPREDATOR3,{Vicious}
+TEMPERAMENT_PLAYERPREDATOR4,{Cruel}
+TEMPERAMENT_PLAYERPREDATOR5,{Hyperviolent}
+TEMPERAMENT_PLAYERPREDATOR6,{Excited by violence}
+TEMPERAMENT_PLAYERPREDATOR7,{Angry}
+TEMPERAMENT_PLAYERPREDATOR8,{Easily enraged}
+TEMPERAMENT_PLAYERPREDATOR9,{Warlike}
+TEMPERAMENT_PLAYERPREDATOR10,{Apex predator}
+TEMPERAMENT_PREY1,{Watchful}
+TEMPERAMENT_PREY2,{Nervous}
+TEMPERAMENT_PREY3,{Skittish}
+TEMPERAMENT_PREY4,{Timid}
+TEMPERAMENT_PREY5,{Shy}
+TEMPERAMENT_PREY6,{Highly observant}
+TEMPERAMENT_PREY7,{Slow grazer}
+TEMPERAMENT_PREY8,{Tends plants}
+TEMPERAMENT_PREY9,{Seeks company}
+TEMPERAMENT_PREY10,{Wary}
+TEMPERAMENT_PREY11,{Easily startled}
+TEMPERAMENT_PREY12,{Vigilant}
+TEMPERAMENT_PREY13,{Inattentive}
+TEMPERAMENT_PREY14,{Constantly moving}
+TEMPERAMENT_PREY15,{Hasty}
+TEMPERAMENT_PREY16,{Fidgety}
+TEMPERAMENT_PREY17,{Anxious}
+TEMPERAMENT_PASSIVE1,{Long-distance migration}
+TEMPERAMENT_PASSIVE2,{Nomadic}
+TEMPERAMENT_PASSIVE3,{Remembers faces}
+TEMPERAMENT_PASSIVE4,{Submissive}
+TEMPERAMENT_PASSIVE5,{Highly intelligent}
+TEMPERAMENT_PASSIVE6,{Passive}
+TEMPERAMENT_PASSIVE7,{Docile}
+TEMPERAMENT_PASSIVE8,{Unafraid}
+TEMPERAMENT_PASSIVE9,{Wise}
+TEMPERAMENT_PASSIVE10,{Prudent}
+TEMPERAMENT_PASSIVE11,{Far-sighted}
+TEMPERAMENT_PASSIVE12,{Always foraging}
+TEMPERAMENT_PASSIVE13,{Methodical}
+TEMPERAMENT_PASSIVE14,{Friendly}
+TEMPERAMENT_PASSIVE15,{Cheerful}
+TEMPERAMENT_PASSIVE16,{Gentle}
+TEMPERAMENT_PASSIVE17,{Peaceful}
+TEMPERAMENT_BIRD1,{Flighty}
+TEMPERAMENT_BIRD2,{Collects shiny objects}
+TEMPERAMENT_BIRD3,{Builds large nests}
+TEMPERAMENT_BIRD4,{Easily scared}
+TEMPERAMENT_BIRD5,{Migratory}
+TEMPERAMENT_BIRD6,{Highly observant}
+TEMPERAMENT_BIRD7,{Easily startled}
+TEMPERAMENT_BIRD8,{Very cautious}
+TEMPERAMENT_BIRD9,{Sings at dusk}
+TEMPERAMENT_BIRD10,{Wise}
+TEMPERAMENT_BIRD11,{Long-sighted}
+TEMPERAMENT_BIRD12,{Ever-moving}
+TEMPERAMENT_BIRD13,{Cautious}
+TEMPERAMENT_BIRD14,{Intelligent}
+TEMPERAMENT_BIRD15,{Unpredictable}
+TEMPERAMENT_FISH1,{Instinctive}
+TEMPERAMENT_FISH2,{Desperate}
+TEMPERAMENT_FISH3,{Food-seeking}
+TEMPERAMENT_FISH4,{Mate-seeking}
+TEMPERAMENT_FISH5,{Ever-moving}
+TEMPERAMENT_FISH6,{Never sleeps}
+TEMPERAMENT_FISH7,{Melancholy}
+TEMPERAMENT_FISH8,{Lonely}
+TEMPERAMENT_FISH9,{Observant}
+TEMPERAMENT_FISH10,{Easily scared}
+TEMPERAMENT_FISHPREDATOR1,{Smells blood}
+TEMPERAMENT_FISHPREDATOR2,{Silent stalker}
+TEMPERAMENT_FISHPREDATOR3,{Never sleeps}
+TEMPERAMENT_FISHPREDATOR4,{Aggressive}
+TEMPERAMENT_FISHPREDATOR5,{Hostile}
+TEMPERAMENT_BUTTERFLY1,{Transcendent}
+TEMPERAMENT_BUTTERFLY2,{Self-aware}
+TEMPERAMENT_BUTTERFLY3,{Desperate}
+TEMPERAMENT_BUTTERFLY4,{Food-seeking}
+TEMPERAMENT_BUTTERFLY5,{Mate-seeking}
+TEMPERAMENT_BUTTERFLY6,{Flighty}
+TEMPERAMENT_BUTTERFLY7,{Skittish}
+TEMPERAMENT_BUTTERFLY8,{Hungry}
+TEMPERAMENT_BUTTERFLY9,{Afraid}
+TEMPERAMENT_BUTTERFLY10,{Instinctive}
+HERBIVORE1,{Vegetation}
+HERBIVORE2,{Foliage}
+HERBIVORE3,{Small trees}
+HERBIVORE4,{Rotting fruit}
+HERBIVORE5,{Fresh leaves}
+HERBIVORE6,{Plant roots}
+HERBIVORE7,{Digs for tubers}
+HERBIVORE8,{Grass}
+HERBIVORE9,{Foraged nuts}
+HERBIVORE10,{Collects seeds}
+HERBIVORE11,{Nibbles at shoots}
+HERBIVORE12,{Tall grasses}
+HERBIVORE13,{Cave marrow}
+HERBIVORE14,{Mordite roots}
+HERBIVORE15,{Coprite}
+HERBIVORE16,{Mostly rocks}
+HERBIVORE17,{Di-hydrogen crystals}
+HERBIVORE18,{Processes dirt}
+HERBIVORE19,{Oxide elements}
+HERBIVORE20,{Absorbed nutrients}
+HERBIVORE21,{%BIOME_PLANT%}
+HERBIVORE22,{%BIOME_PLANT%}
+HERBIVORE23,{%BIOME_PLANT%}
+HERBIVORE24,{%BIOME_PLANT%}
+HERBIVORE25,{%BIOME_PLANT%}
+HERBIVORE26,{%BIOME_PLANT%}
+HERBIVORE27,{NipNip buds}
+HERBIVORE28,{Gravitino balls}
+HERBIVORE29,{Stinging leaves}
+HERBIVORE30,{Algae}
+HERBIVORE31,{Flowers}
+HERBIVORE32,{Petals}
+HERBIVORE33,{Nectar}
+HERBIVORE34,{Pollen}
+OMNIVORE1,{Scavenged scraps}
+OMNIVORE2,{Insects and grubs}
+OMNIVORE3,{Worms}
+OMNIVORE4,{Anything}
+OMNIVORE5,{Faeces}
+OMNIVORE6,{Birds}
+OMNIVORE7,{Scavenged remains}
+OMNIVORE8,{Partially-digested meat}
+OMNIVORE9,{Eggs}
+OMNIVORE10,{Steals from others}
+OMNIVORE11,{Venom Urchins}
+OMNIVORE12,{Foraged leftovers}
+OMNIVORE13,{Small animals}
+OMNIVORE14,{Old bones}
+OMNIVORE15,{Mordite}
+CARNIVORE1,{Carnivorous}
+CARNIVORE2,{Meat-eater}
+CARNIVORE3,{Hypnotises prey}
+CARNIVORE4,{Crunches bones}
+CARNIVORE5,{Blood-drinker}
+CARNIVORE6,{Liquidised organs}
+CARNIVORE7,{Extracts bone marrow}
+CARNIVORE8,{Organs}
+CARNIVORE9,{Raw meat}
+CARNIVORE10,{Flesh-eater}
+CARNIVORE11,{Hypercarnivore}
+CARNIVORE12,{Brain matter}
+CARNIVORE13,{Sinew}
+CARNIVORE14,{Fresh meat}
+CARNIVORE15,{Corpses}
+CARNIVORE16,{Putrefied meat}
+CARNIVORE17,{Cannibal}
+CARNIVORE18,{Offal}
+CARNIVORE19,{Removed hearts}
+CARNIVORE20,{Small animals}
+CARNIVORE21,{Other carnivores}
+CARNIVORE22,{Large mammals}
+CARNIVORE23,{Flesh chunks}
+CARNIVORE24,{Meat chunks}
+CARNIVORE25,{Coagulated blood}
+CARNIVORE26,{%BIOME_MEAT%}
+CARNIVORE27,{%BIOME_MEAT%}
+CARNIVORE28,{%BIOME_MEAT%}
+FROZEN_MEAT_NAME,{Frozen meat}
+HOT_MEAT_NAME,{Boiled meat}
+RADIO_MEAT_NAME,{Radioactive meat}
+TOXIC_MEAT_NAME,{Toxic meat}
+LUSH_MEAT_NAME,{Rotten meat}
+BARREN_MEAT_NAME,{Preserved meat}
+FOOD_INGREDIENT_SUB,{Raw Ingredient}
+FOOD_COOKED_SUB,{Edible Product}
+FOOD_FISH_VEG_NAME,{FISH EGGS}
+FOOD_FISH_VEG_NAME_L,{Fish Eggs}
+FOOD_FISH_MEAT_NAME,{SALTY FINGERS}
+FOOD_FISH_MEAT_NAME_L,{Salty Fingers}
+FOOD_FLYER_VEG_NAME,{FLYER MILK}
+FOOD_FLYER_VEG_NAME_L,{Flyer Milk}
+FOOD_FLYER_MEAT_NAME,{MEATY WINGS}
+FOOD_FLYER_MEAT_NAME_L,{Meaty Wings}
+FOOD_FIEND_VEG_NAME,{MONSTER EGGS}
+FOOD_FIEND_VEG_NAME_L,{Monster Eggs}
+FOOD_FIEND_MEAT_NAME,{FIENDISH ROE}
+FOOD_FIEND_MEAT_NAME_L,{Fiendish Roe}
+FOOD_BLOB_VEG_NAME,{STICKY HONEY}
+FOOD_BLOB_VEG_NAME_L,{Sticky Honey}
+FOOD_BLOB_MEAT_NAME,{OFFAL SAC}
+FOOD_BLOB_MEAT_NAME_L,{Offal Sac}
+FOOD_GEK_VEG_NAME,{GEKMILK}
+FOOD_GEK_VEG_NAME_L,{GekMilk}
+FOOD_GEK_MEAT_NAME,{PROTOSAUSAGE}
+FOOD_GEK_MEAT_NAME_L,{ProtoSausage}
+FOOD_DIPLO_VEG_NAME,{GIANT EGG}
+FOOD_DIPLO_VEG_NAME_L,{Giant Egg}
+FOOD_DIPLO_MEAT_NAME,{DIPLO CHUNKS}
+FOOD_DIPLO_MEAT_NAME_L,{Diplo Chunks}
+FOOD_REX_VEG_NAME,{REGIS GREASE}
+FOOD_REX_VEG_NAME_L,{Regis Grease}
+FOOD_REX_MEAT_NAME,{SCALY MEAT}
+FOOD_REX_MEAT_NAME_L,{Scaly Meat}
+FOOD_CAT_VEG_NAME,{LEOPARD-FRUIT}
+FOOD_CAT_VEG_NAME_L,{Leopard-Fruit}
+FOOD_CAT_MEAT_NAME,{FELINE LIVER}
+FOOD_CAT_MEAT_NAME_L,{Feline Liver}
+FOOD_STRIDER_VEG_NAME,{TALL EGGS}
+FOOD_STRIDER_VEG_NAME_L,{Tall Eggs}
+FOOD_STRIDER_MEAT_NAME,{STRIDER SAUSAGE}
+FOOD_STRIDER_MEAT_NAME_L,{Strider Sausage}
+FOOD_COW_VEG_NAME,{FRESH MILK}
+FOOD_COW_VEG_NAME_L,{Fresh Milk}
+FOOD_COW_MEAT_NAME,{RAW STEAK}
+FOOD_COW_MEAT_NAME_L,{Raw Steak}
+FOOD_CRAB_VEG_NAME,{CRAB 'APPLE'}
+FOOD_CRAB_VEG_NAME_L,{Crab 'Apple'}
+FOOD_CRAB_MEAT_NAME,{LEG MEAT}
+FOOD_CRAB_MEAT_NAME_L,{Leg Meat}
+FOOD_GENERIC_VEG_NAME,{CREATURE EGG}
+FOOD_GENERIC_VEG_NAME_L,{Creature Egg}
+FOOD_GENERIC_MEAT_NAME,{MEATY CHUNKS}
+FOOD_GENERIC_MEAT_NAME_L,{Meaty Chunks}
+FOOD_GENERIC_MILK_NAME,{WILD MILK}
+FOOD_GENERIC_MILK_NAME_L,{Wild Milk}
+FOOD_PLANT_LUSH_WILD_NAME,{IMPULSE BEANS}
+FOOD_PLANT_LUSH_WILD_NAME_L,{Impulse Beans}
+FOOD_PLANT_LUSH_FARM_NAME,{PILGRIMBERRY}
+FOOD_PLANT_LUSH_FARM_NAME_L,{Pilgrimberry}
+FOOD_PLANT_HOT_WILD_NAME,{FIREBERRY}
+FOOD_PLANT_HOT_WILD_NAME_L,{Fireberry}
+FOOD_PLANT_HOT_FARM_NAME,{SOLARTILLO}
+FOOD_PLANT_HOT_FARM_NAME_L,{Solartillo}
+FOOD_PLANT_COLD_WILD_NAME,{FROZEN TUBERS}
+FOOD_PLANT_COLD_WILD_NAME_L,{Frozen Tubers}
+FOOD_PLANT_COLD_FARM_NAME,{GLASS GRAINS}
+FOOD_PLANT_COLD_FARM_NAME_L,{Glass Grains}
+FOOD_PLANT_TOX_WILD_NAME,{JADE PEAS}
+FOOD_PLANT_TOX_WILD_NAME_L,{Jade Peas}
+FOOD_PLANT_TOX_FARM_NAME,{NON-TOXIC MUSHROOM}
+FOOD_PLANT_TOX_FARM_NAME_L,{Non-Toxic Mushroom}
+FOOD_PLANT_RAD_WILD_NAME,{GRAHBERRY}
+FOOD_PLANT_RAD_WILD_NAME_L,{Grahberry}
+FOOD_PLANT_RAD_FARM_NAME,{SIEVERT BEANS}
+FOOD_PLANT_RAD_FARM_NAME_L,{Sievert Beans}
+FOOD_PLANT_DUST_WILD_NAME,{ALOE FLESH}
+FOOD_PLANT_DUST_WILD_NAME_L,{Aloe Flesh}
+FOOD_PLANT_DUST_FARM_NAME,{CACTUS NECTAR}
+FOOD_PLANT_DUST_FARM_NAME_L,{Cactus Nectar}
+FOOD_PLANT_GLITCH_NAME,{HEXABERRY}
+FOOD_PLANT_GLITCH_NAME_L,{Hexaberry}
+FOOD_PLANET_ALL_1_NAME,{HEPTAPLOID WHEAT}
+FOOD_PLANET_ALL_1_NAME_L,{Heptaploid Wheat}
+FOOD_PLANET_ALL_2_NAME,{SWEETROOT}
+FOOD_PLANET_ALL_2_NAME_L,{Sweetroot}
+FOOD_PLANET_ALL_3_NAME,{PULPY ROOTS}
+FOOD_PLANET_ALL_3_NAME_L,{Pulpy Roots}
+FOOD_PLANT_CAVE_NAME,{MARROW FLESH}
+FOOD_PLANT_CAVE_NAME_L,{Marrow Flesh}
+FOOD_PLANT_WATER_NAME,{KELP RICE}
+FOOD_PLANT_WATER_NAME_L,{Kelp Rice}
+FOOD_PLANT_POOP_NAME,{WILD YEAST}
+FOOD_PLANT_POOP_NAME_L,{Wild Yeast}
+FOOD_PLANT_DEATH_NAME,{MEAT FLAKES}
+FOOD_PLANT_DEATH_NAME_L,{Meat Flakes}
+FOOD_MISC_STELLAR_NAME,{SILICON EGG}
+FOOD_MISC_STELLAR_NAME_L,{Silicon Egg}
+UI_OVEN_NAME,{NUTRIENT PROCESSOR}
+UI_OVEN_NAME_L,{Nutrient Processor}
+UI_OVEN_SUB,{Portable Sustenence Unit}
+UI_OVEN_DESC,"{A portable <TECHNOLOGY>nutrient extractor<>, able to process and refine gathered ingredients into edible food products. User is advised that consumption of generated products is entirely at their own risk.}"
+UI_OVEN_TIP,{Insert ingredients to begin cooking process}
+FOOD_VEG_DESC,"{An animal byproduct, this nutrious morsel can be easily farmed without harm to the animal that produces it. Process in a <TECHNOLOGY>Nutrient Processor<> to generate edible products.}"
+FOOD_MEAT_DESC,"{A nutrious meat product, harvested from the corpse of the creature that once contained it. Process in a <TECHNOLOGY>Nutrient Processor<> to generate edible products.}"
+FOOD_PLANT_DESC,"{An edible plant, harvested from planetary flora. Process in a <TECHNOLOGY>Nutrient Processor<> to generate edible products.}"
+FOOD_REFINED_DESC,"{A refined food product, created in the <TECHNOLOGY>Nutrient Processor<>. Can be consumed as it stands or subjected to further processing.}"
+FOOD_REFINED_DESC_FINAL,"{A highly refined food product, created in the <TECHNOLOGY>Nutrient Processor<>.}"
+FOOD_MEAT_COOKED_NAME,{COOKED MEAT}
+FOOD_MEAT_COOKED_NAME_L,{Cooked Meat}
+FOOD_MEAT_SMOKED_NAME,{SMOKED MEAT}
+FOOD_MEAT_SMOKED_NAME_L,{Smoked Meat}
+FOOD_MEAT_SAUSAGE_NAME,{%NAME% SAUSAGE}
+FOOD_MEAT_SAUSAGE_NAME_L,{%NAME% Sausage}
+FOOD_MEAT_MINCE_NAME,{%NAME% MINCE}
+FOOD_MEAT_MINCE_NAME_L,{%NAME% Mince}
+FOOD_FLOUR_NAME,{REFINED FLOUR}
+FOOD_FLOUR_NAME_L,{Refined Flour}
+FOOD_SUGAR_NAME,{PROCESSED SUGAR}
+FOOD_SUGAR_NAME_L,{Processed Sugar}
+FOOD_HONEY_NAME,{EDIBLE HONEY}
+FOOD_HONEY_NAME_L,{Edible Honey}
+FOOD_STEW_NAME,{%NAME% STEW}
+FOOD_STEW_NAME_L,{%NAME% Stew}
+FOOD_CAKE_NAME,{%NAME% CAKE}
+FOOD_CAKE_NAME_L,{%NAME% Cake}
+FOOD_BREAD_NAME,{%NAME% BREAD}
+FOOD_BREAD_NAME_L,{%NAME% Bread}
+FOOD_PIE_NAME,{%NAME% PIE}
+FOOD_PIE_NAME_L,{%NAME% Pie}
+FOOD_MEAT_PIE_NAME,{MIXED MEAT PIE}
+FOOD_MEAT_PIE_NAME_L,{Mixed Meat Pie}
+FOOD_VEG_PIE_NAME,{VEGETABLE PIE}
+FOOD_VEG_PIE_NAME_L,{Vegetable Pie}
+FOOD_WINE_NAME,{%NAME% WINE}
+FOOD_WINE_NAME_L,{%NAME% Wine}
+FOOD_JUICE_NAME,{%NAME% JUICE}
+FOOD_JUICE_NAME_L,{%NAME% Juice}
+FOOD_BUTTER_NAME,{CHURNED BUTTER}
+FOOD_BUTTER_NAME_L,{Churned Butter}
+FOOD_CHEESE_NAME,{%NAME% CHEESE}
+FOOD_CHEESE_NAME_L,{%NAME% Cheese}
+UI_NAVIGATOR_LABEL,{Navigator}
+UI_NAVIGATOR_TITLE,{Navigator %NAME%}
+INTRCT_NAVIGATOR,{Expedition Navigation}
+NAVIGATOR_SUB,{Plan & dispatch expeditions}
+EXP_NAVIGATOR_LANG_NEW,"{Ah, Traveller-Entity. Korvax is pleased to report exciting navigational research! Korvax has plotted <COMMODITY>new expeditions<> for your fleet!}"
+TRA_NAVIGATOR_LANG_NEW,"{Hello, Captain-Friend! Joyous day for the fleet! I have charted <COMMODITY>new expedition routes!<>}"
+WAR_NAVIGATOR_LANG_NEW,{Grah! Interloper-Captain! There is fresh glory available for the fleet! I have charted <COMMODITY>new expedition routes!<> Prepare for triumph!}
+EXP_NAVIGATOR_LANG_1,"{Korvax has prepared routes for the fleet, Traveller. Which route do you feel is most promising?}"
+TRA_NAVIGATOR_LANG_1,{Captain-Friend! I have been most busy plotting routes for your fleet! Please enjoy them!}
+WAR_NAVIGATOR_LANG_1,"{Grah! I have plotted many routes, interloper! Make your choice!}"
+EXP_NAVIGATOR_LANG_2,{Korvax has calculated all possible expedition routes. The ones I offer you are those with the lowest probability of total destruction.}
+TRA_NAVIGATOR_LANG_2,"{I have charted these most joyous routes for you, Captain-Friend! May they bring many units to your fleet!}"
+WAR_NAVIGATOR_LANG_2,"{All these routes offer glory and triumph for the fleet, Traveller! Grah!}"
+EXP_NAVIGATOR_LANG_3,{Korvax has been busy preparing routes. I have calculated the following hyperspace coordinate paths as both highly profitable and unlikely to confuse weaker navigators.}
+TRA_NAVIGATOR_LANG_3,"{Trade expeditions are the best expeditions, Traveller-Friend. But I hope all routes I chart will bring you happiness.}"
+WAR_NAVIGATOR_LANG_3,"{I have prepared the requisite charts. Are you ready to dispatch the fleet, interloper-Captain? May they bring glory to us all!}"
+EXP_NAVIGATOR_LANG_4,{Korvax has mapped all known stars in this region of space. The following routes have been optimised for successful fleet operations.}
+TRA_NAVIGATOR_LANG_4,"{I have charted routes for you fleet, Captain-Friend! They offer great opportunities, as well as lovely views!}"
+WAR_NAVIGATOR_LANG_4,"{The charts are ready, interloper-Captain! Have you briefed the fleet? Are they ready for battle? Grah!}"
+EXP_NAVIGATOR_LANG_5,"{Korvax has used the knowledge of the Convergence to chart these routes for your fleet, Traveller-Entity. May you find them close to perfection.}"
+TRA_NAVIGATOR_LANG_5,"{Captain-Friend, your Navigator-Friend has been hard at work! I have charted many expeditions for your fleet!}"
+WAR_NAVIGATOR_LANG_5,"{Grah! Behold my work, interloper-Captain! Charts and maps, each route dripping with potential glory!}"
+NPC_NAVIGATOR_OPT_A,{View potential expeditions}
+NPC_NAVIGATOR_OPT_B,{Decline}
+EXP_NAVIGATOR_FIRST_POST_LANG,{Korvax is pleased to calculate routes for the Traveller-Captain. But the fleet requires a  <TECHNOLOGY>Fleet Command Room<> before it can depart.}
+TRA_NAVIGATOR_FIRST_POST_LANG,"{Happy day, Captain-Friend! We will plan many expeditions together! But first, you must build a <TECHNOLOGY>Fleet Command Room<>, so that you may talk to your fleet as they sail!}"
+WAR_NAVIGATOR_FIRST_POST_LANG,{Grah! Interloper-Captain! Our ship lacks a <TECHNOLOGY>Fleet Command Room!<> We cannot possibly dispatch expeditions in this state!}
+EXP_NAVIGATOR_NO_POST_LANG,"{Korvax is pleased to calculate routes for the Traveller-Captain. But all your  <TECHNOLOGY>Fleet Command Rooms<> are busy. You must construct more, or await the return of your fleet.}"
+TRA_NAVIGATOR_NO_POST_LANG,{Captain-Friend! I am excited to share my routes with you! But all of our <TECHNOLOGY>Fleet Command Rooms<> are in use. We must build more if we wish to plan new ventures!}
+WAR_NAVIGATOR_NO_POST_LANG,"{Grah! Interloper-Captain! All of our <TECHNOLOGY>Fleet Command Rooms<> are busy. We cannot possible dispatch expeditions in this state! Construct more, if you wish to expand your command!}"
+ALL_NAVIGATOR_NO_POST_RES,{%NAME% has prepared an expedition for my fleet. But my freighter lacks the <TECHNOLOGY>Fleet Command Room<> I need to maintain communications during the voyage.}
+ALL_FLEET_COMM_POST_OPT,{Speak with Commander}
+ALL_FLEET_COMMAND_POST_TITLE,{Fleet Command Station}
+ALL_FLEET_COMMAND_POST_EMPTY,{No Expedition Assigned. Fleet Command Standing By...}
+ALL_FLEET_COMMAND_POST_LANG,{Fleet Command Online... Calibrating to Fleet Commander %CAPTAIN% of the %FRIGATE_NAME%...}
+ALL_FLEET_COMMAND_POST_DAMAGED,{Fleet Command Online... Frigate Damage Detected Calibrating to Fleet Commander %CAPTAIN% of the %FRIGATE_NAME%...}
+ALL_FLEET_COMMAND_POST_INTERV,{Fleet Command Online...Urgent Message Waiting Calibrating to Fleet Commander %CAPTAIN% of the %FRIGATE_NAME%...}
+ALL_FLEET_COMM_POST_INTERV_OPT,{Speak to Commander}
+ALL_FLEET_COMM_POST_DEBRIEF_OPT,{Debrief Commander}
+ALL_FLEET_COMM_STATUS_OPT,{Inspect Ships}
+ALL_FLEET_STATUS_UPDATE,"{Greetings, %CAP_RACE%. The expedition has covered %EXP_DIST% LYs, and I estimate our plotted route will take a further %EXP_TIME%. All systems nominal.}"
+ALL_FLEET_COMM_FIRST_OPT,{Download Data}
+ALL_FLEET_COMM_FIRST_LANG,{Calibrating Command Post to new Master signature... SUCCESS! Master profile indicates <COMMODITY>1<> support frigate available. Profile indicates no <TECHNOLOGY>Frigate Fuel<> blueprints available... download?}
+FLEET_LOOT_EXPLORE_LANG,"{%CAP_RACE%, our artifact scanner is at full power! On your command, I will target the systems at nearby planet and begin the scan.}"
+FLEET_LOOT_EXPLORE_WAIT_LANG,"{%CAP_RACE%, welcome aboard. I regret to inform you that the artifact scanner is still accumulating energy. I will be happy to deploy it for you as soon as it is ready.}"
+FLEET_LOOT_TRADE_LANG,{Welcome aboard %CAP_RACE%. I am pleased to report local trade scouts have secured favourable deals across the system. The profits await you.}
+FLEET_LOOT_TRADE_WAIT_LANG,"{Welcome, %CAP_RACE%. The scouts are currently deployed on trade missions across the local system. I shall report any profitable news as I have it.}"
+FLEET_LOOT_MINING_LANG,"{%CAP_RACE%, the crew have been busy surveying and processing both planetary deposits and local asteroids. The minerals are yours, should you want them.}"
+FLEET_LOOT_MINING_WAIT_LANG,{Welcome aboard %CAP_RACE%. The planetary mining crew are currently deployed on mission. I hope to receive news of a successful operation very soon.}
+FLEET_LOOT_COMBAT_LANG,"{%CAP_RACE%! Welcome! Our weapon systems are armed, our fighters ready to scramble. We are at your command!}"
+FLEET_LOOT_FUEL_LANG,"{A status report, %CAP_RACE%. The generator units are at optimal load and the supply tanks are full. We have prepared the leftover fuel cells for your own personal use.}"
+FLEET_LOOT_FUEL_WAIT_LANG,"{Fuel generation units are running at maximum efficiency, %CAP_RACE%! The supply tanks will soon be full, ready for deployment to the fleet.}"
+FLEET_LOOT_EXPLORE_OPT_A,{Perform Scan}
+FLEET_LOOT_COLLECT_OPT_A,{Collect Cargo}
+FLEET_LOOT_COLLECT_UNITS_OPT_A,{Collect Units}
+FLEET_LOOT_COMBAT_OPT_A,{Salute}
+ALL_REQUEST_ACCEPT,{Accept}
+ALL_REQUEST_DECLINE,{Decline}
+NPC_FARMER_DAILY_BRIEF_LANG,"{Friend! I am pursuing new hybrid plants! It is such fun. Will you help me birth new life? I require considerable plant samples to graft and to splice, more than I can grow myself.}"
+NPC_FARMER_DAILY_RET_LANG,"{Have you reconsidered, friend? Will you help my grow my little garden?}"
+NPC_FARMER_DAILY_BRIEF_RES,"{Wonderful, Traveller-Friend! Oh, the new plants we'll discover. I can already see them in my mind!}"
+NPC_FARMER_DAILY_WAIT_LANG,"{Can you feel it, Traveller? The pulse of life, beating through the soil!}"
+NPC_FARMER_DAILY_WAIT_OPT_A,{Ask about hybrids}
+NPC_FARMER_DAILY_WAIT_OPT_B,{Ask about soil}
+NPC_FARMER_DAILY_WAIT_RES_A,"{Plants are generous, Traveller-Friend. They do not horde life to themselves, but give it freely to others! They mingle their stems, provide us their fruit, and even in death they nourish the soil.}"
+NPC_FARMER_DAILY_WAIT_RES_B,"{Are you never tempted to push your hands deep into the dirt? If you close your eyes, you can almost imagine the loam consuming you entirely...}"
+NPC_FARMER_DAILY_COMP_LANG,"{Have you gathered the samples, friend? Please say you have!}"
+NPC_FARMER_DAILY_COMP_OPT_A,{Give Sample}
+NPC_FARMER_DAILY_COMP_RES_A,"{Oh, wonderful! I have news for you as well - my latest creation has sprouted! It has produced the most interesting of seeds. Please, take a sample.}"
+NPC_FARMER_DAILY_COMP_RES_B,"{No matter, Traveller. We will continue to grow together for many years to come.}"
+NPC_FARMER_DAILY_DONE_LANG,"{This is more than enough for today, friend! But tomorrow - tomorrow brings new sunlight and new plants to study!}"
+NPC_FARMER_DAILY_DONE_OPT_A,{Ask which plant is best}
+NPC_FARMER_DAILY_DONE_OPT_B,{Leave}
+NPC_FARMER_DAILY_DONE_RES_A,"{%NAME% laughs, amused by the absurdity of my question.}"
+NPC_FARMER_DAILY_DONE_RES_B,"{%NAME% smiles, happy to be here among their plants.}"
+NPC_SCIENTIST_DAILY_LANG_1,"{Traveller, you gather data as you explore, do you not? I find myself hungry for information, for details of the world beyond! My current research requires animal behavioural data. Would you be able to assist?}"
+NPC_SCIENTIST_DAILY_RET_LANG_1,"{Have you gathered the requisite zoological data, Traveller?}"
+NPC_SCIENTIST_DAILY_LANG_2,"{Traveller, you gather data as you explore, do you not? I find myself hungry for information, for details of the world beyond! My current research requires detailed floral studies. Would you be able to assist?}"
+NPC_SCIENTIST_DAILY_RET_LANG_2,"{Have you gathered the requisite botanical data, Traveller?}"
+NPC_SCIENTIST_DAILY_LANG_3,"{Traveller, you gather data as you explore, do you not? I find myself hungry for information, for details of the world beyond! My current research requires fine-grained mineral analysis. Would you be able to assist?}"
+NPC_SCIENTIST_DAILY_RET_LANG_3,"{Have you gathered the requisite geological data, Traveller?}"
+NPC_SCIENTIST_DAILY_LANG_4,"{Traveller, you gather data as you explore, do you not? I find myself hungry for information, for details of the world beyond! My current research requires high-level scans of many different planets. Would you be able to assist?}"
+NPC_SCIENTIST_DAILY_RET_LANG_4,"{Have you gathered the requisite celestial data, Traveller?}"
+NPC_SCIENTIST_DAILY_OPT_A,{Give Data}
+NPC_SCIENTIST_DAILY_OPT_B,{Give Data}
+NPC_SCIENTIST_DAILY_OPT_C,{Give Data}
+NPC_SCIENTIST_DAILY_OPT_D,{Give Data}
+NPC_SCIENTIST_DAILY_RES_A,"{Eheu! Perfect, Traveller! This will greatly aid my research. Please, take these <TECHNOLOGY>Nanites<> as compensation for your work.}"
+NPC_SCIENTIST_DAILY_DONE_LANG,"{Though my needs are met, Traveller, there is still an infinity of wonder out there to discover and harvest! Once I have processed this data, I may find additional tasks for you to help with.}"
+NPC_SCIENTIST_DAILY_DONE_OPT_A,{Ask what they are studying}
+NPC_SCIENTIST_DAILY_DONE_OPT_B,{Leave}
+NPC_SCIENTIST_DAILY_DONE_RES_A,"{My research is highly complex, Traveller. I doubt you would understand. You see, if I input enough of this gathered data into my simulation, then - No, it is not worth explaining. But your interest is noted, with thanks.}"
+UI_SCI_NO_NEW,{No New Discoveries}
+UI_SCI_NEW_PLANTS,{Flora}
+UI_SCI_NEW_PLANETS,{Planets}
+UI_SCI_NEW_CREA,{Creatures}
+UI_SCI_NEW_MIN,{Minerals}
+NPC_OVERSEER_DAILY_BRIEF_LANG,"{Traveller-Friend, you taunt me each time you enter and leave this 'home' of ours. You see the world, and all I see is the world of glass... Grant me some small comfort, Traveller. Collect images of the places you visit, so that my eyes may follow yours.}"
+NPC_OVERSEER_DAILY_RET_LANG,"{I am bound to this place, Traveller-Friend. Grant me the joy of seeing the world through your lens.}"
+NPC_OVERSEER_DAILY_BRIEF_RES,"{I have already taken the liberty of loading the image requirements into your Multi-Tool, Traveller-Friend. Take care...}"
+NPC_OVERSEER_DAILY_WAIT_LANG,"{I will wait out my days here, until I am reborn again. Until we repeat all this, in a world beyond these worlds... As I repeat myself, even now!}"
+NPC_OVERSEER_DAILY_WAIT_OPT_A,{Touch the Overseer gently}
+NPC_OVERSEER_DAILY_WAIT_OPT_B,{Leave the Overseer be}
+NPC_OVERSEER_DAILY_WAIT_RES_A,"{The Gek does not react to my touch, and I do not let it linger.}"
+NPC_OVERSEER_DAILY_WAIT_RES_B,"{Their presence is unnerving, but I feel it better that the Overseer remains here, where I can see them.}"
+NPC_OVERSEER_DAILY_COMP_LANG,"{You have been far afield, Traveller. I can sense it...}"
+NPC_OVERSEER_DAILY_COMP_OPT_A,{Download Photos}
+NPC_OVERSEER_DAILY_COMP_RES_A,"{What a comfort to these eyes of glass, Traveller-Friend! The base is full of joy today! Here, take these crumbs as a token of my appreciation...}"
+NPC_OVERSEER_DAILY_COMP_RES_B,"{You cannot withhold these things from me, Traveller-Friend.}"
+NPC_OVERSEER_DAILY_DONE_LANG,"{I have seen enough for today, Traveller-Friend. One wouldn't want to run out of things to see, after all... Perhaps we shall re-perform this loop tomorrow?}"
+NPC_OVERSEER_DAILY_DONE_OPT_A,{Stare at the Overseer}
+NPC_OVERSEER_DAILY_DONE_OPT_B,{Leave}
+NPC_OVERSEER_DAILY_DONE_RES_A,"{As I stare, I feel a dull crimson ache spread behind my eyes. But I will not look away. Eventually, I blink. The Overseer is still there, still staring back.}"
+NPC_OVERSEER_DAILY_DONE_RES_B,"{I will see you tomorrow, Traveller-Friend.}"
+NPC_EXOTUT_DAILY_BRIEF_LANG,"{Traveller, I have detected another location of interest! Go, that you may hone your control of the Exocraft! Track the signal down before it disappears, so that we may siphon its units!}"
+NPC_EXOTUT_DAILY_RET_LANG,"{You are still interested in my work, Traveller? That is a relief!}"
+NPC_EXOTUT_DAILY_BRIEF_RES,"{Hurry, Traveller! I can only maintain the connection for so long!}"
+NPC_EXOTUT_DAILY_WAIT_LANG,"{Grah! What are you waiting for, Traveller? Do you want my work to go to waste?}"
+NPC_EXOTUT_DAILY_WAIT_OPT_A,{Apologise}
+NPC_EXOTUT_DAILY_WAIT_OPT_B,{Shrug}
+NPC_EXOTUT_DAILY_WAIT_RES_A,{Grah! Do not apologise - run!}
+NPC_EXOTUT_DAILY_WAIT_RES_B,{Grah! But -
+"You are your own master, Traveller. I will not force you to do anything.}",
+NPC_EXOTUT_DAILY_DONE_DESC,"{They spend their days doing this now, tending to the Exocraft and drawing data from interplanetary networks. Sometimes I see them walking out into the planet itself to explore, but such times are rare.  The technician is content with this retirement, engaging in its fugitive activity for the pleasure of the chase, no longer for the necessity of survival. It is a game we can repeat, one last heist after one last heist...}"
+NPC_EXOTUT_DAILY_DONE_LANG,"{There is little activity on the network, Traveller. Perhaps we can try again tomorrow.}"
+NPC_EXOTUT_DAILY_DONE_OPT_A,{Wish them well}
+NPC_EXOTUT_DAILY_DONE_OPT_B,{Leave}
+NPC_EXOTUT_DAILY_DONE_RES_A,"{The technician looks me in the eye. It is faint and far away, but I almost detect a smile.}"
+NPC_EXOTUT_DAILY_DONE_RES_B,"{The technician barely reacts to my departure. As always, it seems there are other things on their mind.}"
+NPC_WEAPGUY_DAILY_MAIN_LANG,"{Grah! Traveller, I have been inspired by your actions to craft a <TECHNOLOGY>Multi-Tool<> of great power! Would it please you to examine it?}"
+NPC_WEAPGUY_DAILY_RET_LANG,"{You wish to examine my <TECHNOLOGY>Multi-Tool<>, Traveller? Very wise! For it is a product of its time, and I will soon begin work on a new model.}"
+NPC_WEAPGUY_DAILY_OPT_A,{Examine Multi-Tool}
+NPC_WEAPGUY_DAILY_OPT_B,{Decline}
+NPC_WEAPGUY_DAILY_RES_A,"{Behold, Traveller!}"
+NPC_WEAPGUY_DAILY_RES_B,"{Very well, Traveller. But my work is fast and my inspiration fleeting - I will soon begin work on a new specimen, and this one will not be lost to history!}"
+NPC_WEAPGUY_DAILY_DONE_LANG,"{Are you enjoying your new Multi-Tool, Traveller? May it flay your enemies, and gather you both glory and riches!}"
+NPC_WEAPGUY_DAILY_DONE_OPT_A,{Praise its power}
+NPC_WEAPGUY_DAILY_DONE_OPT_B,{Praise its finesse}
+NPC_WEAPGUY_DAILY_DONE_RES_A,{Grah! It will incinerate all who oppose you!}
+NPC_WEAPGUY_DAILY_DONE_RES_B,"{Grah! It is a fine tool, engineered with the utmost care!}"
+UI_FARMER_DAILY_TITLE,{Additional Floral Samples}
+UI_FARMER_DAILY_SUB,{Continued Agricultural Research}
+UI_FARMER_DAILY_DESC,"{My farmer continues to find happiness in the soil. They research new crop samples daily, and will share the results with me. They only ask that I keep myself in the botanical mindset through farming efforts of my own.}"
+UI_FARMER_DAILY_OBJ1,{Collect agricultural samples}
+UI_FARMER_DAILY_OBJ1_TIP,"{The farmer seeks a fresh sample from a particular plant. Collect samples from <TRADEABLE>farmed crops<> in your planetary base or freighter, or collect samples directly in the wild."
+Wild samples require visiting specific planet types.},
+UI_FARMER_DAILY_MSG1,{Collect %ITEM%: %CURRENT%/%AMOUNT% Harvest from farmed plants or find samples in the wild
+Wild samples only grow in specific planetary biomes},
+UI_OVERSEER_DAILY_TITLE,{The Overseer's Tour}
+UI_OVERSEER_DAILY_SUB,{Eyes Across the Galaxy}
+UI_OVERSEER_DAILY_DESC,"{The Overseer has requested I use my camera to capture images of various worlds. They tire of the limits imposed by my base, and long for whatever freedom they can find.}"
+UI_OVERSEER_DAILY_OBJ1,{Take a photo for the Overseer.}
+UI_OVERSEER_DAILY_OBJ1_TIP,{The Overseer requires photos of specific worlds. Learn information about planets from space by using the <TECHNOLOGY>Ship Scanner<> (<IMG>SHIPSCAN<>).}
+UI_EXOTUT_DAILY_TITLE,{Hacking Additional Terminals}
+UI_EXOTUT_DAILY_SUB,{Extra Exocraft Excursions}
+UI_EXOTUT_DAILY_DESC,"{The Technician has found a way to unlock more terminals. They will only stay open for a limited time, so I will have to hurry if I hope to collect the items.}"
+UI_D_EXOLOOP_OBJ,{Reach the Terminal}
+UI_D_EXOLOOP_OBJ_TIP,{The Technician has opened a link at a nearby terminal. Retrieve the items before the timer expires.}
+UI_D_EXOLOOP_FAIL,{DATA CONNECTION CLOSED // MISSION FAILED}
+DNT_EXP_FIRST_WORD_LANG,{Korvax! Korvax! Korvax! 16 16 16!}
+DNT_TRA_FIRST_WORD_LANG,{Gek! Gek! Gek! 16 16 16!}
+DNT_WAR_FIRST_WORD_LANG,{Vy'keen! Vy'keen! Vy'keen! 16 16 16!}
+EXP_FIRST_WORD_DESC,"{The stone resonates, producing a sound that fills my mind. A vision begins to take shape... A robotic lifeform turns towards me. Light steams from their metal shell, forming a glowing fog that surrounds us both. They gesture towards me...}"
+TRA_FIRST_WORD_DESC,"{The stone resonates, producing a sound that fills my mind. A vision begins to take shape... A small alien lifeform kneels before me. They are tired, beaten. Without meeting my gaze, they offer up their hand...}"
+WAR_FIRST_WORD_DESC,"{The stone resonates, producing a sound that fills my mind. A vision begins to take shape... I see two large aliens locked in combat. Eventually, one triumphs, leaving their victim to bleed to death. With the last of their strength, the vanquished alien gestures towards me...}"
+ALL_FIRST_WORD_OPT,{Accept Knowledge}
+EXP_FIRST_WORD_NAME,{Wisdom of the Korvax}
+TRA_FIRST_WORD_NAME,{Visions of the Gek}
+WAR_FIRST_WORD_NAME,{Memory of the Vy'keen}
+ALL_FIRST_WORD_NAME,{Universal Language Database}
+ALL_FIRST_WORD_LANG,{TERMINAL ONLINE... Universal Translation Service reached. Lifeform dictionary available.}
+ALL_FIRST_WORD_OPT_TERM,{Learn Word}
+EXP_FIRST_WORD_RES,"{The name <TECHNOLOGY>'Korvax'<> floats in my vision, an echo of the strange vision I just experienced. A word in this alien tongue is seared into my brain. }"
+TRA_FIRST_WORD_RES,"{The name <COMMODITY>'Gek'<> floats in my vision, an echo of the strange vision I just experienced. A word in this alien tongue is seared into my brain. }"
+WAR_FIRST_WORD_RES,"{The name <FUEL>'Vy'keen'<> floats in my vision, an echo of the strange vision I just experienced. A word in this alien tongue is seared into my brain. }"
+NPC_OTHER_EXOTUT,"{The Vy'keen takes a break from their maintenance of the <TECHNOLOGY>Exocraft Terminal<>. They stare at me, as if slightly disturbed by my presence.}"
+NPC_OTHER_OVERSEER,"{The Gek, clearly the <CATALYST>Overseer<> of this base, looks me in the eye in a most disturbing way. It feels like they are trying to tell me something, although I cannot grasp what.}"
+NPC_OTHER_FARMER,"{The Gek looks at me with alarm. They appear to recognise me, though I do not know where from. They quickly return to the comfort of their <TRADEABLE>Farming Terminal<>.}"
+NPC_OTHER_SCIENTIST,"{The Korvax tilts their head as I approach. I feel their visor begin its scan, but whatever data is returned is not to their satisfaction. They return to their business at the <TECHNOLOGY>Science Terminal<> and ignore me.}"
+NPC_OTHER_WEAPGUY,"{The Vy'keen prepares to salute my arrival, but then stops themselves. They look at me, mildly puzzled, before returning to their work at the <FUEL>Weapons Terminal<>.}"
+UP_T_GREN_COMP_1,{Compressor}
+UP_T_GREN_COMP_2,{Launch System}
+UP_T_GREN_COMP_3,{Injector Plugs}
+UP_T_GREN_COMP_4,{Release Mechanism}
+UP_T_GREN_COMP_5,{Gas Expander}
+UP_T_GREN_COMP_6,{Core}
+UP_T_GREN_COMP_7,{Coils}
+UP_T_GREN_COMP_8,{Shell Loader}
+UP_T_GREN_COMP_9,{Heat Pump}
+UP_T_GREN_COMP_10,{Timing Loom}
+UP_T_GREN_COMMON_ADJ_1,{Boosted}
+UP_T_GREN_COMMON_ADJ_2,{Secondary}
+UP_T_GREN_COMMON_ADJ_3,{Tertiary}
+UP_T_GREN_COMMON_ADJ_4,{Efficient}
+UP_T_GREN_COMMON_ADJ_5,{Lubricated}
+UP_T_GREN_RARE_ADJ_1,{Pugneum}
+UP_T_GREN_RARE_ADJ_2,{Unstable}
+UP_T_GREN_RARE_ADJ_3,{Linear}
+UP_T_GREN_RARE_ADJ_4,{Kinetic}
+UP_T_GREN_RARE_ADJ_5,{Polarised}
+UP_T_GREN_EPIC_ADJ_1,{Supercritical}
+UP_T_GREN_EPIC_ADJ_2,{Geometric}
+UP_T_GREN_EPIC_ADJ_3,{Gyroscopic}
+UP_T_GREN_EPIC_ADJ_4,{Nanite}
+UP_T_GREN_EPIC_ADJ_5,{Nonlinear}
+UP_T_GREN_SCLASS_ADJ_1,{M-Field}
+UP_T_GREN_SCLASS_ADJ_2,{Antimatter}
+UP_T_GREN_SCLASS_ADJ_3,{Gravitational}
+UP_T_GREN_SCLASS_ADJ_4,{Nano-Boosted}
+UP_T_GREN_SCLASS_ADJ_5,{Induction}
+UP_UNW_COMP_1,{Air Filter}
+UP_UNW_COMP_2,{Air Harvester}
+UP_UNW_COMP_3,{Breath Recycler}
+UP_UNW_COMP_4,{GILL Unit}
+UP_UNW_COMP_5,{Gas Pressuriser}
+UP_UNW_COMP_6,{Air Circulator}
+UP_UNW_COMP_7,{Lung Replacement}
+UP_UNW_COMP_8,{Gas Pumps}
+UP_UNW_COMP_9,{Rebreather}
+UP_UNW_COMP_10,{Depth Protection Unit}
+UP_UNW_RARE_ADJ_1,{Backup}
+UP_UNW_RARE_ADJ_2,{Secondary}
+UP_UNW_RARE_ADJ_3,{Upgraded}
+UP_UNW_RARE_ADJ_4,{Efficient}
+UP_UNW_RARE_ADJ_5,{Self-Cleaning}
+UP_UNW_EPIC_ADJ_1,{Supercharged}
+UP_UNW_EPIC_ADJ_2,{Extreme}
+UP_UNW_EPIC_ADJ_3,{Saturated}
+UP_UNW_EPIC_ADJ_4,{Organic}
+UP_UNW_EPIC_ADJ_5,{Pressurised}
+UP_UNW_SCLASS_ADJ_1,{Hyperpressure}
+UP_UNW_SCLASS_ADJ_2,{Deep Water}
+UP_UNW_SCLASS_ADJ_3,{Abyssal}
+UP_UNW_SCLASS_ADJ_4,{Microbubble}
+UP_UNW_SCLASS_ADJ_5,{Pure Oxygen}
+UP_TOX_COMP_1,{Toxin Filter}
+UP_TOX_COMP_2,{Gas Scrubber}
+UP_TOX_COMP_3,{De-toxifier}
+UP_TOX_COMP_4,{Biohazard Filter}
+UP_TOX_COMP_5,{Poison Remover}
+UP_TOX_COMP_6,{Exhaust Filter}
+UP_TOX_COMP_7,{Alkaloid Neutraliser}
+UP_TOX_COMP_8,{Microfilters}
+UP_TOX_COMP_9,{Air Purifier}
+UP_TOX_COMP_10,{pH Balancer}
+UP_TOX_RARE_ADJ_1,{Upgraded}
+UP_TOX_RARE_ADJ_2,{Efficient}
+UP_TOX_RARE_ADJ_3,{Overhauled}
+UP_TOX_RARE_ADJ_4,{Specialist}
+UP_TOX_RARE_ADJ_5,{Retrofitted}
+UP_TOX_EPIC_ADJ_1,{Microbial}
+UP_TOX_EPIC_ADJ_2,{Biological}
+UP_TOX_EPIC_ADJ_3,{Bacterial}
+UP_TOX_EPIC_ADJ_4,{Carbon}
+UP_TOX_EPIC_ADJ_5,{Fungal}
+UP_TOX_SCLASS_ADJ_1,{Ionising}
+UP_TOX_SCLASS_ADJ_2,{Vermiform}
+UP_TOX_SCLASS_ADJ_3,{Gigawatt}
+UP_TOX_SCLASS_ADJ_4,{Irradiating}
+UP_TOX_SCLASS_ADJ_5,{Vacuum}
+UP_RAD_COMP_1,{Radiation Shield}
+UP_RAD_COMP_2,{Bio-Integrity Unit}
+UP_RAD_COMP_3,{DNA Repair System}
+UP_RAD_COMP_4,{Neutron Sink}
+UP_RAD_COMP_5,{Sievert Barrier}
+UP_RAD_COMP_6,{Ion Shield}
+UP_RAD_COMP_7,{Dose Modulator}
+UP_RAD_COMP_8,{Alpha Barrier}
+UP_RAD_COMP_9,{Gamma Shield}
+UP_RAD_COMP_10,{Deionizer}
+UP_RAD_RARE_ADJ_1,{Lead-Based}
+UP_RAD_RARE_ADJ_2,{Effective}
+UP_RAD_RARE_ADJ_3,{Efficient}
+UP_RAD_RARE_ADJ_4,{Upgraded}
+UP_RAD_RARE_ADJ_5,{Particulate}
+UP_RAD_EPIC_ADJ_1,{Barium}
+UP_RAD_EPIC_ADJ_2,{Positron}
+UP_RAD_EPIC_ADJ_3,{Polarised}
+UP_RAD_EPIC_ADJ_4,{Tantalum}
+UP_RAD_EPIC_ADJ_5,{Boron}
+UP_RAD_SCLASS_ADJ_1,{High-Energy}
+UP_RAD_SCLASS_ADJ_2,{Non-Linear}
+UP_RAD_SCLASS_ADJ_3,{Graded-Z}
+UP_RAD_SCLASS_ADJ_4,{Electromagnetic}
+UP_RAD_SCLASS_ADJ_5,{Quantum}
+UP_COLDPROT_COMP_1,{Heat Generator}
+UP_COLDPROT_COMP_2,{Insulation}
+UP_COLDPROT_COMP_3,{Radiator Unit}
+UP_COLDPROT_COMP_4,{Boiler System}
+UP_COLDPROT_COMP_5,{Convection Unit}
+UP_COLDPROT_COMP_6,{Thermal Harvester}
+UP_COLDPROT_COMP_7,{Heat Distributor}
+UP_COLDPROT_COMP_8,{Ice Shield}
+UP_COLDPROT_COMP_9,{Thermal Stabiliser}
+UP_COLDPROT_COMP_10,{Hiemal Protection}
+UP_COLDPROT_RARE_ADJ_1,{Active}
+UP_COLDPROT_RARE_ADJ_2,{Efficient}
+UP_COLDPROT_RARE_ADJ_3,{Frostproof}
+UP_COLDPROT_RARE_ADJ_4,{Upgraded}
+UP_COLDPROT_RARE_ADJ_5,{Supercharged}
+UP_COLDPROT_EPIC_ADJ_1,{Sub-Zero}
+UP_COLDPROT_EPIC_ADJ_2,{Nitrogen-Based}
+UP_COLDPROT_EPIC_ADJ_3,{Organic}
+UP_COLDPROT_EPIC_ADJ_4,{Kinetic}
+UP_COLDPROT_EPIC_ADJ_5,{Biological}
+UP_COLDPROT_SCLASS_ADJ_1,{Liquid-Phase}
+UP_COLDPROT_SCLASS_ADJ_2,{Solvent-Fueled}
+UP_COLDPROT_SCLASS_ADJ_3,{Unfreezable}
+UP_COLDPROT_SCLASS_ADJ_4,{Cryostatic}
+UP_COLDPROT_SCLASS_ADJ_5,{Energy Field}
+UP_HOTPROT_COMP_1,{Heat Sink}
+UP_HOTPROT_COMP_2,{Thermoregulator}
+UP_HOTPROT_COMP_3,{Thermal Barrier}
+UP_HOTPROT_COMP_4,{Heliostat}
+UP_HOTPROT_COMP_5,{Flame Cycler}
+UP_HOTPROT_COMP_6,{Atmosphere Regulator}
+UP_HOTPROT_COMP_7,{Sublimation Pump}
+UP_HOTPROT_COMP_8,{Infrared Deflector}
+UP_HOTPROT_COMP_9,{Solar Regulator}
+UP_HOTPROT_COMP_10,{Thermal Pump}
+UP_HOTPROT_RARE_ADJ_1,{Passive}
+UP_HOTPROT_RARE_ADJ_2,{Ceramic}
+UP_HOTPROT_RARE_ADJ_3,{Stablised}
+UP_HOTPROT_RARE_ADJ_4,{Efficient}
+UP_HOTPROT_RARE_ADJ_5,{Improved}
+UP_HOTPROT_EPIC_ADJ_1,{Composite}
+UP_HOTPROT_EPIC_ADJ_2,{Gold-Plated}
+UP_HOTPROT_EPIC_ADJ_3,{Gas-Cooled}
+UP_HOTPROT_EPIC_ADJ_4,{Graphite}
+UP_HOTPROT_EPIC_ADJ_5,{Powerful}
+UP_HOTPROT_SCLASS_ADJ_1,{Carbon-Carbon}
+UP_HOTPROT_SCLASS_ADJ_2,{Ablative}
+UP_HOTPROT_SCLASS_ADJ_3,{Infrared}
+UP_HOTPROT_SCLASS_ADJ_4,{Negative Energy}
+UP_HOTPROT_SCLASS_ADJ_5,{Carbon-Bonded}
+UP_SHIPBLOB_COMP_1,{Amplifier}
+UP_SHIPBLOB_COMP_2,{Splitter}
+UP_SHIPBLOB_COMP_3,{Oscillator}
+UP_SHIPBLOB_COMP_4,{Resonator}
+UP_SHIPBLOB_COMP_5,{Accelerator}
+UP_SHIPBLOB_COMP_6,{Polariser}
+UP_SHIPBLOB_COMP_7,{Filament}
+UP_SHIPBLOB_COMP_8,{Refractor}
+UP_SHIPBLOB_COMP_9,{Mirror}
+UP_SHIPBLOB_COMP_10,{De-limiter}
+UP_SHIPBLOB_COMMON_ADJ_1,{Retuned}
+UP_SHIPBLOB_COMMON_ADJ_2,{Laser}
+UP_SHIPBLOB_COMMON_ADJ_3,{Fibre Optic}
+UP_SHIPBLOB_COMMON_ADJ_4,{Polished}
+UP_SHIPBLOB_COMMON_ADJ_5,{Ionised}
+UP_SHIPBLOB_RARE_ADJ_1,{Cadmium}
+UP_SHIPBLOB_RARE_ADJ_2,{Evaporative}
+UP_SHIPBLOB_RARE_ADJ_3,{Photonic}
+UP_SHIPBLOB_RARE_ADJ_4,{Infrared}
+UP_SHIPBLOB_RARE_ADJ_5,{Ultraviolet}
+UP_SHIPBLOB_EPIC_ADJ_1,{Emeril}
+UP_SHIPBLOB_EPIC_ADJ_2,{Indium}
+UP_SHIPBLOB_EPIC_ADJ_3,{Positron}
+UP_SHIPBLOB_EPIC_ADJ_4,{Chrono}
+UP_SHIPBLOB_EPIC_ADJ_5,{UHF}
+UP_SHIPBLOB_SCLASS_ADJ_1,{Chromatic}
+UP_SHIPBLOB_SCLASS_ADJ_2,{Free Electron}
+UP_SHIPBLOB_SCLASS_ADJ_3,{Continuous Wave}
+UP_SHIPBLOB_SCLASS_ADJ_4,{Gamma Ray}
+UP_SHIPBLOB_SCLASS_ADJ_5,{Asymmetric}
+UP_SHIPMINI_COMP_1,{Amplifier}
+UP_SHIPMINI_COMP_2,{Splitter}
+UP_SHIPMINI_COMP_3,{Oscillator}
+UP_SHIPMINI_COMP_4,{Resonator}
+UP_SHIPMINI_COMP_5,{Accelerator}
+UP_SHIPMINI_COMP_6,{Polariser}
+UP_SHIPMINI_COMP_7,{Filament}
+UP_SHIPMINI_COMP_8,{Refractor}
+UP_SHIPMINI_COMP_9,{Mirror}
+UP_SHIPMINI_COMP_10,{De-limiter}
+UP_SHIPMINI_COMMON_ADJ_1,{Retuned}
+UP_SHIPMINI_COMMON_ADJ_2,{Laser}
+UP_SHIPMINI_COMMON_ADJ_3,{Fibre Optic}
+UP_SHIPMINI_COMMON_ADJ_4,{Polished}
+UP_SHIPMINI_COMMON_ADJ_5,{Ionised}
+UP_SHIPMINI_RARE_ADJ_1,{Cadmium}
+UP_SHIPMINI_RARE_ADJ_2,{Evaporative}
+UP_SHIPMINI_RARE_ADJ_3,{Photonic}
+UP_SHIPMINI_RARE_ADJ_4,{Infrared}
+UP_SHIPMINI_RARE_ADJ_5,{Ultraviolet}
+UP_SHIPMINI_EPIC_ADJ_1,{Emeril}
+UP_SHIPMINI_EPIC_ADJ_2,{Indium}
+UP_SHIPMINI_EPIC_ADJ_3,{Positron}
+UP_SHIPMINI_EPIC_ADJ_4,{Chrono}
+UP_SHIPMINI_EPIC_ADJ_5,{UHF}
+UP_SHIPMINI_SCLASS_ADJ_1,{Chromatic}
+UP_SHIPMINI_SCLASS_ADJ_2,{Free Electron}
+UP_SHIPMINI_SCLASS_ADJ_3,{Continuous Wave}
+UP_SHIPMINI_SCLASS_ADJ_4,{Gamma Ray}
+UP_SHIPMINI_SCLASS_ADJ_5,{Asymmetric}
+UP_SHIPSHOT_COMP_1,{Amplifier}
+UP_SHIPSHOT_COMP_2,{Splitter}
+UP_SHIPSHOT_COMP_3,{Oscillator}
+UP_SHIPSHOT_COMP_4,{Resonator}
+UP_SHIPSHOT_COMP_5,{Accelerator}
+UP_SHIPSHOT_COMP_6,{Polariser}
+UP_SHIPSHOT_COMP_7,{Filament}
+UP_SHIPSHOT_COMP_8,{Refractor}
+UP_SHIPSHOT_COMP_9,{Mirror}
+UP_SHIPSHOT_COMP_10,{De-limiter}
+UP_SHIPSHOT_COMMON_ADJ_1,{Retuned}
+UP_SHIPSHOT_COMMON_ADJ_2,{Laser}
+UP_SHIPSHOT_COMMON_ADJ_3,{Fibre Optic}
+UP_SHIPSHOT_COMMON_ADJ_4,{Polished}
+UP_SHIPSHOT_COMMON_ADJ_5,{Ionised}
+UP_SHIPSHOT_RARE_ADJ_1,{Cadmium}
+UP_SHIPSHOT_RARE_ADJ_2,{Evaporative}
+UP_SHIPSHOT_RARE_ADJ_3,{Photonic}
+UP_SHIPSHOT_RARE_ADJ_4,{Infrared}
+UP_SHIPSHOT_RARE_ADJ_5,{Ultraviolet}
+UP_SHIPSHOT_EPIC_ADJ_1,{Emeril}
+UP_SHIPSHOT_EPIC_ADJ_2,{Indium}
+UP_SHIPSHOT_EPIC_ADJ_3,{Positron}
+UP_SHIPSHOT_EPIC_ADJ_4,{Chrono}
+UP_SHIPSHOT_EPIC_ADJ_5,{UHF}
+UP_SHIPSHOT_SCLASS_ADJ_1,{Chromatic}
+UP_SHIPSHOT_SCLASS_ADJ_2,{Free Electron}
+UP_SHIPSHOT_SCLASS_ADJ_3,{Continuous Wave}
+UP_SHIPSHOT_SCLASS_ADJ_4,{Gamma Ray}
+UP_SHIPSHOT_SCLASS_ADJ_5,{Asymmetric}
+UP_SHIPLAS_COMP_1,{Beam Amplifier}
+UP_SHIPLAS_COMP_2,{Beam Capacitor}
+UP_SHIPLAS_COMP_3,{Lens Optics}
+UP_SHIPLAS_COMP_4,{Emission Chamber}
+UP_SHIPLAS_COMP_5,{Photon Mirror}
+UP_SHIPLAS_COMP_6,{Cooling System}
+UP_SHIPLAS_COMP_7,{Diode Battery}
+UP_SHIPLAS_COMP_8,{Light Filter}
+UP_SHIPLAS_COMP_9,{Reflector Glass}
+UP_SHIPLAS_COMP_10,{Output Coupler}
+UP_SHIPLAS_COMMON_ADJ_1,{Retuned}
+UP_SHIPLAS_COMMON_ADJ_2,{Enhanced}
+UP_SHIPLAS_COMMON_ADJ_3,{Boosted}
+UP_SHIPLAS_COMMON_ADJ_4,{Efficient}
+UP_SHIPLAS_COMMON_ADJ_5,{Additional}
+UP_SHIPLAS_RARE_ADJ_1,{Advanced}
+UP_SHIPLAS_RARE_ADJ_2,{Fine-Tuned}
+UP_SHIPLAS_RARE_ADJ_3,{Overloaded}
+UP_SHIPLAS_RARE_ADJ_4,{Liquid}
+UP_SHIPLAS_RARE_ADJ_5,{Oscillating}
+UP_SHIPLAS_EPIC_ADJ_1,{Supercharged}
+UP_SHIPLAS_EPIC_ADJ_2,{Powerful}
+UP_SHIPLAS_EPIC_ADJ_3,{High-Energy}
