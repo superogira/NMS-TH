@@ -1,0 +1,1001 @@
+location,source
+FLEET_COMBAT_SPECIAL_OPT_B_12,{Tell them to end the pursuit}
+FLEET_COMBAT_SPECIAL_RES_A_12,"{I tell the fleet commander to continue the hunt. They may be hungry, but how will the crew feel if they give up and their efforts were for nothing?}"
+FLEET_COMBAT_SPECIAL_RES_B_12,{I tell the fleet commander to end their chase. There will be other bounties. The health and loyalty of the crew is more important than any prize.}
+FLEET_COMBAT_SPECIAL_LOG_A_12,"{Stalked a pirate across the %SYSTEM% Sector. Forced to stay in low-heat signature mode to avoid detection. Despite difficult conditions, crew performed admirably. Hostiles destroyed.}"
+FLEET_COMBAT_SPECIAL_LOG_B_12,"{Stalked a pirate across the %SYSTEM% Sector. Forced to stay in low-heat signature mode to avoid detection. Conditions became difficult, and the crew made several sloppy mistakes. Fugitive able to escape.}"
+FLEET_COMBAT_SPECIAL_LOG_C_12,"{Stalked a pirate across the %SYSTEM% Sector. Forced to stay in low-heat signature mode to avoid detection. On advice of the %CAP_RACE%, ended the chase when conditions became too difficult for the crew to operate safely.}"
+FLEET_COMBAT_SPECIAL_13,"{%CAP_RACE%, the expedition requires your advice! We are pursuing a bounty, and believe we have found our target. A vicious pirate, they have disguised themselves as a trader and are flying in formation with a merchant convoy. We are almost certain we have identified the correct ship. Shall we attack?}"
+FLEET_COMBAT_SPECIAL_OPT_A_13,{Give the order to attack}
+FLEET_COMBAT_SPECIAL_OPT_B_13,{Give the order to withdraw}
+FLEET_COMBAT_SPECIAL_RES_A_13,{I give the fleet commander the order to attack. I trust their judgement.}
+FLEET_COMBAT_SPECIAL_RES_B_13,{I tell the fleet commander to stay their attack. The consequences of destroying a civilian freighter would be dire indeed.}
+FLEET_COMBAT_SPECIAL_LOG_A_13,"{Hunted pirates in the %SYSTEM% System. On advice of the %CAP_RACE%, picked off a notorious fugitive disguised as a merchant. Operation successful.}"
+FLEET_COMBAT_SPECIAL_LOG_B_13,"{On advice of the %CAP_RACE%, attacked a suspected pirate disguised as a merchant vessel. Ship was misidentified. Local authorities responded to this attack on an innocent trader. Heavy damage taken.}"
+FLEET_COMBAT_SPECIAL_LOG_C_13,"{Hunted pirates in the %SYSTEM% System. Made partial identification of notorious fugitive disguised as merchant. On advice of the %CAP_RACE%, avoided a confrontation.}"
+FLEET_COMBAT_SPECIAL_14,"{%CAP_RACE%, we require urgent advice! We have received a communication from a heavily-armed freighter group. But the signal is distorted, and we cannot make out their intentions. What shall we do? Engage peacefully? Or arm the weapons?}"
+FLEET_COMBAT_SPECIAL_OPT_A_14,{Communicate peacefully}
+FLEET_COMBAT_SPECIAL_OPT_B_14,{Arm weapons and attack}
+FLEET_COMBAT_SPECIAL_RES_A_14,"{I tell the commander to continue to hail the freighter, maintaining a peaceful stance.}"
+FLEET_COMBAT_SPECIAL_RES_B_14,{I tell the commander to launch a preemptive attack. They cannot risk the safety of the expedition.}
+FLEET_COMBAT_SPECIAL_LOG_A_14,"{Encountered another expedition in the %SYSTEM% Sector. On advice of the %CAP_RACE%, approached cautiously, hailing messages of peace. Other vessels were friendly. Valuable gifts exchanged.}"
+FLEET_COMBAT_SPECIAL_LOG_B_14,"{Encountered another expedition in the %SYSTEM% Sector. On advice of the %CAP_RACE%, approached cautiously, hailing messages of peace. Other vessels opened fire. Significant damage taken.}"
+FLEET_COMBAT_SPECIAL_LOG_C_14,"{Encountered another expedition in the %SYSTEM% Sector. Unable to determine their intentions. On advice of the %CAP_RACE%, deployed orbital weapons in all-out attack. All ships destroyed.}"
+FLEET_COMBAT_SPECIAL_15,"{%CAP_RACE%, we need your advice! We have been approached by strange, organic-looking starships. They do not answer our hails. The crew are worried, and we have primed our weapons. How should we respond?}"
+FLEET_COMBAT_SPECIAL_OPT_A_15,{Communicate peacefully}
+FLEET_COMBAT_SPECIAL_OPT_B_15,{Attack before it's too late}
+FLEET_COMBAT_SPECIAL_RES_A_15,{I tell the fleet commander not to risk an attack. Treat the starships as if they were envoys of the local system authorities.}
+FLEET_COMBAT_SPECIAL_RES_B_15,{I tell the fleet commander not to risk the fleet. Raise shields and began the attack!}
+FLEET_COMBAT_SPECIAL_LOG_A_15,"{Encountered alien-looking starships in the %SYSTEM% Sector. On advice of the %CAP_RACE%, sent messages on peace. Received strange signal in return. Signal translated into valuable technology data.}"
+FLEET_COMBAT_SPECIAL_LOG_B_15,"{Encountered alien-looking starships in the %SYSTEM% Sector. On advice of the %CAP_RACE%, sent messages on peace. Vessels responded with high-energy weapons. Heavy damage taken.}"
+FLEET_COMBAT_SPECIAL_LOG_C_15,"{Encountered alien-looking starships in the %SYSTEM% Sector. On advice of the %CAP_RACE%, armed weapons and attacked. Alien starships warped out instantaneously.}"
+FLEET_MINING_SPECIAL_1,"{%CAP_RACE%! We require your advice! Subsurface sonar reports a particularly large mineral deposit not far beneath the ground. However, analysis also suggests the earth is highly unstable. Ground mining crew are standing by. Should we begin drilling?}"
+FLEET_MINING_SPECIAL_OPT_A_1,{Say yes}
+FLEET_MINING_SPECIAL_OPT_B_1,{Say no}
+FLEET_MINING_SPECIAL_RES_A_1,"{I give the fleet commander the go-ahead. What is the purpose of these expeditions, if not to explore the earth and gain its treasure?}"
+FLEET_MINING_SPECIAL_RES_B_1,{I tell the fleet commander not to take the risk. There are plenty of accessible minerals without having to venture into unstable caves.}
+FLEET_MINING_SPECIAL_LOG_A_1,{Found high-value mineral deposits in geologically unstable area. Began mining after taking advice from the %CAP_RACE%. Crew probed and avoided potential fault-lines. Operation successful.}
+FLEET_MINING_SPECIAL_LOG_B_1,{Found high-value mineral deposits in geologically unstable area. Took advice from the %CAP_RACE%and avoided drilling in dangerous terrain.}
+FLEET_MINING_SPECIAL_LOG_C_1,"{Found high-value mineral deposits in geologically unstable area. Began mining after taking advice from the %CAP_RACE%. Crew hit fault-lines while drilling, cave collapsed. Ground crew lost, along with valuable equipment.}"
+FLEET_MINING_SPECIAL_2,"{%CAP_RACE%, the expedition requires urgent assistance! Our mining operations attracted the attention of the Sentinels! We have evacuated the ground crew, but Sentinel starships have pursued the fleet into space. Please, help us!}"
+FLEET_MINING_SPECIAL_3,"{%CAP_RACE%, the fleet requires your help! We were harvesting far-orbit asteroids when were attacked by Sentinels! We are attempting to hold them off, but their attacks are relentless! Please, we require immediate rescue!}"
+FLEET_MINING_SPECIAL_4,"{%CAP_RACE%, disaster has struck the fleet! We mined too deep, stole too many precious minerals! The Sentinels have come for us, and we are surely doomed... unless... you are able to save us?}"
+FLEET_MINING_SPECIAL_OPT_A_2,{Agree to help}
+FLEET_MINING_SPECIAL_OPT_B_2,{Tell them to flee}
+FLEET_MINING_SPECIAL_RES_A_2,{I reassure the fleet commander. I will be there soon.}
+FLEET_MINING_SPECIAL_RES_B_2,{I tell the fleet commander I cannot help them. They must warp away as soon as possible.}
+FLEET_MINING_SPECIAL_LOG_A_2,{Attacked by Sentinel forces after extensive mining in the %SYSTEM% Sector. %CAP_RACE% came to our defense. Fleet escaped with all cargo.}
+FLEET_MINING_SPECIAL_LOG_B_2,"{Attacked by Sentinel forces after extensive mining in the %SYSTEM% Sector. %CAP_RACE% unable to defend the fleet. Cargo pods destroyed, heavy damage taken.}"
+FLEET_MINING_SPECIAL_LOG_C_2,{Attacked by Sentinel forces after extensive mining in the %SYSTEM% Sector. Jettisoned collected minerals to lose weight. Made quick warp out of the system.}
+FLEET_MINING_SPECIAL_5,{%CAP_RACE%. I hope this message finds you well. The fleet has arrived at a highly-lucrative mineral field in the %SYSTEM% Sector. We face a choice: to mine at the surface and battle the elements; or to drill into the earth and take our chances in the deep underground.}
+FLEET_MINING_SPECIAL_OPT_A_5,{Mine the surface}
+FLEET_MINING_SPECIAL_OPT_B_5,{Drill deep}
+FLEET_MINING_SPECIAL_RES_A_5,"{Understood, %CAP_RACE%. I shall see to it that the miners are well-protected.}"
+FLEET_MINING_SPECIAL_RES_B_5,"{Very well, %CAP_RACE%. We will prepare the drilling rig immediately.}"
+FLEET_MINING_SPECIAL_LOG_A_5,{Began mining in the %SYSTEM% System. The %CAP_RACE% advised surface-based operations. Environmental shielding deployed to great effect. Operation successful.}
+FLEET_MINING_SPECIAL_LOG_B_5,"{Began mining in the %SYSTEM% System. The %CAP_RACE% advised surface-based operations. Hazardous environmental conditions overwhelmed the crew, dissolving their equipment. Operation aborted.}"
+FLEET_MINING_SPECIAL_LOG_C_5,"{Began mining in the %SYSTEM% System. The %CAP_RACE% advised deep-level mining. Specialist crew deployed, rich mineral seams discovered. Operation successful.}"
+FLEET_MINING_SPECIAL_LOG_D_5,"{Began mining in the %SYSTEM% System. The %CAP_RACE% advised deep-level mining. Planet stability compromised. Tunnel collapse caused catastrophic loss of equipment, some crew.}"
+FLEET_MINING_SPECIAL_6,"{%CAP_RACE%, greetings from the %SYSTEM% Sector. We have found a particularly rich asteroid field, each rock a feast of precious metal! But the field is crowded with starships. We risk upsetting the %RACE% miners already at work. What should we do?}"
+FLEET_MINING_SPECIAL_OPT_A_6,{Begin mining}
+FLEET_MINING_SPECIAL_OPT_B_6,{Move on}
+FLEET_MINING_SPECIAL_RES_A_6,{I tell them to go for it. Hope they'll be ok.}
+FLEET_MINING_SPECIAL_RES_B_6,{I tell the fleet commander not to upset local miners. There will be other mineral fields.}
+FLEET_MINING_SPECIAL_LOG_A_6,"{Arrived in a busy mineral field in the outer %SYSTEM% Sector. Began operations on advice of the %CAP_RACE%. Despite some protests by local miners, gathered and processed substantial volume of valuable metal.}"
+FLEET_MINING_SPECIAL_LOG_B_6,{Arrived in a busy mineral field in the outer %SYSTEM% Sector. Began operations on advice of the %CAP_RACE%. Local miners objected to the intrusion and deployed weapons. Retreated.}
+FLEET_MINING_SPECIAL_LOG_C_6,"{Arrived in a busy mineral field in the outer %SYSTEM% Sector. On advice of the %CAP_RACE%, left local miners in peace. Began search for alternative sites.}"
+FLEET_MINING_SPECIAL_7,"{%CAP_RACE%, our salvage crews have made a very special discovery. They have located an extremely rare starship, abandoned and empty on the planet's surface. Join us in the %SYSTEM% System at once, and claim it for yourself!}"
+FLEET_MINING_SPECIAL_8,"{%CAP_RACE%, greetings from your fleet! We have reached the %SYSTEM% Sector. Our salvage recovery drones have spotted an abandoned starship of particular interest. A rare model, it deserves more than the scrapheap. Come claim it for yourself, %CAP_RACE%!}"
+FLEET_MINING_SPECIAL_9,"{%CAP_RACE%. The expedition proceeds smoothly. Here in the %SYSTEM% System, among the metal mines and processing plants of the %RACE%, our salvage team have made a special discovery. A rare starship, abandoned and empty! Come, join us and claim it!}"
+FLEET_MINING_SPECIAL_OPT_A_7,{Accept the ship}
+FLEET_MINING_SPECIAL_OPT_B_7,{Decline the ship}
+FLEET_MINING_SPECIAL_RES_A_7,"{Very well, %CAP_RACE%. I shall send you the coordinates immediately.}"
+FLEET_MINING_SPECIAL_RES_B_7,"{I thank the commander for their thoughtfulness. However, I already have all the starships I need.}"
+FLEET_MINING_SPECIAL_LOG_A_7,{Located an exotic starship in the %SYSTEM% System. Pinpointed the location so the %CAP_RACE% could collect it.}
+FLEET_MINING_SPECIAL_LOG_B_7,"{Located an exotic starship in the %SYSTEM% System. %CAP_RACE% did not need it, so deployed salvage crews to recover and recycle the vessel.}"
+FLEET_MINING_SPECIAL_10,"{%CAP_RACE%, the expedition goes well, but we require your assistance. Our geologists require your assistance! The mining team have collected several rare ores, but we are struggling to analyse them. Perhaps if you were able to find some comparative data?}"
+FLEET_MINING_SPECIAL_11,"{Greetings, %CAP_RACE%. Our geology team has requested your assistance. They are busy analysing a fresh sample, but require a larger data set to work from. They respectfully request you assist them by acquiring detailed mineral scans.}"
+FLEET_MINING_SPECIAL_OPT_A_10,{Agree to help}
+FLEET_MINING_SPECIAL_OPT_B_10,{Tell them to the buy data}
+FLEET_MINING_SPECIAL_RES_A_10,"{Thank you, %CAP_RACE%. We look forward to receiving the data.}"
+FLEET_MINING_SPECIAL_RES_B_10,{I instruct the fleet commander to purchase data locally. The local Explorers Guild will be able to help.}
+FLEET_MINING_SPECIAL_LOG_A_10,{Discovered novel mineral type in the %SYSTEM% System. %CAP_RACE% assisted with research. Minerals proved highly valuable.}
+FLEET_MINING_SPECIAL_LOG_B_10,"{Discovered novel mineral type in the %SYSTEM% System. %CAP_RACE% advised local Explorers Guild may assist with research. Found willing researcher, minerals proved highly valuable.}"
+FLEET_MINING_SPECIAL_LOG_C_10,"{Discovered novel mineral type in the %SYSTEM% System. %CAP_RACE% advised local Explorers Guild may assist with research. Minerals proved valuable, but Guild payments were steep. Little profit made.}"
+FLEET_MINING_SPECIAL_12,"{Greetings, %CAP_RACE%. We have made excellent progress, and are now in the %SYSTEM% System, an area of %RACE%-controlled space. The minerals here are rich and plentiful. That is not the subject at hand, however. We have encountered a strange energy disturbance, which analysis suggests is a wormhole. If you desire, we could calibrate it to your signal, pulling you to our location instantly.}"
+FLEET_MINING_SPECIAL_OPT_A_12,{Accept}
+FLEET_MINING_SPECIAL_OPT_B_12,{Decline}
+FLEET_MINING_SPECIAL_RES_A_12,"{I accept the offer. The fleet commander looks slightly nervous, but turns to prepare their systems.}"
+FLEET_MINING_SPECIAL_RES_B_12,{I decline to be a test subject for this supposed wormhole. The fleet commander appears slightly relieved.}
+FLEET_MINING_SPECIAL_LOG_A_12,{Encountered a wormhole in %RACE%-controlled space. Calibrated the anomaly to the %CAP_RACE%'s signal and transported them to our location.}
+FLEET_MINING_SPECIAL_LOG_B_12,"{Encountered a wormhole in %RACE%-controlled space. Offered the %CAP_RACE% the opportunity to join the fleet via wormhole transport, but they declined the offer.}"
+FLEET_MINING_SPECIAL_13,"{Greetings, %CAP_RACE%. The mission has proceeded smoothly to the %SYSTEM% System, an area of %RACE% space. We have mined deep, and profited greatly! But we have observed a strange energy disturbance, which we are 99% certain is a wormhole. If you desire, we could calibrate it to your signal, pulling you to our location instantly.}"
+FLEET_MINING_SPECIAL_OPT_A_13,{Accept}
+FLEET_MINING_SPECIAL_OPT_B_13,{Decline}
+FLEET_MINING_SPECIAL_RES_A_13,{I accept the offer. A fleeting worried look passes over the commander's face as they turn to their chief engineer. I begin to regret my decision...}
+FLEET_MINING_SPECIAL_RES_B_13,"{I decline the commander's offer. The minerals may be valuable, but I am content to let the fleet extract them without my being sent through a wormhole.}"
+FLEET_MINING_SPECIAL_14,"{Greetings from the %SYSTEM% System, %CAP_RACE%! Local %RACE% authorities have been cooperative, and our salvage teams have made great profits. But this system is full of strange energy disturbances. They appear to be wormholes, and analysis suggests we could tune one to your signal. Will you join us? The process will be instantaneous.}"
+FLEET_MINING_SPECIAL_OPT_A_14,{Accept}
+FLEET_MINING_SPECIAL_OPT_B_14,{Decline}
+FLEET_MINING_SPECIAL_RES_A_14,"{I accept the commander's 'offer'. It will be good to see their ships again. As the signal fades, I see the commander glance down at a data readout, a look of concern on their face...}"
+FLEET_MINING_SPECIAL_RES_B_14,"{I decline the offer. I tell the commander that I have great faith in their ability, and do not need to come check up on them. Particularly via an untested wormhole.}"
+FLEET_MINING_SPECIAL_15,"{Greetings, %CAP_RACE%. Our mining teams have a dilemma, and they look to you for advice. The planet %PLANET% is full of mineral-rich magma. Each gallon is a valuable prize. But how deep should we drill? How much should we risk for this profit?}"
+FLEET_MINING_SPECIAL_OPT_A_15,"{Drill with caution, taking measurements}"
+FLEET_MINING_SPECIAL_OPT_B_15,{Drill as deep as possible}
+FLEET_MINING_SPECIAL_RES_A_15,"{I give the fleet commander specific instructions. The miners are to act with caution, taking measurements as they drill. Magma may be rich in minerals, but having it flood the tunnels is highly undesirable.}"
+FLEET_MINING_SPECIAL_RES_B_15,"{I tell the fleet commander to drill deep, to be a pioneer of the depths. There is much to be won, both in mineral wealth and scientific discovery.}"
+FLEET_MINING_SPECIAL_LOG_A_15,"{Began deep-level mining operations on planet %PLANET%. On advice of the %CAP_RACE%, took great caution when working near magma veins. Work was slow, but moderately profitable.}"
+FLEET_MINING_SPECIAL_LOG_B_15,"{Began deep-level mining operations on planet %PLANET%. With encouragement of the %CAP_RACE%, sunk tunnels to unprecedented depths. Harvested vast amount of mineral-rich magma.}"
+FLEET_MINING_SPECIAL_LOG_C_15,"{Began deep-level mining operations on planet %PLANET%. With encouragement of the %CAP_RACE%, sunk tunnels to unprecedented depths. Walls collapsed, tunnels flooded with superheated magma.}"
+FLEET_MINING_SPECIAL_16,"{%CAP_RACE%, I bring bad news from the %SYSTEM% System. One of our mining teams has been lost in a tunnel collapse. The entire area has become unstable. We could send a second team in to mount a rescue, but it is fraught with risk. What should we do?}"
+FLEET_MINING_SPECIAL_OPT_A_16,{Rescue the crew}
+FLEET_MINING_SPECIAL_OPT_B_16,{Abandon the crew}
+FLEET_MINING_SPECIAL_RES_A_16,{I tell the fleet commander to prepare a rescue immediately. Leave no-one behind.}
+FLEET_MINING_SPECIAL_RES_B_16,"{With regret, I tell the fleet commander to withdraw. Sending more crew headlong into danger will only cost more lives.}"
+FLEET_MINING_SPECIAL_LOG_A_16,{Tunnel collapsed while mining on planet %PLANET%. Deployed rescue team on advice from the %CAP_RACE%. Operation highly successful: recovered both the crew and the minerals they gathered.}
+FLEET_MINING_SPECIAL_LOG_B_16,"{Tunnel collapsed while mining on planet %PLANET%. Deployed rescue team on advice from the %CAP_RACE%. Planetary seismic activity remained high, and the rescue crew was also lost to the shifting earth.}"
+FLEET_MINING_SPECIAL_LOG_C_16,{Tunnel collapsed while mining on planet %PLANET%. Consulted the %CAP_RACE% and evacuated rather than risk further lives in a rescue. Mining crew lost.}
+FLEET_MINING_SPECIAL_17,"{%CAP_RACE%, it is good to see you. The expedition goes well, but we have a difficult decision to make. I need your advice. Our salvage crew have located a crashed freighter. But they are afraid to begin processing. They claim the ship is haunted, and do not wish to step inside.}"
+FLEET_MINING_SPECIAL_OPT_A_17,{Order them to go ahead}
+FLEET_MINING_SPECIAL_OPT_B_17,{Tell them to move on}
+FLEET_MINING_SPECIAL_RES_A_17,{I tell the %CAP_RACE% to order the crew into the wreck. Whatever is 'haunting' the ship is likely to be highly valuable technology.}
+FLEET_MINING_SPECIAL_RES_B_17,"{I tell the %CAP_RACE% to stand the crew down. It seems unlikely that the ship is haunted, but it is not worth testing the loyalty of the crew.}"
+FLEET_MINING_SPECIAL_LOG_A_17,"{Discovered freighter wreck in %SYSTEM% System. Crew reluctant to enter, claiming it haunted. %CAP_RACE% rallied salvage crew, and operation was highly successful.}"
+FLEET_MINING_SPECIAL_LOG_B_17,"{Discovered freighter wreck in %SYSTEM% System. Crew reluctant to enter, claiming it haunted. %CAP_RACE% encouraged them, but operation proved costly. Strange signals echoed '16' throughout the hull, driving the crew from the wreck.}"
+FLEET_MINING_SPECIAL_LOG_C_17,"{Discovered freighter wreck in %SYSTEM% System. Crew reluctant to enter, claiming it haunted. %CAP_RACE% advised leaving the wreck alone.}"
+FLEET_MINING_SPECIAL_18,"{%CAP_RACE%, it is good to see you. We entered %RACE% space, and began operations on planet %PLANET%. And now, I am faced with a dilemma. I need your advice. The deep-level mining team are refusing to dig any deeper. They have reached a strange fissure, and they believe they hear otherworldly voices. How should I proceed?}"
+FLEET_MINING_SPECIAL_OPT_A_18,{Encourage them to dig on}
+FLEET_MINING_SPECIAL_OPT_B_18,{Retreat}
+FLEET_MINING_SPECIAL_RES_A_18,{I tell the %CAP_RACE% to dig deeper. These 'voices' are likely just a release of pressurised gas.}
+FLEET_MINING_SPECIAL_RES_B_18,{I tell the %CAP_RACE% to withdraw their crew. Whatever dwells in the deep is not worth angering.}
+FLEET_MINING_SPECIAL_LOG_A_18,{Crew heard strange whispers while mining deep in planet %PLANET%. Continued to dig after consulting the %CAP_RACE%. No further anomalies. Operation successful.}
+FLEET_MINING_SPECIAL_LOG_B_18,"{Crew heard strange whispers while mining deep in planet %PLANET%. Continued to dig after consulting the %CAP_RACE%. Shortly after, all contact lost. Abandoned operation and fled.}"
+FLEET_MINING_SPECIAL_LOG_C_18,{Crew heard strange whispers while mining deep in planet %PLANET%. Withdrew after consulting the %CAP_RACE%.}
+FLEET_MINING_SPECIAL_19,"{%CAP_RACE%. Our mission has gone well, so far. The %SYSTEM% Sector has been a profitable mining ground for us. But now, I need your clearance to proceed. Our salvage team have recovered a highly volatile reactor core. The engineers believe they can safely dismantle it, but I fear it comes at great risk to the crew and the ship. Should I allow them to try?}"
+FLEET_MINING_SPECIAL_OPT_A_19,{Give permission}
+FLEET_MINING_SPECIAL_OPT_B_19,{Withhold permission}
+FLEET_MINING_SPECIAL_RES_A_19,"{Very well, %CAP_RACE%. It is good to have your confidence. Your faith will encourage the crew.}"
+FLEET_MINING_SPECIAL_RES_B_19,{I tell the fleet commander not to take the risk. There will be many other opportunities on this voyage without bringing volatile nuclear fuel onboard.}
+FLEET_MINING_SPECIAL_LOG_A_19,"{Recovered volatile reactor from planet %PLANET%. With permission from the %CAP_RACE%, dismantled the reactor and sold valuable and exotic components.}"
+FLEET_MINING_SPECIAL_LOG_B_19,"{Recovered volatile reactor from planet %PLANET%. With permission from the %CAP_RACE%, dismantled the reactor. Subsequent fuel leak caused tremendous damage to hull integrity.}"
+FLEET_MINING_SPECIAL_LOG_C_19,{Recovered volatile reactor from planet %PLANET%. Risk of fuel leak: high. Took advice from the %CAP_RACE% and jettisoned the reactor.}
+FLEET_MINING_SPECIAL_20,"{I hope this message finds you well, %CAP_RACE%, and I trust you find our progress to be satisfactory. The %SYSTEM% System has been particularly profitable for us. But I bring you a dilemma. The storms here are ferocious, and we have only so many hazard filters. Should we direct our efforts towards mining valuable chromatic metal, or invest in the salvage teams? The storms have claimed many ships, and the debris fields are extensive...}"
+FLEET_MINING_SPECIAL_OPT_A_20,{Mine metals}
+FLEET_MINING_SPECIAL_OPT_B_20,{Recover salvage}
+FLEET_MINING_SPECIAL_RES_A_20,"{Understood, %CAP_RACE%. I will deploy the mining team immediately.}"
+FLEET_MINING_SPECIAL_RES_B_20,"{Understood, %CAP_RACE%. I will deploy the salvage crew immediately.}"
+FLEET_MINING_SPECIAL_LOG_A_20,"{Deployed mining team to storm-ravaged mineral field on planet %PLANET%. Excellent progress, despite environmental hazards. Operation successful.}"
+FLEET_MINING_SPECIAL_LOG_B_20,{Deployed mining team to storm-ravaged mineral field on planet %PLANET%. Environmental hazards made work difficult. Teams unable to gather meaningful quantity of metal.}
+FLEET_MINING_SPECIAL_LOG_C_20,"{Deployed salvage recovery team to storm-ravaged debris field on planet %PLANET%. Despite environmental hazards, crew recovered large number of abandoned starships. Operation successful.}"
+FLEET_MINING_SPECIAL_LOG_D_20,{Deployed salvage recovery team to storm-ravaged debris field on planet %PLANET%. Environmental hazards made work difficult. Little salvage recovered.}
+FLEET_TRADING_SPECIAL_1A,"{%CAP_RACE%. We have acquired valuable market data, a profit is almost certain! But... the content is in an unintelligible alien language, and we cannot decipher it. We require your insight! But this channel is not secure. We have deposited a copy of the market data on a secure trading line for you to examine.}"
+FLEET_TRADING_SPECIAL_1B,"{%CAP_RACE%. Our spies have secured valuable trade secrets! We will soon be rich! But... there is a slight obstacle. The message is in an alien language, and we cannot read it. We require your assistance! This channel is not secure, not enough to send secrets. We have deposited a copy of the message on a secure server for you.}"
+FLEET_TRADING_SPECIAL_1C,"{%CAP_RACE%, good news! The %RACE% ambassador joined us for a feast, and left behind valuable documents! We are sure to profit! But before we can act, there is a small problem. The documents are untranslated, and we cannot read them. This channel is not appropriate for sending secrets. We have deposited a copy of the document on a secure server. Please, help us translate!}"
+FLEET_TRADING_SPECIAL_OPT_A_1,{Undertake translation}
+FLEET_TRADING_SPECIAL_OPT_B_1,{Decline}
+FLEET_TRADING_SPECIAL_RES_A_1,{I agree to read the message. The fleet commander supplies coordinates for the secure message module.}
+FLEET_TRADING_SPECIAL_RES_B_1,"{I tell the fleet commander not to take advantage of this data. Even if we could translate it accurately, the scheme is likely to be illegal and leaves us open to further trouble.}"
+FLEET_TRADING_SPECIAL_1_OSD,{SECURE TRADE MODULE LOCATED}
+FLEET_TRADING_SPECIAL_1_MARKER,{Secure Trade Message}
+FLEET_TRADING_SPECIAL_1_TITLE,{SECURE MESSAGE MODULE}
+FLEET_TRADING_SPECIAL_1_DESC,"{The fleet commander has not let me down. Their trading data is here, ready to download and translate.}"
+FLEET_TRADING_SPECIAL_OPT_A_1B,{Read Message}
+FLEET_TRADING_SPECIAL_OPT_B_1B,{Leave}
+DNT_FLEET_TRADING_TRANSLATE_1,{Much carbon found on planet! Sell now! Buy metal - much demand for drills!}
+DNT_FLEET_TRADING_TRANSLATE_2,{Much carbon found on planet! Sell now! Buy metal - much demand for drills!}
+DNT_FLEET_TRADING_TRANSLATE_3,{Much carbon found on planet! Sell now! Buy metal - much demand for drills!}
+DNT_FLEET_TRADING_TRANSLATE_4,{Much carbon found on planet! Sell now! Buy metal - much demand for drills!}
+DNT_FLEET_TRADING_TRANSLATE_5,{Much carbon found on planet! Sell now! Buy metal - much demand for drills!}
+DNT_FLEET_TRADING_TRANSLATE_6,{Much carbon found on planet! Sell now! Buy metal - much demand for drills!}
+DNT_FLEET_TRADING_TRANSLATE_7,{Much carbon found on planet! Sell now! Buy metal - much demand for drills!}
+DNT_FLEET_TRADING_TRANSLATE_8,{Much carbon found on planet! Sell now! Buy metal - much demand for drills!}
+DNT_FLEET_TRADING_TRANSLATE_9,{Much carbon found on planet! Sell now! Buy metal - much demand for drills!}
+DNT_FLEET_TRADING_TRANSLATE_10,{Much carbon found on planet! Sell now! Buy metal - much demand for drills!}
+FLEET_TRADING_SPECIAL_OPT_A_1C,{Invest in carbon}
+FLEET_TRADING_SPECIAL_OPT_B_1C,{Invest in metal}
+FLEET_TRADING_SPECIAL_OPT_C_1C,{Invest in fuel}
+FLEET_TRADING_SPECIAL_OPT_D_1C,{Invest in batteries}
+FLEET_TRADING_SPECIAL_OPT_E_1C,{Invest in technology}
+FLEET_TRADING_SPECIAL_OPT_F_1C,{Invest in plants}
+FLEET_TRADING_SPECIAL_OPT_G_1C,{Invest in luxury goods}
+FLEET_TRADING_SPECIAL_OPT_J_1C,{Do not invest}
+FLEET_TRADING_SPECIAL_RES_A_1C,{I translate the message for the fleet commander. The data clearly indicates an imminent surge in the carbon market. They should invest heavily now.}
+FLEET_TRADING_SPECIAL_RES_B_1C,{I translate the message for the fleet commander. The data clearly indicates an imminent surge in the metals market. They should invest heavily now.}
+FLEET_TRADING_SPECIAL_RES_C_1C,{I translate the message for the fleet commander. The data clearly indicates an imminent surge in the fuel market. They should invest heavily now.}
+FLEET_TRADING_SPECIAL_RES_D_1C,{I translate the message for the fleet commander. The data clearly indicates an imminent surge in the battery market. They should invest heavily now.}
+FLEET_TRADING_SPECIAL_RES_E_1C,{I translate the message for the fleet commander. The data clearly indicates an imminent surge in the technology market. They should invest heavily now.}
+FLEET_TRADING_SPECIAL_RES_F_1C,{I translate the message for the fleet commander. The data clearly indicates an imminent surge in the plant market. They should invest heavily now.}
+FLEET_TRADING_SPECIAL_RES_G_1C,{I translate the message for the fleet commander. The data clearly indicates an imminent surge in the luxury goods market. They should invest heavily now.}
+FLEET_TRADING_SPECIAL_RES_J_1C,{I translate the message for the fleet commander. The data is not clear. It would be better not to invest at this time.}
+FLEET_TRADING_SPECIAL_LOG_A_1,"{Acquired insider market data. Translated the message with the aid of the %CAP_RACE%. Invested heavily, and made a substantial profit.}"
+FLEET_TRADING_SPECIAL_LOG_B_1,"{Acquired insider market data. Translated the message with the aid of the %CAP_RACE%. Invested heavily, but the information proved incorrect. Substantial losses incurred.}"
+FLEET_TRADING_SPECIAL_LOG_C_1,"{Acquired insider market data. The data did not indicate any clear trends, and we prudently avoided investing.}"
+FLEET_TRADING_SPECIAL_2,{%CAP_RACE%! We require urgent assistance! Our profitable trades have attracted the attention of pirates! Time is short - what should we do?}
+FLEET_TRADING_SPECIAL_3,"{%CAP_RACE%! There is good news, and there is bad news. We have made spectacular profits. But as a consequence, we have been attacked by pirates. We have avoided heavy damage so far, but I fear our shields will not hold for much longer...}"
+FLEET_TRADING_SPECIAL_4,"{%CAP_RACE%! Our trading activity has angered local merchants, and a bounty has been placed upon the fleet! It is only a matter of time before bounty hunters find the fleet. We are in need of immediate rescue!}"
+FLEET_TRADING_SPECIAL_OPT_A_2,{Say you will help}
+FLEET_TRADING_SPECIAL_OPT_B_2,{Say you cannot help}
+FLEET_TRADING_SPECIAL_RES_A_2,{I reassure the fleet commander. I am on my way. All they need do is hold out for a short while longer.}
+FLEET_TRADING_SPECIAL_RES_B_2,"{With regret, I tell the fleet commander I will be unable to help them in time. They are on their own.}"
+FLEET_TRADING_SPECIAL_LOG_A_2,"{Successful trading attracted attention from pirates. With aid of the %CAP_RACE%, destroyed our pursuers.}"
+FLEET_TRADING_SPECIAL_LOG_B_2,"{Successful trading attracted attention from pirates. %CAP_RACE% was unable to assist, and the fleet took heavy damage while attempting to escape.}"
+FLEET_TRADING_SPECIAL_LOG_C_2,{Successful trading attracted attention from pirates. %CAP_RACE% was unable to assist. Visited local station and paid bounty hunters to dispose of the pirate threat. Operation successful but expensive.}
+FLEET_TRADING_SPECIAL_5,"{%CAP_RACE%, the voyage goes well. But our trading computer has suffered a temporary glitch, and we are unsure where to direct our efforts.}"
+FLEET_TRADING_SPECIAL_5A,{We could make a bulk purchase of scientific equipment. But we also have an opportunity to invest in a local food preservation business. What should we do?}
+FLEET_TRADING_SPECIAL_5B,{The %SYSTEM% System offers luxury %RACE% clothing. But there is also a thriving art market - perhaps we should invest?}
+FLEET_TRADING_SPECIAL_5C,"{We could invest in a new power generation technology developed by local %RACE% researchers. On the other hand, this system has a large amount of chromatic metal available to purchase, at an excellent price.}"
+FLEET_TRADING_SPECIAL_5D,{We could haggle for exocraft maintenance units with local %RACE% technicians. But we have heard talk of excellent investment opportunities in the factories of planet %PLANET%.}
+FLEET_TRADING_SPECIAL_5E,{We have found the %SYSTEM% Sector to be an excellent place to purchase cheap antimatter. But there investment opportunities here too - the underwater tourism market seems particularly promising...}
+FLEET_TRADING_SPECIAL_OPT_A_5,{Purchase goods}
+FLEET_TRADING_SPECIAL_OPT_B_5,{Make investments}
+FLEET_TRADING_SPECIAL_RES_A_5,{I tell the fleet commander to concentrate on purchasing goods for resale. Investing in unknown alien businesses is too much of a risk.}
+FLEET_TRADING_SPECIAL_RES_B_5,"{I tell the fleet commander to concentrate on long-term investments. It is a risk, but the potential rewards are worth it.}"
+FLEET_TRADING_SPECIAL_LOG_A_5,{Took advice from the %CAP_RACE% and invested in local businesses in the %SYSTEM% Sector. Return on investment high: approximate 2%NUM%%.}
+FLEET_TRADING_SPECIAL_LOG_B_5,"{Took advice from the %CAP_RACE% and invested in local businesses in the %SYSTEM% Sector. Business proved poor, and investments came to nothing.}"
+FLEET_TRADING_SPECIAL_LOG_C_5,{Took advice from the %CAP_RACE% and purchased goods for resale in the %SYSTEM% Sector. Return on investment high: approximate 2%NUM%%.}
+FLEET_TRADING_SPECIAL_LOG_C_D,{Took advice from the %CAP_RACE% and purchased goods for resale in the %SYSTEM% Sector. Market collapsed. Forced to sell goods at a loss.}
+FLEET_TRADING_SPECIAL_6A,"{%CAP_RACE%, I bring you news of an opportunity in the %SYSTEM% System.}"
+FLEET_TRADING_SPECIAL_6B_1,{The <FUEL>fuel<> market here is ripe for manipulation.}
+FLEET_TRADING_SPECIAL_6B_2,{The <TECHNOLOGY>technology<> market here is ripe for manipulation.}
+FLEET_TRADING_SPECIAL_6B_3,{The <TRADEABLE>plant<> market here is ripe for manipulation.}
+FLEET_TRADING_SPECIAL_6B_4,{The <EARTH>mineral<> market here is ripe for manipulation.}
+FLEET_TRADING_SPECIAL_6B_5,{The <COMMODITY>power generation<> market here is ripe for manipulation.}
+FLEET_TRADING_SPECIAL_6C,"{If you were to make a series of high-volume trades, we would be able to take advantage of the subsequent market fluctuations. Great profit awaits!}"
+FLEET_TRADING_SPECIAL_OPT_A_6,{Agree to the scheme}
+FLEET_TRADING_SPECIAL_OPT_B_6,{Forbid the scheme}
+FLEET_TRADING_SPECIAL_RES_A_6,"{Excellent, %CAP_RACE%! We shall watch the market and prepare our trades!}"
+FLEET_TRADING_SPECIAL_RES_B_6,"{I tell the fleet commander to abandon the idea. It is fraught with risk, and highly illegal.}"
+FLEET_TRADING_SPECIAL_LOG_A_6,"{With the aid of the %CAP_RACE%, manipulated markets in the %SYSTEM% Sector. Took advantage of price fluctuations to make significant profits.}"
+FLEET_TRADING_SPECIAL_LOG_B_6,{Calculated potentially advantageous trading opportunity in the %SYSTEM% System. %CAP_RACE% forbade the scheme as both risky and illegal.}
+FLEET_TRADING_SPECIAL_7,"{%CAP_RACE%, the voyage is proceeding smoothly. We have made many successful trades, and have gathered a large amount of economic data during our travels. We believe it may be of some use to you.}"
+FLEET_TRADING_SPECIAL_OPT_A_7,{Accept the data}
+FLEET_TRADING_SPECIAL_OPT_B_7,{Decline the data}
+FLEET_TRADING_SPECIAL_RES_A_7,"{I accept the data from the fleet, thanking the commander as I end the call. It will surely prove useful during my own journey.}"
+FLEET_TRADING_SPECIAL_RES_B_7,{I decline the fleet's economic data. They trade so that I do not have to.}
+FLEET_TRADING_SPECIAL_LOG_A_7,{Gathered valuable economic data in the %SYSTEM% Sector. Transmitted information to the %CAP_RACE%.}
+FLEET_TRADING_SPECIAL_LOG_B_7,"{Gathered valuable economic data in the %SYSTEM% Sector. Offered information to the %CAP_RACE%, though they declined to accept. Sold the data to Merchants Guild envoy for a healthy profit.}"
+FLEET_TRADING_SPECIAL_8,"{%CAP_RACE%, our expedition is proving highly profitable. We thought you may wish to take advantage of the economic data we have gathered so far. I am ready to make the transfer, should you wish.}"
+FLEET_TRADING_SPECIAL_OPT_A_8,{Accept the data}
+FLEET_TRADING_SPECIAL_OPT_B_8,{Decline the data}
+FLEET_TRADING_SPECIAL_RES_A_8,"{Glad to have been of service, %CAP_RACE%. The crew ask me to wish you will in your continued travels.}"
+FLEET_TRADING_SPECIAL_RES_B_8,"{I decline the data. I have little need for market information, and the transfer may alert pirates to my presence. The fleet commander looks disappointed.}"
+FLEET_TRADING_SPECIAL_9,"{%CAP_RACE%, we bring you news of an excellent investment opportunity. Sadly, a series of disadvantageous trades have created a cashflow problem. If you were able to transmit funds, we could make the trade and secure you great profit}"
+FLEET_TRADING_SPECIAL_OPT_A_9,{Send funds}
+FLEET_TRADING_SPECIAL_OPT_B_9,{Decline}
+FLEET_TRADING_SPECIAL_RES_A_9,"{I transmit the funds to the fleet commander, along with a warning about rash investments. I trust they will make sensible decisions this time...}"
+FLEET_TRADING_SPECIAL_RES_B_9,"{I decline to send funds. The commander is responsible for the financial health of the expedition, and they need to learn self-reliance.}"
+FLEET_TRADING_SPECIAL_LOG_A_9,{We found a dangerous diplomatic situation and won!}
+FLEET_TRADING_SPECIAL_LOG_B_9,{We found a dangerous diplomatic situation but stayed out of it.}
+FLEET_TRADING_SPECIAL_LOG_C_9,{We found a dangerous diplomatic situation. It didn't go well for us.}
+FLEET_TRADING_SPECIAL_10,"{%CAP_RACE%, we have found a rare opportunity in the %SYSTEM% System. However, the fleet is currently suffering from a liquidity problem. Our units are locked up in a complex series of mining contracts. We cannot let this investment slip by - the missed opportunity would be too painful! Perhaps you would be able to transmit the required funds?}"
+FLEET_TRADING_SPECIAL_OPT_A_10,{Send funds}
+FLEET_TRADING_SPECIAL_OPT_B_10,{Decline}
+FLEET_TRADING_SPECIAL_RES_A_10,"{I transmit the funds to the fleet commander. They clearly have their finger on the pulse of local markets, and it would be better for the both of us if they were able to continue trading.}"
+FLEET_TRADING_SPECIAL_RES_B_10,"{I decline to send funds. The commander is getting involved in complex financial systems, exposing the expedition to considerable risk. I request they make more prudent investments in the future.}"
+FLEET_TRADING_SPECIAL_11,"{%CAP_RACE%, good news from the %SYSTEM% System! Our scouts have secured their best investment deal yet. However, there is one small problem. The fleet is suffering from a temporary lack of funds. Perhaps you would be able to assist? This is an opportunity not to be missed!}"
+FLEET_TRADING_SPECIAL_OPT_A_11,{Send funds}
+FLEET_TRADING_SPECIAL_OPT_B_11,{Decline}
+FLEET_TRADING_SPECIAL_RES_A_11,"{My thanks, %CAP_RACE%. You will not regret this, I assure you. Your investment will be returned many times over!}"
+FLEET_TRADING_SPECIAL_RES_B_11,"{Very well, %CAP_RACE%. It was not meant to be. I shall find a way to message this disappoint to the crew.}"
+FLEET_TRADING_SPECIAL_12,"{%CAP_RACE%, we require your advice. We have been offered a highly lucrative shipping contract by a %RACE% merchant. However, the goods are of questionable legality. If were were caught, the consequences may be... significant. What should we do?}"
+FLEET_TRADING_SPECIAL_OPT_A_12,{Take the deal}
+FLEET_TRADING_SPECIAL_OPT_B_12,{Decline the deal}
+FLEET_TRADING_SPECIAL_RES_A_12,"{Very well, %CAP_RACE%. We shall seize this opportunity! Do not worry, we will act with utmost caution.}"
+FLEET_TRADING_SPECIAL_RES_B_12,"{You are wise, %CAP_RACE%. We shall find other opportunities in this system. The crew will be relieved. And perhaps there is something to be gained by cooperating with the authorities...}"
+FLEET_TRADING_SPECIAL_LOG_A_12,{Offered illegal smuggling contract in the %SYSTEM% System. Took advice from the %CAP_RACE% and accepted the deal. Operation highly successful. Received large share of the profit.}
+FLEET_TRADING_SPECIAL_LOG_B_12,{Offered illegal smuggling contract in the %SYSTEM% System. Took advice from the %CAP_RACE% and accepted the deal. Caught by system authorities. Ships damaged during subsequent fight. Received substantial fine.}
+FLEET_TRADING_SPECIAL_LOG_C_12,{Offered illegal smuggling contract in the %SYSTEM% System. Took advice from the %CAP_RACE% and declined the deal. Remained on good terms with local %RACE% authorities. Rewarded for sharing details of the smuggling operation.}
+FLEET_TRADING_SPECIAL_13,"{%CAP_RACE%, I respectfully request your advice. We have been offered an excellent deal by a local %RACE% trader, but the deal is so good that I have reason to doubt their motivation. Should we proceed with the transaction? The profit on offer is unparalleled...}"
+FLEET_TRADING_SPECIAL_OPT_A_13,{Take the deal}
+FLEET_TRADING_SPECIAL_OPT_B_13,{Decline the deal}
+FLEET_TRADING_SPECIAL_RES_A_13,"{I tell the %CAP_RACE% to make the trade. Risky, perhaps, but so is all business. They nod, still a little unsure.}"
+FLEET_TRADING_SPECIAL_RES_B_13,{I tell the %CAP_RACE% to trust their instincts and avoid dealing with suspicious characters.}
+FLEET_TRADING_SPECIAL_LOG_A_13,"{Offered suspiciously lucrative deal by trader in the %SYSTEM% System. Took advice from the %CAP_RACE% before proceeding. Trade highly profitable, though merchant's motivation remained unclear.}"
+FLEET_TRADING_SPECIAL_LOG_B_13,{Offered suspiciously lucrative deal by trader in the %SYSTEM% System. Took advice from the %CAP_RACE% before proceeding. Merchant took large number of units and vanished. Losses: significant.}
+FLEET_TRADING_SPECIAL_LOG_C_13,{Encountered highly suspicious trader in the %SYSTEM% System. Took advice from the %CAP_RACE% and refused to make a deal.}
+FLEET_TRADING_SPECIAL_14,"{%CAP_RACE%, our trading computer is offline for maintenance and your counsel is required. We have made substantial acquisitions in an emerging technology market. However, conditions have turned volatile. Should we sell? Doing so now would at least secure a small profit.}"
+FLEET_TRADING_SPECIAL_OPT_A_14,{Tell them to hold}
+FLEET_TRADING_SPECIAL_OPT_B_14,{Tell them to sell}
+FLEET_TRADING_SPECIAL_RES_A_14,{I tell the fleet commander to hold on and ride out the volatility. Panic sellers only ever lose money.}
+FLEET_TRADING_SPECIAL_RES_B_14,"{I tell the fleet commander to sell. A volatile market is not one to invest in during a long voyage. There will be other, better, investments to come.}"
+FLEET_TRADING_SPECIAL_LOG_A_14,{Took advice from the %CAP_RACE% during volatile trading conditions. Held on to commodities and made substantial profits during subsequent market recovery.}
+FLEET_TRADING_SPECIAL_LOG_B_14,"{Took advice from the %CAP_RACE% during volatile trading conditions. Held on to commodities, but market continued to plunge. Investment now worthless.}"
+FLEET_TRADING_SPECIAL_LOG_C_14,"{Took advice from the %CAP_RACE% during unusual trading conditions. Sold commodities to avoid being trapped in a volatile market. Little profit made, but nothing lost.}"
+FLEET_EXPLORE_SPECIAL_1,"{%CAP_RACE%! We require immediate assistance! Planetary exploration teams found unusual flora while on ground patrol. Crew members all consumed flora! Crew members now very sick! Antidote possible, but require comparative samples. All ground crew currently in medical bay. Can %CAP_RACE% supply required data?}"
+FLEET_EXPLORE_SPECIAL_OPT_A_1,{Agree to find data}
+FLEET_EXPLORE_SPECIAL_OPT_B_1,{Decline to find data}
+FLEET_EXPLORE_SPECIAL_RES_A_1,{I reassure the fleet commander. I will find the samples they require to produce an antidote.}
+FLEET_EXPLORE_SPECIAL_RES_B_1,{I decline the fleet commander's request. There are other ways for them to find an antidote without my trawling around planets.}
+FLEET_EXPLORE_SPECIAL_1A,{%CAP_RACE%! Do you have the data?}
+FLEET_EXPLORE_SPECIAL_OPT_A_1A,{Upload data}
+FLEET_EXPLORE_SPECIAL_RES_A_1A,"{My thanks, %CAP_RACE%! The ground crew have hung on bravely, knowing you would come to their aid! With this data, I am sure we will be able to develop an antidote.}"
+FLEET_EXPLORE_SPECIAL_LOG_A_1,"{Ground crew consumed discovered toxic flora. With aid of the %CAP_RACE%, developed antidote. Considerable commercial applications for both the poison and the cure.}"
+FLEET_EXPLORE_SPECIAL_LOG_B_1,{Ground crew consumed discovered toxic flora. Unable to develop antidote. Exploration team confined to medical bay.}
+FLEET_EXPLORE_SPECIAL_2,"{%CAP_RACE%, I hope this message find you well. The expedition is proceeding smoothly, and we have added many discoveries to our databank. The fleet is currently holding position in the %SYSTEM% Sector. Scans have detected an incredibly dense field of dark matter. We believe it would be possible to use this field as a wormhole. If you wish, we could calibrate the scanner to your signal. It may be possible to pull you directly to our position.}"
+FLEET_EXPLORE_SPECIAL_OPT_A_2,{Accept the warp}
+FLEET_EXPLORE_SPECIAL_OPT_B_2,{Decline}
+FLEET_EXPLORE_SPECIAL_RES_A_2,{I tell the fleet commander to proceed. I look forward to seeing them soon.}
+FLEET_EXPLORE_SPECIAL_RES_B_2,"{I tell the fleet commander that though their science is impressive, I have no need of a cross-dimensional warp at this time. They look slightly relieved.}"
+FLEET_EXPLORE_SPECIAL_LOG_A_2,{Encountered a dark matter field in the %SYSTEM% Sector. Used its gravitational well to open a wormhole for the %CAP_RACE% and transported them to our location.}
+FLEET_EXPLORE_SPECIAL_LOG_B_2,"{Encountered a dark matter field in the %SYSTEM% Sector. Used its gravitational well to open a wormhole, but the %CAP_RACE% declined to travel to our location.}"
+FLEET_EXPLORE_SPECIAL_3,"{%CAP_RACE%, good news from the fleet. The expedition could not be going better. We are currently surveying the %SYSTEM% Sector. Scans have detected an exotic energy field distorting spacetime near our position. The engineers believe we can manipulate this energy field to act as a wormhole. It may be possible to pull you directly to our position.}"
+FLEET_EXPLORE_SPECIAL_RES_A_3,"{The fleet commander seems very confident in this new warp technique. I accept their offer, and hope that confidence is well-placed.}"
+FLEET_EXPLORE_SPECIAL_RES_B_3,"{I commend the fleet commander on their trust in their engineers. However, I decline to power my starship into this untested anomaly.}"
+FLEET_EXPLORE_SPECIAL_LOG_A_3,{Encountered an exotic energy field in the %SYSTEM% Sector. Calibrated our warp engines to its resonance frequency to open a wormhole for the %CAP_RACE%. Successful transport.}
+FLEET_EXPLORE_SPECIAL_LOG_B_3,{Encountered an exotic energy field in the %SYSTEM% Sector. Calibrated our warp engines to its resonance frequency to open a wormhole. The %CAP_RACE% declined to test the safety of this rip in space-time.}
+FLEET_EXPLORE_SPECIAL_4,"{%CAP_RACE%, we are in need of your assistance. Our research team may be on the brink of an important discovery. We are analysing the genetic material of a suspected non-carbon lifeform. In order to confirm our discoveries, we require comparative data. We must avoid samples from the local system in order to perform a true comparison. Would you be able to supply the data?}"
+FLEET_EXPLORE_SPECIAL_OPT_A_4,{Agree}
+FLEET_EXPLORE_SPECIAL_OPT_B_4,{Decline}
+FLEET_EXPLORE_SPECIAL_RES_A_4,"{Many thanks, %CAP_RACE%! The crew will be thrilled to have you take such a close interest in their research!}"
+FLEET_EXPLORE_SPECIAL_RES_B_4,"{I decline the fleet commander's request. They have all the data they need, and my samples will not help them.}"
+FLEET_EXPLORE_SPECIAL_4A,"{%CAP_RACE%, do you have the data? The crew have done their best, but their research has lead to nothing but frustration. You hold the key!}"
+FLEET_EXPLORE_SPECIAL_OPT_A_4A,{Upload data}
+FLEET_EXPLORE_SPECIAL_RES_A_4A,"{The fleet commander confirms receipt of the data. Excited, they promise to keep me informed of the research team's progress.}"
+FLEET_EXPLORE_SPECIAL_LOG_A_4,{We found a dangerous exploration situation and won!}
+FLEET_EXPLORE_SPECIAL_LOG_B_4,{We found a dangerous exploration situation but stayed out of it.}
+FLEET_EXPLORE_SPECIAL_5,"{%CAP_RACE%, the fleet respectfully requests your assistance. We have intercepted a strange broadcast. Scans detected a repeating pattern in the solar wind. We were able to decode the number '16', but little else. Would you be able to assist in the translation?}"
+FLEET_EXPLORE_SPECIAL_6,"{%CAP_RACE%, I bring news from the %SYSTEM% Sector. We have received an unusual alien transmission. It appears to be classified data of some sort. Our systems have been unable to decode the packet, however. Perhaps you may be able to assist?}"
+FLEET_EXPLORE_SPECIAL_7,"{%CAP_RACE%, our survey of the %SYSTEM% Sector is going well. Our long-distance radio array has intercepted an unusual signal. We decrypted it with relative ease, but the contents of the message are in an alien tongue. Perhaps you may be able to assist with translation?}"
+FLEET_EXPLORE_SPECIAL_8,"{%CAP_RACE%, our exploration of planet %PLANET% was highly successful. Among our many discoveries was a strange signal being broadcast from factory to factory around the planet's surface. We have a lossless copy of the message, but we cannot understand its contents. Perhaps you will be more familiar with this alien speech.}"
+FLEET_EXPLORE_SPECIAL_17,"{%CAP_RACE%, I bring news of a great discovery in the %SYSTEM% System! The fleet has traced a remarkable signal. The core of planet %PLANET% is oscillating in a regular pattern, and appears to be transmitting a signal. We have decoded the message from binary into some sort of language. However, this is where the trail ends. Perhaps you have some insight?}"
+FLEET_EXPLORE_SPECIAL_OPT_A_5,{Agree to help}
+FLEET_EXPLORE_SPECIAL_OPT_B_5,{Decline to help}
+FLEET_EXPLORE_SPECIAL_RES_A_5,{I agree to read the message. The fleet commander tells me I have to go to a secure location as they don't want to be spied on.}
+FLEET_EXPLORE_SPECIAL_RES_B_5,{I tell the fleet commander that I have no skill with robotic languages. They will have to figure the signal out by themselves.}
+FLEET_EXPLORE_SPECIAL_LOG_A_5,{We found a dangerous exploration situation and won!}
+FLEET_EXPLORE_SPECIAL_LOG_B_5,{We found a dangerous exploration situation but stayed out of it.}
+FLEET_EXPLORE_SPECIAL_LOG_C_5,{We found a dangerous exploration situation. It didn't go well for us.}
+FLEET_EXP_TRANSLATE_1_OSD,{SECURE TRANSMISSION MODULE LOCATED}
+FLEET_EXP_TRANSLATE_1_MARKER,{Encrypted Research Data}
+FLEET_EXP_TRANSLATE_1_TITLE,{Encrypted Research Data}
+FLEET_EXP_TRANSLATE_1_DESC,"{As promised, the fleet commander has transmitted their research data to this encrypted message module. The data is here, ready to download and translate.}"
+FLEET_EXP_TRANSLATE_OPT_A_1B,{Read Message}
+FLEET_EXP_TRANSLATE_OPT_B_1B,{Leave}
+DNT_FLEET_EXP_TRANSLATE_1,{Much carbon found on planet! Sell now! Buy metal - much demand for drills!}
+DNT_FLEET_EXP_TRANSLATE_2,{Much carbon found on planet! Sell now! Buy metal - much demand for drills!}
+DNT_FLEET_EXP_TRANSLATE_3,{Much carbon found on planet! Sell now! Buy metal - much demand for drills!}
+DNT_FLEET_EXP_TRANSLATE_4,{Much carbon found on planet! Sell now! Buy metal - much demand for drills!}
+DNT_FLEET_EXP_TRANSLATE_5,{Much carbon found on planet! Sell now! Buy metal - much demand for drills!}
+DNT_FLEET_EXP_TRANSLATE_6,{Much carbon found on planet! Sell now! Buy metal - much demand for drills!}
+DNT_FLEET_EXP_TRANSLATE_7,{Much carbon found on planet! Sell now! Buy metal - much demand for drills!}
+DNT_FLEET_EXP_TRANSLATE_8,{Much carbon found on planet! Sell now! Buy metal - much demand for drills!}
+DNT_FLEET_EXP_TRANSLATE_9,{Much carbon found on planet! Sell now! Buy metal - much demand for drills!}
+DNT_FLEET_EXP_TRANSLATE_10,{Much carbon found on planet! Sell now! Buy metal - much demand for drills!}
+FLEET_EXP_TRANSLATE_OPT_A_1C,{Study plants}
+FLEET_EXP_TRANSLATE_OPT_B_1C,{Study creatures}
+FLEET_EXP_TRANSLATE_OPT_C_1C,{Study minerals}
+FLEET_EXP_TRANSLATE_OPT_D_1C,{Flee the system}
+FLEET_EXP_TRANSLATE_OPT_E_1C,{Disinfect the fleet}
+FLEET_EXP_TRANSLATE_OPT_F_1C,{Study the local star}
+FLEET_EXP_TRANSLATE_OPT_G_1C,{Scan for technology}
+FLEET_EXP_TRANSLATE_CALL,"{%CAP_RACE%, were you able to make sense of the data? What should we do?}"
+FLEET_EXP_TRANSLATE_RES_A_1C,{I translate the data for the fleet commander. The data indicates something strange in the DNA of local plantlife. I tell the fleet commander to direct their team's research accordingly.}
+FLEET_EXP_TRANSLATE_RES_B_1C,{I translate the data for the fleet commander. The data indicates something strange in the behaviour of local predators. I tell the fleet commander to direct their team's research accordingly.}
+FLEET_EXP_TRANSLATE_RES_C_1C,{I translate the data for the fleet commander. The data indicates highly anomalous metal content in the local geology. I tell the fleet commander to direct their team's research accordingly.}
+FLEET_EXP_TRANSLATE_RES_D_1C,{I translate the data for the fleet commander. The data shows alarming gravitational anomalies frequently warp spacetime in the local area. I tell the fleet commander to flee the system.}
+FLEET_EXP_TRANSLATE_RES_E_1C,{I translate the data for the fleet commander. The data indicates a rapidly mutating virus lives in the lungs of local creatures. I instruct the fleet commander to disinfect their ships immediately.}
+FLEET_EXP_TRANSLATE_RES_F_1C,{I translate the data for the fleet commander. The data indicates something unusual in the magnetic field of the local star. I tell the fleet commander to direct their research accordingly.}
+FLEET_EXP_TRANSLATE_RES_G_1C,{I translate the data for the fleet commander. The data indicates advanced technology to be found in the local system. I direct the fleet commander to direct their scans accordingly.}
+FLEET_EXP_TRANSLATE_RES_J_1C,"{I translate the data for the fleet commander, but it shows few meaningful patterns. I tell the fleet commander this message is a dead end.}"
+FLEET_EXP_TRANSLATE_LOG_A_1,"{Acquired unusual data, encoded in an unknown language. The %CAP_RACE% was able to skillfully translate the message, and unlocked exciting new avenues of research for the fleet scientists.}"
+FLEET_EXP_TRANSLATE_LOG_B_1,"{Acquired unusual data, encoded in an unknown language. The %CAP_RACE% skilfully translated the message, but the resulting research yielded only toxic fumes and a series of unfortunate mutations.}"
+FLEET_EXP_TRANSLATE_LOG_C_1,"{Acquired unusual data, encoded in an unknown language. Despite their best efforts, the research team were unable to discern any meaning from the message.}"
+FLEET_EXPLORE_SPECIAL_9,"{%CAP_RACE%, we require immediate assistance! We deployed drones across the %SYSTEM% Sector, and their activities have angered the Sentinels! The fleet is under attack!}"
+FLEET_EXPLORE_SPECIAL_OPT_A_9,{Offer to help fight}
+FLEET_EXPLORE_SPECIAL_OPT_B_9,{Tell them to flee}
+FLEET_EXPLORE_SPECIAL_RES_A_9,{I reassure the fleet commander that I will come to their aid. They will not fight alone.}
+FLEET_EXPLORE_SPECIAL_RES_B_9,"{I tell the fleet commander it is not wise to anger the Sentinels further. Their best chance is to flee, and as fast as they can.}"
+FLEET_EXPLORE_SPECIAL_LOG_A_9,{Attacked by Sentinels while harvesting samples in the %SYSTEM% Sector. %CAP_RACE% travelled to our position and provided protection while the fleet fled the area.}
+FLEET_EXPLORE_SPECIAL_LOG_B_9,"{Attacked by Sentinels while harvesting samples in the %SYSTEM% Sector. %CAP_RACE% was unable to assist, and the fleet suffered severe damage during the escape.}"
+FLEET_EXPLORE_SPECIAL_LOG_C_9,"{Attacked by Sentinels while harvesting samples in the %SYSTEM% Sector. %CAP_RACE% was unable to assist, but the fleet was able to flee to safety with minimal damage.}"
+FLEET_EXPLORE_SPECIAL_10,"{%CAP_RACE%, the expedition is at a standstill. We have encountered a strange object, and none of our equipment is returning comprehensible results. We are positioned near a metal sphere in deep space. Smaller than a space station, it is emitting highly unusual signals. It does not appear hostile. What should we do?}"
+FLEET_EXPLORE_SPECIAL_OPT_A_10,{Tell them to land}
+FLEET_EXPLORE_SPECIAL_OPT_B_10,{Tell them to leave}
+FLEET_EXPLORE_SPECIAL_RES_A_10,"{I tell the fleet commander to assemble their best shuttle crew and attempt to land on or in the sphere. They agree, although they seem apprehensive.}"
+FLEET_EXPLORE_SPECIAL_RES_B_10,{I tell the fleet commander to leave the sphere be. Whatever - whoever - is responsible for it is unlikely to appreciate being poked at.}
+FLEET_EXPLORE_SPECIAL_LOG_A_10,"{Encountered a perfect metal sphere floating in orbit around planet %PLANET%. Consulted the %CAP_RACE% before approaching. No records survived the approach, nor any crew memories. However, we found the hold full of gifts.}"
+FLEET_EXPLORE_SPECIAL_LOG_B_10,"{Encountered a perfect metal sphere floating in orbit around planet %PLANET%. Consulted the %CAP_RACE% before approaching. No instruments survived the approach, nor any crew memories. Moved on quickly.}"
+FLEET_EXPLORE_SPECIAL_LOG_C_10,{Encountered a perfect metal sphere floating in orbit around planet %PLANET%. Took advice from the %CAP_RACE% and did not approach.}
+FLEET_EXPLORE_SPECIAL_11,"{%CAP_RACE%, the crew are in a dire situation. An expeditionary team was deployed to planet %PLANET%. They excavated a digsite, and found several jars of black water. For reasons unknown, the crew proceeded to drink the water. On return to the ship, they began to rant and rave. We have confined them to the medical bay, but I am unsure what our next steps should be...}"
+FLEET_EXPLORE_SPECIAL_OPT_A_11,{Keep them quarentineed}
+FLEET_EXPLORE_SPECIAL_OPT_B_11,{Vent them into space}
+FLEET_EXPLORE_SPECIAL_RES_A_11,"{I tell the fleet commander to keep the affected crew in isolation, and to do everything in their power to treat them. If kept stable, they may recover.}"
+FLEET_EXPLORE_SPECIAL_RES_B_11,"{The fleet commander reacts with surprise, but I insist. It is unfortunate, but they cannot take risks with the rest of the crew.}"
+FLEET_EXPLORE_SPECIAL_LOG_A_11,"{Crew drank strange black water found on planet %PLANET%. %CAP_RACE% advised a lengthy quarantine. With care, the crew recovered. They related tales of strange, otherworldly visions. Brain scans generated scientifically significant data.}"
+FLEET_EXPLORE_SPECIAL_LOG_B_11,"{Crew drank strange black water found on planet %PLANET%. %CAP_RACE% advised a lengthy quarantine. Crew experienced strange visions and were driven mad, destroying a large chunk of the medical bay before being subdued.}"
+FLEET_EXPLORE_SPECIAL_LOG_C_11,"{Crew drank strange black water found on planet %PLANET%. %CAP_RACE% advised the crew were compromised, and to jettision them into space. Did so, with regret.}"
+FLEET_EXPLORE_SPECIAL_12,"{%CAP_RACE%, I am afraid I must report an emergency, A geological research team was deployed to an interesting cave system on planet %PLANET%. During their research, they disturbed a fumarole. The gas that spewed from the vent did not match any known substance. The crew immediately evacuated. On their return, crew who inhaled the gas began reporting strange symptoms. Their eyes are bloodshot, and their skin has begun to glow. I have quarantined those affected, but am unsure what to do next.}"
+FLEET_EXPLORE_SPECIAL_OPT_A_12,{Return them to the planet}
+FLEET_EXPLORE_SPECIAL_OPT_B_12,{Treat with targeted radiation}
+FLEET_EXPLORE_SPECIAL_RES_A_12,{I tell the fleet commander to return the infected crew to the planet's surface. They cannot risk the lives of all onboard.}
+FLEET_EXPLORE_SPECIAL_RES_B_12,"{I tell the fleet commander to fight fire with fire. Treat the infected crew with targeted radiation beams, and burn out whatever mutation has stricken them.}"
+FLEET_EXPLORE_SPECIAL_LOG_A_12,"{Crew inhaled strange gas on planet %PLANET%. On advice of the %CAP_RACE%, left infected crew planetside and surveyed from orbit. Crew developed remarkable abilities, and appeared unaffected by the toxic atmosphere. Isolated the mutation for further study.}"
+FLEET_EXPLORE_SPECIAL_LOG_B_12,"{Crew inhaled strange gas on planet %PLANET%. On advice of the %CAP_RACE%, left infected crew planetside and surveyed from orbit. Crew became rapidly ill and died.}"
+FLEET_EXPLORE_SPECIAL_LOG_C_12,"{Crew inhaled strange gas on planet %PLANET%. On advice of the %CAP_RACE%, treated crew with aggressive dose of radiation. The combined result was a remarkable series of mutations, each scientifically significant. Unfortunately, crew did not survive the procedure.}"
+FLEET_EXPLORE_SPECIAL_LOG_D_12,"{Crew inhaled strange gas on planet %PLANET%. On advice of the %CAP_RACE%, treated crew with aggressive dose of radiation. Treatment failed. Infected crew quickly fell ill and died.}"
+FLEET_EXPLORE_SPECIAL_13,"{%CAP_RACE%, I have news of an opportunity in the %SYSTEM% Sector. The fleet has encountered a black hole. Spin conditions and relative mass indicate the hole may be suitable for long-distance travel. The potential for discovery is significant. Nonetheless, I cannot risk the fleet without your approval. Should we proceed?}"
+FLEET_EXPLORE_SPECIAL_OPT_A_13,{Enter the black hole}
+FLEET_EXPLORE_SPECIAL_OPT_B_13,{Avoid it}
+FLEET_EXPLORE_SPECIAL_RES_A_13,"{I give the go-ahead to the slightly apprehensive fleet commander. I reassure them, telling them to trust the calculations of their engineers and to look forward to the strange sights that surely await them on the other side.}"
+FLEET_EXPLORE_SPECIAL_RES_B_13,{I tell the fleet commander to avoid the black hole. Local space is barely mapped. There is plenty to discover without risking lives in a gravitational anomaly.}
+FLEET_EXPLORE_SPECIAL_LOG_A_13,"{Entered a black hole in the %SYSTEM% Sector. Passed through thousands of systems in the blink of an eye, harvesting data on countless wonders. All ships left the wormhole at the correct moment and safely returned to conventional spacetime.}"
+FLEET_EXPLORE_SPECIAL_LOG_B_13,{Entered a black hole in the %SYSTEM% Sector. Minor error in approach angle caused the wormhole to scatter the fleet across several systems. Considerable fuel expended reuniting the fleet. Significant gravitational damage.}
+FLEET_EXPLORE_SPECIAL_LOG_C_13,{Encountered a black hole in the %SYSTEM% Sector. Some wormhole potential exhibited. Took measurements from afar but on advice from the %CAP_RACE% did not approach the event horizon.}
+FLEET_EXPLORE_SPECIAL_14,"{%CAP_RACE%, I request your approval for an unusual expedition. The fleet is in low orbit over a highly unusual planet. The surface appears metallic, composed largely of polygonal shapes. We have detected a series of strange, repeating signals. I wish to deploy a ground crew, but this carries a high degree of risk. Shall we proceed?}"
+FLEET_EXPLORE_SPECIAL_OPT_A_14,{Deploy the crew}
+FLEET_EXPLORE_SPECIAL_OPT_B_14,{Avoid the planet}
+FLEET_EXPLORE_SPECIAL_RES_A_14,"{I tell the fleet commander to proceed. Every planetary expedition carries risk, but few planets seem as interesting as this one.}"
+FLEET_EXPLORE_SPECIAL_RES_B_14,{I tell the fleet commander to stand their crew down. Anomalies such as this are not to be trifled with. The fleet commander seems relieved.}
+FLEET_EXPLORE_SPECIAL_LOG_A_14,"{Discovered a metallic planet in the %SYSTEM% System, with a surface covered in hexagons. Deployed planetary crew. Crew were able to capture and decode strange signal emanating from the planet core. Significant discoveries made.}"
+FLEET_EXPLORE_SPECIAL_LOG_B_14,"{Discovered a metallic planet in the %SYSTEM% System, with a surface covered in hexagons. Deployed planetary crew. Deafening loud radio booms repeatedly shook the surface, driving the crew back to the ship.}"
+FLEET_EXPLORE_SPECIAL_LOG_C_14,"{Discovered a metallic planet in the %SYSTEM% System, with a surface covered in hexagons. Studied it for signals, but on advice of the %CAP_RACE%, declined to land crew. }"
+FLEET_EXPLORE_SPECIAL_15,"{Greetings from the %SYSTEM% System, %CAP_RACE%. I have unfortunate news. Several of the crew have taken ill after visiting planet %PLANET%. Feverous and cramping, they appear to be in great pain. The crew report seeing creatures with these symptoms on the planet surface, presumably the source of this outbreak. I have confined affected crew to the medical bay, but it appears highly contagious. What should we do?}"
+FLEET_EXPLORE_SPECIAL_OPT_A_15,{Capture infected creatures}
+FLEET_EXPLORE_SPECIAL_OPT_B_15,{Sedate affected crew}
+FLEET_EXPLORE_SPECIAL_RES_A_15,"{I tell the fleet commander to send another expedition down to the surface. If they can capture one of the infected creatures, they might be able to synthesise a cure.}"
+FLEET_EXPLORE_SPECIAL_RES_B_15,"{I tell %NAME% to keep the infected crew sedated, and to lock down the medical bay. They must prevent the infection spreading at all costs.}"
+FLEET_EXPLORE_SPECIAL_LOG_A_15,"{Ground crew became infected after coming into contact with local fauna on planet %PLANET%. On advice of the %CAP_RACE%, confined the crew to the medical bay. Infection did not spread, but fatality rate among affected crew was 90%.}"
+FLEET_EXPLORE_SPECIAL_LOG_B_15,"{Ground crew became infected after coming into contact with local fauna on planet %PLANET%. On advice of the %CAP_RACE%, returned to the surface and captured infected creatures. Lab crew were able to successfully synthesise a cure. Crew look healthier than ever.}"
+FLEET_EXPLORE_SPECIAL_LOG_C_15,"{Ground crew became infected after coming into contact with local fauna on planet %PLANET%. On advice of the %CAP_RACE%, return to the surface in attempt to find a cure. No cure found, and more crew became infected. Significant fatalities.}"
+FLEET_EXPLORE_SPECIAL_16,"{%CAP_RACE%, I require your advice. The crew investigated a crashed freighter on planet %PLANET%. They found nothing of note, but have been complaining of strange happenings on board the ship ever since. Moved items, strange whispers, unexplained equipment failure. No-one has been harmed, but the crew are becoming nervous and difficult to manage.}"
+FLEET_EXPLORE_SPECIAL_OPT_A_16,{Research the activity}
+FLEET_EXPLORE_SPECIAL_OPT_B_16,{Tell the crew to ignore it.}
+FLEET_EXPLORE_SPECIAL_RES_A_16,{I tell the fleet commander to make the strange goings on a focus of their research. The paranormal is often a sign of some new discoveries waiting to be made.}
+FLEET_EXPLORE_SPECIAL_RES_B_16,"{I tell the fleet commander to get a grip on their crew. Strange noises and the occasional steam explosion are all part of normal life on a starship, and are nothing to fear.}"
+FLEET_EXPLORE_SPECIAL_LOG_A_16,{Crew became fearful of suspected paranormal activity while crossing the %SYSTEM% Sector. Investigated source of 'outbreak' and found previously unrecorded species of space-rodent living in the engine pipes. Profitable discovery made; damage to pipes avoided.}
+FLEET_EXPLORE_SPECIAL_LOG_B_16,"{Crew became fearful of suspected paranormal activity while crossing the %SYSTEM% Sector. Lab crew began to research the phenomenon, but found nothing. Crew developed insomnia. Stopped research and warped out of the system before any further damage could be caused.}"
+FLEET_EXPLORE_SPECIAL_LOG_C_16,{Crew became fearful of suspected paranormal activity while crossing the %SYSTEM% Sector. The %CAP_RACE% admonished the crew and restored their usual good spirits.}
+FLEET_EXPLORE_SPECIAL_18,"{%CAP_RACE%, I have troubling news. We have encountered strange entities in the %SYSTEM% Sector. They shimmer in and out of existence, and our equipment cannot capture their image. Our efforts to communicate have been in vain, though they have caused us no harm - yet. What should we do?}"
+FLEET_EXPLORE_SPECIAL_OPT_A_18,{Open fire}
+FLEET_EXPLORE_SPECIAL_OPT_B_18,{Broadcast music}
+FLEET_EXPLORE_SPECIAL_RES_A_18,{I tell the fleet commander to immediately open fire. It will show these strange beings that we are not to be trifled with.}
+FLEET_EXPLORE_SPECIAL_RES_B_18,"{I tell the fleet commander to stop their conventional hailing messages, and instead broadcast a piece of music. It succeed in communicating where words have failed.}"
+FLEET_EXPLORE_SPECIAL_LOG_A_18,"{Encountered ethereal spaceships in the %SYSTEM% Sector. Ships did not respond to hails. On advice from the %CAP_RACE%, opened fire. Starships immediately vanished, but left behind large quantities of precious metal.}"
+FLEET_EXPLORE_SPECIAL_LOG_B_18,"{Encountered ethereal spaceships in the %SYSTEM% Sector. Ships did not respond to hails. On advice from the %CAP_RACE%, opened fire. Starships turned hostile, causing significant damage to the fleet. After firing their weapons, they warped away.}"
+FLEET_EXPLORE_SPECIAL_LOG_C_18,"{Encountered ethereal spaceships in the %SYSTEM% Sector. Ships did not respond to hails. On advice from the %CAP_RACE%, broadcast peaceful music. Starships replied with a musical broadcast of their own, and beamed vast quantities of data directly the fleet central computer.}"
+FLEET_EXPLORE_SPECIAL_LOG_D_18,"{Encountered ethereal spaceships in the %SYSTEM% Sector. Ships did not respond to hails. On advice from the %CAP_RACE%, broadcast peaceful music. Visitors appeared to be angered by the broadcast, and fired several highly damaging volleys at the fleet before warping out.}"
+FLEET_EXPLORE_SPECIAL_19,"{%CAP_RACE%, I am forced to report an emergency! A high-intensity gamma burst has overwhelmed the fleet's protective fields while surveying the %SYSTEM% System! Core components are overheating, and we will not be able to contain them much longer! We must shut down vital systems while we recovery, but each poses unacceptable risks. What should we do?}"
+FLEET_EXPLORE_SPECIAL_OPT_A_19,{Shut down engines}
+FLEET_EXPLORE_SPECIAL_OPT_B_19,{Shut down electrical systems}
+FLEET_EXPLORE_SPECIAL_RES_A_19,{I tell the fleet commander to immediately shut down the engines. They should attempt to keep the fleet in trim while the temperatures return to an acceptable level.}
+FLEET_EXPLORE_SPECIAL_RES_B_19,"{I tell the fleet commander to immediately shut down the core electrical loom. It may be an uncomfortable experience, but it should allow temperatures to recover to acceptable levels.}"
+FLEET_EXPLORE_SPECIAL_LOG_A_19,"{Fleet damaged by gamma burst in the %SYSTEM% Sector. Heat alarms triggered. Shut down the engines after taking advice from the %CAP_RACE%. Procedure successful: fleet escaped damage, and gained useful data from the gamma burst.}"
+FLEET_EXPLORE_SPECIAL_LOG_B_19,"{Fleet damaged by gamma burst in the %SYSTEM% Sector. Heat alarms triggered. Shut down the engines after taking advice from the %CAP_RACE%. Heat levels continued to rise, and fleet collided with asteroid field while unpowered.}"
+FLEET_EXPLORE_SPECIAL_LOG_C_19,"{Fleet damaged by gamma burst in the %SYSTEM% Sector. Heat alarms triggered. Shut down the core electrical loom after taking advice from the %CAP_RACE%. Procedure successful: fleet escaped damage, and gained useful data from the gamma burst.}"
+FLEET_EXPLORE_SPECIAL_LOG_D_19,"{Fleet damaged by gamma burst in the %SYSTEM% Sector. Heat alarms triggered. Shut down the core electrical loom after taking advice from the %CAP_RACE%. Temperatures continued to rise, and several crew members were vented into space when the electrical shutdown opened the airlocks.}"
+FLEET_EXPLORE_SPECIAL_20,"{%CAP_RACE%, I report a discovery in the %SYSTEM% System. Botanists exploring planet %PLANET% discovered a tree with an irresistible-smelling fruit. Clearly, it desires we consume it. However, to simply obey a random plant would be madness. We must test this fruit first. The question is, how?}"
+FLEET_EXPLORE_SPECIAL_OPT_A_20,{Test on crew}
+FLEET_EXPLORE_SPECIAL_OPT_B_20,{Test on creatures}
+FLEET_EXPLORE_SPECIAL_OPT_C_20,{Test with equipment}
+FLEET_EXPLORE_SPECIAL_OPT_D_20,{Don't test}
+FLEET_EXPLORE_SPECIAL_RES_A_20,"{I tell the fleet commander to go ahead and consume the fruit, though to start with the more expendable crew.}"
+FLEET_EXPLORE_SPECIAL_RES_B_20,"{I tell the fleet commander to feed the fruit to creatures from nearby planets. They will have evolved alongside it, and may offer some useful data.}"
+FLEET_EXPLORE_SPECIAL_RES_C_20,{I remind the fleet commander that they head a well-equipped research fleet. They have ample lab facilities to fully test the fruit without just eating it.}
+FLEET_EXPLORE_SPECIAL_RES_D_20,{I tell the fleet commander to dispose of the fruit immediately. Nothing good can come it.}
+FLEET_EXPLORE_SPECIAL_LOG_A_20,{Collected irresistible-smelling fruit on planet %PLANET%. Took advice from the %CAP_RACE% and fed the fruit to the crew. Seeds germinated within their stomachs. Plant rapidly grew and consumed them from the inside.}
+FLEET_EXPLORE_SPECIAL_LOG_B_20,"{Collected irresistible-smelling fruit on planet %PLANET%. Took advice from the %CAP_RACE% and fed the fruit to the crew. Crew reported increased energy, some extra colour vision. No reported side effects.}"
+FLEET_EXPLORE_SPECIAL_LOG_C_20,{Collected irresistible-smelling fruit on planet %PLANET%. Took advice from the %CAP_RACE% and fed the fruit to creatures found nearby. Seeds germinated within their stomachs. Plant rapidly grew and consumed them from the inside. Recorded observations.}
+FLEET_EXPLORE_SPECIAL_LOG_D_20,"{Collected irresistible-smelling fruit on planet %PLANET%. Took advice from the %CAP_RACE% and fed the fruit to creatures found nearby. Creatures showed no ill-effect, moved testing on to the crew. Result: severe food poisoning.}"
+FLEET_EXPLORE_SPECIAL_LOG_E_20,{Collected irresistible-smelling fruit on planet %PLANET%. Took advice from the %CAP_RACE% and fed the fruit to creatures found nearby. Creatures quickly fell ill and died. Forbade crew from further interactions with the fruit.}
+FLEET_EXPLORE_SPECIAL_LOG_F_20,"{Collected irresistible-smelling fruit on planet %PLANET%. Took advice from the %CAP_RACE% and tested the fruit in the lab. Recorded detailed observations, prepared genetic sample for exchange with the Explorers Guild.}"
+FLEET_EXPLORE_SPECIAL_LOG_G_20,{Collected irresistible-smelling fruit on planet %PLANET%. Took advice from the %CAP_RACE% and jettisoned the fruit into space.}
+ALL_FLEET_DAMAGE_REPORT,{Automated Fleet Diagnostic Report: <FUEL>SIGNIFICANT DAMAGE<>. Captain's Log follows:}
+WAR_FLEET_DAMAGED_LANG_1,"{Grah! Our ship may be damaged, but our spirit is undiminished! Nevertheless, %CAP_RACE%, repairing the damage would not be dishonourable act.}"
+WAR_FLEET_DAMAGED_LANG_2,{Grah! %CAP_RACE%! Our ship has suffered greatly in your service! Honour us with maintenance!}
+WAR_FLEET_DAMAGED_LANG_3,"{%CAP_RACE%! We cannot bring you glory in battle, for our ship is weak and flimsy! Allow us to serve you. Repair our damaged craft!}"
+WAR_FLEET_DAMAGED_LANG_4,"{Pathetic fools have tried to scratch our mighty vessel, %CAP_RACE%! Grah! We are happy to die in glorious battle! But if this is not your wish for us, consider performing repairs!}"
+EXP_FLEET_DAMAGED_LANG_1,"{%CAP_RACE%, our sensors show significant internal damage. Our ship is in great pain. Please, assist us in healing it.}"
+EXP_FLEET_DAMAGED_LANG_2,"{Eheu, %CAP_RACE%, it is good to hear from you! But this is a sad time. Our ship is damaged. Will you help us?}"
+EXP_FLEET_DAMAGED_LANG_3,"{%CAP_RACE%, we wish to serve. But our vessel is fallible metal, a temporary shell. Assist us in repairing it and prolonging this iteration!}"
+EXP_FLEET_DAMAGED_LANG_4,"{Aieeeee! Our vessel is failing! It cannot endure long in this state! Help us, %CAP_RACE%! Help us repair this damage!}"
+TRA_FLEET_DAMAGED_LANG_1,"{Captain-Friend! Our ship is badly damaged! You will help us fix it, yes?}"
+TRA_FLEET_DAMAGED_LANG_2,"{Our ship is damaged, %CAP_RACE%! But this will not last long, yes? You are coming to help?}"
+TRA_FLEET_DAMAGED_LANG_3,"{We are in need of a friend, %CAP_RACE%! Our ship is damaged, and we cannot fix it alone! You will help, yes?}"
+TRA_FLEET_DAMAGED_LANG_4,"{Our ship is damaged, but this is a joyful day! You are coming to see us, yes %CAP_RACE%? To fix our ship? The crew will be so happy to see you!}"
+FLEET_DAMAGED_OPT_A,{Inspect Damage Report}
+FLEET_DAMAGED_OPT_B,{Ignore Report}
+FLEET_DAMAGED_OPT_C,{Mark Damaged Component}
+NPC_FLEET_REPAIR_TITLE,{Fleet Autodiagnostics}
+NPC_FLEET_DAMAGED_DESC_1,{Fleet Autodiagnostics Report: Moderate damage to internal systems detected. Manual repairs needed. Crew incapable of performing maintenance.}
+NPC_FLEET_DAMAGED_DESC_2,{Fleet Autodiagnostics Report: Core systems damaged. Continued operation risks destruction. Suggest immediate repair.}
+NPC_FLEET_DAMAGED_DESC_3,"{Fleet Autodiagnostics Report: Urgent maintenance required. Repair drones reaching failure threshold. Core systems at risk, manual repair required.}"
+NPC_FLEET_DAMAGED_DESC_4,{Fleet Autodiagnostics Report: Internal damage containment systems failing. Hull integrity approaching failure. Urgent repairs required.}
+NPC_FLEETCOMMS_DAMAGE_LANG_1,"{I bring bad news, %CAP_RACE%. Our fleet has been involved in a serious incident, sustaining heavy damage. Please, inspect the damage report. I require your advice.}"
+NPC_FLEETCOMMS_DAMAGE_LANG_2,"{Unfortunate news, %CAP_RACE%. There has been an... incident... and the fleet has been badly damaged. I will prepare a full report for you. But in the meantime, I require your advice.}"
+NPC_FLEETCOMMS_DAMAGE_LANG_3,"{We have a problem, %CAP_RACE%. One of our ships has been badly damaged, and will struggle to complete our expedition. What shall we do?}"
+NPC_FLEETCOMMS_DAMAGE_LANG_4,"{I am sorry to report a significant problem, %CAP_RACE%. Our fleet has been badly damaged. I am beginning an enquiry, but in the meantime we require your orders. Should the damaged ship continue with its mission?}"
+NPC_FLEETCOMMS_CONTINUE_RES,{Command registered: Frigate %FRIGATE_NAME% continuing with the mission.}
+NPC_FLEETCOMMS_COMEHOME_RES,{Command registered: Frigate %FRIGATE_NAME% returning to main fleet for maintenance.}
+NPC_FLEET_DAMAGED_LANG,{Fleet Autodiagnostics Report for Frigate %FRIGATE_NAME%: Ship has sustained mission critical damage. Crew are incapable of performing maintenance. Further damage risks catastrophic failure.}
+EXP_FLEET_PURCHASE_LANG_1,"{Greetings, Traveller. Do you seek to expand your fleet? You will find my starship among the finest in the sector.}"
+EXP_FLEET_PURCHASE_LANG_2,"{The Traveller-Entity seeks to expand their fleet, do they not? You will find the Korvax willing to help. My crew and my ship are ready for inspection.}"
+EXP_FLEET_PURCHASE_LANG_3,{Traveller! Do you seek to discover new ships for your fleet? You will find my crew an excellent addition.}
+EXP_FLEET_PURCHASE_LANG_4,{Eheu! The great Traveller! May I request the honour of joining your travels? My crew would serve well in your fleet.}
+EXP_FLEET_PURCHASE_LANG_5,"{Traveller-Captain. The Convergence knows you seek new recruits for your fleet. We are here to assist, if you require.}"
+EXP_FLEET_PURCHASE_LANG_6,"{Welcome us into your fleet, Traveller, and we shall welcome you into the Convergence.}"
+EXP_FLEET_PURCHASE_LANG_7,"{Traveller, do you seek new starship-entities for your fleet? You will find this vessel more than meets your needs.}"
+EXP_FLEET_PURCHASE_LANG_8,"{Eheu, the Traveller! Do you wish us to join your fleet? My vessel, and those who currently inhabit it, are yours to command.}"
+TRA_FLEET_PURCHASE_LANG_1,"{Hello friend! You are looking for new ships, yes? My starship is a fine one...}"
+TRA_FLEET_PURCHASE_LANG_2,"{Friend! You have a fine fleet, yes? I think it would be finer with just one more starship...}"
+TRA_FLEET_PURCHASE_LANG_3,"{Friend! You have many fine starships in your fleet, yes? None as fine as this, though! Please, look!}"
+TRA_FLEET_PURCHASE_LANG_4,"{Hello friend! Your fleet needs new friends, yes? Our starship would be a joyful addition to your fleet!}"
+TRA_FLEET_PURCHASE_LANG_5,"{How is your fleet, friend? Are your crews happy? Do they bring you many units? You will find my crew more happy and more lucrative than any other!}"
+TRA_FLEET_PURCHASE_LANG_6,"{Friend! Fleets bring much happiness, yes? Much joy from the glory of trade and battle? We will aid you! Let us join, friend!}"
+TRA_FLEET_PURCHASE_LANG_7,"{You are recruiting, yes? Traveller-friend shall find no better ship for their fleet than this one!}"
+TRA_FLEET_PURCHASE_LANG_8,"{You seek new ships for your fleet, yes? My ship is the best! Happy crew, excellent guns, roomy hanger! You will love it, friend!}"
+WAR_FLEET_PURCHASE_LANG_1,{Interloper! Do you tremble before the sight of our mighty starship? Do not fear! We are allies! Perhaps there is a place for us in your fleet?}
+WAR_FLEET_PURCHASE_LANG_2,"{Grah! You are forming a fleet, interloper? Our vessel is powerful, my crew is mighty! We honour you with our presence!}"
+WAR_FLEET_PURCHASE_LANG_3,{Interloper! Are you seeking glory for your fleet? Permit us to bolster your ranks!}
+WAR_FLEET_PURCHASE_LANG_4,{Grah! Our enemies cower before our mighty starship! We will bring great honour to your fleet!}
+WAR_FLEET_PURCHASE_LANG_5,"{You seek new recruits for your fleet, interloper? Inspect my vessel and gasp at its mighty hull, its well-trained crew!}"
+WAR_FLEET_PURCHASE_LANG_6,"{Do you seek to expand your fleet, interloper? My frigate shall bring you glory beyond compare!}"
+WAR_FLEET_PURCHASE_LANG_7,"{Grah! Greetings, from one commander to another! Do you seek new vessels for your fleet? We are proven in battle, and ready to fight once again! Grah!}"
+WAR_FLEET_PURCHASE_LANG_8,"{Vy'keen High Command require we all assist the interloper! My vessel is yours, should you have it in your fleet!}"
+FLEET_PURCHASE_OPT_A,{Inspect Frigate}
+FLEET_PURCHASE_OPT_B,{End Communication}
+EXP_FLEET_PURCHASE_RES_A_1,"{Very well, Traveller-Captain. We shall rendezvous with the rest of the fleet immediately.}"
+EXP_FLEET_PURCHASE_RES_A_2,"{It will be a pleasure to converge our ship with you fleet, Traveller.}"
+EXP_FLEET_PURCHASE_RES_A_3,"{Eheu! Our vessel shall be yours, Traveller.}"
+TRA_FLEET_PURCHASE_RES_A_1,"{You have made an excellent decision, friend.}"
+TRA_FLEET_PURCHASE_RES_A_2,"{Yes, Captain-Friend! We will navigate to your capital ship immediately!}"
+TRA_FLEET_PURCHASE_RES_A_3,{The new Captain is an excellent friend! The crew will have such joy to join your fleet!}
+WAR_FLEET_PURCHASE_RES_A_1,"{You will not regret this, interloper!}"
+WAR_FLEET_PURCHASE_RES_A_2,{Grah! We will bring great glory to your fleet!}
+WAR_FLEET_PURCHASE_RES_A_3,"{Grah! Grah! Grah! Crew, to your stations!}"
+FLEET_MISSION_SUB,{Support the Expedition}
+FLEET_EXPLORE_MISSION_DESC,"{The expedition has run into trouble while on a journey of exploration in deep space. The fleet commander has called for my assistance. I should help them as soon as possible, and allow them to return to their mission of discovery.}"
+FLEET_COMBAT_MISSION_DESC,"{The expedition has run into trouble while out on a combat patrol in deep space. The fleet commander has called for my assistance. I should help them as soon as possible, and allow them to get their journey back on track.}"
+FLEET_MINING_MISSION_DESC,"{The expedition has run into trouble while surveying systems for mining and salvage opportunities. The fleet commander has called for my assistance. I should help them as soon as possible, and allow them to return to their work.}"
+FLEET_TRADING_MISSION_DESC,"{The expedition has run into trouble while looking for trading opportunities in deep space. The fleet commander has called for my assistance. I should help them as soon as possible, and allow them to return to making profits.}"
+FLEET_SCAN_FLORA_OBJ,{Scan flora and send data to the fleet}
+FLEET_SCAN_FLORA_OBJ_TIP,{Use <IMG>AIM<> to use the <TECHNOLOGY>Analysis Visor<>. Scan new types of flora to make discoveries. Targets must be kept steady in the targeting reticle to scan.}
+FLEET_SCAN_CRE_OBJ,{Scan creatures and send data to the fleet}
+FLEET_SCAN_CRE_OBJ_TIP,{Use <IMG>AIM<> to use the <TECHNOLOGY>Analysis Visor<>. Scan new types of creature to make discoveries. Targets must be kept steady in the targeting reticle to scan.}
+FLEET_SCAN_MIN_OBJ,{Scan minerals and send data to the fleet}
+FLEET_SCAN_MIN_OBJ_TIP,{Use <IMG>AIM<> to use the <TECHNOLOGY>Analysis Visor<>. Scan new types of mineral to make discoveries. Targets must be kept steady in the targeting reticle to scan.}
+FLEET_COMMS_MSG,{Return to space to make contact with the fleet commander}
+FLEET_COMBAT_OBJ1,{Protect the fleet}
+FLEET_COMBAT_OBJ1_TIP,{The expedition is under attack from pirates. Use the Galaxy Map (<IMG>QUICK_MENU<>) to locate the fleet and travel to their location.}
+FLEET_COMBAT_OBJ2,{Help the fleet claim a bounty}
+FLEET_COMBAT_OBJ2_TIP,{The expedition has located a notorious pirate. Use the Galaxy Map (<IMG>QUICK_MENU<>) to locate the fleet and travel to their location.}
+FLEET_COMBAT_MSG1,{Rendezvous with the fleet}
+FLEET_COMBAT_MSG2,{Protect the fleet Pirates remaining: %AMOUNT%}
+FLEET_COMBAT_MSG3,{Track the bounty target}
+FLEET_COMBAT_MSG4,{Destroy the bounty target}
+FLEET_TRADING_OBJ,{Translate trading data for the fleet}
+FLEET_TRADING_OBJ_MSG,{The data is waiting in a secure message module. Translating the message will require knowledge of alien languages.}
+FLEET_TRADING_MSG,{Locate the secure message module Translate the alien message}
+FLEET_EXPLORE_1_MSG1,{Plants discovered: %CURRENT%/%AMOUNT% Scan flora to gather antidote data for the fleet}
+FLEET_WORMHOLE_1,"{It is good to see you have not been scrambled, %CAP_RACE%! The maneuver was successful, though the energy field appears to have dissipated.}"
+FLEET_WORMHOLE_2,"{Success, %CAP_RACE%! The wormhole has brought you directly to us! And without any of the terrifying consequences some of our engineers predicted! The operation appears to have used up the energy fluctuations, but all is otherwise well.}"
+FLEET_WORMHOLE_3,"{Ah %CAP_RACE%! For a moment we thought we had lost you: the scanner indicated you had travelled some way into a different timeline. But our engineers were able to recover the signal, and here you are! The energy field has vanished, but all other readings are nominal.}"
+FLEET_WORMHOLE_OPT_A,{End Communication}
+FLEET_WORMHOLE_OPT_B,{Wish them luck}
+FLEET_WORMHOLE_RES_A,{The fleet commander turns back to their bridge and prepares the expedition for warp.}
+FLEET_WORMHOLE_RES_B,{I wish the fleet luck with the rest of their journey. The commander nods. They salute and end the message.}
+FLEET_DATA_TRANSFER_1,"{Do you have the data, %CAP_RACE%? The research team are standing by.}"
+FLEET_DATA_TRANSFER_OPT_A,{Transmit Data}
+FLEET_DATA_TRANSFER_RES_A,"{My thanks, %CAP_RACE%. I shall see to it that the data is passed on immediately.}"
+FLEET_TRAIT_PRI_EXPLORE_1,{Exploration Specialist}
+FLEET_TRAIT_PRI_COMBAT_1,{Combat Specialist}
+FLEET_TRAIT_PRI_TRADING_1,{Trade Specialist}
+FLEET_TRAIT_PRI_MINING_1,{Industrial Specialist}
+FLEET_TRAIT_PRI_FUEL_1,{Support Specialist}
+FLEET_TRAIT_EXPLORE_NAME,{%AMOUNT% Exploration}
+FLEET_TRAIT_COMBAT_NAME,{%AMOUNT% Combat}
+FLEET_TRAIT_TRADING_NAME,{%AMOUNT% Trading}
+FLEET_TRAIT_MINING_NAME,{%AMOUNT% Industry}
+FLEET_TRAIT_SUPPORT_NAME,{%AMOUNT% Expedition Fuel Cost}
+FLEET_TRAIT_FUEL_NAME,{%AMOUNT% Cost Per Warp}
+FLEET_TRAIT_MORE_LOOT_NAME,{Finds Larger Rewards}
+FLEET_TRAIT_GOOD_LOOT_NAME,{Finds Better Rewards}
+FLEET_TRAIT_SALVAGE_NAME,{Finds Extra Rewards}
+FLEET_TRAIT_INVULNERABLE_NAME,{Damage Reduction}
+FLEET_TRAIT_SPEED_NAME,{%AMOUNT%% Expedition Duration}
+FLEET_COMPARE_EFFICIENCY,{Fuel Efficiency: %AMOUNT%}
+FLEET_TRAIT_SEC_EXPLORE_1,{Anomaly Scanner}
+FLEET_TRAIT_SEC_EXPLORE_2,{Interstellar Signal Array}
+FLEET_TRAIT_SEC_EXPLORE_3,{Cartography Drones}
+FLEET_TRAIT_SEC_EXPLORE_4,{Realtime Archival Device}
+FLEET_TRAIT_SEC_EXPLORE_5,{Gravitational Visualiser}
+FLEET_TRAIT_SEC_EXPLORE_6,{Spacetime Anomaly Shielding}
+FLEET_TRAIT_SEC_EXPLORE_7,{Planetary Data Scoop}
+FLEET_TRAIT_SEC_EXPLORE_8,{Stowaway Botanist}
+FLEET_TRAIT_SEC_EXPLORE_9,{Radio Telescopes}
+FLEET_TRAIT_SEC_EXPLORE_10,{Fauna Analysis Device}
+FLEET_TRAIT_SEC_EXPLORE_11,{Holographic Displays}
+FLEET_TRAIT_SEC_EXPLORE_12,{Long-Distance Sensors}
+FLEET_TRAIT_SEC_COMBAT_1,{Massive Guns}
+FLEET_TRAIT_SEC_COMBAT_2,{Ablative Armour}
+FLEET_TRAIT_SEC_COMBAT_3,{Cloaking Device}
+FLEET_TRAIT_SEC_COMBAT_4,{Ultrasonic Weapons}
+FLEET_TRAIT_SEC_COMBAT_5,{Experimental Weaponry}
+FLEET_TRAIT_SEC_COMBAT_6,{Tremendous Cannons}
+FLEET_TRAIT_SEC_COMBAT_7,{Hidden Weaponry}
+FLEET_TRAIT_SEC_COMBAT_8,{Ammo Fabricators}
+FLEET_TRAIT_SEC_COMBAT_9,{Reinforced Hull}
+FLEET_TRAIT_SEC_COMBAT_10,{Aggressive Probes}
+FLEET_TRAIT_SEC_COMBAT_11,{Angry Captain}
+FLEET_TRAIT_SEC_COMBAT_12,{Retrofitted Turrets}
+FLEET_TRAIT_SEC_TRADING_1,{Trade Analysis Computer}
+FLEET_TRAIT_SEC_TRADING_2,{Automatic Investment Engine}
+FLEET_TRAIT_SEC_TRADING_3,{Mind Control Device}
+FLEET_TRAIT_SEC_TRADING_4,{HypnoDrones}
+FLEET_TRAIT_SEC_TRADING_5,{Propaganda Device}
+FLEET_TRAIT_SEC_TRADING_6,{Teleportation Device}
+FLEET_TRAIT_SEC_TRADING_7,{Economy Scanner}
+FLEET_TRAIT_SEC_TRADING_8,{Remote Market Analyser}
+FLEET_TRAIT_SEC_TRADING_9,{Robot Butlers}
+FLEET_TRAIT_SEC_TRADING_10,{AutoTranslator}
+FLEET_TRAIT_SEC_TRADING_11,{Negotiation Module}
+FLEET_TRAIT_SEC_TRADING_12,{Well-Groomed Crew}
+FLEET_TRAIT_SEC_MINING_1,{Laser Drill Array}
+FLEET_TRAIT_SEC_MINING_2,{Tractor Beam}
+FLEET_TRAIT_SEC_MINING_3,{Ultrasonic Welders}
+FLEET_TRAIT_SEC_MINING_4,{Ore Processing Unit}
+FLEET_TRAIT_SEC_MINING_5,{Terraforming Beams}
+FLEET_TRAIT_SEC_MINING_6,{Asteroid Vaporizer}
+FLEET_TRAIT_SEC_MINING_7,{Mineral Extractors}
+FLEET_TRAIT_SEC_MINING_8,{Extendable Drills}
+FLEET_TRAIT_SEC_MINING_9,{Asteroid Scanner}
+FLEET_TRAIT_SEC_MINING_10,{Harvester Drones}
+FLEET_TRAIT_SEC_MINING_11,{Metal Detector}
+FLEET_TRAIT_SEC_MINING_12,{Remote Mining Unit}
+FLEET_TRAIT_SEC_FUEL_1,{Large Tanks}
+FLEET_TRAIT_SEC_FUEL_2,{Oversized Fuel Scoop}
+FLEET_TRAIT_SEC_FUEL_3,{Generator Grid}
+FLEET_TRAIT_SEC_FUEL_4,{Antimatter Cycler}
+FLEET_TRAIT_SEC_FUEL_5,{Advanced Power Distributor}
+FLEET_TRAIT_SEC_FUEL_6,{Portable Fusion Ignitor}
+FLEET_TRAIT_SEC_FUEL_7,{Oxygen Recycler}
+FLEET_TRAIT_SEC_FUEL_8,{Tuned Engines}
+FLEET_TRAIT_SEC_FUEL_9,{Robot Crew}
+FLEET_TRAIT_SEC_FUEL_10,{Photon Sails}
+FLEET_TRAIT_SEC_FUEL_11,{Overclocked Power Distributor}
+FLEET_TRAIT_SEC_FUEL_12,{Solar Panels}
+FLEET_TRAIT_SEC_FUEL_13,{Efficient Warp Drive}
+FLEET_TRAIT_SEC_SPEED_1,{Local Time Dilator}
+FLEET_TRAIT_SEC_SPEED_2,{Mass Driver}
+FLEET_TRAIT_SEC_SPEED_3,{Expert Navigator}
+FLEET_TRAIT_SEC_SPEED_4,{Alcubierre Drive}
+FLEET_TRAIT_SEC_SPEED_5,{Wormhole Generator}
+FLEET_TRAIT_SEC_SPEED_6,{Experimental Impulse Drive}
+FLEET_TRAIT_SEC_SPEED_7,{Motivated Crew}
+FLEET_TRAIT_SEC_SPEED_8,{Dynamic Ballast}
+FLEET_TRAIT_SEC_GOOD_LOOT_1,{Veteran Captain}
+FLEET_TRAIT_SEC_GOOD_LOOT_2,{Onboard Laboratory}
+FLEET_TRAIT_SEC_GOOD_LOOT_3,{Precision Weaponry}
+FLEET_TRAIT_SEC_GOOD_LOOT_4,{Research Specialist}
+FLEET_TRAIT_SEC_GOOD_LOOT_5,{Veteran Artifact Handler}
+FLEET_TRAIT_SEC_MORE_LOOT_1,{Treasure Detector}
+FLEET_TRAIT_SEC_MORE_LOOT_2,{Onboard Replicators}
+FLEET_TRAIT_SEC_MORE_LOOT_3,{Onboard Refinery}
+FLEET_TRAIT_SEC_MORE_LOOT_4,{Efficient Mass Processor}
+FLEET_TRAIT_SEC_MORE_LOOT_5,{Colossal Matter Scoop}
+FLEET_TRAIT_SEC_INVULNERABLE_1,{Self-Repairing Hull}
+FLEET_TRAIT_SEC_INVULNERABLE_2,{Advanced Maintenance Drones}
+FLEET_TRAIT_SEC_INVULNERABLE_3,{Holographic Components}
+FLEET_TRAIT_SEC_SALVAGE_1,{Bounty Scanner}
+FLEET_TRAIT_SEC_SALVAGE_2,{Salvage Drones}
+FLEET_TRAIT_SEC_SALVAGE_3,{Debris Recovery Drones}
+FLEET_TRAIT_SEC_SALVAGE_4,{Deployable Mercenaries}
+FLEET_TRAIT_SEC_SALVAGE_5,{Reactor Byproduct Harvester}
+FLEET_TRAIT_NEG_EXPLORE_1,{Wandering Compass}
+FLEET_TRAIT_NEG_EXPLORE_2,{Outdated Maps}
+FLEET_TRAIT_NEG_EXPLORE_3,{Uncalibrated Warp Drive}
+FLEET_TRAIT_NEG_EXPLORE_4,{Misaligned Sensors}
+FLEET_TRAIT_NEG_EXPLORE_5,{Haunted Radar}
+FLEET_TRAIT_NEG_COMBAT_1,{Cowardly Gunners}
+FLEET_TRAIT_NEG_COMBAT_2,{Second-Hand Rockets}
+FLEET_TRAIT_NEG_COMBAT_3,{Faulty Torpedoes}
+FLEET_TRAIT_NEG_COMBAT_4,{Fragile Hull}
+FLEET_TRAIT_NEG_COMBAT_5,{Low-Energy Shields}
+FLEET_TRAIT_NEG_TRADING_1,{Rude Captain}
+FLEET_TRAIT_NEG_TRADING_2,{Small Hold}
+FLEET_TRAIT_NEG_TRADING_3,{Roach Infestation}
+FLEET_TRAIT_NEG_TRADING_4,{Thief On Board}
+FLEET_TRAIT_NEG_TRADING_5,{Badly Painted}
+FLEET_TRAIT_NEG_MINING_1,{Lazy Crew}
+FLEET_TRAIT_NEG_MINING_2,{Small Hoppers}
+FLEET_TRAIT_NEG_MINING_3,{Clumsy Drill Operator}
+FLEET_TRAIT_NEG_MINING_4,{Underpowered Lasers}
+FLEET_TRAIT_NEG_MINING_5,{Malfunctioning Drones}
+FLEET_TRAIT_NEG_FUEL_1,{Thirsty Crew}
+FLEET_TRAIT_NEG_FUEL_2,{Inefficient Engine}
+FLEET_TRAIT_NEG_FUEL_3,{Leaky Fuel Tubes}
+FLEET_TRAIT_NEG_FUEL_4,{Poorly-Aligned Ballast}
+FLEET_TRAIT_NEG_FUEL_5,{Oil Burner}
+FLEET_DAMAGED_PART_1,{Overheated Gasket}
+FLEET_DAMAGED_PART_2,{Reactor Containment Failure}
+FLEET_DAMAGED_PART_3,{Hull Breach}
+FLEET_DAMAGED_PART_4,{Tank Infestation}
+FLEET_DAMAGED_PART_5,{Clogged Sump}
+FLEET_DAMAGED_PART_6,{Wiring Loom Failure}
+FLEET_DAMAGED_PART_7,{Persistent Fires}
+FLEET_DAMAGED_PART_8,{Radiation Leak}
+FLEET_DAMAGED_PART_9,{Gimbal Locked}
+FLEET_DAMAGED_PART_10,{Reactor Temperature Critical}
+FLEET_DAMAGED_PART_11,{Jammed Gun Turrets}
+FLEET_DAMAGED_PART_12,{Oxygen Generator Offline}
+FLEET_DAMAGED_PART_13,{Badly Cracked Antennae}
+FLEET_DAMAGED_PART_14,{Leaky Compartments}
+FLEET_DAMAGED_PART_15,{Fractured Pressure Doors}
+FLEET_DAMAGED_PART_16,{Ship Computer Gone Rogue}
+FLEET_DAMAGED_PART_17,{Gravitational Compressor Failure}
+FLEET_DAMAGED_PART_18,{Tubes Full Of Rats}
+FLEET_DAMAGED_PART_19,{Targeting Computer Offline}
+FLEET_DAMAGED_PART_20,{Life Support Short Circuit}
+FLEET_DAMAGED_PART_21,{Sublight Engine Failure}
+FLEET_DAMAGED_PART_22,{Shield Generator Offline}
+FLEET_DAMAGED_PART_23,{Internal Pressure Breach}
+FLEET_DAMAGED_PART_24,{Fractured Piping}
+FLEET_DAMAGED_PART_25,{Valve Sealant Failure}
+FLEET_DAMAGED_PART_26,{Excess Steam}
+FLEET_DAMAGED_PART_27,{Ventilation Catastrophe}
+FLEET_DAMAGED_PART_28,{Beam Corrosion}
+FLEET_DAMAGED_PART_29,{1202 Program Alarm}
+FLEET_DAMAGED_PART_30,{Boiler Leak}
+FLEET_DAMAGED_PART_31,{Micro-meteor Impacts}
+FLEET_DAMAGED_PART_32,{Hull Fractured}
+FLEET_DAMAGED_PART_33,{Total Pneumatic Failure}
+FLEET_DAMAGED_PART_34,{Radar Malfunction}
+FLEET_DAMAGED_PART_35,{Comms Link Down}
+FLEET_DAMAGED_PART_36,{Superconductor Overheated}
+FLEET_DAMAGED_PART_37,{Burred Gears}
+FLEET_DAMAGED_PART_38,{Sheared Crankshaft}
+FLEET_DAMAGED_PART_39,{Driveshaft Explosion}
+FLEET_DAMAGED_PART_40,{Lubricant Leak}
+FLEET_DAMAGED_PART_41,{Destabilised Bearings}
+FLEET_DAMAGED_PART_42,{Laser Ignition Failure}
+FLEET_DAMAGED_PART_43,{Autopilot Disengaged}
+FLEET_DAMAGED_PART_44,{Ruptured Valves}
+FLEET_DAMAGED_PART_45,{Jammed Sprockets}
+FLEET_DAMAGED_PART_46,{Coolant Leak}
+FLEET_DAMAGED_PART_47,{Fuel Pump Failure}
+FLEET_DAMAGED_PART_48,{Ammo Feed Damaged}
+FLEET_DAMAGED_PART_49,{Crew Compartments Depressurised}
+FLEET_DAMAGED_PART_50,{Atmosphere Contaminated}
+FLEET_DAMAGED_PART_51,{Shattered Beacon}
+FLEET_DAMAGED_PART_52,{Faulty Transmitters}
+FLEET_DAMAGED_PART_53,{Localisation Signal Failure}
+FLEET_DAMAGED_PART_54,{Slowly Decompressing}
+FLEET_DAMAGED_PART_55,{Criticality Event}
+FLEET_DAMAGE_STATUS,{Damage Report: %PART%}
+FRIGATE_NAME_FORMAT_1,{%CODE%-%NUMBER% %PROCNAME%}
+FRIGATE_NAME_FORMAT_2,{%CODE% The %NOUN% of %PROPERTY%}
+FRIGATE_NAME_FORMAT_3,{%CODE%-%NUMBER% The %PROCNAME% %VERB%}
+FRIGATE_NAME_FORMAT_4,{%CODE% %NOUN% of the %PROCNAME%}
+FRIGATE_NAME_FORMAT_5,{%CODE%-%NUMBER% %PROCNAME%'s %NOUN%}
+FRIGATE_NAME_FORMAT_6,{%CODE%-%NUMBER% %PROCNAME%'s %POSSESSION%}
+FRIGATE_NAME_FORMAT_7,{%CODE%-%NUMBER% %PROCNAME%}
+FRIGATE_NAME_FORMAT_8,{%CODE%-%NUMBER% %PROCNAME%'s %POSSESSION%}
+NAMEGEN_FRIGATE_CODE_1,{MV}
+NAMEGEN_FRIGATE_CODE_2,{MS}
+NAMEGEN_FRIGATE_CODE_3,{SS}
+NAMEGEN_FRIGATE_CODE_4,{CV}
+NAMEGEN_FRIGATE_CODE_5,{DSV}
+NAMEGEN_FRIGATE_CODE_6,{DSE}
+NAMEGEN_FRIGATE_CODE_7,{SV}
+NAMEGEN_FRIGATE_CODE_8,{CS}
+NAMEGEN_FRIGATE_CODE_9,{DS}
+NAMEGEN_FRIGATE_CODE_10,{EV}
+FLEET_MOOD_GOOD_1,{Cheerful}
+FLEET_MOOD_GOOD_2,{Bloodthirsty}
+FLEET_MOOD_GOOD_3,{Nonchalant}
+FLEET_MOOD_GOOD_4,{Upbeat}
+FLEET_MOOD_GOOD_5,{Chipper}
+FLEET_MOOD_GOOD_6,{Enthusiastic}
+FLEET_MOOD_GOOD_7,{Refreshed}
+FLEET_MOOD_GOOD_8,{Obedient}
+FLEET_MOOD_GOOD_9,{Industrious}
+FLEET_MOOD_GOOD_10,{Motivated}
+FLEET_MOOD_GOOD_11,{Happy}
+FLEET_MOOD_GOOD_12,{Ambitious}
+FLEET_MOOD_GOOD_13,{Satisfied}
+FLEET_MOOD_GOOD_14,{Hungry}
+FLEET_MOOD_GOOD_15,{Obsessive}
+FLEET_MOOD_GOOD_16,{Tight}
+FLEET_MOOD_GOOD_17,{Rowdy}
+FLEET_MOOD_GOOD_18,{Rambunctious}
+FLEET_MOOD_GOOD_19,{Playful}
+FLEET_MOOD_GOOD_20,{Jolly}
+FLEET_MOOD_GOOD_21,{Aggressive}
+FLEET_MOOD_GOOD_22,{Content}
+FLEET_MOOD_GOOD_23,{Delighted}
+FLEET_MOOD_GOOD_24,{Uncomplaining}
+FLEET_MOOD_GOOD_25,{Lively}
+FLEET_MOOD_GOOD_26,{Peaceful}
+FLEET_MOOD_GOOD_27,{Serene}
+FLEET_MOOD_GOOD_28,{Entranced}
+FLEET_MOOD_GOOD_29,{At Peace}
+FLEET_MOOD_GOOD_30,{Grateful}
+FLEET_MOOD_GOOD_31,{Bubbly}
+FLEET_MOOD_GOOD_32,{Sanguine}
+FLEET_MOOD_GOOD_33,{Buoyant}
+FLEET_MOOD_GOOD_34,{Relaxed}
+FLEET_MOOD_GOOD_35,{Relieved}
+FLEET_MOOD_GOOD_36,{Determined}
+FLEET_MOOD_GOOD_37,{Resourceful}
+FLEET_MOOD_GOOD_38,{Eager}
+FLEET_MOOD_GOOD_39,{Energetic}
+FLEET_MOOD_GOOD_40,{Zealous}
+FLEET_MOOD_GOOD_41,{Fanatical}
+FLEET_MOOD_GOOD_42,{Passionate}
+FLEET_MOOD_GOOD_43,{Dedicated}
+FLEET_MOOD_GOOD_44,{Gung-ho}
+FLEET_MOOD_GOOD_45,{Fired Up}
+FLEET_MOOD_GOOD_46,{Daring}
+FLEET_MOOD_GOOD_47,{Bold}
+FLEET_MOOD_GOOD_48,{Bustling}
+FLEET_MOOD_GOOD_49,{Dynamic}
+FLEET_MOOD_GOOD_50,{Enterprising}
+FLEET_MOOD_GOOD_51,{Militant}
+FLEET_MOOD_GOOD_52,{Battle-Hardened}
+FLEET_MOOD_GOOD_53,{Hopeful}
+FLEET_MOOD_GOOD_54,{Deferential}
+FLEET_MOOD_GOOD_55,{Faithful}
+FLEET_MOOD_GOOD_56,{Docile}
+FLEET_MOOD_GOOD_57,{Compliant}
+FLEET_MOOD_GOOD_58,{Attentive}
+FLEET_MOOD_GOOD_59,{Reverential}
+FLEET_MOOD_GOOD_60,{Loyal}
+FLEET_MOOD_GOOD_61,{Strong Willed}
+FLEET_MOOD_GOOD_62,{Harmonious}
+FLEET_MOOD_GOOD_63,{Well-Drilled}
+FLEET_MOOD_GOOD_64,{Dutiful}
+FLEET_MOOD_GOOD_65,{Well-Behaved}
+FLEET_MOOD_GOOD_66,{Changeable}
+FLEET_MOOD_GOOD_67,{Exemplary}
+FLEET_MOOD_GOOD_68,{Incorruptible}
+FLEET_MOOD_GOOD_69,{Impulsive}
+FLEET_MOOD_GOOD_70,{Pragmatic}
+FLEET_MOOD_GOOD_71,{Aloof}
+FLEET_MOOD_GOOD_72,{Snooty}
+FLEET_MOOD_GOOD_73,{Mellow}
+FLEET_MOOD_GOOD_74,{Unflappable}
+FLEET_MOOD_GOOD_75,{Intense}
+FLEET_MOOD_GOOD_76,{Jumpy}
+FLEET_MOOD_GOOD_77,{Thoughtful}
+FLEET_MOOD_GOOD_78,{Kind}
+FLEET_MOOD_GOOD_79,{Poetic}
+FLEET_MOOD_GOOD_80,{Agreeable}
+FLEET_MOOD_GOOD_81,{Genial}
+FLEET_MOOD_GOOD_82,{Wonderful}
+FLEET_MOOD_GOOD_83,{Top-Notch}
+FLEET_MOOD_GOOD_84,{Helpful}
+FLEET_MOOD_GOOD_85,{Welcoming}
+FLEET_MOOD_GOOD_86,{Snobbish}
+FLEET_MOOD_GOOD_87,{Fussy}
+FLEET_MOOD_GOOD_88,{Ready for Action}
+FLEET_MOOD_BAD_1,{Resentful}
+FLEET_MOOD_BAD_2,{Grumpy}
+FLEET_MOOD_BAD_3,{Workshy}
+FLEET_MOOD_BAD_4,{Melancholy}
+FLEET_MOOD_BAD_5,{Tired}
+FLEET_MOOD_BAD_6,{Complacent}
+FLEET_MOOD_BAD_7,{Malcontented}
+FLEET_MOOD_BAD_8,{Anxious}
+FLEET_MOOD_BAD_9,{On Edge}
+FLEET_MOOD_BAD_10,{Nervous}
+FLEET_MOOD_BAD_11,{Indifferent}
+FLEET_MOOD_BAD_12,{Contrary}
+FLEET_MOOD_BAD_13,{Argumentative}
+FLEET_MOOD_BAD_14,{Obstinate}
+FLEET_MOOD_BAD_15,{Incorrigible}
+FLEET_MOOD_BAD_16,{Roguish}
+FLEET_MOOD_BAD_17,{Wild}
+FLEET_MOOD_BAD_18,{Turbulent}
+FLEET_MOOD_BAD_19,{Radical}
+FLEET_MOOD_BAD_20,{Quarrelsome}
+FLEET_MOOD_BAD_21,{Sinful}
+FLEET_MOOD_BAD_22,{Lewd}
+FLEET_MOOD_BAD_23,{Improper}
+FLEET_MOOD_BAD_24,{Wanton}
+FLEET_MOOD_BAD_25,{Insouciant}
+FLEET_MOOD_BAD_26,{Bitter}
+FLEET_MOOD_BAD_27,{Fiery}
+FLEET_MOOD_BAD_28,{Dull}
+FLEET_MOOD_BAD_29,{Sarcastic}
+FLEET_MOOD_BAD_30,{Ticklish}
+FLEET_MOOD_BAD_31,{Homesick}
+FLEET_MOOD_BAD_32,{Put Out}
+FLEET_SHIP_NOTE_1,{Attractive Crew}
+FLEET_SHIP_NOTE_2,{No Escape Pods}
+FLEET_SHIP_NOTE_3,{Haunted Cargo Bay}
+FLEET_SHIP_NOTE_4,{Devoted to the Captain}
+FLEET_SHIP_NOTE_5,{Vy'keen Officers}
+FLEET_SHIP_NOTE_6,{Gek Crew}
+FLEET_SHIP_NOTE_7,{Korvax Crew}
+FLEET_SHIP_NOTE_8,{Drinking Culture}
+FLEET_SHIP_NOTE_9,{Definitely No Stowaways}
+FLEET_SHIP_NOTE_10,{History of Accidents}
+FLEET_SHIP_NOTE_11,{Antique Control Modules}
+FLEET_SHIP_NOTE_12,{Wood Panelling}
+FLEET_SHIP_NOTE_13,{Recently Refurbished}
+FLEET_SHIP_NOTE_14,{AI Co-Pilot}
+FLEET_SHIP_NOTE_15,{Friendly Supercomputer Installed}
+FLEET_SHIP_NOTE_16,{Rat Problem}
+FLEET_SHIP_NOTE_17,{Spider Infested}
+FLEET_SHIP_NOTE_18,{Pleasant Colour Scheme}
+FLEET_SHIP_NOTE_19,{Highly Maneuverable}
+FLEET_SHIP_NOTE_20,{Unusual Engines}
+FLEET_SHIP_NOTE_21,{Robot Engineers}
+FLEET_SHIP_NOTE_22,{Drone Security Force}
+FLEET_SHIP_NOTE_23,{Musical Resonance}
+FLEET_SHIP_NOTE_24,{Persistent Vibrations}
+FLEET_SHIP_NOTE_25,{Retrofitted Weapons}
+FLEET_SHIP_NOTE_26,{Well Polished}
+FLEET_SHIP_NOTE_27,{Crewed by Ghosts}
+FLEET_SHIP_NOTE_28,{Autonomous Vessel}
+FLEET_SHIP_NOTE_29,{Large Galley}
+FLEET_SHIP_NOTE_30,{Valuable as Scrap}
+FLEET_SHIP_NOTE_31,{Well-Maintained}
+FLEET_SHIP_NOTE_32,{No Medical Bay}
+FLEET_SHIP_NOTE_33,{Bespoke Piping}
+FLEET_SHIP_NOTE_34,{Custom-Built Reactor}
+FLEET_SHIP_NOTE_35,{Biofuel Power Plant}
+FLEET_SHIP_NOTE_36,{Poorly Lit Internal Compartments}
+FLEET_SHIP_NOTE_37,{Luxurious Crew Quarters}
+FLEET_SHIP_NOTE_38,{Far From Home}
+FLEET_SHIP_NOTE_39,{Sturdily Constructed}
+FLEET_SHIP_NOTE_40,{Unregistered}
+FLEET_SHIP_NOTE_41,{Former Smuggling Vessel}
+FLEET_SHIP_NOTE_42,{Pure Oxygen Atmosphere}
+FLEET_SHIP_NOTE_43,{Internal Mood Lighting}
+FLEET_SHIP_NOTE_44,{Cramped Bridge}
+FLEET_SHIP_NOTE_45,{Engine Runs Hot}
+FLEET_SHIP_NOTE_46,{Well-Stocked Library}
+FLEET_SHIP_NOTE_47,{Atypical Construction}
+FLEET_SHIP_NOTE_48,{Onboard Microclimate}
+FLEET_SHIP_NOTE_49,{Booby Traps}
+FLEET_SHIP_NOTE_50,{Weather Resistant}
+FLEET_SHIP_NOTE_51,{Leaky}
+FLEET_SHIP_NOTE_52,{Rattling Pipes}
+FLEET_SHIP_NOTE_53,{Waterproof}
+FLEET_SHIP_NOTE_54,{Unlucky}
+FLEET_SHIP_NOTE_55,{Deck 16 is Missing}
+FLEET_SHIP_NOTE_56,{Symmetrical Layout}
+FLEET_SHIP_NOTE_57,{Onboard Creature Habitat}
+FLEET_SHIP_NOTE_58,{Experimental Oxygen Farm}
+FLEET_SHIP_NOTE_59,{Crew are Permitted Pets}
+FLEET_SHIP_NOTE_60,{Wanted in Several Systems}
+FLEET_SHIP_NOTE_61,{Former Captain Still Lives Onboard}
+FLEET_SHIP_NOTE_62,{Fashionably Sculpted Engines}
+FLEET_SHIP_NOTE_63,{Pleasing Wall Art}
+FLEET_SHIP_NOTE_64,{Seed Vault Onboard}
+FLEET_SHIP_NOTE_65,{Few Crew Amenities}
+FLEET_SHIP_NOTE_66,{No Recreation Deck}
+FLEET_SHIP_NOTE_67,{Captain has Personal Chef}
+FLEET_SHIP_NOTE_68,{Additional Atmospheric Stablisers}
+FLEET_SHIP_NOTE_69,{Lush Biodomes}
+FLEET_SHIP_NOTE_70,{All Food Grown Onboard}
+FLEET_SHIP_NOTE_71,{Onboard Aquarium}
+FLEET_SHIP_NOTE_72,{Onboard Botanic Garden}
+FLEET_SHIP_NOTE_73,{Unusually Capacious Hold}
+FLEET_SHIP_NOTE_74,{Genetics Lab Onboard}
+FLEET_SHIP_NOTE_75,{Crew Grown in Sacs}
+FLEET_SHIP_NOTE_76,{Animals Tolerated}
+FLEET_SHIP_NOTE_77,{Captain Scared of Heights}
+FLEET_SHIP_NOTE_78,{Lax Dress Code}
+FLEET_SHIP_NOTE_79,{Low Crew Turnover}
+FLEET_SHIP_NOTE_80,{Excellent Rations}
+FLEET_SHIP_NOTE_81,{Sensitive Handling}
+FLEET_SHIP_NOTE_82,{Sensors Malfunction During Warp}
+FLEET_SHIP_NOTE_83,{No Fly-By-Wire Installed}
+FLEET_SHIP_NOTE_84,{Intruder Alarms Disabled}
+FLEET_SHIP_NOTE_85,{Reactor Overheats}
+FLEET_SHIP_NOTE_86,{Faintly Radioactive}
+FLEET_SHIP_NOTE_87,{Ownership History Missing}
+FLEET_SHIP_NOTE_88,{Missile Defense System}
+FLEET_SHIP_NOTE_89,{Several Backup Compasses}
+FLEET_SHIP_NOTE_90,{Frequent Gyroscope Malfunctions}
+FLEET_SHIP_NOTE_91,{Particularly Beautiful}
+FLEET_SHIP_NOTE_92,{Engines Rattle}
+FLEET_SHIP_NOTE_93,{Invisible to Radar}
+FLEET_SHIP_NOTE_94,{Safety Systems Disabled}
+FLEET_SHIP_NOTE_95,{Captain Distrusts Crew}
+FLEET_SHIP_NOTE_96,{Crew Distrusts Ship's Computer}
+FLEET_SHIP_NOTE_97,{Crew Families Live Onboard}
+FLEET_SHIP_NOTE_98,{Unionised Crew}
+FLEET_SHIP_NOTE_99,{Captain Nearing Retirement}
+FLEET_SHIP_NOTE_100,{First Officer Hates Robots}
+FLEET_TOTAL_DESTRUCTION,{<FUEL>No log present.<> Presume total catastrophic fleet loss.}
+FLEET_RETURNED_HOME,{Returned home to the fleet. Assumed formation at capital ship. Awaiting debrief.}
+FLEET_COMBAT_GENERIC_1,{Patrolled %SYSTEM% System. Hunted and destroyed %RACE% smugglers. Bounty collected from local station.}
+FLEET_COMBAT_GENERIC_2,{Forcibly removed pirates from base on planet %PLANET%. Vault contents confiscated. Bounty claimed from %RACE% authorities.}
+FLEET_COMBAT_GENERIC_3,{Encountered pirate fleet in %SYSTEM% System. Destroyed %NUM% enemy vessels. Remaining hostiles fled.}
+FLEET_COMBAT_GENERIC_4,{Entered %SYSTEM% Sector. Battled smugglers in the atmosphere of planet %PLANET%. All hostiles destroyed.}
+FLEET_COMBAT_GENERIC_5,{Rounded up %RACE% smugglers on planet %PLANET%. Seized %NUM%0 tonnes of contraband.}
+FLEET_COMBAT_GENERIC_6,{Patrolled %SYSTEM% System. Conflict level: high. Bounties claimed: %NUM%.}
+FLEET_COMBAT_GENERIC_7,"{Assisted %RACE% authorities in dispute with neighbouring system. Situation resolved, minor casualties.}"
+FLEET_MINING_GENERIC_1,{Focussed orbital mining lasers on planet %PLANET%. Minerals refined at %NUM%% efficiency.}
+FLEET_MINING_GENERIC_2,{Collected cave minerals from planet %PLANET%. Analysis suggests rare metal content at least %NUM%%.}
+FLEET_MINING_GENERIC_3,{Mined valuable minerals from asteroid belt in %SYSTEM% Sector. Commercial metal content at %NUM%%.}
+FLEET_MINING_GENERIC_4,{Deployed matter dredge in %SYSTEM% System. Harvested %NUM%0 tonnes of usable stellar matter.}
+FLEET_MINING_GENERIC_5,{Deployed mining crew to planet %PLANET%. Extracted %NUM%00 tonnes of valuable ore.}
+FLEET_MINING_GENERIC_6,{Low Gravity Mining Crew processed %NUM% metal-dense asteroids in %SYSTEM% System. Operation successful.}
+FLEET_MINING_GENERIC_7,{Deep-level mining teams extracted %NUM%000 tonnes liquid metal from core of planet %PLANET%. Commercial processing successful.}
+FLEET_TRADING_GENERIC_1,{Traded goods between planets in the %SYSTEM% System. Profit margin: 1%NUM%%.}
+FLEET_TRADING_GENERIC_2,{Purchased cheap goods during surplus in %SYSTEM%. Sold on at a profit of 1%NUM%% on %PLANET%. }
+FLEET_TRADING_GENERIC_3,{Successful trade. Sold in-demand goods on planet %PLANET%. Markup: 2%NUM%%.}
+FLEET_TRADING_GENERIC_4,{Took advantage of currency fluctuations in %SYSTEM%. Profit ratio high at 3%NUM%%.}
